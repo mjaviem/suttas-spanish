@@ -8,16 +8,16 @@
       <tuv lang="pi">
         <seg>Aggisādhāraṇā bhogā, udakasādhāraṇā bhogā, rājasādhāraṇā bhogā, corasādhāraṇā bhogā, appiyehi dāyādehi sādhāraṇā bhogā.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20250821T222337Z" creationid="javier" creationdate="20231129T132815Z">
-        <seg>La riqueza está expuesta al fuego, la riqueza está expuesta al agua, la riqueza está expuesta a los reyes, la riqueza está expuesta a los ladrones, la riqueza está expuesta a los herederos despreciables.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250822T230427Z" creationid="mjaviem" creationdate="20250822T230427Z">
+        <seg>[fuzzy]La riqueza está expuesta al fuego, la riqueza está expuesta al agua, la riqueza está expuesta a los reyes, la riqueza está expuesta a los ladrones, la riqueza está expuesta a los herederos despreciables.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pi">
         <seg>Bhoge nissāya attānaṁ sukheti pīṇeti sammā sukhaṁ pariharati, mātāpitaro sukheti pīṇeti sammā sukhaṁ pariharati, puttadāradāsakammakaraporise sukheti pīṇeti sammā sukhaṁ pariharati, mittāmacce sukheti pīṇeti sammā sukhaṁ pariharati, samaṇabrāhmaṇesu uddhaggikaṁ dakkhiṇaṁ patiṭṭhāpeti sovaggikaṁ sukhavipākaṁ saggasaṁvattanikaṁ.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20250821T222302Z" creationid="javier" creationdate="20231129T133118Z">
-        <seg>Por cuenta de la riqueza, uno se satisface y se complace y se mantiene en satisfacción cabal; uno satisface y complace a su madre y padre y los mantiene en satisfacción cabal; uno satisface y complace a sus hijos, esposa, esclavos, trabajadores y sirvientes y los mantiene en satisfacción cabal; uno satisface y complace a sus amigos y compañeros y los mantiene en satisfacción cabal; uno establece para los hombres santos y brahmanes una ofrenda edificante de limosna que es propicia, que resulta en satisfacción y que conduce al paraíso.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250822T230441Z" creationid="mjaviem" creationdate="20250822T230441Z">
+        <seg>[fuzzy]Por cuenta de la riqueza, uno se satisface y se complace y se mantiene en satisfacción cabal; uno satisface y complace a su madre y padre y los mantiene en satisfacción cabal; uno satisface y complace a sus hijos, esposa, esclavos, trabajadores y sirvientes y los mantiene en satisfacción cabal; uno satisface y complace a sus amigos y compañeros y los mantiene en satisfacción cabal; uno establece para los hombres santos y brahmanes una ofrenda edificante de limosna que es propicia, que resulta en satisfacción y que conduce al paraíso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -32,16 +32,8 @@
       <tuv lang="pi">
         <seg>Ime kho, bhikkhave, pañca ādīnavā bhogesu.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20250821T222316Z" creationid="javier" creationdate="20231129T132909Z">
-        <seg>Bhikkhus, ciertamente existen estos cinco inconvenientes de la riqueza.</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="pi">
-        <seg>Ime kho, bhikkhave, pañca ānisaṁsā bhogesū”ti.</seg>
-      </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20250821T222249Z" creationid="mjaviem" creationdate="20250821T222249Z">
-        <seg>Bhikkhus, ciertamente existen estos cinco beneficios de la riqueza".</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250822T230431Z" creationid="mjaviem" creationdate="20250822T230431Z">
+        <seg>[fuzzy]Bhikkhus, ciertamente existen estos cinco inconvenientes de la riqueza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -56,16 +48,16 @@
       <tuv lang="pi">
         <seg>Katame pañca?</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20250821T222323Z" creationid="javier" creationdate="20231129T132710Z">
-        <seg>¿Cuáles cinco?</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250822T230422Z" creationid="mjaviem" creationdate="20250822T230422Z">
+        <seg>[fuzzy]¿Cuáles cinco?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pi">
         <seg>Pañcime, bhikkhave, ānisaṁsā bhogesu.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20250821T222227Z" creationid="mjaviem" creationdate="20250821T222227Z">
-        <seg>Bhikkhus, existen estos cinco beneficios de la riqueza.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250822T230435Z" creationid="mjaviem" creationdate="20250822T230435Z">
+        <seg>[fuzzy]Bhikkhus, existen estos cinco beneficios de la riqueza.</seg>
       </tuv>
     </tu>
     <tu>
@@ -88,8 +80,8 @@
       <tuv lang="pi">
         <seg>“Pañcime, bhikkhave, ādīnavā bhogesu.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20250821T222138Z" creationid="mjaviem" creationdate="20250821T222121Z">
-        <seg>"Bhikkhus, existen estos cinco inconvenientes de la riqueza.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250822T230418Z" creationid="mjaviem" creationdate="20250822T230418Z">
+        <seg>[fuzzy]"Bhikkhus, existen estos cinco inconvenientes de la riqueza.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
