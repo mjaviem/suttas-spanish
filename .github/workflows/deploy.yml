@@ -20,9 +20,12 @@ jobs:
         git config user.name "GitHub Actions"
         git config user.email "actions@users.noreply.github.com"
 
-    - name: Sync target to docs
+    - name: Prepare docs directory
       run: |
-        # Clean docs folder (keep index.md if exists)
+        # Create docs directory if it doesn't exist
+        mkdir -p docs
+
+        # Clean docs directory but preserve existing index.md if present
         if [ -f docs/index.md ]; then
           mv docs/index.md docs_index.md.bak
         fi
@@ -31,21 +34,33 @@ jobs:
           mv docs_index.md.bak docs/index.md
         fi
 
-        # Copy content from target to docs
-        if [ -d omegat-project/target ]; then
-          cp -r omegat-project/target/* docs/
+    - name: Copy translations to docs
+      run: |
+        # Copy files from target to docs if they exist
+        if [ -d "target" ] && [ -n "$(ls -A target 2>/dev/null)" ]; then
+          echo "Copying files from target to docs..."
+          cp -r target/* docs/
+        else
+          echo "No files found in target/"
         fi
 
+    - name: Ensure index.md exists
+      run: |
         # Ensure there's at least one file in docs
-        if [ ! -f docs/index.md ]; then
-          echo "# Bienvenido" > docs/index.md
-          echo "Este es el sitio de traducción de Suttas." >> docs/index.md
+        if [ ! -f docs/index.md ] && [ -z "$(ls -A docs 2>/dev/null)" ]; then
+          echo "# Traducciones de Suttas Pali" > docs/index.md
+          echo "Bienvenido al proyecto de traducción." >> docs/index.md
+          echo "No hay traducciones publicadas todavía." >> docs/index.md
         fi
 
     - name: Convert TXT to MD
       run: |
-        # Convert all .txt to .md
-        find docs/ -name "*.txt" -exec bash -c 'mv "$1" "${1%.txt}.md"' _ {} \;
+        # Convert all .txt files to .md
+        if ls docs/*.txt 1> /dev/null 2>&1; then
+          for file in docs/*.txt; do
+            mv "$file" "${file%.txt}.md"
+          done
+        fi
 
     - name: Setup Python
       uses: actions/setup-python@v4
