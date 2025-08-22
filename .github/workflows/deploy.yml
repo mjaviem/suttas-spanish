@@ -41,7 +41,7 @@ jobs:
         fi
 
         # Ensure there's at least index.md
-        if [ ! -f docs/index.md ] && [ -z "$(ls -A docs 2>/dev/null)" ]; then
+        if [ ! -f docs/index.md ]; then
           echo "# Traducciones de Suttas Pali" > docs/index.md
           echo "Bienvenido al proyecto de traducción." >> docs/index.md
           echo "No hay traducciones publicadas todavía." >> docs/index.md
