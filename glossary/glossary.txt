@@ -1,0 +1,479 @@
+# Glossary in tab-separated format -*- coding: utf-8 -*-
+ābādhāya	aflicción
+ābādhikaṁ	afligida
+abhijjhā	codicia
+abhijjhālu	codicioso
+abhinandati	aprueba
+abhinandiṁsu	aprobaron
+abhinandunti	aprobaron
+abhinibbatti	génesis
+abhiññā	tomar conciencia
+abhiññāya	toma de conciencia
+abhiññāya	tomar conciencia
+abhirati	contentamiento
+abhisamparāyaṁ	ulteriores
+abhivadati	acoge
+abrahmacariyā	conducta no espiritual
+abyā pāda	inocuidad
+abyābajjha	inocuidad
+abyābajjhā	daños
+abyābajjhaṁyeva	inocuidad
+abyāpajjaṁ	inofensivo
+adhigacchati	halla
+adhigamanīyāni	hallar
+adhigato	hallada
+adhimuccati	prefiere
+adhippayāso	divergencia
+ādīnavā	inconveniente
+ādīnavañca	inconveniente
+ādīnavato	inconveniente
+ādīnavo	inconveniente
+adinnādānā	tomar lo que no es dado
+adukkhamasukhampi	ni satisfacción ni dificultad
+ajeyyo	imbatible
+ājīvaṁ	medio de vida
+ajjhosāya	aferrado
+akāliko	inmediato
+akāliko	sin demora
+ākāsaṁ	cielo
+akusalā	que no hacen bien
+akusalānaṁ	que no hacen bien
+akusale	que no hacen bien
+akusalehi	que no hacen bien
+āloko	luz
+āmisa	mundano
+anabhinanditvā	sin aprobar
+anabhirati	descontento
+anāgāmī	el que no retorna
+anaññathāni	inequívocas
+anāsavā	sin secreciones
+anattā	no uno mismo
+aniccā	falibles
+aniccaṁ	falible
+animitto	sin signo
+ānisaṁsā	beneficios
+ānisaṁsāti	beneficios
+antaradhānaṁ	desvanecimiento
+anukampantā	compasión
+anumoditvā	alabó
+aññathābhāvī	ambigua, equívoca
+aparisesā	sin remanente
+apāyaṁ	penuria
+appiyā	despreciables
+ariya	noble
+ariyasāvako	discípulo noble
+ariyo aṭṭhaṅgiko maggo	Camino Óctuple Noble
+asaddhammā	mal Dhamma
+asaddhamme	mal Dhamma
+asaṁvarañca	desenfreno
+asaṁvaro	desenfreno
+āsava	secreciones
+assāda	gusto
+assādaṁ	gusto
+assādañca	gusto
+assādato	gusto
+assādo	gusto
+assāsapassāsā	respiración
+asubhā	lo asqueroso
+attā	uno mismo
+attabyābādhāyapi	dañarse a sí mismo
+attabyābādhāyapi	dañarse a uno mismo
+attamano	felicidad
+atthaṅgamā	repliegue
+atthaṅgamañca	repliegue
+atthaṅgamo	repliegue
+atthasaṁhitā	pertinentes
+atthi	existe
+avihiṁsā	no inhumanidad
+avijjā	desconocimiento
+avisayasmiṁ	alcance
+āvuso	amigos
+āyasmā	Venerable
+āyatana	campos
+āyatanānaṁ	campos
+āyu	vitalidad
+bahulīkatā	entrenaremos
+bahulīkato	entrena
+bhagavā	Dichoso
+Bhagavant	Dichoso
+Bhagavato	Dichoso
+bhante	reverendo
+bhava	advenimiento
+bhavā	advenimiento
+bhāvetabbā	cultivar
+bhavo	advenimiento
+bhāvito	cultiva
+bhayā	temor
+bhedā	desintegración
+bhedo	desintegración
+bhikkhave	bhikkhus
+bhogā	riqueza
+brahmacārayo	conducta espiritual
+brahmacariyaṁ	conducta espiritual
+brāhmaṇā	brahmanes
+buddhe	despierto, despertado
+byā pāda	malevolencia
+byāpādo	malevolencia
+byāpajjati	repudia
+byāpanna	dañino
+cāga	desprenderse
+cakkhu	ojo
+cariya	conducta
+cariyā	conducta
+cavanatā	tránsito
+cetanā	intención
+cetasā	ánimo
+cetasika	anímico, del ánimo
+cetaso	ánimo
+ceteti	estar dispuesto
+cetovimutti	liberación por el corazón
+chanda	deseo
+chandā	deseo
+chando	deseo
+cittaṁ	corazón
+cuti	partida
+dakkhiṇā	ofrenda
+dāna	regalar
+dāne	regalar
+desenti	enseñan
+dhammā	cuestiones
+dhammānaṁ	cuestiones
+dhamme	cuestiones
+dhammehi	cuestiones
+dhammo	cuestiones
+dhanā	tesoros
+dhanāni	tesoro
+dhuvaṁ	continua
+diṭṭhi	punto de vista
+domanassaṁ	disgusto
+dosā	odio
+duccarita	mala conducta
+duccaritaṁ	mala conducta
+duccarite	mala conducta
+duggatiṁ	desventura
+dukkaṭā	malos
+dukkhā	dificultad
+dukkhā	padecimiento
+dukkhakkhandho	montón de dificultad
+dukkhaṁ	dificultad
+dukkhaṁ	padecimiento
+dukkhampi	dificultad
+dukkhanirodhagāminī	que conduce a la supresión de la dificultad
+dukkhāpi	de dificultad
+dukkhitaṁ	padeciendo
+ehipassikaṁ	constatable
+ehipassiko	constatable
+gahapatayo	amos de casa
+gahapati	amo de casa
+gahapatīhi	amos de casa
+gahapatīpi	amos de casa
+gihi	quien tiene hogar
+hirī	avergonzarse
+hitāya	bienestar
+iṭṭhā	deseadas
+iṭṭhāya	deseado
+janeti	genera
+jarā	decaimiento
+jarāmaraṇaṁ	decaimiento-perecimiento
+jāti	procedencia
+jīvikaṁ	vida
+kālakiriyā	cumplimiento de tiempo
+kālaṁ karoti	cumple su tiempo
+kaḷevarassa	cadáver
+kāma	sensualidad
+kāmaguṇā	hebras de la sensualidad
+kāmaguṇe	hebras de la sensualidad
+kāmānaṁ	sensualidad
+kāmehi	sensualidad
+kāmesu	sensualidad
+kamma	actuación
+kammānaṁ	actos
+kantā	amenos
+kantāya	ameno
+kāya	cuerpo
+kāyagatā	lo referido al cuerpo
+kāyassa	lo corporal
+kāyena	con el cuerpo
+kāyika	lo corporal
+kāyo	cuerpo
+khandhānaṁ	montones
+khayo	destrucción
+khīṇā	acabado
+kilamati	agobiarse
+kilesa	mancilla
+kulaputtassa	hijo de buena familia
+kulaputto	hijo de buena familia
+kusale	que hacen bien
+kusalehi	que hacen bien
+labhati	conseguir
+lajjī	escrupuloso
+loko	mundo
+loko	mundo
+maccu	muerte
+mahapphalo	muy fructífera
+manāpā	gratas
+manāpāya	grato
+manāpo	grato
+manasā	interior
+manasi karoto	prestar atención
+manasikāro	el prestar atención
+mano	la mente/lo interior
+maraṇā	perecimiento
+maraṇaṁ	perecimiento
+maraṇampi	perecimiento
+medhāvī	inteligentes
+mettā	benevolencia amistosa
+micchā	equivocada
+mohā	autoengaño
+mohe	autoengaño
+musāvādā	decir falsedades
+nāmarūpaṁ	nombre-figura
+nānākaraṇaṁ	variación
+nandi	beneplácito
+nandī	beneplácito
+nekkhamma	ascetismo
+nekkhamma	ascetismo
+nibbānaṁ	disipación
+nibbānāya	disipación	nibbānāya
+nibbidāya	revulsión
+nibbindati	se hastía
+niccaṁ	estable
+nidāna	fundamento
+nikkhepo	abatimiento
+nirāmisāpi	espiritual
+nirayaṁ	desgracia
+nirodha	supresión
+nirodhāya	supresión
+nirodho	supresión
+nirujjhanti	se anulan
+nirupadhi	desligada de adquisiciones
+nissaraṇaṁ	escape
+nissaraṇan	escape
+nissaraṇañca	escape
+nissaraṇato	escape
+nivāsa	morada
+niyato	firme
+ñāṇākārāṇī	percatarse
+ñāṇaṁ	percatarse
+Ñāṇañca	percepción
+okkanti	descenso
+okkanto	ha entrado
+opaneyyikaṁ	accesible
+opaneyyiko	accesible
+opapātikā	generación espontánea
+ottappa	preocuparse
+pabbajita	quien partió
+pabhanguñca	frágil
+paccayo	requisito
+padahati	afrontar
+paduṭṭha	contaminadas
+paggaṇhāti	aplica
+pahānāya	abandonar
+pahātabbaṁ	abandonar
+pahātabbo	abandonar
+pahāya	abandonado
+pahīne	abandona
+pajānāti	entiende
+pāṇātipātā	quitar vidas
+panāvuso	amigos
+paṇḍito	sabio
+paññā	entender
+paññapeti	describe
+pāpakā	funestas
+pāpakānaṁ	funestas
+pāpako	funesta
+parabyābādhāyapi	hacerle daño a otro
+paraṁ	después
+paravittūpakaraṇaṁ	pertenencias de otros
+parāyaṇo	apoyado
+parāyaṇo	inclinado
+paribbājakā	peregrinos
+paribbājakānaṁ	peregrinos
+paribbājakehi	peregrinos
+paribbājako	peregrino
+parihānañhetaṁ	menguar
+parihāyāmi	menguan
+parikkhayāya	agotamiento
+parikkhīṇo	agotado
+pariññā	comprensión plena
+pariññāñca	comprensión plena
+pariññāya	comprensión plena
+pariññeyyaṁ	comprendida plenamente
+parivitakko	vacilación
+pasādena	optimismo
+paṭicca	sustentado
+paṭicca	sustentado
+paṭiccasamuppādaṁ	surgimiento sustentado
+paṭiccasamuppādo	surgimiento sustentado
+paṭikūlā	ser reacio
+paṭilābho	adquisición
+paṭipadā	dedicación
+paṭipadāya	dedicación
+paṭipannā	están dedicados
+paṭipanno	están dedicados
+paṭippassaddho	apaciguado
+paṭisaṁvedeti	experimenta
+paṭivirato	abstiene
+pātubhāvo	manifestación
+pavedeti	da a conocer
+phalaṁ	fruto
+pharusāya	dureza
+phasso	encuentro
+phoṭṭhabbā	tangibles
+pisuṇāya	malicia
+pīti	júbilo
+piyo	apreciable
+puggalā	individuos
+puññassa	mérito
+puthujjano	hombre común
+rāga	interés
+rāgā	interés
+rāgo	interés
+rajanīyā	seductoras
+ratto	apasionado
+rūpā	figura
+rūpaṁ	figura
+rūpānaṁ	figura
+ruppati	desfigurada
+sacchikātabbaṁ	darse cuenta
+sacchikatvā	darse cuenta
+saddhā	tener confianza
+saddhammā	buen Dhamma
+saddhamme	buen Dhamma
+saddho	confianza
+sādhu	buena
+saggasaṁvattaniko	conduce al paraíso
+sakadāgāmī	el que retorna una vez
+saḷāyatanaṁ	campos
+samādhi	compostura
+samādhijaṁ	compostura
+samannāgato	está dotado
+samaṇā	hombres santos
+samaṇo	santo, hombre santo
+samanupassāmi	contemplar
+samāpanno	ha emprendido
+samatho	calma
+sambhavanti	suceder
+sambodhāya	esclarecimiento
+sambodhi	esclarecimiento
+sammā	cabal
+sampajāna	a sabiendas
+sampajāno	a sabiendas
+sampannaṁ	perfecto
+samphappalāpā	charlatanería
+samudaya	fuente
+samudayañca	fuente
+samudayo	fuente
+samuppādo	surgimiento
+Saṁvarañca	autocontrol
+saṁvaro	autocontrol
+saṁvattanti	lleva a
+sandiṭṭhikaṁ	patente
+sandiṭṭhiko	patente
+saṅkappo	intención
+saṅkhārā	atribuciones
+saṅkhataṁ	atribuida
+sankhatamabhisaṅkharontīti	atribuye lo significado
+sañjāti	génesis
+saññā	distinción
+saññaṁ	distinción
+sappurisā	hombres de bien
+sāsava	con secreciones
+sāta	agrado
+sātaṁ	agrado
+sati	tener presente
+satiyā	tener presente
+sattā	seres
+sikkhāpadesu	preceptos
+sikkhitabbaṁ	adiestrarse
+sīla	comportarse
+sīvathikaṁ	campo de putrefacción
+sivathikāya	campo de putrefacción
+somanassa	gozo
+somanassaṁ	gozo
+sotāpanno	adentrado en la corriente
+sovaggiko	propicio
+sucarita	buena conducta
+sucarite	buena conducta
+sukata	buenos
+sukha	satisfacción
+sukhā	satisfacción
+sukhaṁ	satisfacción
+sukhampi	satisfacción
+sukhāpi	de satisfacción
+sukhāya	satisfacción
+sumano	radiante
+sumedhaso	inteligente
+suññato	vacío
+suta	saber
+svākkhāto	enseñado
+taṇhā	sed
+tathāni	reales
+ubhayabyābādhāyapi	hacerle daño a ambos
+udapādi	surgió
+upādāna	arraigo
+upādānaṁ	arraigo
+upadhi	adquisiciones
+upajāyatī	aparecen
+upapajjanti	reviven
+upapajjati	revive
+upapajjatī"ti	revive
+upapajjeyya	revivir
+upapajjissāmī	reviviré
+upāsake	seguidores laicos
+upasamāya	tranquilidad
+upāsikā	seguidora laica
+upekkhā	ecuanimidad
+uppajjati	surge
+vācāya	verbal
+vacī	verbal
+vāyāmo	esfuerzo
+vedanā	sensación
+vedanaṁ	sensación
+vedanāṁ	sensación
+vedanānaṁ	sensación
+vedanānaṁ	sensación
+vedeti	siente
+veditabbo	conocer
+veramaṇī	abstención
+vibhavataṇhā	desaparición
+vicāra	planificación
+viharati	reside
+vihiṁsā	inhumanidad
+vijjā	conocimiento
+vinaye	disciplina
+vineyya	domado
+vinipātaṁ	hundimiento
+viññāṇaṁ	reconocimiento
+viññū	entendidos
+vipāka	consecuencia
+vipāko	consecuencia
+viparibhinnāni	destrozado
+vipariṇāma	cambio
+vipariṇāmadhammā	cambiantes
+vipariṇāmī	cambiante
+vipassanā	discernimiento
+vippasannāni	establecidas
+virāgāya	desinterés
+visayo	ámbito
+viseso	diferencia
+vitakka	propósito
+vitakkavicārānaṁ	propósito y planificación
+vivekajaṁ	apartamiento
+vivicca	apartado
+vivicceva	apartado
+vosagga	donar
+vūpasamo	aquietamiento
+vūpasantā	amainado	vūpasantā
+vuṭṭhānaṁ	se termina
+yañño	ofrenda
+yathābhūtaṁ	en verdad
+yogo	consagrarse a
+yoniso	cuidadosa
+yonisomanasikāro	prestar cuidadosa atención
+
+Ime	Estos
+kho	ciertamente
+pīṇeti	complace
+sovaggikaṁ	propicia
+yadidaṁ	a saber
