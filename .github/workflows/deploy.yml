@@ -1,0 +1,66 @@
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+      with:
+        fetch-depth: 0
+
+    - name: Configure Git
+      run: |
+        git config user.name "GitHub Actions"
+        git config user.email "actions@users.noreply.github.com"
+
+    - name: Sync target to docs
+      run: |
+        # Clean docs folder (keep index.md if exists)
+        if [ -f docs/index.md ]; then
+          mv docs/index.md docs_index.md.bak
+        fi
+        rm -rf docs/*
+        if [ -f docs_index.md.bak ]; then
+          mv docs_index.md.bak docs/index.md
+        fi
+
+        # Copy content from target to docs
+        if [ -d omegat-project/target ]; then
+          cp -r omegat-project/target/* docs/
+        fi
+
+        # Ensure there's at least one file in docs
+        if [ ! -f docs/index.md ]; then
+          echo "# Bienvenido" > docs/index.md
+          echo "Este es el sitio de traducción de Suttas." >> docs/index.md
+        fi
+
+    - name: Convert TXT to MD
+      run: |
+        # Convert all .txt to .md
+        find docs/ -name "*.txt" -exec bash -c 'mv "$1" "${1%.txt}.md"' _ {} \;
+
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: 3.x
+
+    - name: Install dependencies
+      run: pip install mkdocs mkdocs-material
+
+    - name: Build with MkDocs
+      run: mkdocs build --site-dir site
+
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      if: github.ref == 'refs/heads/main'
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./site

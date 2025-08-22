@@ -1,0 +1,27 @@
+site_name: Pali Suttas in Spanish
+site_description: Translation of Pali suttas to Spanish (Argentina dialect)
+site_author: mjaviem
+
+theme:
+  name: material
+  language: es
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+    - scheme: dark
+      primary: indigo
+      accent: indigo
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - Riqueza, tesoros y el paraíso:
+      - AN 5.227 Bhogasutta – Riqueza: AN_5.227.md
