@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Ime kho, bhikkhave, dve bhogā.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="javier-medeot" changedate="20250817T192039Z" creationid="javier" creationdate="20231130T002444Z">
+        <seg>Bhikkhus, ciertamente existen estas dos riquezas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Ime kho, bhikkhave, pañca ādīnavā bhogesu.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250821T222316Z" creationid="javier" creationdate="20231129T132909Z">
@@ -38,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Katame dve?</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="javier" changedate="20231130T002334Z" creationid="javier" creationdate="20231130T002334Z">
+        <seg>¿Cuáles dos?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Katame pañca?</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250821T222323Z" creationid="javier" creationdate="20231129T132710Z">
@@ -50,6 +66,22 @@
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250821T222227Z" creationid="mjaviem" creationdate="20250821T222227Z">
         <seg>Bhikkhus, existen estos cinco beneficios de la riqueza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Āmisabhogo ca dhammabhogo ca.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="javier" changedate="20231213T155123Z" creationid="javier" creationdate="20231130T002435Z">
+        <seg>La riqueza mundana y la riqueza del Dhamma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Dveme, bhikkhave, bhogā.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250822T225213Z" creationid="mjaviem" creationdate="20250822T225213Z">
+        <seg>[fuzzy]"Bhikkhus, existen dos riquezas.</seg>
       </tuv>
     </tu>
     <tu>
