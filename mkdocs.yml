@@ -1,6 +1,7 @@
 site_name: Pali Suttas in Spanish
 site_description: Translation of Pali suttas to Spanish (Argentina dialect)
 site_author: mjaviem
+site_url: https://mjaviem.github.io/suttas-spanish/
 
 theme:
   name: material
