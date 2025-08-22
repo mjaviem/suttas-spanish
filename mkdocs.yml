@@ -25,4 +25,5 @@ markdown_extensions:
 nav:
   - Inicio: index.md
   - Riqueza, tesoros y el paraíso:
-      - AN 5.227 Bhogasutta – Riqueza: AN_5.227.md
+      - AN 5.227 Bhogasutta – Riqueza: AN-5.227.md
+      - AN 2.145: AN-2.145.md
