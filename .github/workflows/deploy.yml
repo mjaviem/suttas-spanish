@@ -40,11 +40,10 @@ jobs:
           echo "No files found in target/"
         fi
 
-        # Ensure there's at least index.md
+        # Ensure there's index.md
         if [ ! -f docs/index.md ]; then
           echo "# Traducciones de Suttas Pali" > docs/index.md
           echo "Bienvenido al proyecto de traducción." >> docs/index.md
-          echo "No hay traducciones publicadas todavía." >> docs/index.md
         fi
 
     - name: Convert TXT to MD
