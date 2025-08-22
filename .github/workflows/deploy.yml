@@ -29,17 +29,9 @@ jobs:
         # Create docs directory if it doesn't exist
         mkdir -p docs
 
-        # Clean docs directory but preserve existing index.md if present
-        if [ -f docs/index.md ]; then
-          mv docs/index.md docs_index.md.bak
-        fi
+        # Clean docs directory
         rm -rf docs/*
-        if [ -f docs_index.md.bak ]; then
-          mv docs_index.md.bak docs/index.md
-        fi
 
-    - name: Copy translations to docs
-      run: |
         # Copy files from target to docs if they exist
         if [ -d "target" ] && [ -n "$(ls -A target 2>/dev/null)" ]; then
           echo "Copying files from target to docs..."
@@ -48,9 +40,7 @@ jobs:
           echo "No files found in target/"
         fi
 
-    - name: Ensure index.md exists
-      run: |
-        # Ensure there's at least one file in docs
+        # Ensure there's at least index.md
         if [ ! -f docs/index.md ] && [ -z "$(ls -A docs 2>/dev/null)" ]; then
           echo "# Traducciones de Suttas Pali" > docs/index.md
           echo "Bienvenido al proyecto de traducción." >> docs/index.md
@@ -77,10 +67,18 @@ jobs:
     - name: Build with MkDocs
       run: mkdocs build --site-dir site
 
+    - name: Verify build
+      run: |
+        # Check if index.html was created
+        if [ ! -f site/index.html ]; then
+          echo "ERROR: index.html was not created!"
+          ls -la site/
+          exit 1
+        fi
+
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./site
-        # Force push to handle any conflicts
         force_orphan: true
