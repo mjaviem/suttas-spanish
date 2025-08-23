@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Katame cattāro?</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="javier-medeot" changedate="20250111T172718Z" creationid="javier-medeot" creationdate="20250111T172718Z">
+        <seg>¿Cuáles cuatro?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Katame dve?</seg>
       </tuv>
       <tuv lang="es-AR" changeid="javier" changedate="20231130T002334Z" creationid="javier" creationdate="20231130T002334Z">
@@ -98,6 +106,14 @@
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250822T231100Z" creationid="mjaviem" creationdate="20250822T230418Z">
         <seg>"Bhikkhus, existen estos cinco inconvenientes de la riqueza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Sappurisaṁ, bhikkhave, nissāya cattāro ānisaṁsā pāṭikaṅkhā.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250823T000151Z" creationid="mjaviem" creationdate="20250822T235757Z">
+        <seg>"Bhikkhus, cabe esperar cuatro beneficios por cuenta de un hombre de bien.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
