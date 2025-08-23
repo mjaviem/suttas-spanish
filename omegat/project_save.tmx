@@ -226,6 +226,14 @@ tasmā ‘ariyasaccānī’ti vuccanti.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Kiñca yathābhūtaṁ pajānāti?</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250823T192919Z" creationid="javier" creationdate="20231216T195946Z">
+        <seg>¿Qué entiende en verdad?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Kāmasukhañca nekkhammasukhañca.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250823T152207Z" creationid="javier" creationdate="20231128T122918Z">
@@ -278,6 +286,22 @@ tasmā ‘ariyasaccānī’ti vuccanti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250823T142600Z" creationid="javier" creationdate="20231210T224646Z">
         <seg>Interés, odio y autoengaño.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Samādhiṁ, bhikkhave, bhāvetha.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="javier-medeot" changedate="20250415T205531Z" creationid="javier" creationdate="20231216T200346Z">
+        <seg>"Bhikkhus, cultiven la compostura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Samāhito, bhikkhave, bhikkhu yathābhūtaṁ pajānāti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250823T192902Z" creationid="javier" creationdate="20231216T195831Z">
+        <seg>Bhikkhus, un bhikkhu con compostura entiende en verdad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -351,6 +375,14 @@ imāni vuccanti, bhikkhave, brahmacariyaphalānī”ti.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>‘Idaṁ dukkhan’ti yathābhūtaṁ pajānāti, ‘ayaṁ dukkhasamudayo’ti yathābhūtaṁ pajānāti, ‘ayaṁ dukkhanirodho’ti yathābhūtaṁ pajānāti, ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṁ pajānāti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250823T193043Z" creationid="mjaviem" creationdate="20250823T193043Z">
+        <seg>"Entiende en verdad: 'Esto es la dificultad'; entiende en verdad: 'Esta es la fuente de la dificultad'; entiende en verdad: 'Esta es la supresión de la dificultad'; entiende en verdad: 'Esta es la dedicación que conduce a la supresión de la dificultad.'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>“Brahmacariyañca vo, bhikkhave, desessāmi, brahmacariyaphalāni ca.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250823T003126Z" creationid="mjaviem" creationdate="20250823T003126Z">
@@ -399,6 +431,14 @@ imāni vuccanti, bhikkhave, brahmacariyaphalānī”ti.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>“Samādhiṁ, bhikkhave, bhāvetha.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250823T192815Z" creationid="mjaviem" creationdate="20250823T192815Z">
+        <seg>"Bhikkhus, cultiven la compostura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>“Sappurisaṁ, bhikkhave, nissāya cattāro ānisaṁsā pāṭikaṅkhā.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250823T000151Z" creationid="mjaviem" creationdate="20250822T235757Z">
@@ -411,6 +451,14 @@ imāni vuccanti, bhikkhave, brahmacariyaphalānī”ti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250823T142455Z" creationid="mjaviem" creationdate="20250823T142400Z">
         <seg>"Bhikkhus, existen estas tres cuestiones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>…pe…</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250823T192748Z" creationid="mjaviem" creationdate="20250823T192748Z">
+        <seg>...</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
