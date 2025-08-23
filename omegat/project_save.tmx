@@ -104,6 +104,22 @@ sammādiṭṭhi …pe… sammāsamādhi.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Ime kho, bhikkhave, tayo dhammā.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="javier-medeot" changedate="20250817T182602Z" creationid="javier" creationdate="20231203T141306Z">
+        <seg>Bhikkhus, ciertamente hay estas tres cuestiones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Imesaṁ kho, bhikkhave, tiṇṇaṁ dhammānaṁ pahānāya tayo dhammā bhāvetabbā.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="javier" changedate="20231216T120808Z" creationid="javier" creationdate="20231203T141350Z">
+        <seg>Tres cuestiones deben ser cultivadas para abandonar estas tres cuestiones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Imāni kho, bhikkhave, dve sukhāni.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250823T134218Z" creationid="javier" creationdate="20231127T153149Z">
@@ -152,6 +168,14 @@ sammādiṭṭhi …pe… sammāsamādhi.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Katame tayo?</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250823T142511Z" creationid="javier" creationdate="20231203T140523Z">
+        <seg>¿Cuáles tres?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Katamāni ca, bhikkhave, brahmacariyaphalāni?</seg>
       </tuv>
       <tuv lang="es-AR" changeid="javier-medeot" changedate="20250111T191304Z" creationid="javier-medeot" creationdate="20250111T190621Z">
@@ -188,6 +212,22 @@ sammādiṭṭhi …pe… sammāsamādhi.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250822T231118Z" creationid="mjaviem" creationdate="20250822T230435Z">
         <seg>Bhikkhus, existen estos cinco beneficios de la riqueza.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Rāgassa pahānāya asubhā bhāvetabbā, dosassa pahānāya mettā bhāvetabbā, mohassa pahānāya paññā bhāvetabbā.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="javier" changedate="20240120T115233Z" creationid="javier" creationdate="20231210T225149Z">
+        <seg>Para abandonar el interés hay que cultivar lo asqueroso. Para abandonar el odio hay que cultivar la benevolencia amistosa. Para abandonar el autoengaño hay que cultivar el entendimiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Rāgo, doso, moho.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="javier" changedate="20240120T115303Z" creationid="javier" creationdate="20231210T224646Z">
+        <seg>Interés, odio y autoengaño.</seg>
       </tuv>
     </tu>
     <tu>
@@ -297,6 +337,14 @@ imāni vuccanti, bhikkhave, brahmacariyaphalānī”ti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250823T000151Z" creationid="mjaviem" creationdate="20250822T235757Z">
         <seg>"Bhikkhus, cabe esperar cuatro beneficios por cuenta de un hombre de bien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Tayome, bhikkhave, dhammā.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250823T142455Z" creationid="mjaviem" creationdate="20250823T142400Z">
+        <seg>"Bhikkhus, existen estas tres cuestiones.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
