@@ -8,6 +8,14 @@ Este sitio contiene traducciones de algunos discursos budistas del canon Pali. I
 
 Las traducciones utilizan un español no neutro con particularidades del dialecto rioplatense.
 
+## Términos clave
+
+- **Arahant**: Digno. Merecedor.
+- **Bhante**, **Bhadante**: Reverendo.
+- **Bhikkhu**: Monje.
+- **Dhamma**: Principio. Enseñanza. Verdad.
+- **Saṅgha**: Congregación.
+
 ## Colaboración
 
 Si encontrás errores o querés contribuir con nuevas traducciones, podés abrir un issue o enviar un pull request en el repositorio.
