@@ -471,7 +471,6 @@ yathābhūtaṁ	en verdad
 yogo	consagrarse a
 yoniso	cuidadosa
 yonisomanasikāro	prestar cuidadosa atención
-
 Ime	Estos
 kho	ciertamente
 pīṇeti	complace
@@ -479,3 +478,4 @@ sovaggikaṁ	propicia
 yadidaṁ	a saber
 nissāya	por cuenta
 vaḍḍhati	crece
+vuccati	se llama
