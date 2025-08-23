@@ -11,12 +11,16 @@ Las traducciones utilizan un español no neutro con particularidades del dialect
 ## Términos clave
 
 - **Arahant**: Digno. Merecedor.
-- **Bhante**, **Bhadante**: Reverendo.
+- **Bhante**, **bhadante**: Reverendo.
 - **Bhikkhu**: Monje.
 - **Dhamma**: Principio. Enseñanza. Verdad.
 - **Saṅgha**: Congregación.
 
-## Colaboración
+## Edición de los textos originales
+
+Mahāsaṅgīti Tipiṭaka Buddhavasse 2500
+
+## Colaborar
 
 Si encontrás errores o querés contribuir con nuevas traducciones, podés abrir un issue o enviar un pull request en el repositorio.
 
