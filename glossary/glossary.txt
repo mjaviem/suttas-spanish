@@ -15,8 +15,8 @@ abhisamparāyaṁ	ulteriores
 abhivadati	acoge
 abrahmacariyā	conducta no espiritual
 abyā pāda	inocuidad
-abyābajjha	inocuidad
 abyābajjhā	daños
+abyābajjha	inocuidad
 abyābajjhaṁyeva	inocuidad
 abyāpajjaṁ	inofensivo
 adhigacchati	halla
@@ -101,8 +101,8 @@ bhante	reverendo
 bhava	advenimiento
 bhavā	advenimiento
 bhāvetabbā	cultivar
-bhavo	advenimiento
 bhāvito	cultiva
+bhavo	advenimiento
 bhayā	temor
 bhedā	desintegración
 bhedo	desintegración
@@ -147,6 +147,7 @@ dhuvaṁ	continua
 diṭṭhi	punto de vista
 domanassaṁ	disgusto
 dosā	odio
+doso	odio
 duccarita	mala conducta
 duccaritaṁ	mala conducta
 duccarite	mala conducta
@@ -170,6 +171,7 @@ gahapatīpi	amos de casa
 gihi	quien tiene hogar
 hirī	avergonzarse
 hitāya	bienestar
+ime	estos
 iṭṭhā	deseadas
 iṭṭhāya	deseado
 janeti	genera
@@ -199,6 +201,7 @@ kāyo	cuerpo
 khandhānaṁ	montones
 khayo	destrucción
 khīṇā	acabado
+kho	ciertamente
 kilamati	agobiarse
 kilesa	mancilla
 kulaputtassa	hijo de buena familia
@@ -226,6 +229,7 @@ mettā	benevolencia amistosa
 micchā	equivocada
 mohā	autoengaño
 mohe	autoengaño
+moho	autoengaño
 musāvādā	decir falsedades
 nāmarūpaṁ	nombre-figura
 nānākaraṇaṁ	variación
@@ -251,6 +255,7 @@ nissaraṇaṁ	escape
 nissaraṇan	escape
 nissaraṇañca	escape
 nissaraṇato	escape
+nissāya	por cuenta de
 nivāsa	morada
 niyato	firme
 ñāṇākārāṇī	percatarse
@@ -320,6 +325,7 @@ phalaṁ	fruto
 pharusāya	dureza
 phasso	encuentro
 phoṭṭhabbā	tangibles
+pīṇeti	complace
 pisuṇāya	malicia
 pīti	júbilo
 piyo	apreciable
@@ -347,8 +353,8 @@ sakadāgāmī	el que retorna una vez
 saḷāyatanaṁ	campos
 samādhi	compostura
 samādhijaṁ	compostura
-samannāgato	está dotado
 samaṇā	hombres santos
+samannāgato	está dotado
 samaṇo	santo, hombre santo
 samanupassāmi	contemplar
 samāpanno	ha emprendido
@@ -392,6 +398,7 @@ sivathikāya	campo de putrefacción
 somanassa	gozo
 somanassaṁ	gozo
 sotāpanno	adentrado en la corriente
+sovaggikaṁ	propicia
 sovaggiko	propicio
 sucarita	buena conducta
 sucarite	buena conducta
@@ -427,6 +434,7 @@ upekkhā	ecuanimidad
 uppajjati	surge
 vācāya	verbal
 vacī	verbal
+vaḍḍhati	crece
 vāyāmo	esfuerzo
 vedanā	sensación
 vedanaṁ	sensación
@@ -463,21 +471,13 @@ vivekajaṁ	apartamiento
 vivicca	apartado
 vivicceva	apartado
 vosagga	donar
+vuccati	se llama
 vūpasamo	aquietamiento
 vūpasantā	amainado	vūpasantā
 vuṭṭhānaṁ	se termina
+yadidaṁ	a saber
 yañño	ofrenda
 yathābhūtaṁ	en verdad
 yogo	consagrarse a
 yoniso	cuidadosa
 yonisomanasikāro	prestar cuidadosa atención
-Ime	Estos
-kho	ciertamente
-pīṇeti	complace
-sovaggikaṁ	propicia
-yadidaṁ	a saber
-nissāya	por cuenta
-vaḍḍhati	crece
-vuccati	se llama
-doso	odio
-moho	autoengaño

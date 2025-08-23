@@ -4,7 +4,7 @@ Bienvenido al proyecto de traducción de suttas Pali al español.
 
 ## Acerca del proyecto
 
-Este sitio contiene traducciones de algunos discursos budistas del canon Pali. Intentan conseguir la mayor literalidad posible sin romper el flujo de lectura.
+Este sitio contiene traducciones de algunos discursos budistas del canon Pali. Intentan conseguir la mayor literalidad y consistencia posibles sin romper el flujo de lectura.
 
 Las traducciones utilizan un español no neutro con particularidades del dialecto rioplatense.
 
