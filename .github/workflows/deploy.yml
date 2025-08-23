@@ -29,8 +29,8 @@ jobs:
         # Create docs directory if it doesn't exist
         mkdir -p docs
 
-        # Clean docs directory
-        rm -rf docs/*
+        # Clean docs directory but preserve index.md
+        find docs -type f ! -name "index.md" -delete
 
         # Copy files from target to docs if they exist
         if [ -d "target" ] && [ -n "$(ls -A target 2>/dev/null)" ]; then
@@ -38,12 +38,6 @@ jobs:
           cp -r target/* docs/
         else
           echo "No files found in target/"
-        fi
-
-        # Ensure there's index.md
-        if [ ! -f docs/index.md ]; then
-          echo "# Traducciones de Suttas Pali" > docs/index.md
-          echo "Bienvenido al proyecto de traducción." >> docs/index.md
         fi
 
     - name: Convert TXT to MD

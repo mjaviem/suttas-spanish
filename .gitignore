@@ -1,3 +1,4 @@
 omegat/project_stats.txt
-docs/
+docs/*
+!docs/index.md
 venv/

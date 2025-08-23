@@ -1,5 +1,5 @@
-site_name: Pali Suttas in Spanish
-site_description: Translation of Pali suttas to Spanish (Argentina dialect)
+site_name: Suttas Pali en Español
+site_description: Traducción de suttas Pali al español
 site_author: mjaviem
 site_url: https://mjaviem.github.io/suttas-spanish/
 
@@ -8,11 +8,11 @@ theme:
   language: es
   palette:
     - scheme: default
-      primary: indigo
-      accent: indigo
+      primary: grey
+      accent: black
     - scheme: dark
-      primary: indigo
-      accent: indigo
+      primary: grey
+      accent: black
 
 plugins:
   - search
