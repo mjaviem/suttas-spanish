@@ -3,6 +3,7 @@
 ābādhikaṁ	afligida
 abhijjhā	codicia
 abhijjhālu	codicioso
+abhikkantaṁ	magnífico
 abhinandati	aprueba
 abhinandiṁsu	aprobaron
 abhinandunti	aprobaron
@@ -48,6 +49,7 @@ anāgāmī	el que no retorna
 anaññathāni	inequívocas
 anāsavā	sin secreciones
 anattā	no uno mismo
+anavasesaṁ	sin remanente
 aniccā	falibles
 aniccaṁ	falible
 animitto	sin signo
@@ -162,6 +164,7 @@ dukkhampi	dificultad
 dukkhanirodhagāminī	que conduce a la supresión de la dificultad
 dukkhāpi	de dificultad
 dukkhitaṁ	padeciendo
+duṭṭho	hostil
 ehipassikaṁ	constatable
 ehipassiko	constatable
 gahapatayo	amos de casa
@@ -192,6 +195,7 @@ kamma	actuación
 kammānaṁ	actos
 kantā	amenos
 kantāya	ameno
+karaṇīyo	hay que
 kāya	cuerpo
 kāyagatā	lo referido al cuerpo
 kāyassa	lo corporal
@@ -204,6 +208,7 @@ khīṇā	acabado
 kho	ciertamente
 kilamati	agobiarse
 kilesa	mancilla
+kittāvatā	en qué medida
 kulaputtassa	hijo de buena familia
 kulaputto	hijo de buena familia
 kusale	que hacen bien
@@ -415,6 +420,7 @@ suññato	vacío
 suta	saber
 svākkhāto	enseñado
 taṇhā	sed
+tasmātiha	por lo tanto
 tathāni	reales
 ubhayabyābādhāyapi	hacerle daño a ambos
 udapādi	surgió
@@ -427,6 +433,7 @@ upapajjati	revive
 upapajjatī"ti	revive
 upapajjeyya	revivir
 upapajjissāmī	reviviré
+upāsakaṁ	seguidor laico
 upāsake	seguidores laicos
 upasamāya	tranquilidad
 upāsikā	seguidora laica
@@ -481,10 +488,3 @@ yathābhūtaṁ	en verdad
 yogo	consagrarse a
 yoniso	cuidadosa
 yonisomanasikāro	prestar cuidadosa atención
-karaṇīyo	hay que
-tasmātiha	por lo tanto
-kittāvatā	en qué medida
-duṭṭho	hostil
-anavasesaṁ	sin remanente
-abhikkantaṁ	magnífico
-upāsakaṁ	seguidor laico
