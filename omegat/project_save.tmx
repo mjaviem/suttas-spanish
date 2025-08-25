@@ -364,8 +364,8 @@ tasmā ‘ariyasaccānī’ti vuccanti.</seg>
       <tuv lang="pi">
         <seg>Rūpaṁ, bhikkhave, aniccaṁ; tatra vo chando pahātabbo.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20250825T233340Z" creationid="javier" creationdate="20231213T210838Z">
-        <seg>Bhikkhus, la figura es inconstante; el deseo por ella deben abandonar.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250825T233532Z" creationid="javier" creationdate="20231213T210838Z">
+        <seg>Bhikkhus, la figura es inconstante; deben abandonar el deseo por ella.</seg>
       </tuv>
     </tu>
     <tu>
@@ -455,6 +455,14 @@ imāni vuccanti, bhikkhave, brahmacariyaphalānī”ti.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Vedanā aniccā …pe…</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250825T233601Z" creationid="mjaviem" creationdate="20250825T233601Z">
+        <seg>... las sensaciones son inconstantes...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Yato kho ayaṁ, brāhmaṇa, anavasesaṁ rāgakkhayaṁ paṭisaṁvedeti, anavasesaṁ dosakkhayaṁ paṭisaṁvedeti, anavasesaṁ mohakkhayaṁ paṭisaṁvedeti;</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250825T213634Z" creationid="mjaviem" creationdate="20250823T202946Z">
@@ -475,6 +483,22 @@ imāni vuccanti, bhikkhave, brahmacariyaphalānī”ti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250825T204941Z" creationid="mjaviem" creationdate="20250823T202546Z">
         <seg>"Pues Brahmán, alguien desorientado, dominado por el autoengaño, con el corazón sometido, está dispuesto a hacerse daño, está dispuesto a hacerle daño a otro, está dispuesto a hacerles daño a ambos, y experimenta dificultad y disgusto anímicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>saññā …</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250825T233617Z" creationid="mjaviem" creationdate="20250825T233617Z">
+        <seg>... las distinciones...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>saṅkhārā …</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250825T233627Z" creationid="mjaviem" creationdate="20250825T233627Z">
+        <seg>... las atribuciones...</seg>
       </tuv>
     </tu>
     <tu>
@@ -578,8 +602,8 @@ upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ 
       <tuv lang="pi">
         <seg>“Yaṁ, bhikkhave, aniccaṁ; tatra vo chando pahātabbo.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20250825T233216Z" creationid="mjaviem" creationdate="20250825T232020Z">
-        <seg>"Bhikkhus, lo que sea que sea inconstante, el deseo respecto a ello deben abandonar.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250825T233516Z" creationid="mjaviem" creationdate="20250825T232020Z">
+        <seg>"Bhikkhus, lo que fuera que sea inconstante, deben abandonar el deseo por ello.</seg>
       </tuv>
     </tu>
     <tu>
