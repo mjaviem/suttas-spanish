@@ -205,7 +205,6 @@ kāyo	cuerpo
 khandhānaṁ	montones
 khayo	destrucción
 khīṇā	acabado
-kho	ciertamente
 kilamati	agobiarse
 kilesa	mancilla
 kittāvatā	en qué medida
@@ -488,3 +487,4 @@ yathābhūtaṁ	en verdad
 yogo	consagrarse a
 yoniso	cuidadosa
 yonisomanasikāro	prestar cuidadosa atención
+kho	pues
