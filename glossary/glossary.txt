@@ -488,6 +488,7 @@ yogo	consagrarse a
 yoniso	cuidadosa
 yonisomanasikāro	prestar cuidadosa atención
 kho	pues
-tatra	en ese asunto
 yaṁ	lo que fuera
 dukkhatā	condición dificultosa
+tatra	en este asunto
+yo	lo que sea
