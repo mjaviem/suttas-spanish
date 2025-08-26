@@ -62,6 +62,14 @@ sammādiṭṭhi …pe… sammāsamādhi.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Chaṭṭhaṁ.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250826T235830Z" creationid="mjaviem" creationdate="20250826T235830Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Dasamaṁ.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250826T191253Z" creationid="mjaviem" creationdate="20250826T191253Z">
@@ -115,8 +123,8 @@ tasmā ‘ariyasaccānī’ti vuccanti.</seg>
       <tuv lang="pi">
         <seg>Ekamantaṁ nisinno kho so bhikkhu bhagavantaṁ etadavoca:</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20250826T232952Z" creationid="mjaviem" creationdate="20250826T232952Z">
-        <seg>Pues sentado a un lado, ese bhikkhu dijo esto al Dichoso:</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250826T235924Z" creationid="mjaviem" creationdate="20250826T232952Z">
+        <seg>Pues sentado a un lado, aquel bhikkhu dijo esto al Dichoso:</seg>
       </tuv>
     </tu>
     <tu>
