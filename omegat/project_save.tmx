@@ -48,6 +48,15 @@ sammādiṭṭhi …pe… sammāsamādhi.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Dukkhadukkhatā, saṅkhāradukkhatā, vipariṇāmadukkhatā—
+imā kho, bhikkhave, tisso dukkhatā.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250826T000355Z" creationid="mjaviem" creationdate="20250825T235151Z">
+        <seg>La dificultad de lo dificultoso, la dificultad de las atribuciones, la dificultad del cambio; Bhikkhus, pues estas son las tres dificultades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Dukkhaṁ ariyasaccaṁ, dukkhasamudayaṁ ariyasaccaṁ, dukkhanirodhaṁ ariyasaccaṁ, dukkhanirodhagāminī paṭipadā ariyasaccaṁ—
 imāni kho, bhikkhave, cattāri ariyasaccāni tathāni avitathāni anaññathāni;
 tasmā ‘ariyasaccānī’ti vuccanti.</seg>
@@ -237,6 +246,14 @@ tasmā ‘ariyasaccānī’ti vuccanti.</seg>
         <seg>Katame tayo?</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250823T142511Z" creationid="javier" creationdate="20231203T140523Z">
+        <seg>¿Cuáles tres?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Katamā tisso?</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250825T235218Z" creationid="javier" creationdate="20231210T173915Z">
         <seg>¿Cuáles tres?</seg>
       </tuv>
     </tu>
@@ -620,6 +637,14 @@ upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ 
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250823T142455Z" creationid="mjaviem" creationdate="20250823T142400Z">
         <seg>"Bhikkhus, existen estas tres cuestiones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Tisso imā, bhikkhave, dukkhatā.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250825T235146Z" creationid="mjaviem" creationdate="20250825T235146Z">
+        <seg>"Bhikkhus, existen estas tres dificultades.</seg>
       </tuv>
     </tu>
     <tu>
