@@ -9,10 +9,19 @@ theme:
   palette:
     - scheme: default
       primary: grey
-      accent: black
-    - scheme: dark
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Cambiar a modo oscuro
+    - scheme: slate
       primary: grey
-      accent: black
+      accent: light-blue
+      toggle:
+        icon: material/weather-night
+        name: Cambiar a modo claro
+  features:
+    - navigation.tabs
+    - navigation.sections
 
 plugins:
   - search

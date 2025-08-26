@@ -22,7 +22,7 @@ Mahāsaṅgīti Tipiṭaka Buddhavasse 2500
 
 ## Colaborar
 
-Si encontrás errores o querés contribuir con nuevas traducciones, podés abrir un issue o enviar un pull request en el repositorio.
+Si encontrás errores o querés contribuir con nuevas traducciones, podés [abrir una issue](https://github.com/mjaviem/suttas-spanish/issues/new/choose) o enviar un pull request en el repositorio.
 
 ---
 
