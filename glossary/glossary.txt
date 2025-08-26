@@ -420,7 +420,6 @@ suta	saber
 svākkhāto	enseñado
 taṇhā	sed
 tasmātiha	por lo tanto
-tathāni	reales
 ubhayabyābādhāyapi	hacerle daño a ambos
 udapādi	surgió
 upādāna	arraigo
@@ -492,3 +491,4 @@ yaṁ	lo que fuera
 dukkhatā	condición dificultosa
 tatra	en este asunto
 yo	lo que sea
+tathāni	auténticas
