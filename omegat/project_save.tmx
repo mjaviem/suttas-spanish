@@ -211,8 +211,8 @@ tasmā ‘ariyasaccānī’ti vuccanti.</seg>
       <tuv lang="pi">
         <seg>Ime kho, bhikkhave, tayo dhammā attabyābādhāyapi saṁvattanti, parabyābādhāyapi saṁvattanti, ubhayabyābādhāyapi saṁvattanti.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="javier-medeot" changedate="20250817T182146Z" creationid="javier" creationdate="20231223T124910Z">
-        <seg>"Bhikkhus, ciertamente estas tres cuestiones llevan a dañarse uno mismo, llevan a dañar a otro, llevan a dañar a ambos.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250827T133853Z" creationid="javier" creationdate="20231223T124910Z">
+        <seg>"Bhikkhus, ciertamente estas tres cuestiones llevan a hacerse daño a uno mismo, llevan a hacerle daño a otro, llevan a a hacerle daño a ambos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -395,7 +395,7 @@ tasmā ‘ariyasaccānī’ti vuccanti.</seg>
       <tuv lang="pi">
         <seg>Kāyasucaritaṁ, vacīsucaritaṁ, manosucaritaṁ.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="javier-medeot" changedate="20250423T185125Z" creationid="javier" creationdate="20231223T125825Z">
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250827T133950Z" creationid="javier" creationdate="20231223T125825Z">
         <seg>La buena conducta corporal, la buena conducta verbal, y la buena conducta interior.</seg>
       </tuv>
     </tu>
@@ -597,6 +597,14 @@ imāni vuccanti, bhikkhave, brahmacariyaphalānī”ti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250823T000446Z" creationid="mjaviem" creationdate="20250823T000446Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Tayome, bhikkhave, dhammā nevattabyābādhāyapi saṁvattanti, na parabyābādhāyapi saṁvattanti, na ubhayabyābādhāyapi saṁvattanti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250827T133939Z" creationid="mjaviem" creationdate="20250827T133939Z">
+        <seg>"Bhikkhus, estas tres cuestiones llevan a no hacerse daño a uno mismo, llevan a no hacerle daño a otro, llevan a no hacerle daño a ambos.</seg>
       </tuv>
     </tu>
     <tu>
