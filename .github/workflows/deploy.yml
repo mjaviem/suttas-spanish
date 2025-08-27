@@ -50,10 +50,12 @@ jobs:
 
     - name: Convert TXT to MD
       run: |
-        # Convert all .txt files to .md
+        # Convert all .txt files to .md with preserved line breaks
         if ls docs/*.txt 1> /dev/null 2>&1; then
           for file in docs/*.txt; do
-            mv "$file" "${file%.txt}.md"
+            # Add two spaces at the end of each line for Markdown line breaks
+            sed 's/$/  /' "$file" > "${file%.txt}.md"
+            rm "$file"
           done
         fi
 
