@@ -78,7 +78,7 @@ assādo	gusto
 assāsapassāsā	respiración
 asubhā	lo asqueroso
 attā	uno mismo
-attabyābādhāyapi	hacerse daño
+attabyābādhāyapi	hacerse daño a uno mismo
 attamano	felicidad
 atthaṅgamā	repliegue
 atthaṅgamañca	repliegue
@@ -477,7 +477,7 @@ vivicceva	apartado
 vosagga	donar
 vuccati	se llama
 vūpasamo	aquietamiento
-vūpasantā	amainado	vūpasantā
+vūpasantā	amainado
 vuṭṭhānaṁ	se termina
 yadidaṁ	a saber
 yañño	ofrenda
@@ -491,3 +491,9 @@ dukkhatā	condición dificultosa
 tatra	en este asunto
 yo	lo que sea
 tathāni	auténticas
+santo	virtuosos
+kittisaddo	reputación
+abbhuggacchati	trasciende
+kalyāṇo	bondadoso
+sugatiṁ	buena fortuna
+saggaṁ	paradisíaco
