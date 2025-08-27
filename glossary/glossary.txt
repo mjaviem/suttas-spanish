@@ -78,8 +78,7 @@ assādo	gusto
 assāsapassāsā	respiración
 asubhā	lo asqueroso
 attā	uno mismo
-attabyābādhāyapi	dañarse a sí mismo
-attabyābādhāyapi	dañarse a uno mismo
+attabyābādhāyapi	hacerse daño
 attamano	felicidad
 atthaṅgamā	repliegue
 atthaṅgamañca	repliegue
