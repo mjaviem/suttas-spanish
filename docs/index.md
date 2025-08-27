@@ -1,12 +1,12 @@
 # Suttas Pali en Español
 
-Bienvenido al proyecto de traducción de suttas Pali al español.
+Bienvenido al sitio de suttas Pali traducidos al español.
 
-## Acerca del proyecto
+## Acerca del sitio
 
 Este sitio contiene traducciones de algunos discursos budistas del canon Pali. Intentan conseguir la mayor literalidad y consistencia posibles sin romper el flujo de lectura.
 
-Las traducciones utilizan un español no neutro con particularidades del dialecto rioplatense.
+Tené en cuenta que las traducciones utilizan un español no neutro, con particularidades del dialecto rioplatense.
 
 ## Términos clave
 
@@ -19,10 +19,6 @@ Las traducciones utilizan un español no neutro con particularidades del dialect
 ## Edición de los textos originales
 
 Mahāsaṅgīti Tipiṭaka Buddhavasse 2500
-
-## Colaborar
-
-Si encontrás errores o querés contribuir con nuevas traducciones, podés [abrir una issue](https://github.com/mjaviem/suttas-spanish/issues/new/choose) o enviar un pull request en el repositorio.
 
 ## Licencia
 Este proyecto pertenece al dominio público bajo la licencia [CC0 1.0 Universal](https://github.com/mjaviem/suttas-spanish/blob/main/LICENSE).
