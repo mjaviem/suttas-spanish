@@ -54,6 +54,18 @@ sammādiṭṭhi …pe… sammāsamādhi.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Bahuno janassa piyo hoti manāpo;
+santo sappurisā bhajanti;
+kalyāṇo kittisaddo abbhuggacchati;
+gihidhammā anapagato hoti;
+kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjati.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250827T193436Z" creationid="mjaviem" creationdate="20250827T185211Z">
+        <seg>Se es apreciable y grato para mucha gente. Los hombres de bien y virtuosos se vinculan. Trasciende una reputación de bondadoso. No se aparta de los asuntos domésticos. Con la desintegración del cuerpo, después del perecimiento, se revive en la buena fortuna, en un mundo paradisíaco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Bhoge nissāya attānaṁ sukheti pīṇeti sammā sukhaṁ pariharati, mātāpitaro sukheti pīṇeti sammā sukhaṁ pariharati, puttadāradāsakammakaraporise sukheti pīṇeti sammā sukhaṁ pariharati, mittāmacce sukheti pīṇeti sammā sukhaṁ pariharati, samaṇabrāhmaṇesu uddhaggikaṁ dakkhiṇaṁ patiṭṭhāpeti sovaggikaṁ sukhavipākaṁ saggasaṁvattanikaṁ.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250822T231124Z" creationid="mjaviem" creationdate="20250822T230441Z">
@@ -193,6 +205,14 @@ tasmā ‘ariyasaccānī’ti vuccanti.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Ime kho, bhikkhave, pañca dāne ānisaṁsāti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="javier-medeot" changedate="20250817T182536Z" creationid="javier" creationdate="20231203T151847Z">
+        <seg>Bhikkhus, ciertamente hay estos cinco beneficios de regalar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Ime kho, bhikkhave, pañca ādīnavā bhogesu.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250825T205016Z" creationid="mjaviem" creationdate="20250822T230431Z">
@@ -211,16 +231,16 @@ tasmā ‘ariyasaccānī’ti vuccanti.</seg>
       <tuv lang="pi">
         <seg>Ime kho, bhikkhave, tayo dhammā attabyābādhāyapi saṁvattanti, parabyābādhāyapi saṁvattanti, ubhayabyābādhāyapi saṁvattanti.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20250827T155332Z" creationid="javier" creationdate="20231223T124910Z">
-        <seg>"Bhikkhus, ciertamente estas tres cuestiones llevan a hacerse daño uno mismo, llevan a hacerle daño a otro, llevan a a hacerle daño a ambos.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250827T184850Z" creationid="javier" creationdate="20231223T124910Z">
+        <seg>"Bhikkhus, ciertamente estas tres cuestiones llevan a hacerse daño a uno mismo, llevan a hacerle daño a otro, llevan a a hacerle daño a ambos.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pi">
         <seg>Ime kho, bhikkhave, tayo dhammā nevattabyābādhāyapi saṁvattanti, na parabyābādhāyapi saṁvattanti, na ubhayabyābādhāyapi saṁvattantī”ti.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20250827T155348Z" creationid="mjaviem" creationdate="20250827T134054Z">
-        <seg>"Bhikkhus, pues estas tres cuestiones llevan a no hacerse daño uno mismo, llevan a no hacerle daño a otro, llevan a no hacerle daño a ambos.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250827T184904Z" creationid="mjaviem" creationdate="20250827T134054Z">
+        <seg>"Bhikkhus, pues estas tres cuestiones llevan a no hacerse daño a uno mismo, llevan a no hacerle daño a otro, llevan a no hacerle daño a ambos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -611,8 +631,8 @@ imāni vuccanti, bhikkhave, brahmacariyaphalānī”ti.</seg>
       <tuv lang="pi">
         <seg>Tayome, bhikkhave, dhammā nevattabyābādhāyapi saṁvattanti, na parabyābādhāyapi saṁvattanti, na ubhayabyābādhāyapi saṁvattanti.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20250827T155341Z" creationid="mjaviem" creationdate="20250827T133939Z">
-        <seg>"Bhikkhus, estas tres cuestiones llevan a no hacerse daño uno mismo, llevan a no hacerle daño a otro, llevan a no hacerle daño a ambos.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250827T184858Z" creationid="mjaviem" creationdate="20250827T133939Z">
+        <seg>"Bhikkhus, estas tres cuestiones llevan a no hacerse daño a uno mismo, llevan a no hacerle daño a otro, llevan a no hacerle daño a ambos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -779,6 +799,14 @@ upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ 
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>“Pañcime, bhikkhave, dāne ānisaṁsā.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250827T184953Z" creationid="mjaviem" creationdate="20250827T184953Z">
+        <seg>"Bhikkhus, hay cinco beneficios de regalar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>“Pañcime, bhikkhave, ādīnavā bhogesu.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250822T231100Z" creationid="mjaviem" creationdate="20250822T230418Z">
@@ -805,8 +833,8 @@ upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ 
       <tuv lang="pi">
         <seg>“Tayome, bhikkhave, dhammā attabyābādhāyapi saṁvattanti, parabyābādhāyapi saṁvattanti, ubhayabyābādhāyapi saṁvattanti.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20250827T155323Z" creationid="mjaviem" creationdate="20250827T133824Z">
-        <seg>"Bhikkhus, estas tres cuestiones llevan a hacerse daño uno mismo, llevan a hacerle daño a otro, llevan a hacerle daño a ambos.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250827T184840Z" creationid="mjaviem" creationdate="20250827T133824Z">
+        <seg>"Bhikkhus, estas tres cuestiones llevan a hacerse daño a uno mismo, llevan a hacerle daño a otro, llevan a hacerle daño a ambos.</seg>
       </tuv>
     </tu>
     <tu>
