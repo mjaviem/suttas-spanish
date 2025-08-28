@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Aparihānañhetaṁ vuttaṁ bhagavatā’ti …pe…</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250828T192754Z" creationid="mjaviem" creationdate="20250828T192754Z">
+        <seg>Porque esto ha sido llamado no menguar por el Dichoso'...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Aparihānañhetaṁ vuttaṁ bhagavatā’ti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="javier" changedate="20231214T000426Z" creationid="javier" creationdate="20231214T000426Z">
@@ -206,8 +214,16 @@ tasmā ‘ariyasaccānī’ti vuccanti.</seg>
       <tuv lang="pi">
         <seg>Evaṁ kho, bhikkhave, asaṁvaro hoti.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="javier" changedate="20231214T123700Z" creationid="javier" creationdate="20231213T235503Z">
-        <seg>"Así es, bhikkhus, cómo hay desenfreno.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250828T193248Z" creationid="javier" creationdate="20231213T235503Z">
+        <seg>"Pues así hay, bhikkhus, desenfreno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Evaṁ kho, bhikkhave, saṁvaro hotī”ti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250828T193237Z" creationid="mjaviem" creationdate="20250828T192928Z">
+        <seg>"Pues así hay, bhikkhus, autocontrol.</seg>
       </tuv>
     </tu>
     <tu>
@@ -408,6 +424,14 @@ tasmā ‘ariyasaccānī’ti vuccanti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250828T190812Z" creationid="javier" creationdate="20231213T231650Z">
         <seg>"¿Y cómo hay, bhikkhus, desenfreno?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Kathañca, bhikkhave, saṁvaro hoti?</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250828T192126Z" creationid="mjaviem" creationdate="20250828T192126Z">
+        <seg>"¿Y cómo hay, bhikkhus, autocontrol?</seg>
       </tuv>
     </tu>
     <tu>
@@ -711,8 +735,26 @@ imāni vuccanti, bhikkhave, brahmacariyaphalānī”ti.</seg>
         <seg>Tañce bhikkhu abhinandati abhivadati ajjhosāya tiṭṭhati, veditabbametaṁ, bhikkhave, bhikkhunā:
 ‘parihāyāmi kusalehi dhammehi.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20250828T191421Z" creationid="mjaviem" creationdate="20250828T191421Z">
-        <seg>Bhikkhus, si un bhikkhu las aprueba, las acoge y se queda aferrado a ellas, esto debe ser conocido por un bhikkhu así: Las cuestiones que hacen bien menguan.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250828T192631Z" creationid="mjaviem" creationdate="20250828T191421Z">
+        <seg>Bhikkhus, si un bhikkhu las aprueba, las acoge y se queda aferrado a ellas, así debe ser conocido esto por un bhikkhu: Las cuestiones que hacen bien menguan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Tañce bhikkhu nābhinandati nābhivadati nājjhosāya tiṭṭhati, veditabbametaṁ bhikkhunā:
+‘na parihāyāmi kusalehi dhammehi.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250828T192853Z" creationid="mjaviem" creationdate="20250828T192853Z">
+        <seg>Bhikkhus, si un bhikkhu no las aprueba, no las acoge y no se queda aferrado a ellas, así debe ser conocido esto por un bhikkhu: Las cuestiones que hacen bien no menguan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Tañce bhikkhu nābhinandati nābhivadati nājjhosāya tiṭṭhati, veditabbametaṁ, bhikkhave, bhikkhunā:
+‘na parihāyāmi kusalehi dhammehi.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250828T193127Z" creationid="mjaviem" creationdate="20250828T192608Z">
+        <seg>Bhikkhus, si un bhikkhu no las aprueba, no las acoge y no se queda aferrado a ellas, así debe ser conocido esto por un bhikkhu: Las cuestiones que hacen bien no menguan.</seg>
       </tuv>
     </tu>
     <tu>
