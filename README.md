@@ -3,12 +3,23 @@ Translation of suttas from the Pali Canon into Spanish (Río de la Plata dialect
 
 ## 📖 About the Project
 
-This project aims to create high-quality translations of Buddhist discourses (suttas) from the Pali language into clear Spanish, though with particularities of the Rioplatense dialect. The approach prioritizes **literalness** and **terminological consistency** without sacrificing reading fluency.
+This site provides translations of Buddhist discourses (suttas) from the Pali Canon into Spanish, emphasizing literal accuracy and consistency over interpretive or literary phrasing.
+
+### Key Features
+
+- **Literal Approach**: Prioritizes the original meaning of Pali words.
+- **Terminological Consistency**: The same Pali term is translated consistently throughout all suttas.
+- **Direct Source Consultation**: Final translations are based on the [Digital Pali Dictionary](https://dpdict.net/).
+- **Text-Focused**: Avoids frameworks from later commentaries, aiming to reflect the original sutta texts.
+
+This process ensures precision and fidelity to the source material, even when it results in phrasing that reflects Pali syntax.
+
+*Note: Translations use Spanish with Rioplatense regionalisms.*
 
 ## 🚀 How to Access and Use the Translations
 
 The completed translations are available in two formats:
-- **Website:** The easiest way to read them is on [the project website](https://mjaviem.github.io/suttas-spanish/).
+- **Website:** The easiest way to read them is on the [project website](https://mjaviem.github.io/suttas-spanish/).
 - **Text Files:** The translated files in Markdown (`.md`) format are located in the `/docs` folder of this repository. You can download and read them with any text editor.
 
 ## 🛠 Translation Process
