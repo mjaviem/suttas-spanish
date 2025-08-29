@@ -380,6 +380,22 @@ tasmā ‘ariyasaccānī’ti vuccanti.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Ime vuccanti, bhikkhave, akusalā dhammā.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250829T193743Z" creationid="mjaviem" creationdate="20250829T193724Z">
+        <seg>Bhikkhus, esto se llama cuestiones que no hacen bien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Ime vuccanti, bhikkhave, kusalā dhammā”ti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250829T193939Z" creationid="mjaviem" creationdate="20250829T193939Z">
+        <seg>Bhikkhus, esto se llama cuestiones que hacen bien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Imesaṁ kho, bhikkhave, tiṇṇaṁ dhammānaṁ pahānāya ime tayo dhammā bhāvetabbā”ti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250827T001620Z" creationid="mjaviem" creationdate="20250823T143438Z">
@@ -432,6 +448,22 @@ tasmā ‘ariyasaccānī’ti vuccanti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="javier-medeot" changedate="20250111T190223Z" creationid="javier-medeot" creationdate="20250111T190223Z">
         <seg>¿Y qué es, bhikkhus, la conducta espiritual?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Katame ca, bhikkhave, akusalā dhammā?</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250829T193500Z" creationid="mjaviem" creationdate="20250829T193500Z">
+        <seg>¿Y qué son, bhikkhus, las cuestiones que no hacen bien?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Katame ca, bhikkhave, kusalā dhammā?</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250829T193822Z" creationid="mjaviem" creationdate="20250829T193822Z">
+        <seg>¿Y qué son, bhikkhus, las cuestiones que hacen bien?</seg>
       </tuv>
     </tu>
     <tu>
@@ -795,6 +827,22 @@ Samaṇo ca sappurisānisaṁsoti.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Seyyathidaṁ—micchādiṭṭhi …pe… micchāsamādhi.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250829T193614Z" creationid="mjaviem" creationdate="20250829T193614Z">
+        <seg>Lo siguiente: El punto de vista equivocado, [la intención equivocada, el habla equivocada, la actuación equivocada, el modo de vida equivocado, el esfuerzo equivocado, el tener presente equivocado], la compostura equivocada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Seyyathidaṁ—sammādiṭṭhi …pe… sammāsamādhi.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250829T193926Z" creationid="mjaviem" creationdate="20250829T193926Z">
+        <seg>Lo siguiente: El punto de vista cabal, [la intención cabal, el habla cabal, la actuación cabal, el modo de vida cabal, el esfuerzo cabal, el tener presente cabal], la compostura cabal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Sotāpattiphalaṁ, sakadāgāmiphalaṁ, anāgāmiphalaṁ, arahattaphalaṁ—
 imāni vuccanti, bhikkhave, brahmacariyaphalānī”ti.</seg>
       </tuv>
@@ -1004,6 +1052,14 @@ upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ 
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250823T203705Z" creationid="mjaviem" creationdate="20250823T203705Z">
         <seg>"¡Magnífico, Maestro Gautama!... Desde este día, que el Maestro Gautama me recuerde como un seguidor laico que ha acudido a él en busca de refugio para toda la vida."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Akusale ca kho, bhikkhave, dhamme desessāmi, kusale ca dhamme.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250829T193422Z" creationid="mjaviem" creationdate="20250829T193422Z">
+        <seg>"Bhikkhus, pues les enseñaré las cuestiones que no hacen bien y las cuestiones que hacen bien.</seg>
       </tuv>
     </tu>
     <tu>
