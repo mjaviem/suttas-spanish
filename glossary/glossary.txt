@@ -240,7 +240,7 @@ nekkhamma	ascetismo
 nekkhamma	ascetismo
 nibbānaṁ	disipación
 nibbānāya	disipación	nibbānāya
-nibbidāya	revulsión
+nibbidāya	hastío
 nibbindati	se hastía
 niccaṁ	estable
 nidāna	fundamento
@@ -504,3 +504,4 @@ attamanatā	felicidad
 pasīdati	se serena
 ānisaṁsā	ventajas
 ānisaṁsāti	ventajas
+seyyathidaṁ	lo siguiente
