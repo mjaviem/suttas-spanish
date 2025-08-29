@@ -53,8 +53,6 @@ anavasesaṁ	sin remanente
 aniccā	falibles
 aniccaṁ	falible
 animitto	sin signo
-ānisaṁsā	beneficios
-ānisaṁsāti	beneficios
 antaradhānaṁ	desvanecimiento
 anukampantā	compasión
 anumoditvā	alabó
@@ -504,3 +502,5 @@ hāpetun	menoscabar
 datvā	habiendo dado
 attamanatā	felicidad
 pasīdati	se serena
+ānisaṁsā	ventajas
+ānisaṁsāti	ventajas
