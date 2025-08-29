@@ -112,8 +112,8 @@ kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ up
         <seg>Ayameva ariyo aṭṭhaṅgiko maggo, seyyathidaṁ—
 sammādiṭṭhi …pe… sammāsamādhi.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20250823T003414Z" creationid="mjaviem" creationdate="20250823T003414Z">
-        <seg>Es, precisamente, este Camino Óctuple Noble, como sigue: El punto de vista cabal, [la intención cabal, el habla cabal, la actuación cabal, el modo de vida cabal, el esfuerzo cabal, el tener presente cabal,] la compostura cabal.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250829T202338Z" creationid="mjaviem" creationdate="20250823T003414Z">
+        <seg>Es, precisamente, este Camino Óctuple Noble, lo siguiente: El punto de vista cabal, [la intención cabal, el habla cabal, la actuación cabal, el modo de vida cabal, el esfuerzo cabal, el tener presente cabal,] la compostura cabal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -264,6 +264,14 @@ tasmā ‘ariyasaccānī’ti vuccanti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250823T134457Z" creationid="mjaviem" creationdate="20250823T134457Z">
         <seg>Bhikkhus, entre estas dos satisfacciones, ésta es la mejor, a saber: La satisfacción de quien partió.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Ete, bhikkhave, vitakkā atthasaṁhitā ete ādibrahmacariyakā ete nibbidāya virāgāya nirodhāya upasamāya abhiññāya sambodhāya nibbānāya saṁvattanti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250829T204650Z" creationid="mjaviem" creationdate="20250829T204650Z">
+        <seg>Bhikkhus, estos propósitos son pertinentes, llevan a la conducta espiritual, al hastío, al desinterés, a la supresión, a la tranquilidad, a la toma de conciencia, al despertar, a la disipación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -666,6 +674,14 @@ kiñci viññāṇaṁ, yaṁ viññāṇaṁ niccaṁ dhuvaṁ sassataṁ avipa
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Nete, bhikkhave, vitakkā atthasaṁhitā nādibrahmacariyakā na nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya na sambodhāya na nibbānāya saṁvattanti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250829T203512Z" creationid="mjaviem" creationdate="20250829T203512Z">
+        <seg>Bhikkhus, estos propósitos no son pertinentes, no llevan a la conducta espiritual, ni al hastío, ni al desinterés, ni a la supresión, ni a la tranquilidad, ni a la toma de conciencia, ni al despertar, ni a la disipación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Parihānañhetaṁ vuttaṁ bhagavatā’ti …pe…</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250828T191802Z" creationid="mjaviem" creationdate="20250828T191502Z">
@@ -927,6 +943,14 @@ imāni vuccanti, bhikkhave, brahmacariyaphalānī”ti.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Taṁ kissa hetu?</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250829T202942Z" creationid="mjaviem" creationdate="20250829T202942Z">
+        <seg>¿Por qué razón eso?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Taṁ suṇātha.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250823T003304Z" creationid="javier" creationdate="20231213T011012Z">
@@ -953,6 +977,14 @@ extingue sin las secreciones.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250825T233706Z" creationid="mjaviem" creationdate="20250825T233601Z">
         <seg>Las sensaciones son inconstantes...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Vitakkentā ca kho tumhe, bhikkhave, ‘idaṁ dukkhan’ti vitakkeyyātha, ‘ayaṁ dukkhasamudayo’ti vitakkeyyātha, ‘ayaṁ dukkhanirodho’ti vitakkeyyātha, ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti vitakkeyyātha.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250829T204453Z" creationid="mjaviem" creationdate="20250829T204453Z">
+        <seg>"Bhikkhus, pues, los que se proponen, deberían proponerse: 'Esto es dificultad';  deberían proponerse: 'Esta es la fuente de la dificultad';  deberían proponerse: 'Esta es la supresión de la dificultad';  deberían proponerse: 'Esta es la dedicación que conduce a la supresión de la dificultad.'</seg>
       </tuv>
     </tu>
     <tu>
@@ -1116,6 +1148,15 @@ upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ 
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250823T134104Z" creationid="mjaviem" creationdate="20250823T133735Z">
         <seg>"Bhikkhus, existen estas dos satisfacciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Mā, bhikkhave, pāpake akusale vitakke vitakkeyyātha, seyyathidaṁ—
+kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250829T202634Z" creationid="mjaviem" creationdate="20250829T202226Z">
+        <seg>"Bhikkhus, no se propongan propósitos funestos que no hacen bien; los siguientes: propósitos de sensualismo, propósitos de malevolencia, propósitos de inhumanidad.</seg>
       </tuv>
     </tu>
     <tu>
