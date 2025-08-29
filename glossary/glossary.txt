@@ -498,5 +498,5 @@ kalyāṇo	bondadoso
 sugatiṁ	buena fortuna
 saggaṁ	paradisíaco
 anuvicca	averiguado
-vuṭṭhāti	retrotrae
 patiṭṭhāti	reafirma
+vuṭṭhāti	sale
