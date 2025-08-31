@@ -326,8 +326,8 @@ tasmā ‘ariyasaccānī’ti vuccanti.</seg>
       <tuv lang="pi">
         <seg>Ime kho, bhikkhave, pañca dāne ānisaṁsāti.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20250829T192335Z" creationid="javier" creationdate="20231203T151847Z">
-        <seg>Bhikkhus, pues hay estas cinco ventajas de regalar.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250830T164547Z" creationid="javier" creationdate="20231203T151847Z">
+        <seg>Bhikkhus, pues existen estas cinco ventajas de regalar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -552,6 +552,14 @@ tasmā ‘ariyasaccānī’ti vuccanti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250823T133910Z" creationid="javier" creationdate="20231127T153057Z">
         <seg>¿Cuáles dos?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Katamāni tīṇi?</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250830T164643Z" creationid="mjaviem" creationdate="20250830T164643Z">
+        <seg>¿Cuáles tres?</seg>
       </tuv>
     </tu>
     <tu>
@@ -828,6 +836,15 @@ ime kho, bhikkhave, cattāro dhammā bhāvitā bahulīkatā sotāpattiphalasacch
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250826T163851Z" creationid="mjaviem" creationdate="20250826T163851Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Saṅkhatalakkhaṇasutta
+“Tīṇimāni, bhikkhave, saṅkhatassa saṅkhatalakkhaṇāni.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250830T164631Z" creationid="mjaviem" creationdate="20250830T164631Z">
+        <seg>“Bhikkhus, existen estas tres marcas atribuidas de lo atribuido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1179,8 +1196,8 @@ kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ.</seg>
       <tuv lang="pi">
         <seg>“Pañcime, bhikkhave, dāne ānisaṁsā.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20250829T192327Z" creationid="mjaviem" creationdate="20250827T184953Z">
-        <seg>"Bhikkhus, hay cinco ventajas de regalar.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250830T164530Z" creationid="mjaviem" creationdate="20250827T184953Z">
+        <seg>"Bhikkhus, existen cinco ventajas de regalar.</seg>
       </tuv>
     </tu>
     <tu>
