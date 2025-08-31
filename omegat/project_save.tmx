@@ -59,8 +59,8 @@ sappurisaṁ, bhikkhave, nissāya ime cattāro ānisaṁsā pāṭikaṅkhā”t
       <tuv lang="pi">
         <seg>Atha kho uggo rājamahāmatto yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20250831T152000Z" creationid="mjaviem" creationdate="20250831T152000Z">
-        <seg>Pues entonces, el ministro real Ugga se acercó al Dichoso. Habiéndose acercado y habiendo hecho una reverencia al Dichoso, se sentó a un lado.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250831T214758Z" creationid="mjaviem" creationdate="20250831T152000Z">
+        <seg>Pues entonces, el ministro real mayor Ugga se acercó al Dichoso. Habiéndose acercado y habiendo hecho una reverencia al Dichoso, se sentó a un lado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -250,6 +250,16 @@ tasmā ‘ariyasaccānī’ti vuccanti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250826T235924Z" creationid="mjaviem" creationdate="20250826T232952Z">
         <seg>Pues sentado a un lado, aquel bhikkhu dijo esto al Dichoso:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Ekamantaṁ nisinno kho uggo rājamahāmatto bhagavantaṁ etadavoca:
+“Acchariyaṁ, bhante, abbhutaṁ, bhante.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250831T214808Z" creationid="mjaviem" creationdate="20250831T213302Z">
+        <seg>Pues sentado a un lado, el ministro real mayor Ugga dijo esto al Dichoso:
+"¡Bhante, es maravilloso! ¡Bhante, es asombroso!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1090,6 +1100,14 @@ ayaṁ vuccati, bhikkhave, brahmacariyattho”ti.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Yāva aḍḍho cāyaṁ, bhante, migāro rohaṇeyyo yāva mahaddhano yāva mahābhogo”ti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250831T215310Z" creationid="mjaviem" creationdate="20250831T214723Z">
+        <seg>Tan rico es este Migāra de Rohana, bhante. Con tan grandes tesoros, con tan grandes riquezas."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>evaṁ kho, brāhmaṇa, sandiṭṭhikaṁ nibbānaṁ hoti akālikaṁ ehipassikaṁ opaneyyikaṁ paccattaṁ veditabbaṁ viññūhī”ti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250825T204957Z" creationid="mjaviem" creationdate="20250823T203139Z">
@@ -1228,6 +1246,14 @@ upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ 
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>“Kīva aḍḍho panugga, migāro rohaṇeyyo, kīva mahaddhano, kīva mahābhogo”ti?</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250831T215303Z" creationid="mjaviem" creationdate="20250831T215303Z">
+        <seg>"Pero, ¿qué tan rico es Migāra de Rohana? ¿Qué tan grandes tesoros, qué tan grandes riquezas?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>“Mā, bhikkhave, pāpake akusale vitakke vitakkeyyātha, seyyathidaṁ—
 kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ.</seg>
       </tuv>
@@ -1289,6 +1315,14 @@ kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250829T192241Z" creationid="mjaviem" creationdate="20250822T235757Z">
         <seg>"Bhikkhus, cabe esperar cuatro ventajas por cuenta de un hombre de bien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Sataṁ, bhante, satasahassānaṁ hiraññassa, ko pana vādo rūpiyassā”ti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250831T220244Z" creationid="mjaviem" creationdate="20250831T220244Z">
+        <seg>"Cien, bhante, cien mil de oro, por no hablar de su plata."</seg>
       </tuv>
     </tu>
     <tu>
