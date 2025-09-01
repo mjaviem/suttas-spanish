@@ -1,23 +1,24 @@
 # Suttas Pali en Español
 
-Bienvenido al sitio de suttas pali traducidos al español.
+Bienvenido 🌿
 
-## Acerca del sitio
+Este es un espacio donde vas a encontrar traducciones al español de algunos discursos budistas del canon pali.
 
-Este sitio ofrece traducciones de algunos discursos budistas del canon pali hechas con un enfoque particular: buscar la mayor literalidad posible, priorizando el significado original de las palabras por sobre interpretaciones establecidas.
+## ¿Qué vas a encontrar acá?
 
-¿Qué significa esto en la práctica?
+La idea del sitio es ofrecer traducciones lo más literales posibles, intentando respetar el sentido original de las palabras.
 
-- **Revisión Crítica**: El punto de partida son traducciones al inglés, pero no se adoptan de manera acrítica. Cada opción terminológica y estructural se evalúa, acepta, rechaza o ajusta meticulosamente.
-- **Consulta Lexicográfica Directa**: La decisión final se toma consultando directamente el [Digital Pali Dictionary](https://dpdict.net/).
-- **Consistencia Terminológica**: Procuramos que un mismo término pali se traduzca siempre de la misma manera en todos los suttas. Esto a veces lleva a elegir opciones menos comunes pero más consistentes.
-- **Fuentes Deliberadas**: El objetivo es reflejar lo que dice el sutta, no su interpretación posterior. Por eso, se evitan deliberadamente los marcos interpretativos de los comentaristas clásicos, el Visuddhimagga y el Abhidhamma.
+En la práctica, esto significa:
 
-El resultado de este proceso es una versión que prioriza la fidelidad al texto original y su sentido literal, incluso si esto a veces hace que la estructura pali se transparente y suene un poco distinto al español común. La claridad no se sacrifica, pero se busca la precisión sobre la elegancia literaria.
+- **Traducción directa**: trabajamos desde el pali, usando diccionarios, como el [Digital Pali Dictionary](https://dpdict.net/), y versiones en inglés como apoyo.
+- **Consistencia**: un mismo término pali se traduce siempre igual, aunque suene poco habitual.
+- **Sin interpretaciones añadidas**: tratamos de mostrar lo que dice el texto, no lo que otros comentaron después.
 
-Además, tené en cuenta que las traducciones usan un español con giros rioplatenses.
+El resultado es un español sencillo pero fiel, con un toque rioplatense.
 
 ## Términos clave
+
+En las traducciones, algunas palabras se dejan en pali. Si no las conocés, podés consultar su significado acá:
 
 - **Arahant**: Digno. Merecedor.
 - **Bhante**, **bhadante**: Reverendo.
