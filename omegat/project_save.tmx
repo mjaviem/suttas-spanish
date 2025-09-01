@@ -352,6 +352,22 @@ tasmā ‘ariyasaccānī’ti vuccanti.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Idaṁ vuccati, bhikkhave, hirīdhanaṁ.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250901T230457Z" creationid="mjaviem" creationdate="20250901T230457Z">
+        <seg>Bhikkhus, esto se llama el tesoro de avergonzarse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Idaṁ vuccati, bhikkhave, ottappadhanaṁ.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250901T231527Z" creationid="mjaviem" creationdate="20250901T231527Z">
+        <seg>Bhikkhus, esto se llama el tesoro de preocuparse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Idaṁ vuccati, bhikkhave, saddhādhanaṁ.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250901T201028Z" creationid="mjaviem" creationdate="20250901T201028Z">
@@ -368,10 +384,26 @@ tasmā ‘ariyasaccānī’ti vuccanti.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Idha, bhikkhave, ariyasāvako bahussuto hoti sutadharo sutasannicayo.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250901T232724Z" creationid="mjaviem" creationdate="20250901T232724Z">
+        <seg>Aquí, bhikhus, un discípulo noble sabe mucho, retiene lo aprendido, acumula lo aprendido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Idha, bhikkhave, ariyasāvako hirīmā hoti, hirīyati kāyaduccaritena vacīduccaritena manoduccaritena, hirīyati pāpakānaṁ akusalānaṁ dhammānaṁ samāpattiyā.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250901T230403Z" creationid="mjaviem" creationdate="20250901T230403Z">
         <seg>Aquí, bhikkhus, hay vergüenza en un discípulo noble; se avergüenza de la mala conducta corporal, de la mala conducta verbal y de la mala conducta interior; se avergüenza de la consecución de cuestiones funestas que no hacen bien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Idha, bhikkhave, ariyasāvako ottappī hoti, ottappati kāyaduccaritena vacīduccaritena manoduccaritena, ottappati pāpakānaṁ akusalānaṁ dhammānaṁ samāpattiyā.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250901T231506Z" creationid="mjaviem" creationdate="20250901T231506Z">
+        <seg>Aquí, bhikkhus, hay preocupación en un discípulo; se preocupa por la mala conducta del cuerpo, por la mala conducta verbal, por la mala conducta interior; se preocupa por la consecución de cuestiones funestas que no hacen bien.</seg>
       </tuv>
     </tu>
     <tu>
@@ -569,10 +601,26 @@ tasmā ‘ariyasaccānī’ti vuccanti.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Katamañca, bhikkhave, ottappadhanaṁ?</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250901T230745Z" creationid="mjaviem" creationdate="20250901T230745Z">
+        <seg>¿Y qué es, bhikkhus, el tesoro de preocuparse?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Katamañca, bhikkhave, saddhādhanaṁ?</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250901T195810Z" creationid="mjaviem" creationdate="20250901T195810Z">
         <seg>¿Y qué es, bhikkhus, el tesoro de tener confianza?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Katamañca, bhikkhave, sutadhanaṁ?</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250901T231625Z" creationid="mjaviem" creationdate="20250901T231625Z">
+        <seg>¿Y qué es, bhikkhus, el tesoro de saber?</seg>
       </tuv>
     </tu>
     <tu>
