@@ -1,6 +1,7 @@
 # Glossary in tab-separated format -*- coding: utf-8 -*-
 ābādhāya	aflicción
 ābādhikaṁ	afligida
+abbhuggacchati	trasciende
 abhijjhā	codicia
 abhijjhālu	codicioso
 abhikkantaṁ	magnífico
@@ -16,7 +17,7 @@ abhisamparāyaṁ	ulteriores
 abhivadati	acoge
 abrahmacariyā	conducta no espiritual
 abyā pāda	inocuidad
-abyābajjhā	daños
+abyābajjhā	sin daños
 abyābajjha	inocuidad
 abyābajjhaṁyeva	inocuidad
 abyāpajjaṁ	inofensivo
@@ -53,10 +54,14 @@ anavasesaṁ	sin remanente
 aniccā	falibles
 aniccaṁ	falible
 animitto	sin signo
+ānisaṁsā	ventajas
+ānisaṁsāti	ventajas
 antaradhānaṁ	desvanecimiento
 anukampantā	compasión
 anumoditvā	alabó
+anuvicca	averiguado
 aññathābhāvī	ambigua, equívoca
+aññathattaṁ	una ambigüedad
 aparisesā	sin remanente
 apāyaṁ	penuria
 appiyā	despreciables
@@ -77,6 +82,7 @@ assāsapassāsā	respiración
 asubhā	lo asqueroso
 attā	uno mismo
 attabyābādhāyapi	hacerse daño a uno mismo
+attamanatā	felicidad
 attamano	felicidad
 atthaṅgamā	repliegue
 atthaṅgamañca	repliegue
@@ -134,6 +140,7 @@ cuti	partida
 dakkhiṇā	ofrenda
 dāna	regalar
 dāne	regalar
+datvā	habiendo dado
 desenti	enseñan
 dhammā	cuestiones
 dhammānaṁ	cuestiones
@@ -160,6 +167,7 @@ dukkhaṁ	padecimiento
 dukkhampi	dificultad
 dukkhanirodhagāminī	que conduce a la supresión de la dificultad
 dukkhāpi	de dificultad
+dukkhatā	condición dificultosa
 dukkhitaṁ	padeciendo
 duṭṭho	hostil
 ehipassikaṁ	constatable
@@ -169,6 +177,7 @@ gahapati	amo de casa
 gahapatīhi	amos de casa
 gahapatīpi	amos de casa
 gihi	quien tiene hogar
+hāpetun	menoscabar
 hirī	avergonzarse
 hitāya	bienestar
 ime	estos
@@ -182,6 +191,7 @@ jīvikaṁ	vida
 kālakiriyā	cumplimiento de tiempo
 kālaṁ karoti	cumple su tiempo
 kaḷevarassa	cadáver
+kalyāṇo	bondadoso
 kāma	sensualidad
 kāmaguṇā	hebras de la sensualidad
 kāmaguṇe	hebras de la sensualidad
@@ -202,9 +212,11 @@ kāyo	cuerpo
 khandhānaṁ	montones
 khayo	destrucción
 khīṇā	acabado
+kho	pues
 kilamati	agobiarse
 kilesa	mancilla
 kittāvatā	en qué medida
+kittisaddo	reputación
 kulaputtassa	hijo de buena familia
 kulaputto	hijo de buena familia
 kusale	que hacen bien
@@ -239,7 +251,7 @@ nandī	beneplácito
 nekkhamma	ascetismo
 nekkhamma	ascetismo
 nibbānaṁ	disipación
-nibbānāya	disipación	nibbānāya
+nibbānāya	disipación
 nibbidāya	hastío
 nibbindati	se hastía
 niccaṁ	estable
@@ -285,6 +297,8 @@ panāvuso	amigos
 paṇḍito	sabio
 paññā	entender
 paññapeti	describe
+paññāya	conocimiento
+paññāyati	se conoce
 pāpakā	funestas
 pāpakānaṁ	funestas
 pāpako	funesta
@@ -307,6 +321,7 @@ pariññāya	comprensión plena
 pariññeyyaṁ	comprendida plenamente
 parivitakko	vacilación
 pasādena	optimismo
+pasīdati	se alegra
 paṭicca	sustentado
 paṭicca	sustentado
 paṭiccasamuppādaṁ	surgimiento sustentado
@@ -319,6 +334,7 @@ paṭipannā	están dedicados
 paṭipanno	están dedicados
 paṭippassaddho	apaciguado
 paṭisaṁvedeti	experimenta
+patiṭṭhāti	reafirma
 paṭivirato	abstiene
 pātubhāvo	manifestación
 pavedeti	da a conocer
@@ -349,6 +365,7 @@ saddhammā	buen Dhamma
 saddhamme	buen Dhamma
 saddho	confianza
 sādhu	buena
+saggaṁ	paradisíaco
 saggasaṁvattaniko	conduce al paraíso
 sakadāgāmī	el que retorna una vez
 saḷāyatanaṁ	campos
@@ -381,6 +398,7 @@ saṅkappo	intención
 saṅkhārā	atribuciones
 saṅkhataṁ	atribuida
 sankhatamabhisaṅkharontīti	atribuye lo significado
+santo	virtuosos
 sañjāti	génesis
 saññā	distinción
 saññaṁ	distinción
@@ -391,6 +409,7 @@ sātaṁ	agrado
 sati	tener presente
 satiyā	tener presente
 sattā	seres
+seyyathidaṁ	lo siguiente
 sikkhāpadesu	preceptos
 sikkhitabbaṁ	adiestrarse
 sīla	comportarse
@@ -403,6 +422,7 @@ sovaggikaṁ	propicia
 sovaggiko	propicio
 sucarita	buena conducta
 sucarite	buena conducta
+sugatiṁ	buena fortuna
 sukata	buenos
 sukha	satisfacción
 sukhā	satisfacción
@@ -417,6 +437,9 @@ suta	saber
 svākkhāto	enseñado
 taṇhā	sed
 tasmātiha	por lo tanto
+tathāni	auténticas
+tatra	en este asunto
+ṭhitassa	lo permanente
 ubhayabyābādhāyapi	hacerle daño a ambos
 udapādi	surgió
 upādāna	arraigo
@@ -433,11 +456,13 @@ upāsake	seguidores laicos
 upasamāya	tranquilidad
 upāsikā	seguidora laica
 upekkhā	ecuanimidad
+uppādo	un irrumpir
 uppajjati	surge
 vācāya	verbal
 vacī	verbal
 vaḍḍhati	crece
 vāyāmo	esfuerzo
+vayo	deterioro
 vedanā	sensación
 vedanaṁ	sensación
 vedanāṁ	sensación
@@ -451,6 +476,7 @@ vicāra	planificación
 viharati	reside
 vihiṁsā	inhumanidad
 vijjā	conocimiento
+vimuttiyā	liberación
 vinaye	disciplina
 vineyya	domado
 vinipātaṁ	hundimiento
@@ -477,38 +503,12 @@ vuccati	se llama
 vūpasamo	aquietamiento
 vūpasantā	amainado
 vuṭṭhānaṁ	se termina
+vuṭṭhāti	sale
 yadidaṁ	a saber
+yaṁ	lo que fuera
 yañño	ofrenda
 yathābhūtaṁ	en verdad
+yo	lo que sea
 yogo	consagrarse a
 yoniso	cuidadosa
 yonisomanasikāro	prestar cuidadosa atención
-kho	pues
-yaṁ	lo que fuera
-dukkhatā	condición dificultosa
-tatra	en este asunto
-yo	lo que sea
-tathāni	auténticas
-santo	virtuosos
-kittisaddo	reputación
-abbhuggacchati	trasciende
-kalyāṇo	bondadoso
-sugatiṁ	buena fortuna
-saggaṁ	paradisíaco
-anuvicca	averiguado
-patiṭṭhāti	reafirma
-vuṭṭhāti	sale
-hāpetun	menoscabar
-datvā	habiendo dado
-attamanatā	felicidad
-ānisaṁsā	ventajas
-ānisaṁsāti	ventajas
-seyyathidaṁ	lo siguiente
-pasīdati	se alegra
-paññāyati	se conoce
-vayo	deterioro
-ṭhitassa	lo permanente
-aññathattaṁ	una ambigüedad
-paññāya	conocimiento
-vimuttiyā	liberación
-uppādo	un irrumpir
