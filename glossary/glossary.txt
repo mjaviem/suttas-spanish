@@ -519,3 +519,6 @@ vacasā	recitadas
 paricitā	consolidadas
 anupekkhita	reconsideradas
 bahussutā	bien aprendidas
+bahussuto	muy aprendido
+dharo	retiene
+sannicayo	acumula
