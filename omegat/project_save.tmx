@@ -376,6 +376,14 @@ tasmā ‘ariyasaccānī’ti vuccanti.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Idaṁ vuccati, bhikkhave, sutadhanaṁ.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250902T002608Z" creationid="mjaviem" creationdate="20250902T002608Z">
+        <seg>Bhikkhus, esto se llama el tesoro de saber.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Idaṁ vuccati, bhikkhave, sīladhanaṁ.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250901T203616Z" creationid="mjaviem" creationdate="20250901T203616Z">
@@ -386,24 +394,24 @@ tasmā ‘ariyasaccānī’ti vuccanti.</seg>
       <tuv lang="pi">
         <seg>Idha, bhikkhave, ariyasāvako bahussuto hoti sutadharo sutasannicayo.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20250901T232800Z" creationid="mjaviem" creationdate="20250901T232724Z">
-        <seg>Aquí, bhikkhus, un discípulo noble sabe mucho, retiene lo aprendido, acumula lo aprendido.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250902T003208Z" creationid="mjaviem" creationdate="20250901T232724Z">
+        <seg>Aquí, bhikkhus, un discípulo noble es muy aprendido, retiene lo aprendido, acumula lo aprendido.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pi">
         <seg>Idha, bhikkhave, ariyasāvako hirīmā hoti, hirīyati kāyaduccaritena vacīduccaritena manoduccaritena, hirīyati pāpakānaṁ akusalānaṁ dhammānaṁ samāpattiyā.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20250901T230403Z" creationid="mjaviem" creationdate="20250901T230403Z">
-        <seg>Aquí, bhikkhus, hay vergüenza en un discípulo noble; se avergüenza de la mala conducta corporal, de la mala conducta verbal y de la mala conducta interior; se avergüenza de la consecución de cuestiones funestas que no hacen bien.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250902T002853Z" creationid="mjaviem" creationdate="20250901T230403Z">
+        <seg>Aquí, bhikkhus, hay vergüenza en un discípulo noble; se avergüenza de la mala conducta del cuerpo, de la mala conducta verbal y de la mala conducta interior; se avergüenza de la consecución de cuestiones funestas que no hacen bien.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pi">
         <seg>Idha, bhikkhave, ariyasāvako ottappī hoti, ottappati kāyaduccaritena vacīduccaritena manoduccaritena, ottappati pāpakānaṁ akusalānaṁ dhammānaṁ samāpattiyā.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20250901T231506Z" creationid="mjaviem" creationdate="20250901T231506Z">
-        <seg>Aquí, bhikkhus, hay preocupación en un discípulo; se preocupa por la mala conducta del cuerpo, por la mala conducta verbal, por la mala conducta interior; se preocupa por la consecución de cuestiones funestas que no hacen bien.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250902T002906Z" creationid="mjaviem" creationdate="20250901T231506Z">
+        <seg>Aquí, bhikkhus, hay preocupación en un discípulo noble; se preocupa por la mala conducta del cuerpo, por la mala conducta verbal, por la mala conducta interior; se preocupa por la consecución de cuestiones funestas que no hacen bien.</seg>
       </tuv>
     </tu>
     <tu>
@@ -419,8 +427,8 @@ tasmā ‘ariyasaccānī’ti vuccanti.</seg>
         <seg>Idha, bhikkhave, ariyasāvako saddho hoti, saddahati tathāgatassa bodhiṁ:
 ‘itipi so bhagavā arahaṁ sammāsambuddho …pe… buddho bhagavā’ti.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20250901T200937Z" creationid="mjaviem" creationdate="20250901T200937Z">
-        <seg>Aquí, bhikkhus, hay confianza en un discípulo noble. Confía en el despertar del Tathāgata: 'Es así que ese Dichoso es digno, despertado cabalmente, [consumado en conocimiento y conducta, afortunado, entendedor del mundo, insuperable entrenador de aprendices, maestro de devas y humanos,] el Despierto, el Dichoso'.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250902T002837Z" creationid="mjaviem" creationdate="20250901T200937Z">
+        <seg>Aquí, bhikkhus, hay confianza en un discípulo noble. Confía en el despertar del Tathāgata: 'Así es que ese Dichoso es digno, despertado cabalmente, [consumado en conocimiento y conducta, afortunado, entendedor del mundo, insuperable entrenador de aprendices, maestro de divinidades y humanos,] el Despierto, el Dichoso'.</seg>
       </tuv>
     </tu>
     <tu>
@@ -589,6 +597,14 @@ tasmā ‘ariyasaccānī’ti vuccanti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="javier-medeot" changedate="20250111T190223Z" creationid="javier-medeot" creationdate="20250111T190223Z">
         <seg>¿Y qué es, bhikkhus, la conducta espiritual?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Katamañca, bhikkhave, cāgadhanaṁ?</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250902T002715Z" creationid="mjaviem" creationdate="20250902T002715Z">
+        <seg>¿Y qué es, bhikkhus, el tesoro de desprenderse?</seg>
       </tuv>
     </tu>
     <tu>
