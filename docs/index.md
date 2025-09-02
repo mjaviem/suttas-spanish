@@ -25,6 +25,7 @@ En las traducciones, algunas palabras se dejan en pali. Si no las conocés, pod�
 - **Bhikkhu**: Monje.
 - **Dhamma**: Principio. Enseñanza. Verdad.
 - **Saṅgha**: Congregación.
+- **Tathāgata**: Apelativo del Buda.
 
 ## Edición de los textos originales
 
