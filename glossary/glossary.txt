@@ -524,3 +524,6 @@ dharo	retiene
 sannicayo	acumula
 paññavā	sabiduría
 samayaṁ	ocasión
+nisīdi	se sentó
+nisinno	sentado
+etadavoca	dijo esto
