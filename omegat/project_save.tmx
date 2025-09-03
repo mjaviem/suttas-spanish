@@ -14,6 +14,32 @@
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Anabhiratiyā, āvuso, sati idaṁ dukkhaṁ pāṭikaṅkhaṁ—
+gacchantopi sukhaṁ sātaṁ nādhigacchati,
+ṭhitopi …
+nisinnopi …
+sayānopi …
+gāmagatopi …
+araññagatopi …
+rukkhamūlagatopi …
+suññāgāragatopi …
+abbhokāsagatopi …
+bhikkhumajjhagatopi sukhaṁ sātaṁ nādhigacchati.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250903T155023Z" creationid="mjaviem" creationdate="20250903T155023Z">
+        <seg>Amigo, al haber descontento es de esperar esta dificultad:
+No se halla satisfacción ni agrado ni andando,
+... ni de pie,
+... ni sentado,
+... ni acostado,
+... ni habiendo ido al pueblo,
+... ni habiendo ido al bosque,
+... ni a la base de un árbol,
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Aparihānañhetaṁ vuttaṁ bhagavatā’ti …pe…</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250828T192754Z" creationid="mjaviem" creationdate="20250828T192754Z">
@@ -1506,6 +1532,14 @@ upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ 
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250829T193422Z" creationid="mjaviem" creationdate="20250829T193422Z">
         <seg>"Bhikkhus, pues les enseñaré las cuestiones que no hacen bien y las cuestiones que hacen bien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Anabhirati kho, āvuso, imasmiṁ dhammavinaye dukkhā, abhirati sukhā.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250903T152856Z" creationid="mjaviem" creationdate="20250903T152856Z">
+        <seg>"Pues el descontento, amigo, en este Dhamma y disciplina, es la dificultad y el contentamiento es la satisfacción.</seg>
       </tuv>
     </tu>
     <tu>
