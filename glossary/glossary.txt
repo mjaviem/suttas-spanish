@@ -529,3 +529,5 @@ nisinno	sentado
 etadavoca	dijo esto
 pāṭikaṅkhā	cabe esperar
 agāraṁ	vivienda
+sati	al haber	sati
+pāṭikaṅkhaṁ	es de esperar
