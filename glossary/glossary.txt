@@ -531,3 +531,5 @@ pāṭikaṅkhā	cabe esperar
 agāraṁ	vivienda
 sati	al haber	sati
 pāṭikaṅkhaṁ	es de esperar
+kālaṁ	tiempo, momento
+upādāya	atado
