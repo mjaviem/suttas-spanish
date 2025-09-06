@@ -46,6 +46,7 @@ markdown_extensions:
 nav:
   - Inicio: index.md
   - Riqueza, tesoros y el paraíso:
+      - AN 4.62 Ānaṇyasutta – Discurso de no tener deudas: AN-4.62.md
       - AN 5.227 Bhogasutta – Discurso de la riqueza: AN-5.227.md
       - AN 7.7 Uggasutta – Discurso de Ugga: AN-7.7.md
       - AN 2.145 (Dānavagga): AN-2.145.md # – Capítulo de los regalos

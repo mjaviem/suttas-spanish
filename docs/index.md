@@ -2,7 +2,7 @@
 
 Bienvenido 🌿
 
-Este es un espacio donde vas a encontrar traducciones al español de algunos discursos budistas del canon pali.
+Este es un espacio con traducciones al español de algunos discursos budistas del canon pali.
 
 ## ¿Qué vas a encontrar acá?
 
