@@ -536,3 +536,5 @@ upādāya	atado
 dhammikā	genuinas
 gihinā	por quien tiene hogar
 dhāreti	debe
+idaṁ	esto
+atho	y además
