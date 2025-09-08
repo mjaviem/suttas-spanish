@@ -444,6 +444,7 @@ ubhayabyābādhāyapi	hacerle daño a ambos
 udapādi	surgió
 upādāna	arraigo
 upādānaṁ	arraigo
+upādāya	arraigando, anclando
 upadhi	adquisiciones
 upajāyatī	aparecen
 upapajjanti	reviven
@@ -532,9 +533,9 @@ agāraṁ	vivienda
 sati	al haber	sati
 pāṭikaṅkhaṁ	es de esperar
 kālaṁ	tiempo, momento
-upādāya	atado
 dhammikā	genuinas
 gihinā	por quien tiene hogar
 dhāreti	debe
 idaṁ	esto
 atho	y además
+laddha	obtenida
