@@ -570,16 +570,16 @@ tasmā ‘ariyasaccānī’ti vuccanti.</seg>
       <tuv lang="pi">
         <seg>Idha, bhikkhave, ariyasāvako hirīmā hoti, hirīyati kāyaduccaritena vacīduccaritena manoduccaritena, hirīyati pāpakānaṁ akusalānaṁ dhammānaṁ samāpattiyā.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20250902T002853Z" creationid="mjaviem" creationdate="20250901T230403Z">
-        <seg>Aquí, bhikkhus, hay vergüenza en un discípulo noble; se avergüenza de la mala conducta del cuerpo, de la mala conducta verbal y de la mala conducta interior; se avergüenza de la consecución de cuestiones funestas que no hacen bien.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250908T232723Z" creationid="mjaviem" creationdate="20250901T230403Z">
+        <seg>Aquí, bhikkhus, hay vergüenza en un discípulo noble; se avergüenza de la mala conducta corporal, de la mala conducta verbal y de la mala conducta interior; se avergüenza de la consecución de cuestiones funestas que no hacen bien.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pi">
         <seg>Idha, bhikkhave, ariyasāvako ottappī hoti, ottappati kāyaduccaritena vacīduccaritena manoduccaritena, ottappati pāpakānaṁ akusalānaṁ dhammānaṁ samāpattiyā.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20250902T002906Z" creationid="mjaviem" creationdate="20250901T231506Z">
-        <seg>Aquí, bhikkhus, hay preocupación en un discípulo noble; se preocupa por la mala conducta del cuerpo, por la mala conducta verbal, por la mala conducta interior; se preocupa por la consecución de cuestiones funestas que no hacen bien.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250908T232727Z" creationid="mjaviem" creationdate="20250901T231506Z">
+        <seg>Aquí, bhikkhus, hay preocupación en un discípulo noble; se preocupa por la mala conducta corporal, por la mala conducta verbal, por la mala conducta interior; se preocupa por la consecución de cuestiones funestas que no hacen bien.</seg>
       </tuv>
     </tu>
     <tu>
@@ -619,8 +619,8 @@ tasmā ‘ariyasaccānī’ti vuccanti.</seg>
       <tuv lang="pi">
         <seg>Idha, gahapati, ariyasāvako anavajjena kāyakammena samannāgato hoti, anavajjena vacīkammena samannāgato hoti, anavajjena manokammena samannāgato hoti.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20250908T182415Z" creationid="mjaviem" creationdate="20250906T203427Z">
-        <seg>Aquí, amo de casa, un discípulo noble está dotado de una actuación del cuerpo intachable, está dotado de una actuación verbal intachable, está dotado de una actuación interior intachable.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250908T232713Z" creationid="mjaviem" creationdate="20250906T203427Z">
+        <seg>Aquí, amo de casa, un discípulo noble está dotado de una actuación corporal intachable, está dotado de una actuación verbal intachable, está dotado de una actuación interior intachable.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1083,24 +1083,24 @@ tasmā ‘ariyasaccānī’ti vuccanti.</seg>
       <tuv lang="pi">
         <seg>Kāyaduccaritassa pahānāya kāyasucaritaṁ bhāvetabbaṁ, vacīduccaritassa pahānāya vacīsucaritaṁ bhāvetabbaṁ, manoduccaritassa pahānāya manosucaritaṁ bhāvetabbaṁ.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20250829T135007Z" creationid="javier" creationdate="20231203T141531Z">
-        <seg>Para abandonar la mala conducta del cuerpo debe ser cultivada la buena conducta del cuerpo. Para abandonar la mala conducta verbal debe ser cultivada la buena conducta verbal. Para abandonar la mala conducta interior debe ser cultivada la buena conducta interior.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250908T232701Z" creationid="javier" creationdate="20231203T141531Z">
+        <seg>Para abandonar la mala conducta corporal debe ser cultivada la buena conducta corporal. Para abandonar la mala conducta verbal debe ser cultivada la buena conducta verbal. Para abandonar la mala conducta interior debe ser cultivada la buena conducta interior.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pi">
         <seg>Kāyaduccaritaṁ, vacīduccaritaṁ, manoduccaritaṁ.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20250829T134847Z" creationid="javier" creationdate="20231203T140930Z">
-        <seg>La mala conducta del cuerpo, la mala conducta verbal, y la mala conducta interior.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250908T232633Z" creationid="javier" creationdate="20231203T140930Z">
+        <seg>La mala conducta corporal, la mala conducta verbal, y la mala conducta interior.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pi">
         <seg>Kāyasucaritaṁ, vacīsucaritaṁ, manosucaritaṁ.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20250829T134904Z" creationid="javier" creationdate="20231223T125825Z">
-        <seg>La buena conducta del cuerpo, la buena conducta verbal, y la buena conducta interior.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250908T232635Z" creationid="javier" creationdate="20231223T125825Z">
+        <seg>La buena conducta corporal, la buena conducta verbal, y la buena conducta interior.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1394,8 +1394,8 @@ Samaṇo ca sappurisānisaṁsoti.</seg>
       <tuv lang="pi">
         <seg>So ‘anavajjenamhi kāyakammena samannāgato, anavajjena vacīkammena samannāgato, anavajjena manokammena samannāgato’ti adhigacchati sukhaṁ, adhigacchati somanassaṁ.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20250908T182402Z" creationid="mjaviem" creationdate="20250906T203504Z">
-        <seg>Conque, 'Estoy dotado de una actuación del cuerpo intachable, estoy dotado de una actuación verbal intachable, estoy dotado de una actuación interior intachable', halla satisfacción, halla gozo.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250908T232716Z" creationid="mjaviem" creationdate="20250906T203504Z">
+        <seg>Conque, 'Estoy dotado de una actuación corporal intachable, estoy dotado de una actuación verbal intachable, estoy dotado de una actuación interior intachable', halla satisfacción, halla gozo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1589,10 +1589,10 @@ ubho bhoge sumedhaso;
 Anavajjasukhassetaṁ,
 kalaṁ nāgghati soḷasin”ti.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20250906T214929Z" creationid="mjaviem" creationdate="20250906T214753Z">
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250908T233736Z" creationid="mjaviem" creationdate="20250906T214753Z">
         <seg>Viendo claramente conoce,
 el inteligente ambas riquezas.
-de la satisfacción de ser intachable,
+De la satisfacción de ser intachable,
 no vale ni la dieciseisava parte."</seg>
       </tuv>
     </tu>
