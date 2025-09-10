@@ -6,7 +6,7 @@ Este es un espacio con traducciones al español de algunos discursos budistas de
 
 ## ¿Qué vas a encontrar acá?
 
-La idea del sitio es ofrecer traducciones lo más literales posibles, intentando respetar el sentido original de las palabras con la menor interpretación posible.
+La idea del sitio es ofrecer traducciones lo más literales posibles, intentando respetar el sentido original de las palabras con la menor libre interpretación posible.
 
 En la práctica, esto significa:
 
@@ -18,7 +18,7 @@ El resultado es un español sencillo pero fiel, con un toque rioplatense.
 
 ### Sobre el texto y su traducción
 
-En el Canon Pali es habitual encontrar abreviaturas, por ejemplo `...pe...` que omiten pasajes repetidos en otros suttas. Para que la lectura sea más clara, acá completamos esos pasajes con la traducción que aparece en textos paralelos y la mostramos entre corchetes.
+En el Canon Pali es habitual encontrar abreviaturas, por ejemplo `...pe...` que omiten pasajes repetidos en otros suttas. Para que la lectura sea más clara, acá a veces completamos esos pasajes usando textos paralelos y los mostramos entre corchetes.
 
 ## Términos clave
 
