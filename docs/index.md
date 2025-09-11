@@ -1,4 +1,4 @@
-# Suttas Pali en Español
+# Ecos del buen Dhamma
 
 Bienvenido 🌿
 
