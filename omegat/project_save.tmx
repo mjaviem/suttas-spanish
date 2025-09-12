@@ -1633,6 +1633,14 @@ tiene grandes tesoros en el mundo.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Yassa kho, bhikkhave, ime dhammā evaṁ paññāya mattaso nijjhānaṁ khamanti, ayaṁ vuccati: ‘dhammānusārī, okkanto sammattaniyāmaṁ, sappurisabhūmiṁ okkanto, vītivatto puthujjanabhūmiṁ; abhabbo taṁ kammaṁ kātuṁ, yaṁ kammaṁ katvā nirayaṁ vā tiracchānayoniṁ vā pettivisayaṁ vā upapajjeyya; abhabbo ca tāva kālaṁ kātuṁ yāva na sotāpattiphalaṁ sacchikaroti’.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250912T192524Z" creationid="mjaviem" creationdate="20250912T192524Z">
+        <seg>Bhikkhus, pues para quienquiera que estas cuestiones así le son aceptables tras moderada consideración con conocimiento, a esta persona se la llama seguidor del Dhamma, entrado en la norma de lo cabal, entrado en el terreno de los hombres de bien, trascendido el terreno del hombre común. Incapaz de realizar esa actuación, la actuación que fuera que haciendo reviviría en la desgracia, o en la gestación rastrera, o en el ámbito de los antepasados. Y tanto incapaz de cumplir su tiempo sin darse cuenta del resultado de adentrarse en la corriente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Yato kho ayaṁ, brāhmaṇa, anavasesaṁ rāgakkhayaṁ paṭisaṁvedeti, anavasesaṁ dosakkhayaṁ paṭisaṁvedeti, anavasesaṁ mohakkhayaṁ paṭisaṁvedeti;</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250825T213634Z" creationid="mjaviem" creationdate="20250823T202946Z">
@@ -1662,6 +1670,14 @@ ayaṁ vuccati, bhikkhave, brahmacariyattho”ti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250827T003330Z" creationid="mjaviem" creationdate="20250826T191434Z">
         <seg>Pues, bhikkhus, lo que sea destrucción del interés, destrucción del odio, destrucción del autoengaño: Bhikkhus, esto se llama el sentido de la conducta espiritual.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Yo, bhikkhave, ime dhamme evaṁ pajānāti evaṁ passati, ayaṁ vuccati: ‘sotāpanno avinipātadhammo niyato sambodhiparāyano’”ti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250912T193427Z" creationid="mjaviem" creationdate="20250912T192914Z">
+        <seg>Bhikkhus, quienquiera que entienda así, vea así, estas cuestiones, se le llama 'adentrado en la corriente, no susceptible al hundimiento, firme, inclinado hacia el despertar'."</seg>
       </tuv>
     </tu>
     <tu>
@@ -1925,8 +1941,8 @@ kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ.</seg>
       <tuv lang="pi">
         <seg>“Rūpaṁ, bhikkhave, aniccaṁ vipariṇāmi aññathābhāvi; vedanā aniccā vipariṇāmī aññathābhāvī; saññā … saṅkhārā aniccā vipariṇāmino aññathābhāvino; viññāṇaṁ aniccaṁ vipariṇāmi aññathābhāvi.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20250911T234354Z" creationid="mjaviem" creationdate="20250911T234354Z">
-        <seg>Bhikkhus, la figura es inconstante, cambiante, ambigua. Las sensaciones son inconstantes, cambiantes, ambiguas. Las distinciones... Las atribuciones son inconstantes, cambiantes, ambiguas. Los reconocimientos son inconstantes, cambiantes, ambiguos.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250912T193433Z" creationid="mjaviem" creationdate="20250911T234354Z">
+        <seg>"Bhikkhus, la figura es inconstante, cambiante, ambigua. Las sensaciones son inconstantes, cambiantes, ambiguas. Las distinciones... Las atribuciones son inconstantes, cambiantes, ambiguas. Los reconocimientos son inconstantes, cambiantes, ambiguos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2026,5 +2042,38 @@ kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">SN-25.10.txt</prop>
+      <prop type="prev">Tassuddānaṁ</prop>
+      <prop type="next">Okkantasaṁyuttaṁ samattaṁ.</prop>
+      <tuv lang="pi">
+        <seg>Cakkhu rūpañca viññāṇaṁ, phasso ca vedanāya ca; Saññā ca cetanā taṇhā, dhātu khandhena te dasāti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250912T192943Z" creationid="mjaviem" creationdate="20250912T192943Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">SN-25.10.txt</prop>
+      <prop type="prev">Dasamaṁ.</prop>
+      <prop type="next">Tassuddānaṁ</prop>
+      <tuv lang="pi">
+        <seg>Cakkhuvaggo paṭhamo.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250912T192933Z" creationid="mjaviem" creationdate="20250912T192933Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">SN-25.10.txt</prop>
+      <prop type="prev">Cakkhu rūpañca viññāṇaṁ, phasso ca vedanāya ca; Saññā ca cetanā taṇhā, dhātu khandhena te dasāti.</prop>
+      <prop type="next"></prop>
+      <tuv lang="pi">
+        <seg>Okkantasaṁyuttaṁ samattaṁ.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250912T192949Z" creationid="mjaviem" creationdate="20250912T192949Z">
+        <seg></seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
