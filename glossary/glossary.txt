@@ -275,7 +275,6 @@ niyato	firme
 ñāṇaṁ	percatarse
 Ñāṇañca	percepción
 okkanti	descenso
-okkanto	ha entrado
 opaneyyikaṁ	accesible
 opaneyyiko	accesible
 opapātikā	generación espontánea
@@ -548,3 +547,5 @@ bhūmi	terreno
 vītivatto	ha trascendido
 opapātika	no gestados
 petti	antepasados
+okkanto	entrado
+ayaṁ	esta persona
