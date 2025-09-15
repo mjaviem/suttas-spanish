@@ -432,7 +432,6 @@ sukhāya	satisfacción
 sumano	radiante
 sumedhaso	inteligente
 suññato	vacío
-suta	saber
 svākkhāto	enseñado
 taṇhā	sed
 tasmātiha	por lo tanto
@@ -518,8 +517,6 @@ dhātā	recordadas
 vacasā	recitadas
 paricitā	consolidadas
 anupekkhita	reconsideradas
-bahussutā	bien aprendidas
-bahussuto	muy aprendido
 dharo	retiene
 sannicayo	acumula
 paññavā	sabiduría
@@ -549,3 +546,6 @@ opapātika	no gestados
 petti	antepasados
 okkanto	entrado
 ayaṁ	esta persona
+suta	escuchar
+bahussutā	bien escuchadas
+bahussuto	de mucho escuchar
