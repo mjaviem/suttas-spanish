@@ -105,8 +105,6 @@ Bhagavato	Dichoso
 bhante	reverendo
 bhava	advenimiento
 bhavā	advenimiento
-bhāvetabbā	cultivar
-bhāvito	cultiva
 bhavo	advenimiento
 bhayā	temor
 bhedā	desintegración
@@ -549,3 +547,5 @@ ayaṁ	esta persona
 suta	escuchar
 bahussutā	bien escuchadas
 bahussuto	de mucho escuchar
+bhāvetabbā	suscitar
+bhāvito	suscita
