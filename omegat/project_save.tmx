@@ -1834,6 +1834,22 @@ upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ 
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>“Abhiratena kho, āvuso, dhammānudhammappaṭipatti dukkarā”ti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250917T161203Z" creationid="mjaviem" creationdate="20250917T161203Z">
+        <seg>"Pues para el contentado, amigo, el contentamiento es lo difícil de conseguir."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Abhiratena panāvuso, kiṁ dukkaran”ti?</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250917T161101Z" creationid="mjaviem" creationdate="20250917T161054Z">
+        <seg>"Pero amigo, ¿qué es lo difícil de conseguir para el contentado?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>“Akusale ca kho, bhikkhave, dhamme desessāmi, kusale ca dhamme.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250829T193422Z" creationid="mjaviem" creationdate="20250829T193422Z">
@@ -1989,16 +2005,16 @@ kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ.</seg>
       <tuv lang="pi">
         <seg>“Pabbajitena kho, āvuso, abhirati dukkarā”ti.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20250917T155521Z" creationid="mjaviem" creationdate="20250917T155521Z">
-        <seg>"Pues</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250917T160455Z" creationid="mjaviem" creationdate="20250917T155521Z">
+        <seg>"Pues para quien partió, amigo, el contentamiento es lo difícil de conseguir."</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pi">
         <seg>“Pabbajitena panāvuso, kiṁ dukkaran”ti?</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20250917T134521Z" creationid="mjaviem" creationdate="20250917T133948Z">
-        <seg>"Y amigo, ¿qué es lo difícil de conseguir para quien partió?"</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250917T160655Z" creationid="mjaviem" creationdate="20250917T133948Z">
+        <seg>"Pero amigo, ¿qué es lo difícil de conseguir para quien partió?"</seg>
       </tuv>
     </tu>
     <tu>
