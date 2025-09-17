@@ -44,7 +44,6 @@ markdown_extensions:
       permalink: true
 
 nav:
-  - Inicio: index.md
   - Riqueza, tesoros y el paraíso:
       - AN 4.62 Ānaṇyasutta – Discurso de no tener deudas: AN-4.62.md
       - AN 5.227 Bhogasutta – Discurso de la riqueza: AN-5.227.md
@@ -57,28 +56,28 @@ nav:
       - AN 5.245 Dutiyaduccaritasutta – Discurso segundo de la mala conducta: AN-5.245.md
       - AN 5.35 Dānānisaṁsasutta – Discurso de las ventajas de regalar: AN-5.35.md
       - AN 8.33 Dānavatthusutta – Discurso de los fundamentos de regalar: AN-8.33.md
-  - En este Dhamma:
+  - En este Dhamma y disciplina:
       - AN 10.66 Dutiyasukhasutta – Discurso segundo de la satisfacción: AN-10.66.md
       - SN 39.16 Dukkarasutta – Discurso de lo difícil de conseguir: SN-39.16.md
       - AN 3.55 Nibbutasutta – Discurso de lo disipado: AN-3.55.md
-  - Hombres de bien y conducta espiritual:
       - AN 4.242 Sappurisānisaṁsasutta – Discurso de las ventajas de un hombre de bien: AN-4.242.md
       - SN 55.55 Sotāpattiphalasutta – Discurso del resultado de adentrarse en la corriente: SN-55.55.md
       - SN  13.1 Nakhasikhāsutta – Discurso del borde de la uña: SN-13.1.md
       - SN  25.10 Khandhasutta – Discurso de los montones: SN-25.10.md
+  - Conducta espiritual:
       - AN 2.64 (Sukhavagga): AN-2.64.md # – Capítulo de la satisfacción
-      - SN 45.22 Akusaladhammasutta – Discurso de lo perjudicial: SN-45.22.md
       - SN 45.39 Paṭhamabrahmacariyasutta – Discurso primero de la conducta espiritual: SN-45.39.md
       - SN 45.40 Dutiyabrahmacariyasutta – Discurso segundo de la conducta espiritual: SN-45.40.md
+      - SN 45.22 Akusaladhammasutta – Discurso de lo perjudicial: SN-45.22.md
       - AN 2.65 (Sukhavagga): AN-2.65.md # – Capítulo de la satisfacción
       - SN  35.98 Saṁvarasutta – Discurso del autocontrol: SN-35.98.md
       - AN 2.70 (Sukhavagga): AN-2.70.md # – Capítulo de la satisfacción
-  - Meditación y verdades nobles:
       - AN 6.107 Rāgasutta – Discurso del interés: AN-6.107.md
       - AN 1.17 (Nīvaraṇappahānavagga): AN-1.17.md # – Capítulo del abandono de las obstrucciones
       - SN 56.1 Samādhisutta  – Discurso de la compostura: SN-56.1.md
       - SN 56.27 Tathasutta – Discurso de lo auténtico: SN-56.27.md
       - SN 56.7 Vitakkasutta – Discurso del propósito: SN-56.7.md
+  - Sabiduría:
       - Dificultad y surgimiento sustentado:
         - SN 45.165 Dukkhatāsutta – Discurso de las condiciones dificultosas: SN-45.165.md
         - AN 3.47 Saṅkhatalakkhaṇasutta – Discurso de las marcas de lo atribuido: AN-3.47.md
