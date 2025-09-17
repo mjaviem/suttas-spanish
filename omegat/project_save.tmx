@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="pi">
+        <seg>(Purimakasadisaṁ uddānaṁ.)</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250917T161814Z" creationid="mjaviem" creationdate="20250917T161814Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Abhiratiyā, āvuso, sati idaṁ sukhaṁ pāṭikaṅkhan”ti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250903T205302Z" creationid="mjaviem" creationdate="20250903T205302Z">
@@ -1481,6 +1489,22 @@ imāni vuccanti, bhikkhave, brahmacariyaphalānī”ti.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Soḷasamaṁ.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250917T161810Z" creationid="mjaviem" creationdate="20250917T161810Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Sāmaṇḍakasaṁyuttaṁ samattaṁ.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250917T161817Z" creationid="mjaviem" creationdate="20250917T161817Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Sāvatthinidānaṁ.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250823T003004Z" creationid="mjaviem" creationdate="20250823T003004Z">
@@ -1836,8 +1860,8 @@ upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ 
       <tuv lang="pi">
         <seg>“Abhiratena kho, āvuso, dhammānudhammappaṭipatti dukkarā”ti.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20250917T161203Z" creationid="mjaviem" creationdate="20250917T161203Z">
-        <seg>"Pues para el contentado, amigo, el contentamiento es lo difícil de conseguir."</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250917T161301Z" creationid="mjaviem" creationdate="20250917T161203Z">
+        <seg>"Pues para el contentado, amigo, dedicarse al Dhamma en concordancia con el Dhamma es lo difícil de conseguir."</seg>
       </tuv>
     </tu>
     <tu>
@@ -1978,11 +2002,27 @@ upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ 
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>“Kīvaciraṁ panāvuso, dhammānudhammappaṭipanno bhikkhu arahaṁ assā”ti?</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250917T161707Z" creationid="mjaviem" creationdate="20250917T161707Z">
+        <seg>"Pero amigo, ¿Cuánto tiempo hasta que un bhikkhu dedicado al Dhamma en concordancia con el Dhamma sea Arahant?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>“Mā, bhikkhave, pāpake akusale vitakke vitakkeyyātha, seyyathidaṁ—
 kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250829T202634Z" creationid="mjaviem" creationdate="20250829T202226Z">
         <seg>"Bhikkhus, no se propongan propósitos funestos que no hacen bien; los siguientes: propósitos de sensualismo, propósitos de malevolencia, propósitos de inhumanidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Naciraṁ, āvuso”ti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250917T161754Z" creationid="mjaviem" creationdate="20250917T161754Z">
+        <seg>"No mucho tiempo, amigo."</seg>
       </tuv>
     </tu>
     <tu>
