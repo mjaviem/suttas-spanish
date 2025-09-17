@@ -657,6 +657,22 @@ tasmā ‘ariyasaccānī’ti vuccanti.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Idha, bhikkhave, bhikkhu akkhamo hoti rūpānaṁ, akkhamo saddānaṁ, akkhamo gandhānaṁ, akkhamo rasānaṁ, akkhamo phoṭṭhabbānaṁ.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250917T201223Z" creationid="mjaviem" creationdate="20250917T201223Z">
+        <seg>Aquí, bhikkhus, un bhikkhu es intolerante con las figuras, intolerante con los sonidos, intolerante con los olores, intolerante con los sabores, intolerante con los tangibles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Idha, bhikkhave, bhikkhu khamo hoti rūpānaṁ, khamo saddānaṁ, khamo gandhānaṁ, khamo rasānaṁ, khamo phoṭṭhabbānaṁ.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250917T201256Z" creationid="mjaviem" creationdate="20250917T201256Z">
+        <seg>Aquí, bhikkhus, un bhikkhu es tolerante con las figuras, tolerante con los sonidos, tolerante con los olores, tolerante con los sabores, tolerante con los tangibles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Idha, gahapati, ariyasāvako anavajjena kāyakammena samannāgato hoti, anavajjena vacīkammena samannāgato hoti, anavajjena manokammena samannāgato hoti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250908T232713Z" creationid="mjaviem" creationdate="20250906T203427Z">
@@ -773,6 +789,22 @@ tasmā ‘ariyasaccānī’ti vuccanti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250829T193939Z" creationid="mjaviem" creationdate="20250829T193939Z">
         <seg>Bhikkhus, esto se llama cuestiones que hacen bien.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Imehi kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu abhabbo sammāsamādhiṁ upasampajja viharituṁ.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250917T200501Z" creationid="mjaviem" creationdate="20250917T200501Z">
+        <seg>Bhikkhus, pues un bhikkhu dotado con estas cinco cuestiones es incapaz de residir alcanzando la compostura cabal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Imehi kho, bhikkhave, pañcahi dhammehi samannāgato bhikkhu bhabbo sammāsamādhiṁ upasampajja viharitun”ti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250917T201345Z" creationid="mjaviem" creationdate="20250917T200629Z">
+        <seg>Bhikkhus, pues un bhikkhu dotado con estas cinco cuestiones es capaz de residir alcanzando la compostura cabal."</seg>
       </tuv>
     </tu>
     <tu>
@@ -1243,6 +1275,14 @@ kiñci viññāṇaṁ, yaṁ viññāṇaṁ niccaṁ dhuvaṁ sassataṁ avipa
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250828T191727Z" creationid="javier" creationdate="20231213T235239Z">
         <seg>Porque esto ha sido llamado menguar por el Dichoso'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Pañcahi, bhikkhave, dhammehi samannāgato bhikkhu bhabbo sammāsamādhiṁ upasampajja viharituṁ.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20250917T200601Z" creationid="mjaviem" creationdate="20250917T200601Z">
+        <seg>Bhikkhus, un bhikkhu dotado con cinco cuestiones es capaz de residir alcanzando la compostura cabal.</seg>
       </tuv>
     </tu>
     <tu>
