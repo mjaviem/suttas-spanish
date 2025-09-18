@@ -565,3 +565,4 @@ khamo	tolerante
 imehi	aquí
 pajānāti	sabe
 paññā	el saber
+jānāti	entiende
