@@ -288,11 +288,9 @@ pahātabbaṁ	abandonar
 pahātabbo	abandonar
 pahāya	abandonado
 pahīne	abandona
-pajānāti	entiende
 pāṇātipātā	quitar vidas
 panāvuso	amigos
 paṇḍito	sabio
-paññā	entender
 paññapeti	describe
 paññāya	sabiduría
 paññāyati	se sabe de
@@ -565,3 +563,5 @@ upasampajja	alcanzando
 akkhamo	intolerante
 khamo	tolerante
 imehi	aquí
+pajānāti	sabe
+paññā	el saber
