@@ -346,8 +346,6 @@ rūpā	figura
 rūpaṁ	figura
 rūpānaṁ	figura
 ruppati	desfigurada
-sacchikātabbaṁ	darse cuenta
-sacchikatvā	darse cuenta
 saddhā	tener confianza
 saddho	confianza
 sādhu	buena
@@ -566,3 +564,5 @@ dhammehi	cuestiones, principios
 dhammo	cuestiones, principios
 saddhammā	los buenos principios
 saddhamme	los buenos principios
+sacchikātabbaṁ	atestiguar
+sacchikatvā	atestiguar
