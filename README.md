@@ -7,10 +7,10 @@ This site provides translations of Buddhist discourses (suttas) from the Pali Ca
 
 ### Key Features
 
-- **Literal Approach**: Prioritizes the original meaning of Pali words.
-- **Terminological Consistency**: The same Pali term is translated consistently throughout all suttas.
-- **Direct Source Consultation**: Final translations are based on the [Digital Pali Dictionary](https://dpdict.net/).
-- **Text-Focused**: Avoids frameworks from later commentaries, aiming to reflect the original sutta texts.
+- **Literal Approach**: Prioritizes the original meaning of Pali words. Translations are direct from Pali, using dictionaries and English versions as support.
+- **Terminological Consistency**: The same Pali term is translated consistently throughout all suttas, even if the result sounds unusual in Spanish.
+- **Text-Focused**: This translation stays close to the sutta itself, without adding interpretations or commentary.
+-- **Direct Source Consultation**: Final translations are based on the [Digital Pali Dictionary](https://dpdict.net/).
 
 This process ensures precision and fidelity to the source material, even when it results in phrasing that reflects Pali syntax.
 
@@ -25,6 +25,19 @@ The completed translations are available in two formats:
 ## 🛠 Translation Process
 
 Translation workflow and management are handled using [OmegaT](https://omegat.org/), a professional computer-assisted translation (CAT) tool. This allows us to maintain a consistent glossary and translation memory across the entire project.
+
+### Abbreviations and Editing of Original Texts
+
+In the Pali Canon, abbreviations such as `...pe...` are commonly used to omit passages repeated in other suttas. For clarity, these passages are sometimes completed using parallel texts and shown in brackets.
+## Key Pali Terms
+
+Some words are left untranslated in Pali. If you are not familiar with them, here are their meanings:
+
+- **Arahant**: Worthy. Deserving.
+- **Bhante**, **bhadante**: Reverend.
+- **Bhikkhu**: Monk.
+- **Saṅgha**: Congregation.
+- **Tathāgata**: Epithet of the Buddha.
 
 ## 🤝 How to Contribute
 

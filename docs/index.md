@@ -1,6 +1,6 @@
 # Ecos del buen Dhamma
 
-Bienvenido 🌿
+Bienvenido/a 🌿
 
 ## ¿Qué encontrarás en este sitio?
 
@@ -27,7 +27,6 @@ En las traducciones, algunas palabras se dejan en pali. Si no las conocés, pod�
 - **Arahant**: Digno. Merecedor.
 - **Bhante**, **bhadante**: Reverendo.
 - **Bhikkhu**: Monje.
-- **Dhamma**: Principios. Enseñanza. Verdad.
 - **Saṅgha**: Congregación.
 - **Tathāgata**: Apelativo del Buda.
 
