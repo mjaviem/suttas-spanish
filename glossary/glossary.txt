@@ -68,8 +68,6 @@ appiyā	despreciables
 ariya	noble
 ariyasāvako	discípulo noble
 ariyo aṭṭhaṅgiko maggo	Camino Óctuple Noble
-asaddhammā	mal Dhamma
-asaddhamme	mal Dhamma
 asaṁvarañca	desenfreno
 asaṁvaro	desenfreno
 āsava	secreciones
@@ -140,11 +138,6 @@ dāna	regalar
 dāne	regalar
 datvā	habiendo dado
 desenti	enseñan
-dhammā	cuestiones
-dhammānaṁ	cuestiones
-dhamme	cuestiones
-dhammehi	cuestiones
-dhammo	cuestiones
 dhanā	tesoros
 dhanāni	tesoro
 dhuvaṁ	continua
@@ -356,8 +349,6 @@ ruppati	desfigurada
 sacchikātabbaṁ	darse cuenta
 sacchikatvā	darse cuenta
 saddhā	tener confianza
-saddhammā	buen Dhamma
-saddhamme	buen Dhamma
 saddho	confianza
 sādhu	buena
 saggaṁ	paradisíaco
@@ -566,3 +557,12 @@ imehi	aquí
 pajānāti	sabe
 paññā	el saber
 jānāti	entiende
+asaddhammā	malos principios
+asaddhamme	malos principios
+dhammā	cuestiones, principios
+dhammānaṁ	cuestiones, principios
+dhamme	cuestiones, principios
+dhammehi	cuestiones, principios
+dhammo	cuestiones, principios
+saddhammā	los buenos principios
+saddhamme	los buenos principios
