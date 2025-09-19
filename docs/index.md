@@ -37,6 +37,10 @@ Mahāsaṅgīti Tipiṭaka Buddhavasse 2500
 ## Licencia
 Este proyecto pertenece al dominio público bajo la licencia [CC0 1.0 Universal](https://github.com/mjaviem/suttas-spanish/blob/main/LICENSE).
 
+## Comunidad y participación
+
+¿Te gustaría comentar o sugerir? Crea una conversación en [GitHub Discussions](https://github.com/mjaviem/suttas-spanish/discussions/new/choose).
+
 ---
 
 *Traducido por mjaviem*
