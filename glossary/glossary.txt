@@ -227,7 +227,6 @@ kāmaguṇe	hebras de la sensualidad
 kāmānaṁ	sensualidad
 kāmehi	sensualidad
 kāmesu	sensualidad
-kamma	actuación
 kammānaṁ	actos
 kantā	amenos
 kantāya	ameno
@@ -582,3 +581,11 @@ jaraṁ	decrepitud
 byādhiṁ	afecciones
 vinābhāvo	separación
 nānābhāvo	división
+kamma	actos
+appiyehi	despreciables
+dāyādehi	herederos
+kammena	actuación
+kammaṁ	actos
+bandhu	vinculado
+paṭisaraṇo	refugio
+dāyādo	heredero
