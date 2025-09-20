@@ -18,11 +18,11 @@ abhisamparāyaṁ	ulteriores
 abhivadanti	pregonan
 abhivadati	acoge
 abrahmacariyā	conducta no espiritual
-abyā pāda	inocuidad
+abyāpāda	inocuidad
 abyābajjha	inocuidad
 abyābajjhā	sin daños
 abyābajjhaṁyeva	inocuidad
-abyāpajjaṁ	inofensivo
+abyāpajjaṁ	inocuo
 adhigacchati	halla
 adhigamanīyāni	hallar
 adhigato	hallada
@@ -56,8 +56,8 @@ anaññathāni	inequívocas
 anāsavā	sin secreciones
 anattā	no uno mismo
 anavasesaṁ	sin remanente
-aniccā	falibles
-aniccaṁ	falible
+aniccā	inconstantes
+aniccaṁ	inconstante
 animitto	sin signo
 ānisaṁsā	ventajas
 ānisaṁsāti	ventajas
@@ -70,7 +70,7 @@ aññathābhāvī	ambigua, equívoca
 aññathattaṁ	una ambigüedad
 aparisesā	sin remanente
 apāyaṁ	penuria
-Appamattako	Insignificante
+appamattako	insignificante
 appiyā	despreciables
 ariya	noble
 ariyasāvako	discípulo noble
@@ -568,3 +568,4 @@ yo	quienquiera
 yogo	consagrarse a
 yoniso	cuidadosa
 yonisomanasikāro	prestar cuidadosa atención
+ayameva	precisamente
