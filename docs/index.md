@@ -39,7 +39,7 @@ Este proyecto pertenece al dominio público bajo la licencia [CC0 1.0 Universal]
 
 ## Comunidad y participación
 
-¿Te gustaría comentar o sugerir? Crea una conversación en [GitHub Discussions](https://github.com/mjaviem/suttas-spanish/discussions/new/choose).
+¿Te gustaría comentar o sugerir algo? Creá una conversación en [GitHub Discussions](https://github.com/mjaviem/suttas-spanish/discussions/new/choose).
 
 ---
 
