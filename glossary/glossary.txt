@@ -592,3 +592,5 @@ dāyādo	heredero
 attha	sentido
 atthavasaṁ	provecho	atthavasaṁ
 paccavekkhitabbaṁ	debe ser reflexionado
+sattānaṁ	sujetos
+mada	embriaguez
