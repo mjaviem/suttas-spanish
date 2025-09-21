@@ -590,7 +590,11 @@ bandhu	vinculado
 paṭisaraṇo	refugio
 dāyādo	heredero
 attha	sentido
-atthavasaṁ	provecho	atthavasaṁ
+atthavasaṁ	provecho
 paccavekkhitabbaṁ	debe ser reflexionado
 sattānaṁ	sujetos
 mada	embriaguez
+caranti	se conducen
+pahīyati	es abandonado
+tanu	disminuida
+pana	al menos
