@@ -118,11 +118,11 @@ bhagavā	Dichoso
 Bhagavant	Dichoso
 Bhagavato	Dichoso
 bhante	reverendo
-bhava	advenimiento
-bhavā	advenimiento
+bhava	devenir
+bhavā	devenir
 bhāvetabbā	suscitar
 bhāvito	suscita
-bhavo	advenimiento
+bhavo	devenir
 bhayā	temor
 bhedā	desintegración
 bhedo	desintegración
@@ -456,7 +456,7 @@ sātaṁ	agrado
 sati	estar presente
 sati	tener presente
 satiyā	tener presente
-sattā	seres
+sattā	sujetos
 seyyathidaṁ	lo siguiente
 sikkhāpadesu	preceptos
 sikkhitabbaṁ	adiestrarse
@@ -607,3 +607,8 @@ sabbaso	totalmente
 paccavekkhato	reflexiona
 paṭisañcikkhati	reconsidera
 sabbe	todos
+āgati	venida
+gati	curso
+upapatti	advenimiento
+maggo	camino
+sañjāyati	nace
