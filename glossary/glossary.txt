@@ -615,3 +615,4 @@ sañjāyati	nace
 bhāveti	suscita
 bahulīkaroti	entrena
 āsevati	practica
+yo	cual sea
