@@ -550,8 +550,8 @@ tasmā ‘ariyasaccānī’ti vuccanti.</seg>
       <tuv lang="pi">
         <seg>Evaṁ kho, bhikkhave, puggalo sakiṁ nimuggo nimuggova hoti.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20251020T213904Z" creationid="mjaviem" creationdate="20251020T213904Z">
-        <seg>Pues así es, bhikkhus, un individuo que una vez sumergido, permanece sumergido.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20251020T233653Z" creationid="mjaviem" creationdate="20251020T213904Z">
+        <seg>Pues así es, bhikkhus, que un individuo una vez sumergido, permanece sumergido.</seg>
       </tuv>
     </tu>
     <tu>
@@ -813,6 +813,14 @@ tasmā ‘ariyasaccānī’ti vuccanti.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Idha, bhikkhave, ekacco puggalo ummujjati sādhu saddhā kusalesu dhammesu, sādhu hirī …pe… sādhu ottappaṁ … sādhu vīriyaṁ … sādhu paññā kusalesu dhammesūti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20251020T235853Z" creationid="mjaviem" creationdate="20251020T234355Z">
+        <seg>Aquí, bhikkhus, cierto individuo emerge: "Tener confianza respecto a las cuestiones que hacen bien es bueno, avergonzarse... es bueno, preocuparse... es bueno, pujar... es bueno, saber respecto a las cuestiones que hacen bien es bueno"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Idha, gahapati, ariyasāvako anavajjena kāyakammena samannāgato hoti, anavajjena vacīkammena samannāgato hoti, anavajjena manokammena samannāgato hoti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250908T232713Z" creationid="mjaviem" creationdate="20250906T203427Z">
@@ -823,8 +831,8 @@ tasmā ‘ariyasaccānī’ti vuccanti.</seg>
       <tuv lang="pi">
         <seg>Idha, gahapati, kulaputtassa bhogā honti uṭṭhānavīriyādhigatā bāhābalaparicitā sedāvakkhittā dhammikā dhammaladdhā.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20250923T210902Z" creationid="mjaviem" creationdate="20250905T202856Z">
-        <seg>Aquí, amo de casa, un hijo de buena familia tiene riquezas, halladas por levantarse y esforzarse, acumuladas con la fuerza de los brazos, con el sudor de la frente, genuinas, obtenidas de forma genuina.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20251020T235032Z" creationid="mjaviem" creationdate="20250905T202856Z">
+        <seg>Aquí, amo de casa, un hijo de buena familia tiene riquezas, halladas por levantarse y pujar, acumuladas con la fuerza de los brazos, con el sudor de la frente, genuinas, obtenidas de forma genuina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -839,8 +847,8 @@ tasmā ‘ariyasaccānī’ti vuccanti.</seg>
       <tuv lang="pi">
         <seg>Idha, gahapati, kulaputto uṭṭhānavīriyādhigatehi bhogehi bāhābalaparicitehi sedāvakkhittehi dhammikehi dhammaladdhehi paribhuñjati puññāni ca karoti.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20250906T142319Z" creationid="mjaviem" creationdate="20250906T142319Z">
-        <seg>Aquí, amo de casa, un hijo de buena familia, disfruta de la riqueza hallada por levantarse y esforzarse, acumulada con la fuerza de los brazos, con el sudor de la frente, genuina, obtenida de forma genuina y hace méritos.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20251020T235032Z" creationid="mjaviem" creationdate="20250906T142319Z">
+        <seg>Aquí, amo de casa, un hijo de buena familia, disfruta de la riqueza hallada por levantarse y pujar, acumulada con la fuerza de los brazos, con el sudor de la frente, genuina, obtenida de forma genuina y hace méritos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1287,8 +1295,16 @@ tasmā ‘ariyasaccānī’ti vuccanti.</seg>
       <tuv lang="pi">
         <seg>Kathañca, bhikkhave, puggalo sakiṁ nimuggo nimuggova hoti?</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20251020T212940Z" creationid="mjaviem" creationdate="20251020T212842Z">
-        <seg>"¿Y cómo es, bhikkhus, un individuo que una vez sumergido, permanece sumergido?</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20251020T233635Z" creationid="mjaviem" creationdate="20251020T212842Z">
+        <seg>"¿Y cómo es, bhikkhus, que un individuo una vez sumergido, permanece sumergido?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Kathañca, bhikkhave, puggalo ummujjitvā nimujjati?</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20251020T233746Z" creationid="mjaviem" creationdate="20251020T233746Z">
+        <seg>"¿Y cómo es, bhikkhus, que un individuo habiendo siquiera emergido, se sumerge?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1762,8 +1778,8 @@ Samaṇo ca sappurisānisaṁsoti.</seg>
       <tuv lang="pi">
         <seg>So ‘bhogā me atthi uṭṭhānavīriyādhigatā bāhābalaparicitā sedāvakkhittā dhammikā dhammaladdhā’ti adhigacchati sukhaṁ, adhigacchati somanassaṁ.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20250923T210955Z" creationid="mjaviem" creationdate="20250905T203304Z">
-        <seg>Conque, 'tengo riquezas, halladas por levantarse y esforzarse, acumuladas con la fuerza de los brazos, con el sudor de la frente, genuinas, obtenidas de forma genuina', halla satisfacción, halla gozo.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20251020T235032Z" creationid="mjaviem" creationdate="20250905T203304Z">
+        <seg>Conque, 'tengo riquezas, halladas por levantarse y pujar, acumuladas con la fuerza de los brazos, con el sudor de la frente, genuinas, obtenidas de forma genuina', halla satisfacción, halla gozo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1778,8 +1794,8 @@ Samaṇo ca sappurisānisaṁsoti.</seg>
       <tuv lang="pi">
         <seg>So ‘uṭṭhānavīriyādhigatehi bhogehi bāhābalaparicitehi sedāvakkhittehi dhammikehi dhammaladdhehi paribhuñjāmi puññāni ca karomī’ti adhigacchati sukhaṁ, adhigacchati somanassaṁ.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20250908T182322Z" creationid="mjaviem" creationdate="20250906T142603Z">
-        <seg>Conque, 'disfruto de la riqueza hallada por levantarse y esforzarse, acumulada con la fuerza de los brazos, con el sudor de la frente, genuina, obtenida de forma genuina y hago méritos', halla satisfacción, halla gozo.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20251020T235032Z" creationid="mjaviem" creationdate="20250906T142603Z">
+        <seg>Conque, 'disfruto de la riqueza hallada por levantarse y pujar, acumulada con la fuerza de los brazos, con el sudor de la frente, genuina, obtenida de forma genuina y hago méritos', halla satisfacción, halla gozo.</seg>
       </tuv>
     </tu>
     <tu>
