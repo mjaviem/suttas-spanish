@@ -51,7 +51,6 @@ akusalehi	que no hacen bien
 āmisa	mundano
 anabhinanditvā	sin aprobar
 anabhirati	descontento
-anāgāmī	el que no retorna
 anaññathāni	inequívocas
 anāsavā	sin secreciones
 anattā	no uno mismo
@@ -409,7 +408,6 @@ saddho	confianza
 sādhu	buena
 saggaṁ	paradisíaco
 saggasaṁvattaniko	conduce al paraíso
-sakadāgāmī	el que retorna una vez
 saḷāyatanaṁ	campos
 samādhi	compostura
 samādhijaṁ	compostura
@@ -621,3 +619,5 @@ anusayā	lo latente
 byantīhonti	es finalizado
 jigucchanti	le huyen
 hirīmā	vergüenza
+anāgāmī	el no llegado
+sakadāgāmī	el llegado una vez
