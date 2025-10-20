@@ -313,7 +313,6 @@ okkanti	descenso
 okkanto	entrado
 opaneyyikaṁ	accesible
 opaneyyiko	accesible
-opapātikā	generación espontánea
 opapātika	no gestados
 ottappa	preocuparse
 pabbajita	quien partió
