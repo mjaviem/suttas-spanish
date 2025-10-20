@@ -797,6 +797,14 @@ tasmā ‘ariyasaccānī’ti vuccanti.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Idha, bhikkhave, ekacco puggalo samannāgato hoti ekantakāḷakehi akusalehi dhammehi.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20251020T213749Z" creationid="mjaviem" creationdate="20251020T213749Z">
+        <seg>Aquí, bhikkhus, cierto individuo está dotado de cuestiones que no hacen bien exclusivamente oscuras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Idha, gahapati, ariyasāvako anavajjena kāyakammena samannāgato hoti, anavajjena vacīkammena samannāgato hoti, anavajjena manokammena samannāgato hoti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250908T232713Z" creationid="mjaviem" creationdate="20250906T203427Z">
@@ -1265,6 +1273,14 @@ tasmā ‘ariyasaccānī’ti vuccanti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250828T190812Z" creationid="javier" creationdate="20231213T231650Z">
         <seg>"¿Y cómo hay, bhikkhus, desenfreno?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Kathañca, bhikkhave, puggalo sakiṁ nimuggo nimuggova hoti?</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20251020T212940Z" creationid="mjaviem" creationdate="20251020T212842Z">
+        <seg>"¿Y cómo es, bhikkhus, un individuo que una vez sumergido, permanece sumergido?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2595,8 +2611,8 @@ kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ.</seg>
       <tuv lang="pi">
         <seg>“Sattime, bhikkhave, udakūpamā puggalā santo saṁvijjamānā lokasmiṁ.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20251020T201023Z" creationid="mjaviem" creationdate="20251020T201023Z">
-        <seg>Bhikkhus, estos siete individuos comparados con el agua se encuentran presentes en el mundo.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20251020T212722Z" creationid="mjaviem" creationdate="20251020T201023Z">
+        <seg>Bhikkhus, estos siete individuos, con símil del agua, se encuentran presentes en el mundo.</seg>
       </tuv>
     </tu>
     <tu>
