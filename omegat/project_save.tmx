@@ -564,6 +564,22 @@ tasmā ‘ariyasaccānī’ti vuccanti.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Evaṁ kho, bhikkhave, puggalo ummujjitvā patarati.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20251021T002737Z" creationid="mjaviem" creationdate="20251021T002737Z">
+        <seg>Pues así es, bhikkhus, que un individuo habiendo emergido atraviesa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Evaṁ kho, bhikkhave, puggalo ummujjitvā patigādhappatto hoti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20251021T004111Z" creationid="mjaviem" creationdate="20251021T004111Z">
+        <seg>Pues así es, bhikkhus, que un individuo habiendo emergido, alcanza asiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Evaṁ kho, bhikkhave, puggalo ummujjitvā vipassati viloketi.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20251021T001955Z" creationid="mjaviem" creationdate="20251021T001955Z">
@@ -1341,6 +1357,22 @@ tasmā ‘ariyasaccānī’ti vuccanti.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Kathañca, bhikkhave, puggalo ummujjitvā patigādhappatto hoti?</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20251021T002804Z" creationid="mjaviem" creationdate="20251021T002804Z">
+        <seg>"¿Y cómo es, bhikkhus, que un individuo habiendo emergido, alcanza asiento?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Kathañca, bhikkhave, puggalo ummujjitvā tiṇṇo hoti pāraṅgato thale tiṭṭhati brāhmaṇo.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20251021T004301Z" creationid="mjaviem" creationdate="20251021T004301Z">
+        <seg>¿Y cómo es, bhikkhus, que un individuo que emerge, ha cruzado, ha ido más allá,  un brahmán que se queda en tierra firme?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Kathañca, bhikkhave, puggalo ummujjitvā vipassati viloketi?</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20251021T001542Z" creationid="mjaviem" creationdate="20251021T001542Z">
@@ -1808,6 +1840,14 @@ Samaṇo ca sappurisānisaṁsoti.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>So pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ parikkhayā opapātiko hoti tattha parinibbāyī anāvattidhammo tasmā lokā.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20251021T004042Z" creationid="mjaviem" creationdate="20251021T004042Z">
+        <seg>Por la extinción de los cinco encadenamientos pertenecientes a lo inferior no está gestado, ahí es disipado completamente, en ese mundo no es susceptible de continuar de nuevo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>So taṁ maggaṁ āsevati bhāveti bahulīkaroti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250922T181326Z" creationid="mjaviem" creationdate="20250922T003706Z">
@@ -1818,16 +1858,24 @@ Samaṇo ca sappurisānisaṁsoti.</seg>
       <tuv lang="pi">
         <seg>So tiṇṇaṁ saṁyojanānaṁ parikkhayā rāgadosamohānaṁ tanuttā sakadāgāmī hoti, sakideva imaṁ lokaṁ āgantvā dukkhassantaṁ karoti.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20251021T002601Z" creationid="mjaviem" creationdate="20251021T002601Z">
-        <seg>Por la extinción de los tres encadenamientos y la disminución del interés, el odio y el autoengaño, es un llegado una vez, que llega una vez a este mundo y pone fin a la dificultad.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20251021T002700Z" creationid="mjaviem" creationdate="20251021T002601Z">
+        <seg>Por la extinción de los tres encadenamientos y la merma del interés, el odio y el autoengaño, es un llegado una vez, que llega una vez a este mundo y pone fin a la dificultad.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pi">
         <seg>So tiṇṇaṁ saṁyojanānaṁ parikkhayā sotāpanno hoti avinipātadhammo niyato sambodhiparāyaṇo.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20251021T001932Z" creationid="mjaviem" creationdate="20251021T001752Z">
-        <seg>Por el agotamiento de los tres encadenamientos, es un adentrado en la corriente, no susceptible de hundimiento, firme, inclinado hacia el despertar.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20251021T002613Z" creationid="mjaviem" creationdate="20251021T001752Z">
+        <seg>Por la extinción de los tres encadenamientos, es un adentrado en la corriente, no susceptible de hundimiento, firme, inclinado hacia el despertar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>So āsavānaṁ khayā anāsavaṁ cetovimuttiṁ paññāvimuttiṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharati.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20251021T005954Z" creationid="mjaviem" creationdate="20251021T004533Z">
+        <seg>Por la destrucción de las secreciones, reside alcanzando la liberación del corazón y la liberación por la sabiduría sin secreciones, habiendo tomado conciencia y atestiguado por sí mismo las cuestiones en lo visto.</seg>
       </tuv>
     </tu>
     <tu>
