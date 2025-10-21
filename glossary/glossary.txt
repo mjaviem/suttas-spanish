@@ -624,7 +624,7 @@ sakadāgāmī	el llegado una vez
 pana	siquiera
 nimujjati	se sumerge
 puggalo	individuo
-ṭhito	se mantiene
+ṭhito	permanece
 vipassati	discierne
 viloketi	observa
 patarati	atraviesa
@@ -632,3 +632,9 @@ patigādhappatto	alcanza asiento
 ummujjitvā	habiendo emergido
 ottappaṁ	preocuparse
 vīriyaṁ	pujar
+tiṭṭhati	se queda
+hāyatiyeva	disminuye
+ṭhitā	permanece
+hāyati	disminuye
+parikkhayā	extinción
+saṁyojanānaṁ	encadenamientos
