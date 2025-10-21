@@ -556,6 +556,30 @@ tasmā ‘ariyasaccānī’ti vuccanti.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Evaṁ kho, bhikkhave, puggalo ummujjitvā nimujjati.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20251021T000747Z" creationid="mjaviem" creationdate="20251021T000747Z">
+        <seg>Pues así es, bhikkhus, que un individuo habiendo emergido se sumerge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Evaṁ kho, bhikkhave, puggalo ummujjitvā vipassati viloketi.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20251021T001955Z" creationid="mjaviem" creationdate="20251021T001955Z">
+        <seg>Pues así es, bhikkhus, que un individuo habiendo emergido discierne y observa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Evaṁ kho, bhikkhave, puggalo ummujjitvā ṭhito hoti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20251021T001457Z" creationid="mjaviem" creationdate="20251021T001457Z">
+        <seg>Pues así es, bhikkhus, que un individuo habiendo emergido permanece.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Evaṁ kho, bhikkhave, saṁvaro hotī”ti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250828T193237Z" creationid="mjaviem" creationdate="20250828T192928Z">
@@ -799,8 +823,8 @@ tasmā ‘ariyasaccānī’ti vuccanti.</seg>
       <tuv lang="pi">
         <seg>Idha, bhikkhave, ekacco puggalo sakiṁ nimuggo nimuggova hoti; idha pana, bhikkhave, ekacco puggalo ummujjitvā nimujjati; idha pana, bhikkhave, ekacco puggalo ummujjitvā ṭhito hoti; idha pana, bhikkhave, ekacco puggalo ummujjitvā vipassati viloketi; idha pana, bhikkhave, ekacco puggalo ummujjitvā patarati; idha pana, bhikkhave, ekacco puggalo ummujjitvā patigādhappatto hoti; idha pana, bhikkhave, ekacco puggalo ummujjitvā tiṇṇo hoti pāraṅgato thale tiṭṭhati brāhmaṇo.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20251020T212055Z" creationid="mjaviem" creationdate="20251020T203959Z">
-        <seg>Aquí, bhikkhus, cierto individuo una vez sumergido, permanece sumergido. Aquí, bhikkhus, cierto individuo habiendo siquiera emergido, se sumerge. Aquí, bhikkhus, cierto individuo habiendo siquiera emergido, se mantiene. Aquí, bhikkhus, cierto individuo habiendo siquiera emergido, discierne y observa. Aquí, bhikkhus, cierto individuo habiendo siquiera emergido, atraviesa. Aquí, bhikkhus, cierto individuo habiendo siquiera emergido, alcanza asiento. Aquí, bhikkhus, cierto individuo habiendo siquiera emergido, ha cruzado, ha ido más allá,  un brahmán que permanece en tierra firme.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20251021T001229Z" creationid="mjaviem" creationdate="20251020T203959Z">
+        <seg>Aquí, bhikkhus, cierto individuo una vez sumergido, permanece sumergido. Aquí, bhikkhus, cierto individuo habiendo siquiera emergido, se sumerge. Aquí, bhikkhus, cierto individuo habiendo siquiera emergido, permanece. Aquí, bhikkhus, cierto individuo habiendo siquiera emergido, discierne y observa. Aquí, bhikkhus, cierto individuo habiendo siquiera emergido, atraviesa. Aquí, bhikkhus, cierto individuo habiendo siquiera emergido, alcanza asiento. Aquí, bhikkhus, cierto individuo habiendo siquiera emergido, ha cruzado, ha ido más allá,  un brahmán que se queda en tierra firme.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1303,8 +1327,32 @@ tasmā ‘ariyasaccānī’ti vuccanti.</seg>
       <tuv lang="pi">
         <seg>Kathañca, bhikkhave, puggalo ummujjitvā nimujjati?</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20251020T233746Z" creationid="mjaviem" creationdate="20251020T233746Z">
-        <seg>"¿Y cómo es, bhikkhus, que un individuo habiendo siquiera emergido, se sumerge?</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20251021T000830Z" creationid="mjaviem" creationdate="20251020T233746Z">
+        <seg>"¿Y cómo es, bhikkhus, que un individuo habiendo emergido, se sumerge?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Kathañca, bhikkhave, puggalo ummujjitvā patarati?</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20251021T002010Z" creationid="mjaviem" creationdate="20251021T002010Z">
+        <seg>"¿Y cómo es, bhikkhus, que un individuo habiendo emergido, atraviesa?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Kathañca, bhikkhave, puggalo ummujjitvā vipassati viloketi?</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20251021T001542Z" creationid="mjaviem" creationdate="20251021T001542Z">
+        <seg>"¿Y cómo es, bhikkhus, que un individuo habiendo emergido, discierne y observa?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Kathañca, bhikkhave, puggalo ummujjitvā ṭhito hoti?</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20251021T001238Z" creationid="mjaviem" creationdate="20251021T000906Z">
+        <seg>"¿Y cómo es, bhikkhus, que un individuo habiendo emergido, permanece?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1768,6 +1816,22 @@ Samaṇo ca sappurisānisaṁsoti.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>So tiṇṇaṁ saṁyojanānaṁ parikkhayā rāgadosamohānaṁ tanuttā sakadāgāmī hoti, sakideva imaṁ lokaṁ āgantvā dukkhassantaṁ karoti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20251021T002601Z" creationid="mjaviem" creationdate="20251021T002601Z">
+        <seg>Por la extinción de los tres encadenamientos y la disminución del interés, el odio y el autoengaño, es un llegado una vez, que llega una vez a este mundo y pone fin a la dificultad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>So tiṇṇaṁ saṁyojanānaṁ parikkhayā sotāpanno hoti avinipātadhammo niyato sambodhiparāyaṇo.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20251021T001932Z" creationid="mjaviem" creationdate="20251021T001752Z">
+        <seg>Por el agotamiento de los tres encadenamientos, es un adentrado en la corriente, no susceptible de hundimiento, firme, inclinado hacia el despertar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>So ‘anavajjenamhi kāyakammena samannāgato, anavajjena vacīkammena samannāgato, anavajjena manokammena samannāgato’ti adhigacchati sukhaṁ, adhigacchati somanassaṁ.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250908T232716Z" creationid="mjaviem" creationdate="20250906T203504Z">
@@ -1873,6 +1937,30 @@ recordando la instrucción de los despiertos.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250823T193300Z" creationid="mjaviem" creationdate="20250823T193300Z">
         <seg>"Por lo tanto, bhikkhus, hay que consagrarse a: 'Esto es la dificultad'. Hay que consagrarse a: 'Esta es la fuente de la dificultad'. Hay que consagrarse a: 'Esta es la supresión de la dificultad'. Hay que consagrarse a: 'Esta es la dedicación que conduce a la supresión de la dificultad'".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Tassa sā hirī …pe… tassa taṁ ottappaṁ … tassa taṁ vīriyaṁ … tassa sā paññā neva hāyati no vaḍḍhati ṭhitā hoti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20251021T001434Z" creationid="mjaviem" creationdate="20251021T001434Z">
+        <seg>Esa vergüenza suya... esa preocupación suya... esa pujanza suya... esa sabiduría suya no disminuye ni crece sino que permanece.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Tassa sā saddhā neva hāyati no vaḍḍhati ṭhitā hoti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20251021T001323Z" creationid="mjaviem" creationdate="20251021T001026Z">
+        <seg>Esa confianza suya no disminuye ni crece sino que permanece.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Tassa sā saddhā neva tiṭṭhati no vaḍḍhati hāyatiyeva, tassa sā hirī …pe… tassa taṁ ottappaṁ … tassa taṁ vīriyaṁ … tassa sā paññā neva tiṭṭhati no vaḍḍhati hāyatiyeva.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20251021T000643Z" creationid="mjaviem" creationdate="20251021T000643Z">
+        <seg>Esa confianza suya no se queda ni crece sino que disminuye, esa vergüenza suya... esa preocupación suya... esa pujanza suya... esa sabiduría suya no se queda ni crece sino que disminuye.</seg>
       </tuv>
     </tu>
     <tu>
