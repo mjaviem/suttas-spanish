@@ -10,15 +10,15 @@ La idea del sitio es ofrecer traducciones lo más literales posibles, intentando
 
 En la práctica, esto significa:
 
-- **Traducción directa**: trabajamos desde el pali, usando diccionarios, como el [Digital Pali Dictionary](https://dpdict.net/), y versiones en inglés como apoyo.
+- **Traducción directa**: se trabaja desde el pali, usando diccionarios, como el [Digital Pali Dictionary](https://dpdict.net/), y versiones en inglés como apoyo.
 - **Consistencia**: un mismo término pali se traduce siempre igual, aunque suene poco habitual.
-- **Sin interpretaciones añadidas**: tratamos de mostrar lo que dice el texto, no comentarios posteriores.
+- **Sin interpretaciones añadidas**: se trata de mostrar lo que dice el texto, no comentarios posteriores.
 
 El resultado es un español sencillo pero fiel al pali, con un toque rioplatense.
 
 ### Sobre el texto y su traducción
 
-En el Canon Pali es habitual encontrar abreviaturas, por ejemplo `...pe...` que omiten pasajes repetidos en otros suttas. Para que la lectura sea más clara, acá a veces completamos esos pasajes usando textos paralelos y los mostramos entre corchetes.
+En el Canon Pali es habitual encontrar abreviaturas, por ejemplo `...pe...` que omiten pasajes repetidos en otros suttas. Para que la lectura sea más clara, acá a veces se completan esos pasajes usando textos paralelos y se los muestra entre corchetes.
 
 ## Términos clave
 
