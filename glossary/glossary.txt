@@ -487,9 +487,9 @@ tatra	en este asunto
 ṭhitassa	lo permanente
 ubhayabyābādhāyapi	hacerle daño a ambos
 udapādi	surgió
-upādāna	arraigo
-upādānaṁ	arraigo
-upādāya	arraigando, anclando
+upādāna	asidero
+upādānaṁ	asidero
+upādāya	asiendo, anclando
 upadhi	adquisiciones
 upajāyatī	aparecen
 upapajjanti	reviven
