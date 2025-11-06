@@ -406,7 +406,7 @@ saddhamme	los buenos principios
 saddho	confianza
 sādhu	buena
 saggaṁ	paradisíaco
-saggasaṁvattaniko	conduce al paraíso
+saggasaṁvattaniko	lleva al paraíso
 saḷāyatanaṁ	campos
 samādhi	compostura
 samādhijaṁ	compostura
@@ -649,3 +649,9 @@ sama	nivelado
 patiṭṭhāpeyya	estableciese
 puññassa	méritos
 sampadā	don
+samādapeti	incita
+niveseti	conduce
+patiṭṭhāpeti	establece
+dussīle	inmorales
+maccharī	mezquinos
+duppaññe	de saber equivocado
