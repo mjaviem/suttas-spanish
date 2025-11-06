@@ -387,7 +387,6 @@ pisuṇāya	malicia
 pīti	júbilo
 piyo	apreciable
 puggalā	individuos
-puññassa	mérito
 puthujjano	hombre común
 rāga	interés
 rāgā	interés
@@ -648,3 +647,5 @@ abhiratiyā	contentamiento
 upādāniyā	se puede asir
 sama	nivelado
 patiṭṭhāpeyya	estableciese
+puññassa	méritos
+sampadā	don
