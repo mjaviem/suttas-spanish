@@ -588,6 +588,30 @@ tasmā ‘ariyasaccānī’ti vuccanti.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Evaṁ kho, bhikkhave, puggalo anikaṭṭhakāyo ca hoti anikaṭṭhacitto ca.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20251112T220107Z" creationid="mjaviem" creationdate="20251112T220107Z">
+        <seg>Así es, bhikkhus, un individuo de cuerpo no apartado y corazón no apartado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Evaṁ kho, bhikkhave, puggalo anikaṭṭhakāyo hoti nikaṭṭhacitto.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20251112T215951Z" creationid="mjaviem" creationdate="20251112T215951Z">
+        <seg>Así es, bhikkhus, un individuo de cuerpo no apartado y corazón apartado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Evaṁ kho, bhikkhave, puggalo nikaṭṭhakāyo ca hoti nikaṭṭhacitto ca.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20251112T220145Z" creationid="mjaviem" creationdate="20251112T220145Z">
+        <seg>Así es, bhikkhus, un individuo de cuerpo apartado y corazón apartado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Evaṁ kho, bhikkhave, puggalo nikaṭṭhakāyo hoti anikaṭṭhacitto.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20251112T214452Z" creationid="mjaviem" creationdate="20251112T214452Z">
@@ -901,6 +925,14 @@ tasmā ‘ariyasaccānī’ti vuccanti.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Idha, bhikkhave, ekacco puggalo naheva kho araññavanapatthāni pantāni senāsanāni paṭisevati.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20251112T215847Z" creationid="mjaviem" creationdate="20251112T215847Z">
+        <seg>Aquí, bhikkhus, cierto individuo pues no recurre a aposentos distantes en montes y yermos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Idha, bhikkhave, ekacco puggalo sakiṁ nimuggo nimuggova hoti; idha pana, bhikkhave, ekacco puggalo ummujjitvā nimujjati; idha pana, bhikkhave, ekacco puggalo ummujjitvā ṭhito hoti; idha pana, bhikkhave, ekacco puggalo ummujjitvā vipassati viloketi; idha pana, bhikkhave, ekacco puggalo ummujjitvā patarati; idha pana, bhikkhave, ekacco puggalo ummujjitvā patigādhappatto hoti; idha pana, bhikkhave, ekacco puggalo ummujjitvā tiṇṇo hoti pāraṅgato thale tiṭṭhati brāhmaṇo.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20251021T001229Z" creationid="mjaviem" creationdate="20251020T203959Z">
@@ -953,6 +985,14 @@ tasmā ‘ariyasaccānī’ti vuccanti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20251020T235032Z" creationid="mjaviem" creationdate="20250906T142319Z">
         <seg>Aquí, amo de casa, un hijo de buena familia, disfruta de la riqueza hallada por levantarse y pujar, acumulada con la fuerza de los brazos, con el sudor de la frente, genuina, obtenida de forma genuina y hace méritos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Ime kho, bhikkhave, cattāro puggalā santo saṁvijjamānā lokasmin”ti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20251112T220308Z" creationid="mjaviem" creationdate="20251112T220308Z">
+        <seg>Bhikkhus, pues estos cuatro individuos se encuentran presentes en el mundo."</seg>
       </tuv>
     </tu>
     <tu>
@@ -1469,10 +1509,26 @@ tasmā ‘ariyasaccānī’ti vuccanti.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Kathañca, bhikkhave, puggalo anikaṭṭhakāyo ca hoti anikaṭṭhacitto ca?</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20251112T220025Z" creationid="mjaviem" creationdate="20251112T220025Z">
+        <seg>"¿Y cómo es, bhikkhus, el de cuerpo no apartado y corazón no apartado?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Kathañca, bhikkhave, puggalo anikaṭṭhakāyo hoti nikaṭṭhacitto?</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20251112T215734Z" creationid="mjaviem" creationdate="20251112T215734Z">
         <seg>"¿Y cómo es, bhikkhus, el de cuerpo no apartado y corazón apartado?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Kathañca, bhikkhave, puggalo nikaṭṭhakāyo ca hoti nikaṭṭhacitto ca?</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20251112T220123Z" creationid="mjaviem" creationdate="20251112T220123Z">
+        <seg>"¿Y cómo es, bhikkhus, el de cuerpo apartado y corazón apartado?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2042,6 +2098,14 @@ Samaṇo ca sappurisānisaṁsoti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20251112T214347Z" creationid="mjaviem" creationdate="20251112T214347Z">
         <seg>De esta manera, se propone propósitos de sensualismo, se propone propósitos de malevolencia, se propone propósitos de inhumanidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>So tattha nekkhammavitakkampi vitakketi abyāpādavitakkampi vitakketi avihiṁsāvitakkampi vitakketi.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20251112T215928Z" creationid="mjaviem" creationdate="20251112T215928Z">
+        <seg>De esta manera, se propone propósitos de ascetismo, se propone propósitos de inocuidad, se propone propósitos de no inhumanidad.</seg>
       </tuv>
     </tu>
     <tu>
