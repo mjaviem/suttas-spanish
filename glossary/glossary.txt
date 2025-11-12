@@ -332,6 +332,7 @@ nibbidāya	hastío
 nibbindati	se hastía
 niccaṁ	estable
 nidāna	fundamento
+nikaṭṭha	apartado
 nikkhepo	abatimiento
 nimujjati	se sumerge
 nirāmisāpi	espiritual
@@ -640,9 +641,9 @@ viseso	diferencia
 vitakka	propósito
 vitakkavicārānaṁ	propósito y planificación
 vītivatto	ha trascendido
-vivekajaṁ	apartamiento
-vivicca	apartado
-vivicceva	apartado
+vivekajaṁ	desligarse
+vivicca	desligado
+vivicceva	desligado
 vosagga	donar
 vuccati	se llama
 vūpasamo	aquietamiento
@@ -660,4 +661,3 @@ yo	quienquiera
 yogo	consagrarse a
 yoniso	cuidadosa
 yonisomanasikāro	prestar cuidadosa atención
-nikaṭṭha	apartado
