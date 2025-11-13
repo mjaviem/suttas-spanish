@@ -60,7 +60,6 @@ anaññathāni	inequívocas
 anāsavā	sin secreciones
 anatīto	no exento
 anattā	no uno mismo
-anavasesaṁ	sin remanente
 aniccā	inconstantes
 aniccaṁ	inconstante
 animitto	sin signo
@@ -319,7 +318,6 @@ mohā	autoengaño
 mohe	autoengaño
 moho	autoengaño
 musāvādā	decir falsedades
-nāmarūpaṁ	nombre-figura
 nānābhāvo	división
 nānākaraṇaṁ	variación
 nandi	beneplácito
@@ -672,3 +670,8 @@ paccassosuṁ	contestaron
 soka	pena
 parideva	lamentos
 upāyāsa	desazón
+anavasesaṁ	sin residuo
+nāmarūpaṁ	nombres figura
+asesa	sin remanente
+bhāsitaṁ	lo dicho
+attamanā	felices
