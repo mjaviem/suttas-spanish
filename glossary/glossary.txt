@@ -562,7 +562,7 @@ sumedhaso	inteligente
 suññato	vacío
 suta	escuchar
 svākkhāto	enseñado
-taṇhā	sed
+taṇhā	ganas
 tanu	disminuida
 tanuttā	merma
 tasmātiha	por lo tanto
@@ -667,3 +667,8 @@ paṭisevati	recurre
 sīlabbata	comportamiento y votos
 attavāda	dichos sobre uno mismo
 suṇātha	escuchen
+sādhukaṁ	completamente
+paccassosuṁ	contestaron
+soka	pena
+parideva	lamentos
+upāyāsa	desazón
