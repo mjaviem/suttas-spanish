@@ -675,3 +675,4 @@ nāmarūpaṁ	nombres figura
 asesa	sin remanente
 bhāsitaṁ	lo dicho
 attamanā	felices
+tveva	pero
