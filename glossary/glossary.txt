@@ -105,7 +105,6 @@ attā	uno mismo
 attabyābādhāyapi	hacerse daño a uno mismo
 attamanatā	felicidad
 attamano	felicidad
-attha	sentido
 atthaṅgamā	repliegue
 atthaṅgamañca	repliegue
 atthaṅgamo	repliegue
@@ -678,3 +677,4 @@ attamanā	felices
 tveva	pero
 pamāda	negligencia
 appicchatā	austeridad
+attha	fin
