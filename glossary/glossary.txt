@@ -459,7 +459,6 @@ puthujjano	hombre común
 rāga	interés
 rāgā	interés
 rāgo	interés
-rajanīyā	seductoras
 rattā	pasión
 ratto	apasionado
 rūpā	figura
@@ -679,3 +678,4 @@ pamāda	negligencia
 appicchatā	austeridad
 attha	fin
 santuṭṭhitā	conformidad
+rajanīyā	tentadoras
