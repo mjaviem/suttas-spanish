@@ -45,54 +45,55 @@ markdown_extensions:
 
 nav:
   - Riqueza, tesoros y el paraíso:
-      - AN 4.62 Ānaṇyasutta – Discurso de no tener deudas: AN-4.62.md
-      - AN 5.227 Bhogasutta – Discurso de la riqueza: AN-5.227.md
-      - AN 7.7 Uggasutta – Discurso de Ugga: AN-7.7.md
+      - AN 4.62 Ānaṇyasutta – Discurso sobre no tener deudas: AN-4.62.md
+      - AN 5.227 Bhogasutta – Discurso sobre la riqueza: AN-5.227.md
+      - AN 7.7 Uggasutta – Discurso sobre Ugga: AN-7.7.md
       - AN 2.145 (Dānavagga): AN-2.145.md # – Capítulo de los regalos
-      - AN 7.6 Vitthatadhanasutta – Discurso extendido de los tesoros: AN-7.6.md
+      - AN 7.6 Vitthatadhanasutta – Discurso extendido sobre los tesoros: AN-7.6.md
       - AN 2.33 (Samacittavagga): AN-2.33.md # – Capítulo del corazón nivelado
-      - AN 3.17 Attabyābādhasutta – Discurso de hacerse daño a sí mismo: AN-3.17.md
-      - AN 6.108 Duccaritasutta – Discurso de la mala conducta: AN-6.108.md
-      - AN 5.241 Paṭhamaduccaritasutta – Discurso primero de la mala conducta: AN-5.241.md
-      - AN 5.245 Dutiyaduccaritasutta – Discurso segundo de la mala conducta: AN-5.245.md
-      - AN 5.35 Dānānisaṁsasutta – Discurso de las ventajas de regalar: AN-5.35.md
-      - AN 8.33 Dānavatthusutta – Discurso de los fundamentos de regalar: AN-8.33.md
+      - AN 3.17 Attabyābādhasutta – Discurso sobre hacerse daño a sí mismo: AN-3.17.md
+      - AN 6.108 Duccaritasutta – Discurso sobre la mala conducta: AN-6.108.md
+      - AN 5.241 Paṭhamaduccaritasutta – Discurso primero sobre la mala conducta: AN-5.241.md
+      - AN 5.245 Dutiyaduccaritasutta – Discurso segundo sobre la mala conducta: AN-5.245.md
+      - AN 5.35 Dānānisaṁsasutta – Discurso sobre las ventajas de regalar: AN-5.35.md
+      - AN 8.33 Dānavatthusutta – Discurso sobre los fundamentos de regalar: AN-8.33.md
   - En estos principios y disciplina:
-      - AN 10.66 Dutiyasukhasutta – Discurso segundo de la satisfacción: AN-10.66.md
-      - SN 39.16 Dukkarasutta – Discurso de lo difícil de conseguir: SN-39.16.md
-      - AN 3.55 Nibbutasutta – Discurso de lo disipado: AN-3.55.md
-      - AN 4.242 Sappurisānisaṁsasutta – Discurso de las ventajas de un hombre de bien: AN-4.242.md
-      - AN 9.9 Puggalasutta – Discurso del individuo: AN-9.9.md
-      - AN 7.15 Udakūpamāsutta – Discurso del símil del agua: AN-7.15.md
-      - SN 55.55 Sotāpattiphalasutta – Discurso del resultado de adentrarse en la corriente: SN-55.55.md
-      - SN  13.1 Nakhasikhāsutta – Discurso del borde de la uña: SN-13.1.md
-      - SN  25.10 Khandhasutta – Discurso de los montones: SN-25.10.md
+      - AN 10.66 Dutiyasukhasutta – Discurso segundo sobre la satisfacción: AN-10.66.md
+      - SN 39.16 Dukkarasutta – Discurso sobre lo difícil de conseguir: SN-39.16.md
+      - AN 3.55 Nibbutasutta – Discurso sobre lo disipado: AN-3.55.md
+      - AN 4.242 Sappurisānisaṁsasutta – Discurso sobre las ventajas de un hombre de bien: AN-4.242.md
+      - AN 9.9 Puggalasutta – Discurso sobre el individuo: AN-9.9.md
+      - AN 7.15 Udakūpamāsutta – Discurso sobre el símil del agua: AN-7.15.md
+      - SN 55.55 Sotāpattiphalasutta – Discurso sobre el resultado de adentrarse en la corriente: SN-55.55.md
+      - SN  13.1 Nakhasikhāsutta – Discurso sobre el borde de la uña: SN-13.1.md
+      - SN  25.10 Khandhasutta – Discurso sobre los montones: SN-25.10.md
+      - SN  23.2 Sattasutta – Discurso sobre el sujeto: SN-23.2.md
   - Conducta espiritual:
       - AN 2.64 (Sukhavagga): AN-2.64.md # – Capítulo de la satisfacción
-      - SN 45.39 Paṭhamabrahmacariyasutta – Discurso primero de la conducta espiritual: SN-45.39.md
-      - SN 45.40 Dutiyabrahmacariyasutta – Discurso segundo de la conducta espiritual: SN-45.40.md
-      - SN 45.22 Akusaladhammasutta – Discurso de lo perjudicial: SN-45.22.md
+      - SN 45.39 Paṭhamabrahmacariyasutta – Discurso primero sobre la conducta espiritual: SN-45.39.md
+      - SN 45.40 Dutiyabrahmacariyasutta – Discurso segundo sobre la conducta espiritual: SN-45.40.md
+      - SN 45.22 Akusaladhammasutta – Discurso sobre lo perjudicial: SN-45.22.md
       - AN 2.65 (Sukhavagga): AN-2.65.md # – Capítulo de la satisfacción
       - AN 1.87 (Pamādādivagga): AN-1.87.md # – Capítulo de la negligencia
       - AN 1.89 (Pamādādivagga): AN-1.89.md # – Capítulo de la negligencia
-      - SN 35.98 Saṁvarasutta – Discurso del autocontrol: SN-35.98.md
+      - SN 35.98 Saṁvarasutta – Discurso sobre el autocontrol: SN-35.98.md
       - AN 2.70 (Sukhavagga): AN-2.70.md # – Capítulo de la satisfacción
-      - SN 43.1 Kāyagatāsatisutta – Discurso de tener presente lo referido al cuerpo: SN-43.1.md
-      - AN 4.138 Nikaṭṭhasutta – Discurso de lo apartado: AN-4.138.md
-      - AN 6.107 Rāgasutta – Discurso del interés: AN-6.107.md
+      - SN 43.1 Kāyagatāsatisutta – Discurso sobre tener presente lo referido al cuerpo: SN-43.1.md
+      - AN 4.138 Nikaṭṭhasutta – Discurso sobre lo apartado: AN-4.138.md
+      - AN 6.107 Rāgasutta – Discurso sobre el interés: AN-6.107.md
       - AN 1.17 (Nīvaraṇappahānavagga): AN-1.17.md # – Capítulo del abandono de las obstrucciones
-      - AN 5.57 Abhiṇhapaccavekkhitabbaṭhānasutta – Discurso de las situaciones para reflexión habitual: AN-5.57.md
-      - AN  5.113 Sammāsamādhisutta – Discurso de la compostura cabal: AN-5.113.md
-      - SN 56.1 Samādhisutta  – Discurso de la compostura: SN-56.1.md
-      - SN 56.7 Vitakkasutta – Discurso del propósito: SN-56.7.md
+      - AN 5.57 Abhiṇhapaccavekkhitabbaṭhānasutta – Discurso sobre las situaciones para reflexión habitual: AN-5.57.md
+      - AN  5.113 Sammāsamādhisutta – Discurso sobre la compostura cabal: AN-5.113.md
+      - SN 56.1 Samādhisutta  – Discurso sobre la compostura: SN-56.1.md
+      - SN 56.7 Vitakkasutta – Discurso sobre el propósito: SN-56.7.md
   - Sabiduría:
-      - SN 56.27 Tathasutta – Discurso de lo auténtico: SN-56.27.md
-      - SN 12.1 Paṭiccasamuppādasutta – Discurso del surgimiento sustentado: SN-12.1.md
+      - SN 56.27 Tathasutta – Discurso sobre lo auténtico: SN-56.27.md
+      - SN 12.1 Paṭiccasamuppādasutta – Discurso sobre el surgimiento sustentado: SN-12.1.md
       - Dificultad y surgimiento sustentado:
-        - SN 45.165 Dukkhatāsutta – Discurso de las condiciones dificultosas: SN-45.165.md
-        - SN 45.173 Upādānasutta – Discurso del asidero: SN-45.173.md
-        - SN 22.121 Upādāniyasutta – Discurso de lo que se puede asir: SN-22.121.md
-        - AN 3.47 Saṅkhatalakkhaṇasutta – Discurso de las marcas de lo atribuido: AN-3.47.md
+        - SN 45.165 Dukkhatāsutta – Discurso sobre las condiciones dificultosas: SN-45.165.md
+        - SN 45.173 Upādānasutta – Discurso sobre el asidero: SN-45.173.md
+        - SN 22.121 Upādāniyasutta – Discurso sobre lo que se puede asir: SN-22.121.md
+        - AN 3.47 Saṅkhatalakkhaṇasutta – Discurso sobre las marcas de lo atribuido: AN-3.47.md
       - Supresión de la dificultad y Camino Óctuple Noble:
-        - SN 22.137 Aniccasutta – Discurso de lo inconstante: SN-22.137.md
-        - SN 22.98 Suddhikasutta – Discurso de lo llano: SN-22.98.md
+        - SN 22.137 Aniccasutta – Discurso sobre lo inconstante: SN-22.137.md
+        - SN 22.98 Suddhikasutta – Discurso sobre lo llano: SN-22.98.md
