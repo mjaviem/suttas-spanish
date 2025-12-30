@@ -2743,8 +2743,8 @@ tiene grandes tesoros en el mundo.</seg>
       <tuv lang="pi">
         <seg>Yatra hi nāma tvaṁ, bhikkhu, jiṇṇo vuddho mahallako addhagato vayoanuppatto saṅkhittena ovādaṁ yācasī”ti.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20251230T134531Z" creationid="mjaviem" creationdate="20251230T134531Z">
-        <seg>¡Cuando por cierto tú, bhikkhu, desgastado, maduro, mayor, veterano, y alcanzada la vejez, pides la instrucción en resumen!</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20251230T140416Z" creationid="mjaviem" creationdate="20251230T134531Z">
+        <seg>¡Cuando por cierto tú, bhikkhu, estando desgastado, siendo maduro, mayor, veterano, habiendo alcanzado el deterioro, pretendes la admonición concisamente! </seg>
       </tuv>
     </tu>
     <tu>
@@ -3186,6 +3186,14 @@ upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ 
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20251113T154057Z" creationid="mjaviem" creationdate="20251113T154057Z">
         <seg>"¿Y qué es, bhikkhus, el surgimiento sustentado?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Kiñcāpāhaṁ, bhante, jiṇṇo vuddho mahallako addhagato vayoanuppatto.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20251230T140951Z" creationid="mjaviem" creationdate="20251230T140338Z">
+        <seg>Aunque yo, bhante, esté desgastado, sea maduro, mayor, veterano, haya alcanzado el deterioro.</seg>
       </tuv>
     </tu>
     <tu>
