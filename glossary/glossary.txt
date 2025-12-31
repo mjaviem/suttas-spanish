@@ -711,3 +711,6 @@ sugato	afortunado
 appeva	ojalá
 ājāneyyaṁ	reconocer
 tattha	en ese caso
+ettha	en este caso
+bhavissati	será
+yato	en donde
