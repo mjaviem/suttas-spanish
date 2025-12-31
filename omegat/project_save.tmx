@@ -134,8 +134,8 @@ no se halla satisfacción ni agrado ni al haber ido a estar entre los bhikkhus.<
       <tuv lang="pi">
         <seg>Appeva nāmāhaṁ bhagavato bhāsitassa dāyādo assan”ti.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20251230T195305Z" creationid="mjaviem" creationdate="20251230T195021Z">
-        <seg>Ojalá yo ciertamente pueda ser heredero de lo dicho por el dichoso."</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20251231T162005Z" creationid="mjaviem" creationdate="20251230T195021Z">
+        <seg>Ojalá yo pueda ciertamente ser heredero de lo dicho por el dichoso."</seg>
       </tuv>
     </tu>
     <tu>
@@ -497,8 +497,8 @@ de conducta espiritual de moderación.
       <tuv lang="pi">
         <seg>Desetu me, bhante, bhagavā saṅkhittena dhammaṁ, desetu sugato saṅkhittena dhammaṁ, appeva nāmāhaṁ bhagavato bhāsitassa atthaṁ ājāneyyaṁ.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20251230T194824Z" creationid="mjaviem" creationdate="20251230T192436Z">
-        <seg>Bhante, que el Dichoso me enseñe los principios concisamente, que el afortunado enseñe los principios concisamente, ojalá yo ciertamente pueda reconocer el fin de lo dicho por el Dichoso.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20251231T161953Z" creationid="mjaviem" creationdate="20251230T192436Z">
+        <seg>Bhante, que el Dichoso me enseñe los principios concisamente, que el afortunado enseñe los principios concisamente, ojalá yo pueda ciertamente reconocer el fin de lo dicho por el Dichoso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2751,8 +2751,8 @@ tiene grandes tesoros en el mundo.</seg>
       <tuv lang="pi">
         <seg>Yato ca kho, rādha, kumārakā vā kumārikāyo vā tesu paṁsvāgārakesu vigatarāgā honti vigatacchandā vigatapemā vigatapipāsā vigatapariḷāhā vigatataṇhā, atha kho tāni paṁsvāgārakāni hatthehi ca pādehi ca vikiranti vidhamanti viddhaṁsenti vikīḷaniyaṁ karonti.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20251225T190600Z" creationid="mjaviem" creationdate="20251225T183056Z">
-        <seg>Pero, Rādha, cuando esos niños o niñas pierden el interés, pierden el deseo, pierden el querer, pierden la sed, pierden el ardor, pierden las ganas hacia esas casitas de arena, pues entonces, con manos y pies, esparcen, destrozan, derrumban y hacen de esas casitas de arena algo con lo que no poder jugar.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20251231T164223Z" creationid="mjaviem" creationdate="20251225T183056Z">
+        <seg>Pero, Rādha, en donde esos niños o niñas pierden el interés, pierden el deseo, pierden el querer, pierden la sed, pierden el ardor, pierden las ganas hacia esas casitas de arena, pues entonces, con manos y pies, esparcen, destrozan, derrumban y hacen de esas casitas de arena algo con lo que no poder jugar.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2761,6 +2761,14 @@ tiene grandes tesoros en el mundo.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20251113T160709Z" creationid="mjaviem" creationdate="20250823T202946Z">
         <seg>Pues brahmán, en donde ese alguien experimenta la destrucción sin residuo del interés, experimenta la destrucción sin residuo del odio, experimenta la destrucción sin residuo del autoengaño, </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Yato kho te, mālukyaputta, diṭṭhasutamutaviññātabbesu dhammesu diṭṭhe diṭṭhamattaṁ bhavissati, sute sutamattaṁ bhavissati, mute mutamattaṁ bhavissati, viññāte viññātamattaṁ bhavissati; tato tvaṁ, mālukyaputta, na tena.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20251231T164945Z" creationid="mjaviem" creationdate="20251231T163730Z">
+        <seg>Pues en donde para ti, Mālukyaputta, en los principios vistos, escuchados, sentidos y reconocidos, en lo visto sea simplemente lo visto, en lo escuchado sea simplemente lo escuchado, en lo sentido sea simplemente lo sentido, en lo reconocido sea simplemente lo reconocido, tú de eso, hijo de Mālukya, no serás por eso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3178,6 +3186,14 @@ upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ 
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250919T183844Z" creationid="mjaviem" creationdate="20250916T194110Z">
         <seg>"Bhante, esto mismo es mayor, o sea: la gran tierra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Ettha ca te, mālukyaputta, diṭṭhasutamutaviññātabbesu dhammesu diṭṭhe diṭṭhamattaṁ bhavissati, sute sutamattaṁ bhavissati, mute mutamattaṁ bhavissati, viññāte viññātamattaṁ bhavissati.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20251231T163502Z" creationid="mjaviem" creationdate="20251231T162344Z">
+        <seg>"Y en este caso, hijo de Mālukya, en los principios vistos, escuchados, sentidos y reconocidos, en lo visto será el grado visto, en lo escuchado será el grado escuchado, en lo sentido será el grado sentido, en lo reconocido será el grado reconocido.</seg>
       </tuv>
     </tu>
     <tu>
