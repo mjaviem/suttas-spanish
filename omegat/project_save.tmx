@@ -245,6 +245,14 @@ kiñci viññāṇaṁ, yaṁ viññāṇaṁ niccaṁ dhuvaṁ sassataṁ avipa
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Atthi te tattha chando vā rāgo vā pemaṁ vā”ti?</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20251230T200453Z" creationid="mjaviem" creationdate="20251230T200305Z">
+        <seg>¿Existe en ti deseo, interés o querer en ese caso?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Atthi, bhikkhave, sattānaṁ jīvite jīvitamado, yena madena mattā kāyena duccaritaṁ caranti, vācāya duccaritaṁ caranti, manasā duccaritaṁ caranti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250922T180616Z" creationid="mjaviem" creationdate="20250921T142729Z">
@@ -3279,6 +3287,14 @@ kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>“No hetaṁ, bhante”.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20251230T200506Z" creationid="mjaviem" creationdate="20251230T200506Z">
+        <seg>No, bhante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>“Nāhaṁ, bhikkhave, aññaṁ ekadhammampi samanupassāmi yena anuppanno vā byāpādo nuppajjati uppanno vā byāpādo pahīyati yathayidaṁ, bhikkhave, mettā cetovimutti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250828T184313Z" creationid="mjaviem" creationdate="20250828T183723Z">
@@ -3447,6 +3463,14 @@ kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>“Taṁ kiṁ maññasi, mālukyaputta, ye te cakkhuviññeyyā rūpā adiṭṭhā adiṭṭhapubbā, na ca passasi, na ca te hoti passeyyanti?</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20251230T200211Z" creationid="mjaviem" creationdate="20251230T195359Z">
+        <seg>"¿Qué crees, hijo de Mālukya, respecto a cualquier figura reconocible por el ojo que no has visto, que no viste antes, que no ves y que no podrías ver?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>“Tisso imā, bhikkhave, dukkhatā.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250826T162609Z" creationid="mjaviem" creationdate="20250825T235146Z">
@@ -3467,6 +3491,46 @@ kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250826T003616Z" creationid="mjaviem" creationdate="20250825T232020Z">
         <seg>"Bhikkhus, lo que fuera que sea inconstante, deben abandonar el deseo en este asunto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Ye te ghānaviññeyyā gandhā aghāyitā aghāyitapubbā, na ca ghāyasi, na ca te hoti ghāyeyyanti?</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20251230T200914Z" creationid="mjaviem" creationdate="20251230T200846Z">
+        <seg>"Respecto a cualquier olor reconocible por la nariz que no has olido, que no oliste antes, que no hueles y que no podrías oler?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Ye te jivhāviññeyyā rasā asāyitā asāyitapubbā, na ca sāyasi, na ca te hoti sāyeyyanti?</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20251230T201009Z" creationid="mjaviem" creationdate="20251230T201009Z">
+        <seg>"Respecto a cualquier sabor reconocible por la lengua que no has saboreado, que no saboreaste antes, que no saboreas y que no podrías saborear?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Ye te kāyaviññeyyā phoṭṭhabbā asamphuṭṭhā asamphuṭṭhapubbā, na ca phusasi, na ca te hoti phuseyyanti?</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20251230T201230Z" creationid="mjaviem" creationdate="20251230T201131Z">
+        <seg>"Respecto a cualquier tangible reconocible por el cuerpo que no has tocado, que no tocaste antes, que no tocas y que no podrías tocar?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Ye te manoviññeyyā dhammā aviññātā aviññātapubbā, na ca vijānāsi, na ca te hoti vijāneyyanti?</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20251230T201423Z" creationid="mjaviem" creationdate="20251230T201312Z">
+        <seg>"Respecto a cualquier cuestión reconocible por lo interior que no has reconocido, que no reconociste antes, que no reconoces y que no podrías reconocer?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Ye te sotaviññeyyā saddā assutā assutapubbā, na ca suṇāsi, na ca te hoti suṇeyyanti?</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20251230T200748Z" creationid="mjaviem" creationdate="20251230T200627Z">
+        <seg>"Respecto a cualquier sonido reconocible por la oreja que no has escuchado, que no escuchaste antes, que no escuchas y que no podrías escuchar?</seg>
       </tuv>
     </tu>
     <tu>
