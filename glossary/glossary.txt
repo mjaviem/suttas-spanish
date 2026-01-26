@@ -676,7 +676,6 @@ attamanā	felices
 tveva	pero
 pamāda	negligencia
 appicchatā	austeridad
-attha	fin
 santuṭṭhitā	conformidad
 rajanīyā	tentadoras
 visatto	enredado
@@ -714,3 +713,4 @@ tattha	en ese caso
 ettha	en este caso
 bhavissati	será
 yato	en donde
+attha	finalidad
