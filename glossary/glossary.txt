@@ -446,7 +446,7 @@ pavedeti	da a conocer
 petti	antepasados
 phalaṁ	fruto
 pharusāya	dureza
-phasso	encuentro
+phasso	contacto
 phoṭṭhabbā	tangibles
 pīṇeti	complace
 pisuṇāya	malicia
@@ -714,3 +714,5 @@ ettha	en este caso
 bhavissati	será
 yato	en donde
 attha	finalidad
+phusasi	tocado
+mute	sentido
