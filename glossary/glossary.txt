@@ -62,7 +62,7 @@ anatīto	no exento
 anattā	no uno mismo
 aniccā	inconstantes
 aniccaṁ	inconstante
-animitto	sin signo
+animitto	sin rasgo
 ānisaṁsā	ventajas
 ānisaṁsāti	ventajas
 antaradhānaṁ	desvanecimiento
@@ -718,3 +718,5 @@ phusasi	tocado
 mute	sentido
 tato	de ahí que
 vitthārena	extensa
+piyaṁ	apreciable
+nimittaṁ	rasgo
