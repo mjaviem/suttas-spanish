@@ -3045,6 +3045,17 @@ a partir de eso, ve claramente con el saber.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>‘Rūpaṁ disvā sati muṭṭhā,
+Piyaṁ nimittaṁ manasi karoto;
+Sārattacitto vedeti,
+Tañca ajjhosa tiṭṭhati.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260203T155510Z" creationid="mjaviem" creationdate="20260203T155510Z">
+        <seg>'Habiendo visto una figura con el tener presente extraviado,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>‘Sabbehi me piyehi manāpehi nānābhāvo vinābhāvo’ti abhiṇhaṁ paccavekkhitabbaṁ itthiyā vā purisena vā gahaṭṭhena vā pabbajitena vā.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20251031T143440Z" creationid="mjaviem" creationdate="20250920T184634Z">
@@ -3242,6 +3253,14 @@ upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ 
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20251113T161726Z" creationid="mjaviem" creationdate="20251113T154034Z">
         <seg>"Sí, bhante", pues contestaron esos bhikkhus al Dichoso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Imassa khvāhaṁ, bhante, bhagavatā saṅkhittena bhāsitassa vitthārena atthaṁ ājānāmi:</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260203T155040Z" creationid="mjaviem" creationdate="20260203T154331Z">
+        <seg>"Ciertamente, bhante, comprendo la finalidad extensa de lo dicho concisamente por el Dichoso:</seg>
       </tuv>
     </tu>
     <tu>
