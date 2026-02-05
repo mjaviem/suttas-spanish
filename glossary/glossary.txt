@@ -1,4 +1,6 @@
 # Glossary in tab-separated format -*- coding: utf-8 -*-
+ābādhāya	padecimiento
+ābādhikaṁ	padeciendo
 abbhuggacchati	trasciende
 abhabbo	incapaz
 abhijjhā	codicia
@@ -19,6 +21,13 @@ abhisamparāyaṁ	ulteriores
 abhivadanti	pregonan
 abhivadati	acoge
 abrahmacariyā	conducta no espiritual
+abyābajjha	alivio
+abyābajjhā	alivio
+abyābajjhaṁyeva	alivio
+abyāpāda	no malquerencia
+abyāpajjaṁ	alivio
+ācinato	acumulada
+addhagato	veterano
 adhigacchati	halla
 adhigamanīyāni	hallar
 adhigato	hallada
@@ -30,9 +39,12 @@ adhippayāso	divergencia
 ādīnavo	inconveniente
 adinnādānā	tomar lo que no es dado
 adukkhamasukhampi	ni satisfacción ni dificultad
+agāraṁ	hogar
 āgati	venida
+ājāneyyaṁ	reconocer
 ajeyyo	imbatible
 ājīvaṁ	medio de vida
+ajjhosa	aferrado
 ajjhosāya	aferrado
 akāliko	inmediato
 akāliko	sin demora
@@ -42,6 +54,7 @@ akusalā	que no hacen bien
 akusalānaṁ	que no hacen bien
 akusale	que no hacen bien
 akusalehi	que no hacen bien
+allīyanti	apega
 āloko	luz
 āmantesi	se dirigió
 āmisa	mundano
@@ -52,6 +65,7 @@ anaññathāni	inequívocas
 anāsavā	sin secreciones
 anatīto	no exento
 anattā	no uno mismo
+anavasesaṁ	sin residuo
 aniccā	inconstantes
 aniccaṁ	inconstante
 animitto	sin rasgo
@@ -63,14 +77,20 @@ anukampaṁ	compasión
 anukampantā	compasión
 anumoditvā	alabó
 anupekkhita	reconsideradas
+anuppatto	alcanzado
 anusāsanī	instrucción
 anusayā	lo latente
+anuttara	insuperable
 anuvicca	averiguado
 aññathābhāvī	ambigua, equívoca
 aññathattaṁ	una ambigüedad
+apacinato	no acumula
 aparisesā	sin remanente
 apāyaṁ	penuria
 appamattako	insignificante
+appamatto	sobrio
+appeva	ojalá
+appicchatā	austeridad
 appiyā	despreciables
 appiyehi	despreciables
 ariya	noble
@@ -84,6 +104,7 @@ asaddhamme	malos principios
 asaṁvarañca	desenfreno
 asaṁvaro	desenfreno
 āsava	secreciones
+asesa	sin remanente
 āsevati	practica
 assāda	gusto
 assādaṁ	gusto
@@ -92,16 +113,23 @@ assādato	gusto
 assādo	gusto
 assāsapassāsā	respiración
 asubhā	lo asqueroso
+ātāpī	ferviente
 atho	y además
 attā	uno mismo
+attabyābādhāyapi	agobiarse
+attamanā	felices
 attamanatā	felicidad
 attamano	felicidad
+attavāda	dichos sobre uno mismo
+attha	finalidad
+atthaṁ	finalidad
 atthaṅgamā	repliegue
 atthaṅgamañca	repliegue
 atthaṅgamo	repliegue
 atthasaṁhitā	pertinentes
 atthavasaṁ	provecho
 atthi	existe
+avihiṁsā	no maltrato
 avijjā	desconocimiento
 avisayasmiṁ	alcance
 āvuso	amigos
@@ -123,10 +151,13 @@ bhagavā	Dichoso
 Bhagavant	Dichoso
 Bhagavato	Dichoso
 bhante	reverendo
+bhāsitaṁ	lo dicho
+bhāsitassa	lo dicho
 bhava	devenir
 bhavā	devenir
 bhāvetabbā	suscitar
 bhāveti	suscita
+bhavissati	será
 bhāvito	suscita
 bhavo	devenir
 bhayā	temor
@@ -139,9 +170,11 @@ brahmacārayo	conducta espiritual
 brahmacariyaṁ	conducta espiritual
 brāhmaṇā	brahmanes
 buddhe	despierto, despertado
+byā pāda	malquerencia
 byādhi	enfermedad
 byādhiṁ	afecciones
 byantīhonti	es finalizado
+byāpādo	malquerencia
 byāpajjati	repudia
 byāpanna	dañino
 cāga	desprenderse
@@ -178,10 +211,12 @@ dhammikā	genuinas
 dhammo	cuestiones, principios
 dhanā	tesoros
 dhanāni	tesoro
+dhanāyanti	atesorar
 dhāreti	debe
 dharo	retiene
 dhātā	recordadas
 dhuvaṁ	continua
+diṭṭhe	visto
 diṭṭheva	lo visto
 diṭṭhi	punto de vista
 domanassaṁ	disgusto
@@ -205,6 +240,7 @@ duṭṭho	hostil
 ehipassikaṁ	constatable
 ehipassiko	constatable
 etadavoca	dijo esto
+ettha	en este caso
 evaṁ	así
 Evameva	Así también
 gahapatayo	amos de casa
@@ -212,20 +248,24 @@ gahapati	amo de casa
 gahapatīhi	amos de casa
 gahapatīpi	amos de casa
 gahaṭṭhena	por quien tiene hogar
+gandhā	olor
 gati	curso
 gihi	quien tiene hogar
 gihinā	por quien tiene hogar
 hāpetun	menoscabar
 hāyati	disminuye
 hāyatiyeva	disminuye
+hi	por cierto
 hirī	avergonzarse
 hirīmā	vergüenza
 hitāya	bienestar
 hitesinā	deseo de beneficiar
 idaṁ	esto
+imassa	ciertamente
 ime	estos
 imehi	aquí
 iṭṭhā	deseadas
+itthattāyā	el aquí
 iṭṭhāya	deseado
 jānāti	entiende
 janeti	genera
@@ -234,6 +274,7 @@ jaraṁ	decrepitud
 jarāmaraṇaṁ	decaimiento-perecimiento
 jāti	procedencia
 jigucchanti	le huyen
+jiṇṇo	desgastado
 jīvikaṁ	vida
 kālakiriyā	cumplimiento de tiempo
 kālaṁ	tiempo, momento
@@ -252,6 +293,7 @@ kammānaṁ	actos
 kammena	actuación
 kantā	amenos
 kantāya	ameno
+karaṇīyaṁ	debe hacer
 karaṇīyo	hay que
 kāya	cuerpo
 kāyagatā	lo referido al cuerpo
@@ -259,12 +301,15 @@ kāyassa	lo corporal
 kāyena	con el cuerpo
 kāyika	lo corporal
 kāyo	cuerpo
+keḷāyanti	celar
 khamo	tolerante
 khandhānaṁ	montones
 khayo	destrucción
 khīṇā	acabado
+khīyati	deshecha
 kho	pues
 kilamati	agobiarse
+kīḷanti	juegan
 kilesa	mancilla
 kittāvatā	en qué medida
 kittisaddo	reputación
@@ -282,7 +327,9 @@ maccu	muerte
 mada	embriaguez
 madena	embriaguez
 maggo	camino
+mahallako	mayor
 mahapphalo	muy fructífera
+mamāyanti	adueñar
 manāpā	gratas
 manāpāya	grato
 manāpo	grato
@@ -302,12 +349,16 @@ mohā	autoengaño
 mohe	autoengaño
 moho	autoengaño
 musāvādā	decir falsedades
+mute	sentido
+muṭṭhā	extraviado
+nāmarūpaṁ	nombres figura
 nānābhāvo	división
 nānākaraṇaṁ	variación
 nandi	beneplácito
 nandī	beneplácito
 nekkhamma	ascetismo
 nekkhamma	ascetismo
+nibbāna	disipación
 nibbānaṁ	disipación
 nibbānāya	disipación
 nibbidāya	hastío
@@ -316,6 +367,7 @@ niccaṁ	estable
 nidāna	fundamento
 nikaṭṭha	apartado
 nikkhepo	abatimiento
+nimittaṁ	rasgo
 nimujjati	se sumerge
 nirāmisāpi	espiritual
 nirayaṁ	desgracia
@@ -348,14 +400,17 @@ opapātiko	no gestado
 orambhāgiyānaṁ	pertenecientes a lo inferior
 ottappa	preocuparse
 ottappaṁ	preocuparse
+ovādaṁ	admonición
 pabbajita	quien partió
 pabbajjā	el partir
 pabhanguñca	frágil
+paccassosuṁ	contestaron
 paccavekkhato	reflexiona
 paccavekkhitabba	para reflexión
 paccavekkhitabbaṁ	debe ser reflexionado
 paccavekkhitabbāni	deben ser reflexionadas
 paccayo	requisito
+pacīyati	acopiada
 padahati	afrontar
 paduṭṭha	contaminadas
 paggaṇhāti	aplica
@@ -364,14 +419,17 @@ pahātabbaṁ	abandonar
 pahātabbo	abandonar
 pahāya	abandonado
 pahīne	abandona
+pahitatto	entregado
 pahīyanti	abandonadas
 pahīyati	es abandonado
 pajānāti	sabe
+pamāda	negligencia
 pana	al menos
 pana	siquiera
 pāṇātipātā	quitar vidas
 panāvuso	amigos
 paṇḍito	sabio
+pantāni	distantes
 paññā	el saber
 paññapeti	describe
 paññavā	sabiduría
@@ -381,6 +439,7 @@ paññāyati	se sabe de
 pāpakā	funestas
 pāpakānaṁ	funestas
 pāpako	funesta
+parabyābādhāyapi	agobiar a otro
 paraṁ	después
 paravittūpakaraṇaṁ	pertenencias de otros
 parāyaṇo	apoyado
@@ -390,17 +449,21 @@ paribbājakānaṁ	peregrinos
 paribbājakehi	peregrinos
 paribbājako	peregrino
 paricitā	consolidadas
+parideva	lamentos
 parihānañhetaṁ	menguar
 parihāyāmi	menguan
 parikkhayā	extinción
 parikkhayāya	extinción
+parikkhīṇaṁ	consumida
 parikkhīṇo	agotado
+pariḷāha	ardor
 parinibbāyī	disipado completamente
 pariññā	comprensión plena
 pariññāñca	comprensión plena
 pariññāya	comprensión plena
 pariññeyyaṁ	comprendida plenamente
 parivitakko	vacilación
+pariyādiṇṇaṁ	agotada
 pasādena	optimismo
 pasīdati	se alegra
 patarati	atraviesa
@@ -421,20 +484,26 @@ paṭippassaddho	apaciguado
 paṭisaṁvedeti	experimenta
 paṭisañcikkhati	reconsidera
 paṭisaraṇo	refugio
+paṭisevati	recurre
+paṭissato	consciente de sí
 patiṭṭhāpeti	establece
 patiṭṭhāpeyya	estableciese
 patiṭṭhāti	reafirma
 paṭivirato	abstiene
 pātubhāvo	manifestación
 pavedeti	da a conocer
+pema	querer
 petti	antepasados
 phalaṁ	fruto
 pharusāya	dureza
 phasso	contacto
 phoṭṭhabbā	tangibles
+phusasi	tocado
 pīṇeti	complace
+pipāsa	sed
 pisuṇāya	malicia
 pīti	júbilo
+piyaṁ	apreciable
 piyo	apreciable
 puggalā	individuos
 puggalo	individuo
@@ -443,6 +512,8 @@ puthujjano	hombre común
 rāga	interés
 rāgā	interés
 rāgo	interés
+rajanīyā	tentadoras
+rasā	sabor
 rattā	pasión
 ratto	apasionado
 rūpā	figura
@@ -453,12 +524,14 @@ sabbaso	totalmente
 sabbe	todos
 sacchikātabbaṁ	atestiguar
 sacchikatvā	atestiguar
+saddā	sonido
 saddahati	confíe
 saddhā	tener confianza
 saddhammā	los buenos principios
 saddhamme	los buenos principios
 saddho	confianza
 sādhu	buena
+sādhukaṁ	completamente
 saggaṁ	paradisíaco
 saggasaṁvattaniko	lleva al paraíso
 sakadāgāmī	el llegado una vez
@@ -499,14 +572,17 @@ saṅkappo	intención
 saṅkhārā	atribuciones
 saṅkhataṁ	atribuida
 sankhatamabhisaṅkharontīti	atribuye lo significado
+saṅkhittena	concisamente
 sannicayo	acumula
 santo	presentes
 santo	virtuosos
+santuṭṭhitā	conformidad
 sañjāti	génesis
 sañjāyati	nace
 saññā	distinción
 saññaṁ	distinción
 sappurisā	hombres de bien
+sāratta	cautivado
 sāsava	con secreciones
 sāta	agrado
 sātaṁ	agrado
@@ -515,13 +591,18 @@ sati	tener presente
 satiyā	tener presente
 sattā	sujetos
 sattānaṁ	sujetos
+satto	sujeto
 sāvakānaṁ	discípulos
+senāsanāni	aposentos
+seyyathāpi	igual que
 seyyathidaṁ	lo siguiente
 sikkhāpadesu	preceptos
 sikkhitabbaṁ	adiestrarse
 sīla	comportarse
+sīlabbata	comportamiento y votos
 sīvathikaṁ	campo de putrefacción
 sivathikāya	campo de putrefacción
+soka	pena
 somanassa	gozo
 somanassaṁ	gozo
 sotāpanno	adentrado en la corriente
@@ -530,6 +611,7 @@ sovaggiko	propicio
 sucarita	buena conducta
 sucarite	buena conducta
 sugatiṁ	buena fortuna
+sugato	afortunado
 sukata	buenos
 sukha	satisfacción
 sukhā	satisfacción
@@ -539,21 +621,30 @@ sukhāpi	de satisfacción
 sukhāya	satisfacción
 sumano	radiante
 sumedhaso	inteligente
+suṇātha	escuchen
 suññato	vacío
 suta	escuchar
+sute	escuchado
 svākkhāto	enseñado
 taṇhā	ganas
 tanu	disminuida
 tanuttā	merma
+tasmā	por ello
 tasmātiha	por lo tanto
+tassa	de ello
+tassa	por ello
 tathāni	auténticas
+tato	de ahí que
 tatra	en este asunto
+tattha	en ese caso
 ṭhāna	situación
 ṭhānāni	situaciones
 ṭhitā	permanece
 ṭhitassa	lo permanente
 ṭhito	permanece
 tiṭṭhati	se queda
+tveva	pero
+ubhayabyābādhāyapi	agobiar a los dos
 udapādi	surgió
 ummujjitvā	habiendo emergido
 upādāna	asidero
@@ -561,6 +652,7 @@ upādānaṁ	asidero
 upādāniyā	se puede asir
 upādāya	asiendo, anclando
 upadhi	adquisiciones
+upahaññati	afligida
 upajāyatī	aparecen
 upapajjanti	reviven
 upapajjati	revive
@@ -573,6 +665,7 @@ upāsake	seguidores laicos
 upasamāya	tranquilidad
 upasampajja	alcanzando
 upāsikā	seguidora laica
+upāyāsa	desazón
 upekkhā	ecuanimidad
 upeti	se acerca
 uppādo	un irrumpir
@@ -580,6 +673,7 @@ uppajjati	surge
 vacasā	recitadas
 vācāya	verbal
 vacī	verbal
+vaḍḍhanti	crece
 vaḍḍhati	crece
 vāyāmo	esfuerzo
 vayo	deterioro
@@ -593,8 +687,14 @@ veditabbo	conocer
 veramaṇī	abstención
 vibhavataṇhā	desaparición
 vicāra	planificación
+viddhaṁsenti	derrumban
+vidhamanti	destrozan
 viharati	reside
+vihesā	maltrato
+vihiṁsā	maltrato
+vijānato	reconoce
 vijjā	conocimiento
+vikiranti	esparcen
 viloketi	observa
 vimuttiyā	liberación
 vinābhāvo	separación
@@ -602,6 +702,7 @@ vinaye	disciplina
 vineyya	domado
 vinipātaṁ	hundimiento
 viññāṇaṁ	reconocimiento
+viññāte	reconocido
 viññū	entendidos
 vipāka	consecuencia
 vipāko	consecuencia
@@ -614,24 +715,30 @@ vipassati	discierne
 vippasannāni	establecidas
 virāgāya	desinterés
 vīriyaṁ	pujar
+visatto	enredado
 visayo	ámbito
 viseso	diferencia
 vitakka	propósito
 vitakkavicārānaṁ	propósito y planificación
 vītivatto	ha trascendido
+vitthārena	extensa
 vivekajaṁ	desligarse
 vivicca	desligado
 vivicceva	desligado
 vosagga	donar
 vuccati	se llama
+vuddho	maduro
+vūpakaṭṭho	retirado
 vūpasamo	aquietamiento
 vūpasantā	amainado
 vuṭṭhānaṁ	se termina
 vuṭṭhāti	sale
+yācasī	pretendes
 yadidaṁ	o sea
 yaṁ	lo que fuera
 yañño	ofrenda
 yathābhūtaṁ	en verdad
+yato	en donde
 yo	cual sea
 yo	cualquier
 yo	lo que sea
@@ -639,110 +746,3 @@ yo	quienquiera
 yogo	consagrarse a
 yoniso	cuidadosa
 yonisomanasikāro	prestar cuidadosa atención
-pantāni	distantes
-senāsanāni	aposentos
-paṭisevati	recurre
-sīlabbata	comportamiento y votos
-attavāda	dichos sobre uno mismo
-suṇātha	escuchen
-sādhukaṁ	completamente
-paccassosuṁ	contestaron
-soka	pena
-parideva	lamentos
-upāyāsa	desazón
-anavasesaṁ	sin residuo
-nāmarūpaṁ	nombres figura
-asesa	sin remanente
-bhāsitaṁ	lo dicho
-attamanā	felices
-tveva	pero
-pamāda	negligencia
-appicchatā	austeridad
-santuṭṭhitā	conformidad
-rajanīyā	tentadoras
-visatto	enredado
-satto	sujeto
-tasmā	por ello
-seyyathāpi	igual que
-pema	querer
-pipāsa	sed
-pariḷāha	ardor
-allīyanti	apega
-keḷāyanti	celar
-dhanāyanti	atesorar
-mamāyanti	adueñar
-vikiranti	esparcen
-kīḷanti	juegan
-vidhamanti	destrozan
-viddhaṁsenti	derrumban
-saṅkhittena	concisamente
-vūpakaṭṭho	retirado
-appamatto	sobrio
-ātāpī	ferviente
-pahitatto	entregado
-hi	por cierto
-jiṇṇo	desgastado
-vuddho	maduro
-mahallako	mayor
-addhagato	veterano
-anuppatto	alcanzado
-ovādaṁ	admonición
-yācasī	pretendes
-sugato	afortunado
-appeva	ojalá
-ājāneyyaṁ	reconocer
-tattha	en ese caso
-ettha	en este caso
-bhavissati	será
-yato	en donde
-attha	finalidad
-phusasi	tocado
-mute	sentido
-tato	de ahí que
-vitthārena	extensa
-piyaṁ	apreciable
-nimittaṁ	rasgo
-sāratta	cautivado
-ajjhosa	aferrado
-vaḍḍhanti	crece
-tassa	por ello
-tassa	de ello
-abyāpāda	no malquerencia
-byāpādo	malquerencia
-ābādhāya	padecimiento
-ābādhikaṁ	padeciendo
-abyābajjha	alivio
-abyābajjhā	alivio
-abyābajjhaṁyeva	alivio
-abyāpajjaṁ	alivio
-attabyābādhāyapi	agobiarse
-byā pāda	malquerencia
-parabyābādhāyapi	agobiar a otro
-ubhayabyābādhāyapi	agobiar a los dos
-avihiṁsā	no maltrato
-vihiṁsā	maltrato
-vihesā	maltrato
-upahaññati	afligida
-ācinato	acumulada
-nibbāna	disipación
-muṭṭhā	extraviado
-saddā	sonido
-gandhā	olor
-rasā	sabor
-diṭṭhe	visto
-sute	escuchado
-viññāte	reconocido
-paṭissato	consciente de sí
-pariyādiṇṇaṁ	agotada
-parikkhīṇaṁ	consumida
-khīyati	deshecha
-pacīyati	acopiada
-apacinato	no acumula
-bhāsitassa	lo dicho
-atthaṁ	finalidad
-vijānato	reconoce
-imassa	ciertamente
-agāraṁ	hogar
-anuttara	insuperable
-karaṇīyaṁ	debe hacer
-itthattāyā	el aquí
