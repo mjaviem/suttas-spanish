@@ -1,6 +1,4 @@
 # Glossary in tab-separated format -*- coding: utf-8 -*-
-ābādhāya	aflicción
-ābādhikaṁ	afligida
 abbhuggacchati	trasciende
 abhabbo	incapaz
 abhijjhā	codicia
@@ -21,10 +19,6 @@ abhisamparāyaṁ	ulteriores
 abhivadanti	pregonan
 abhivadati	acoge
 abrahmacariyā	conducta no espiritual
-abyābajjha	inocuidad
-abyābajjhā	sin daños
-abyābajjhaṁyeva	inocuidad
-abyāpajjaṁ	inocuo
 adhigacchati	halla
 adhigamanīyāni	hallar
 adhigato	hallada
@@ -101,7 +95,6 @@ assāsapassāsā	respiración
 asubhā	lo asqueroso
 atho	y además
 attā	uno mismo
-attabyābādhāyapi	hacerse daño a uno mismo
 attamanatā	felicidad
 attamano	felicidad
 atthaṅgamā	repliegue
@@ -147,7 +140,6 @@ brahmacārayo	conducta espiritual
 brahmacariyaṁ	conducta espiritual
 brāhmaṇā	brahmanes
 buddhe	despierto, despertado
-byā pāda	malevolencia
 byādhi	enfermedad
 byādhiṁ	afecciones
 byantīhonti	es finalizado
@@ -202,15 +194,12 @@ duccarite	mala conducta
 duggatiṁ	desventura
 dukkaṭā	malos
 dukkhā	dificultad
-dukkhā	padecimiento
 dukkhakkhandho	montón de dificultad
 dukkhaṁ	dificultad
-dukkhaṁ	padecimiento
 dukkhampi	dificultad
 dukkhanirodhagāminī	que conduce a la supresión de la dificultad
 dukkhāpi	de dificultad
 dukkhatā	condición dificultosa
-dukkhitaṁ	padeciendo
 duppaññe	de saber equivocado
 dussīle	inmorales
 duṭṭho	hostil
@@ -393,7 +382,6 @@ paññāyati	se sabe de
 pāpakā	funestas
 pāpakānaṁ	funestas
 pāpako	funesta
-parabyābādhāyapi	hacerle daño a otro
 paraṁ	después
 paravittūpakaraṇaṁ	pertenencias de otros
 parāyaṇo	apoyado
@@ -567,7 +555,6 @@ tatra	en este asunto
 ṭhitassa	lo permanente
 ṭhito	permanece
 tiṭṭhati	se queda
-ubhayabyābādhāyapi	hacerle daño a ambos
 udapādi	surgió
 ummujjitvā	habiendo emergido
 upādāna	asidero
@@ -722,6 +709,19 @@ vaḍḍhanti	crece
 tassa	por ello
 tassa	de ello
 abyāpāda	no malquerencia
-avihiṁsā	no opresión
 byāpādo	malquerencia
-vihiṁsā	opresión
+ābādhāya	padecimiento
+ābādhikaṁ	padeciendo
+abyābajjha	alivio
+abyābajjhā	alivio
+abyābajjhaṁyeva	alivio
+abyāpajjaṁ	alivio
+attabyābādhāyapi	agobiarse
+byā pāda	malquerencia
+parabyābādhāyapi	agobiar a otro
+ubhayabyābādhāyapi	agobiar a los dos
+avihiṁsā	no maltrato
+vihiṁsā	maltrato
+vihesā	maltrato
+upahaññati	afligida
+ācinato	acumulada
