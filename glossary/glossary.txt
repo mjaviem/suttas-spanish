@@ -394,7 +394,7 @@ paricitā	consolidadas
 parihānañhetaṁ	menguar
 parihāyāmi	menguan
 parikkhayā	extinción
-parikkhayāya	agotamiento
+parikkhayāya	extinción
 parikkhīṇo	agotado
 parinibbāyī	disipado completamente
 pariññā	comprensión plena
@@ -735,3 +735,7 @@ sute	escuchado
 viññāte	reconocido
 paṭissato	consciente de sí
 pariyādiṇṇaṁ	agotada
+parikkhīṇaṁ	consumida
+khīyati	deshecha
+pacīyati	acopiada
+apacinato	no acumula
