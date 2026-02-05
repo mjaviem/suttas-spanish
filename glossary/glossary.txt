@@ -727,3 +727,9 @@ upahaññati	afligida
 ācinato	acumulada
 nibbāna	disipación
 muṭṭhā	extraviado
+saddā	sonido
+gandhā	olor
+rasā	sabor
+diṭṭhe	visto
+sute	escuchado
+viññāte	reconocido
