@@ -30,7 +30,6 @@ adhippayāso	divergencia
 ādīnavo	inconveniente
 adinnādānā	tomar lo que no es dado
 adukkhamasukhampi	ni satisfacción ni dificultad
-agāraṁ	vivienda
 āgati	venida
 ajeyyo	imbatible
 ājīvaṁ	medio de vida
@@ -743,3 +742,7 @@ bhāsitassa	lo dicho
 atthaṁ	finalidad
 vijānato	reconoce
 imassa	ciertamente
+agāraṁ	hogar
+anuttara	insuperable
+karaṇīyaṁ	debe hacer
+itthattāyā	el aquí
