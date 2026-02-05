@@ -1283,8 +1283,8 @@ y se queda aferrado a eso.</seg>
       <tuv lang="pi">
         <seg>Imesaṁ kho, bhikkhave, catunnaṁ upādānānaṁ abhiññāya pariññāya parikkhayāya pahānāya …pe… ayaṁ ariyo aṭṭhaṅgiko maggo bhāvetabbo”ti.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20251113T131754Z" creationid="mjaviem" creationdate="20251113T131754Z">
-        <seg>Pues, bhikkhus, para la toma de conciencia, la comprensión plena, el agotamiento, el abandono de estos cuatro asideros... este Camino Óctuple Noble debe ser sucitado.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260205T194324Z" creationid="mjaviem" creationdate="20251113T131754Z">
+        <seg>Pues, bhikkhus, para la toma de conciencia, la comprensión plena, la extinción, el abandono de estos cuatro asideros... este Camino Óctuple Noble debe ser sucitado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1371,8 +1371,8 @@ y se queda aferrado a eso.</seg>
       <tuv lang="pi">
         <seg>Imāsaṁ kho, bhikkhave, tissannaṁ dukkhatānaṁ abhiññāya pariññāya parikkhayāya pahānāya …pe… ayaṁ ariyo aṭṭhaṅgiko maggo bhāvetabbo”ti.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20251113T131837Z" creationid="mjaviem" creationdate="20250826T001933Z">
-        <seg>Pues, bhikkhus, para la toma de conciencia, la comprensión plena, el agotamiento, el abandono de estas tres condiciones dificultosas... este Camino Óctuple Noble debe ser sucitado.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260205T194221Z" creationid="mjaviem" creationdate="20250826T001933Z">
+        <seg>Pues, bhikkhus, para la toma de conciencia, la comprensión plena, la extinción, el abandono de estas tres condiciones dificultosas... este Camino Óctuple Noble debe ser sucitado.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1929,6 +1929,36 @@ y se queda aferrado a eso.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Na so rajjati gandhesu,
+gandhaṁ ghatvā paṭissato;
+Virattacitto vedeti,
+tañca nājjhosa tiṭṭhati.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260205T200357Z" creationid="mjaviem" creationdate="20260205T200357Z">
+        <seg>Él no se apasiona por los olores,
+habiendo olido, consciente de sí, un olor;
+siente con el corazón desapasionado,
+se queda no aferrado a eso.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Na so rajjati rasesu,
+rasaṁ bhotvā paṭissato;
+Virattacitto vedeti,
+tañca nājjhosa tiṭṭhati.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260205T223322Z" creationid="mjaviem" creationdate="20260205T223322Z">
+        <seg>Él no se apasiona por los sabores,
+habiendo saboreado, consciente de sí, un sabor;
+siente con el corazón desapasionado,
+se queda no aferrado a eso.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Na so rajjati rūpesu,
 rūpaṁ disvā paṭissato;
 Virattacitto vedeti,
@@ -1937,6 +1967,21 @@ tañca nājjhosa tiṭṭhati.</seg>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260205T182839Z" creationid="mjaviem" creationdate="20260205T175716Z">
         <seg>Él no se apasiona por las figuras,
 habiendo visto, consciente de sí, una figura;
+siente con el corazón desapasionado,
+se queda no aferrado a eso.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Na so rajjati saddesu,
+saddaṁ sutvā paṭissato;
+Virattacitto vedeti,
+tañca nājjhosa tiṭṭhati.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260205T200111Z" creationid="mjaviem" creationdate="20260205T200111Z">
+        <seg>Él no se apasiona por los sonidos,
+habiendo escuchado, consciente de sí, un sonido;
 siente con el corazón desapasionado,
 se queda no aferrado a eso.
 </seg>
@@ -2964,6 +3009,24 @@ tiene grandes tesoros en el mundo.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Yathāssa ghāyato gandhaṁ,
+sevato cāpi vedanaṁ;
+Khīyati nopacīyati,
+evaṁ so caratī sato;
+Evaṁ apacinato dukkhaṁ,
+santike nibbāna vuccati.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260205T200424Z" creationid="mjaviem" creationdate="20260205T200424Z">
+        <seg>Igual que cuando huele un olor,
+e incluso a la sensación que se asocia;
+deshecha, no acopia,
+así se conduce teniendo presente;
+así no acumula dificultad,
+se llama cerca de la disipación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Yathāssa passato rūpaṁ,
 sevato cāpi vedanaṁ;
 Khīyati nopacīyati,
@@ -2971,10 +3034,31 @@ evaṁ so caratī sato;
 Evaṁ apacinato dukkhaṁ,
 santike nibbāna vuccati.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260205T192428Z" creationid="mjaviem" creationdate="20260205T183847Z">
-        <seg>Igual que cuando viendo una figura,
-e incluso la sensación que se asocia;
-agotada, no acumulada</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260205T200323Z" creationid="mjaviem" creationdate="20260205T183847Z">
+        <seg>Igual que cuando ve una figura,
+e incluso a la sensación que se asocia;
+deshecha, no acopia,
+así se conduce teniendo presente;
+así no acumula dificultad,
+se llama cerca de la disipación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Yathāssa suṇato saddaṁ,
+sevato cāpi vedanaṁ;
+Khīyati nopacīyati,
+evaṁ so caratī sato;
+Evaṁ apacinato dukkhaṁ,
+santike nibbāna vuccati.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260205T200219Z" creationid="mjaviem" creationdate="20260205T200219Z">
+        <seg>Igual que cuando escucha un sonido,
+e incluso a la sensación que se asocia;
+deshecha, no acopia,
+así se conduce teniendo presente;
+así no acumula dificultad,
+se llama cerca de la disipación</seg>
       </tuv>
     </tu>
     <tu>
