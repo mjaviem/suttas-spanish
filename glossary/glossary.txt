@@ -24,7 +24,6 @@ abrahmacariyā	conducta no espiritual
 abyābajjha	inocuidad
 abyābajjhā	sin daños
 abyābajjhaṁyeva	inocuidad
-abyāpāda	inocuidad
 abyāpajjaṁ	inocuo
 adhigacchati	halla
 adhigamanīyāni	hallar
@@ -111,7 +110,6 @@ atthaṅgamo	repliegue
 atthasaṁhitā	pertinentes
 atthavasaṁ	provecho
 atthi	existe
-avihiṁsā	no inhumanidad
 avijjā	desconocimiento
 avisayasmiṁ	alcance
 āvuso	amigos
@@ -153,7 +151,6 @@ byā pāda	malevolencia
 byādhi	enfermedad
 byādhiṁ	afecciones
 byantīhonti	es finalizado
-byāpādo	malevolencia
 byāpajjati	repudia
 byāpanna	dañino
 cāga	desprenderse
@@ -611,7 +608,6 @@ veramaṇī	abstención
 vibhavataṇhā	desaparición
 vicāra	planificación
 viharati	reside
-vihiṁsā	inhumanidad
 vijjā	conocimiento
 viloketi	observa
 vimuttiyā	liberación
@@ -725,3 +721,7 @@ ajjhosa	aferrado
 vaḍḍhanti	crece
 tassa	por ello
 tassa	de ello
+abyāpāda	no malquerencia
+avihiṁsā	no opresión
+byāpādo	malquerencia
+vihiṁsā	opresión
