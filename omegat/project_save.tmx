@@ -1144,6 +1144,7 @@ y se queda aferrado a eso.</seg>
       </tuv>
     </tu>
     <tu>
+      <note>"pujar" no parece la mejor elección</note>
       <tuv lang="pi">
         <seg>Idha, gahapati, kulaputtassa bhogā honti uṭṭhānavīriyādhigatā bāhābalaparicitā sedāvakkhittā dhammikā dhammaladdhā.</seg>
       </tuv>
@@ -3223,8 +3224,8 @@ se llama cerca de la disipación"</seg>
       <tuv lang="pi">
         <seg>Yato kho te, mālukyaputta, diṭṭhasutamutaviññātabbesu dhammesu diṭṭhe diṭṭhamattaṁ bhavissati, sute sutamattaṁ bhavissati, mute mutamattaṁ bhavissati, viññāte viññātamattaṁ bhavissati; tato tvaṁ, mālukyaputta, na tena.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260203T143800Z" creationid="mjaviem" creationdate="20251231T163730Z">
-        <seg>Pues en donde para ti, hijo de Mālukya, en los principios vistos, escuchados, sentidos y reconocidos, en lo visto sea el grado visto, en lo escuchado sea el grado escuchado, en lo sentido sea el grado sentido, en lo reconocido sea el grado reconocido, de ahí que tú, hijo de Mālukya, no serás por ello.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260206T131032Z" creationid="mjaviem" creationdate="20251231T163730Z">
+        <seg>Pues en donde para ti, hijo de Mālukya, en las cuestiones vistas, escuchadas, sentidas y reconocidas, en lo visto sea el grado visto, en lo escuchado sea el grado escuchado, en lo sentido sea el grado sentido, en lo reconocido sea el grado reconocido, de ahí que tú, hijo de Mālukya, no serás por ello.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3619,6 +3620,7 @@ upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ 
       </tuv>
     </tu>
     <tu>
+      <note>"anclado" no parece ser la mejor elección</note>
       <tuv lang="pi">
         <seg>“Cattārimāni, gahapati, sukhāni adhigamanīyāni gihinā kāmabhoginā kālena kālaṁ samayena samayaṁ upādāya.</seg>
       </tuv>
@@ -3678,8 +3680,8 @@ upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ 
       <tuv lang="pi">
         <seg>“Ettha ca te, mālukyaputta, diṭṭhasutamutaviññātabbesu dhammesu diṭṭhe diṭṭhamattaṁ bhavissati, sute sutamattaṁ bhavissati, mute mutamattaṁ bhavissati, viññāte viññātamattaṁ bhavissati.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260203T142633Z" creationid="mjaviem" creationdate="20251231T162344Z">
-        <seg>"Y en este caso para ti, hijo de Mālukya, en los principios vistos, escuchados, sentidos y reconocidos, en lo visto será el grado visto, en lo escuchado será el grado escuchado, en lo sentido será el grado sentido, en lo reconocido será el grado reconocido.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260206T131013Z" creationid="mjaviem" creationdate="20251231T162344Z">
+        <seg>"Y en este caso para ti, hijo de Mālukya, en las cuestiones vistas, escuchadas, sentidas y reconocidas, en lo visto será el grado visto, en lo escuchado será el grado escuchado, en lo sentido será el grado sentido, en lo reconocido será el grado reconocido.</seg>
       </tuv>
     </tu>
     <tu>
