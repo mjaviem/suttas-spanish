@@ -268,7 +268,6 @@ iṭṭhā	deseadas
 itthattāyā	el aquí
 iṭṭhāya	deseado
 jānāti	entiende
-janeti	genera
 jarā	decaimiento
 jaraṁ	decrepitud
 jarāmaraṇaṁ	decaimiento-perecimiento
@@ -364,7 +363,6 @@ nibbānāya	disipación
 nibbidāya	hastío
 nibbindati	se hastía
 niccaṁ	estable
-nidāna	fundamento
 nikaṭṭha	apartado
 nikkhepo	abatimiento
 nimittaṁ	rasgo
@@ -752,3 +750,7 @@ khvāyaṁ	de hecho
 upaya	vinculación
 abhinivesa	interiorización
 vinibandha	atado
+nidāna	origen
+sambhavā	generada
+vatthu	sustrato
+adhiṭṭhānaṁ	fundamento
