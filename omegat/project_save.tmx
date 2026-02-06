@@ -1962,10 +1962,18 @@ y se queda aferrado a eso.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Lokanirodhaṁ kho, kaccāna, yathābhūtaṁ sammappaññāya passato yā loke atthitā sā na hoti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260206T144128Z" creationid="mjaviem" creationdate="20260206T144128Z">
+        <seg>Pues, Kaccāna, viendo en verdad con sabiduría cabal la supresión del mundo, cualquier existencia en el mundo no ocurre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Lokasamudayaṁ kho, kaccāna, yathābhūtaṁ sammappaññāya passato yā loke natthitā sā na hoti.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260206T143537Z" creationid="mjaviem" creationdate="20260206T142841Z">
-        <seg>Pues, Kaccāna, cuando uno ve con sabiduría cabal la fuente del mundo en verdad, esa no existencia en el mundo no hay.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260206T144051Z" creationid="mjaviem" creationdate="20260206T142841Z">
+        <seg>Pues, Kaccāna, viendo en verdad con sabiduría cabal la fuente del mundo, cualquier no existencia en el mundo no ocurre.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3015,6 +3023,14 @@ extingue sin las secreciones.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Upayupādānābhinivesavinibandho khvāyaṁ, kaccāna, loko yebhuyyena.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260206T150743Z" creationid="mjaviem" creationdate="20260206T144413Z">
+        <seg>De hecho, Kaccāna, este mundo, mayormente, está atado por la interiorización, el asidero y la vinculación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Uppādo paññāyati, vayo paññāyati, ṭhitassa aññathattaṁ paññāyati.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250918T202817Z" creationid="mjaviem" creationdate="20250831T144400Z">
@@ -3688,8 +3704,8 @@ upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ 
       <tuv lang="pi">
         <seg>“Dvayanissito khvāyaṁ, kaccāna, loko yebhuyyena—atthitañceva natthitañca.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260206T142536Z" creationid="mjaviem" creationdate="20260206T141212Z">
-        <seg>Kaccāna, este mundo, mayormente, está asentado en dos: la existencia y la no existencia.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260206T144431Z" creationid="mjaviem" creationdate="20260206T141212Z">
+        <seg>De hecho, Kaccāna, este mundo, mayormente, está asentado en dos: la existencia y la no existencia.</seg>
       </tuv>
     </tu>
     <tu>
