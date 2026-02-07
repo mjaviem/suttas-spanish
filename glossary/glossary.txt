@@ -116,7 +116,6 @@ asubhā	lo asqueroso
 ātāpī	ferviente
 atho	y además
 attā	uno mismo
-attabyābādhāyapi	agobiarse
 attamanā	felices
 attamanatā	felicidad
 attamano	felicidad
@@ -437,7 +436,6 @@ paññāyati	se sabe de
 pāpakā	funestas
 pāpakānaṁ	funestas
 pāpako	funesta
-parabyābādhāyapi	agobiar a otro
 paraṁ	después
 paravittūpakaraṇaṁ	pertenencias de otros
 parāyaṇo	apoyado
@@ -642,7 +640,6 @@ tattha	en ese caso
 ṭhito	permanece
 tiṭṭhati	se queda
 tveva	pero
-ubhayabyābādhāyapi	agobiar a los dos
 udapādi	surgió
 ummujjitvā	habiendo emergido
 upādāna	asidero
@@ -762,3 +759,6 @@ ubho	ambos
 ante	extremos
 majjhena	medio
 dhammaṁ	principios
+attabyābādhāyapi	abrumarse
+parabyābādhāyapi	abrumar a otro
+ubhayabyābādhāyapi	abrumar a los dos
