@@ -627,8 +627,6 @@ tanu	disminuida
 tanuttā	merma
 tasmā	por ello
 tasmātiha	por lo tanto
-tassa	de ello
-tassa	por ello
 tathāni	auténticas
 tato	de ahí que
 tatra	en este asunto
@@ -762,3 +760,5 @@ dhammaṁ	principios
 attabyābādhāyapi	abrumarse
 parabyābādhāyapi	abrumar a otro
 ubhayabyābādhāyapi	abrumar a los dos
+tassa	de él
+tassa	para él
