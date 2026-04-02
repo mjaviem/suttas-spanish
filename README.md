@@ -1,5 +1,5 @@
 # Pali Suttas Spanish Translation
-Translation of suttas from the Pali Canon into Spanish (Río de la Plata dialect).
+Translation of suttas from the Pali Canon into Spanish.
 
 ## 📖 About the Project
 
@@ -10,7 +10,7 @@ This site provides translations of Buddhist discourses (suttas) from the Pali Ca
 - **Literal Approach**: Prioritizes the original meaning of Pali words. Translations are direct from Pali, using dictionaries and English versions as support.
 - **Terminological Consistency**: The same Pali term is translated consistently throughout all suttas, even if the result sounds unusual in Spanish.
 - **Text-Focused**: This translation stays close to the sutta itself, without adding interpretations or commentary.
--- **Direct Source Consultation**: Final translations are based on the [Digital Pali Dictionary](https://dpdict.net/).
+- **Direct Source Consultation**: Final translations are based on the [Digital Pali Dictionary](https://dpdict.net/).
 
 This process ensures precision and fidelity to the source material, even when it results in phrasing that reflects Pali syntax.
 
@@ -20,7 +20,7 @@ This process ensures precision and fidelity to the source material, even when it
 
 The completed translations are available in two formats:
 - **Website:** The easiest way to read them is on the [project website](https://mjaviem.github.io/suttas-spanish/).
-- **Text Files:** The translated files in Markdown (`.md`) format are located in the `/docs` folder of this repository. You can download and read them with any text editor.
+- **Text Files:** The translated files in plain text (`.txt`) are located in the `/target` folder of this repository. You can download and read them with any text editor.
 
 ## 🛠 Translation Process
 
