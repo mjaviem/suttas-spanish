@@ -20,7 +20,6 @@ abhiratiyā	contentamiento
 abhisamparāyaṁ	ulteriores
 abhivadanti	pregonan
 abhivadati	acoge
-abrahmacariyā	conducta no espiritual
 abyābajjha	alivio
 abyābajjhā	alivio
 abyābajjhaṁyeva	alivio
@@ -165,8 +164,6 @@ bhedo	desintegración
 bhikkhave	bhikkhus
 bhogā	riqueza
 bhūmi	terreno
-brahmacārayo	conducta espiritual
-brahmacariyaṁ	conducta espiritual
 brāhmaṇā	brahmanes
 buddhe	despierto, despertado
 byā pāda	malquerencia
@@ -762,3 +759,6 @@ parabyābādhāyapi	abrumar a otro
 ubhayabyābādhāyapi	abrumar a los dos
 tassa	de él
 tassa	para él
+abrahmacariyā	conducta no santa
+brahmacārayo	conducta santa
+brahmacariyaṁ	conducta santa
