@@ -496,6 +496,14 @@ y los hombres comunes le huyen</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Catasso imā, bhikkhave, ariyapariyesanā.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260429T194317Z" creationid="mjaviem" creationdate="20260429T194317Z">
+        <seg>“Bhikkhus, estas son cuatro pesquisas nobles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Chandā dānaṁ deti, dosā dānaṁ deti, mohā dānaṁ deti, bhayā dānaṁ deti, ‘dinnapubbaṁ katapubbaṁ pitupitāmahehi, nārahāmi porāṇaṁ kulavaṁsaṁ hāpetun’ti dānaṁ deti, ‘imāhaṁ dānaṁ datvā kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjissāmī’ti dānaṁ deti, ‘imaṁ me dānaṁ dadato cittaṁ pasīdati, attamanatā somanassaṁ upajāyatī’ti dānaṁ deti, cittālaṅkāracittaparikkhāratthaṁ dānaṁ deti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20251205T160507Z" creationid="mjaviem" creationdate="20250829T130906Z">
@@ -1137,6 +1145,22 @@ y se queda aferrado a eso.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Idha, bhikkhave, ekacco attanā jarādhammo samāno jarādhammaṁyeva pariyesati; attanā byādhidhammo samāno byādhidhammaṁyeva pariyesati; attanā maraṇadhammo samāno maraṇadhammaṁyeva pariyesati; attanā saṅkilesadhammo samāno saṅkilesadhammaṁyeva pariyesati.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260429T193935Z" creationid="mjaviem" creationdate="20260429T192747Z">
+        <seg>Aquí, bhikkhus, alguien que siendo él mismo decaíble, pesquisa precisamente aquello que es decaíble; siendo él mismo susceptible de enfermedad, pesquisa precisamente aquello que es susceptible de enfermedad; siendo él mismo perecible, pesquisa precisamente aquello que es perecible; siendo él mismo susceptible de mancilla, pesquisa precisamente aquello que es susceptible de mancilla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Idha, bhikkhave, ekacco attanā jarādhammo samāno jarādhamme ādīnavaṁ viditvā ajaraṁ anuttaraṁ yogakkhemaṁ nibbānaṁ pariyesati; attanā byādhidhammo samāno byādhidhamme ādīnavaṁ viditvā abyādhiṁ anuttaraṁ yogakkhemaṁ nibbānaṁ pariyesati; attanā maraṇadhammo samāno maraṇadhamme ādīnavaṁ viditvā amataṁ anuttaraṁ yogakkhemaṁ nibbānaṁ pariyesati; attanā saṅkilesadhammo samāno saṅkilesadhamme ādīnavaṁ viditvā asaṅkiliṭṭhaṁ anuttaraṁ yogakkhemaṁ nibbānaṁ pariyesati.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260429T195323Z" creationid="mjaviem" creationdate="20260429T194546Z">
+        <seg>Aquí, bhikkhus, alguien que es decaíble, tras percibir el inconveniente en lo que es decaíble, pesquisa la disipación: la insuperable seguridad frente a las ataduras que está libre de decaimiento;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Idha, bhikkhave, ekacco puggalo araññavanapatthāni pantāni senāsanāni paṭisevati.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20251112T213951Z" creationid="mjaviem" creationdate="20251112T212741Z">
@@ -1381,6 +1405,14 @@ y se queda aferrado a eso.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20251107T155320Z" creationid="mjaviem" creationdate="20251106T144737Z">
         <seg>Y, bhikkhus, si alguien estableciese a su madre y padre como señores soberanos de esta gran tierra que abunda en los siete tesoros, aun así, bhikkhus, no estaría hecho, no habría retribuido a la madre y al padre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Imā kho, bhikkhave, catasso anariyapariyesanā.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260429T194243Z" creationid="mjaviem" creationdate="20260429T194243Z">
+        <seg>Pues estas son, bhikkhus, cuatro pesquisas que no son nobles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1677,6 +1709,14 @@ y se queda aferrado a eso.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260403T131458Z" creationid="javier-medeot" creationdate="20250111T193540Z">
         <seg>¿Y cuál es, bhikkhus, la finalidad de la conducta santa?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Katamā catasso?</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260429T192538Z" creationid="mjaviem" creationdate="20260429T192538Z">
+        <seg>¿Cuáles cuatro?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3720,6 +3760,14 @@ upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ 
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260403T131451Z" creationid="mjaviem" creationdate="20250826T191226Z">
         <seg>"Bhikkhus, les enseñaré la conducta santa y la finalidad de la conducta santa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Catasso imā, bhikkhave, anariyapariyesanā.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260429T192529Z" creationid="mjaviem" creationdate="20260429T192529Z">
+        <seg>“Bhikkhus, estas son cuatro pesquisas que no son nobles.</seg>
       </tuv>
     </tu>
     <tu>
