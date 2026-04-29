@@ -762,3 +762,6 @@ tassa	para él
 abrahmacariyā	conducta no santa
 brahmacārayo	conducta santa
 brahmacariyaṁ	conducta santa
+pariyesanā	pesquisas
+pariyesati	pesquisa
+viditvā	percibir
