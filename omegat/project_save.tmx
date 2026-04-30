@@ -1147,16 +1147,16 @@ y se queda aferrado a eso.</seg>
       <tuv lang="pi">
         <seg>Idha, bhikkhave, ekacco attanā jarādhammo samāno jarādhammaṁyeva pariyesati; attanā byādhidhammo samāno byādhidhammaṁyeva pariyesati; attanā maraṇadhammo samāno maraṇadhammaṁyeva pariyesati; attanā saṅkilesadhammo samāno saṅkilesadhammaṁyeva pariyesati.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260429T193935Z" creationid="mjaviem" creationdate="20260429T192747Z">
-        <seg>Aquí, bhikkhus, alguien que siendo él mismo decaíble, pesquisa precisamente aquello que es decaíble; siendo él mismo susceptible de enfermedad, pesquisa precisamente aquello que es susceptible de enfermedad; siendo él mismo perecible, pesquisa precisamente aquello que es perecible; siendo él mismo susceptible de mancilla, pesquisa precisamente aquello que es susceptible de mancilla.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260430T115543Z" creationid="mjaviem" creationdate="20260429T192747Z">
+        <seg>Aquí, bhikkhus, alguien que siendo él mismo decaíble, pesquisa precisamente aquello que es decaíble; siendo él mismo susceptible de afecciones, pesquisa precisamente aquello que es susceptible de afecciones; siendo él mismo perecible, pesquisa precisamente aquello que es perecible; siendo él mismo susceptible de mancilla, pesquisa precisamente aquello que es susceptible de mancilla.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pi">
         <seg>Idha, bhikkhave, ekacco attanā jarādhammo samāno jarādhamme ādīnavaṁ viditvā ajaraṁ anuttaraṁ yogakkhemaṁ nibbānaṁ pariyesati; attanā byādhidhammo samāno byādhidhamme ādīnavaṁ viditvā abyādhiṁ anuttaraṁ yogakkhemaṁ nibbānaṁ pariyesati; attanā maraṇadhammo samāno maraṇadhamme ādīnavaṁ viditvā amataṁ anuttaraṁ yogakkhemaṁ nibbānaṁ pariyesati; attanā saṅkilesadhammo samāno saṅkilesadhamme ādīnavaṁ viditvā asaṅkiliṭṭhaṁ anuttaraṁ yogakkhemaṁ nibbānaṁ pariyesati.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260430T114837Z" creationid="mjaviem" creationdate="20260429T194546Z">
-        <seg>Aquí, bhikkhus, alguien que siendo él mismo decaíble, tras percibir el inconveniente en lo que es decaíble, pesquisa la disipación: la insuperable paz frente al sometimiento que está libre de decaimiento; siendo él mismo susceptible de enfermedad, tras percibir el inconveniente en lo que es susceptible de enfermedad, pesquisa la disipación: la insuperable paz frente al sometimiento que está libre de enfermedad; </seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260430T115528Z" creationid="mjaviem" creationdate="20260429T194546Z">
+        <seg>Aquí, bhikkhus, alguien que siendo él mismo decaíble, tras percibir el inconveniente en lo que es decaíble, pesquisa la disipación: la insuperable paz frente al sometimiento que está libre de decaimiento; siendo él mismo susceptible de afecciones, tras percibir el inconveniente en lo que es susceptible de afecciones, pesquisa la disipación: la insuperable paz frente al sometimiento que está libre de afecciones; siendo él mismo perecible, tras percibir el inconveniente en lo que es perecible, pesquisa la disipación: la insuperable paz frente al sometimiento que está libre de perecimiento; siendo él mismo susceptible de mancilla, tras percibir el inconveniente en lo que es susceptible de mancilla, pesquisa la disipación: la insuperable paz frente al sometimiento que está libre de mancilla.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1413,6 +1413,14 @@ y se queda aferrado a eso.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260429T194243Z" creationid="mjaviem" creationdate="20260429T194243Z">
         <seg>Pues estas son, bhikkhus, cuatro pesquisas que no son nobles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Imā kho, bhikkhave, catasso ariyapariyesanā”ti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260430T115810Z" creationid="mjaviem" creationdate="20260430T115810Z">
+        <seg>Pues estas son, bhikkhus, cuatro pesquisas nobles.</seg>
       </tuv>
     </tu>
     <tu>
