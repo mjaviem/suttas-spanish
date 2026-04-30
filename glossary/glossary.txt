@@ -305,7 +305,6 @@ khīyati	deshecha
 kho	pues
 kilamati	agobiarse
 kīḷanti	juegan
-kilesa	mancilla
 kittāvatā	en qué medida
 kittisaddo	reputación
 kulaputtassa	hijo de buena familia
@@ -767,3 +766,4 @@ pariyesati	pesquisa
 viditvā	percibir
 khema	paz
 yoga	sometimiento
+kilesa	corrupciones
