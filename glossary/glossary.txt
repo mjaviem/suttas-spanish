@@ -12,6 +12,7 @@ abhinandunti	aprobaron
 abhiṇha	habitual
 abhiṇhaṁ	habitualmente
 abhinibbatti	génesis
+abhinivesa	interiorización
 abhiññā	tomar conciencia
 abhiññāya	toma de conciencia
 abhiññāya	tomar conciencia
@@ -20,6 +21,7 @@ abhiratiyā	contentamiento
 abhisamparāyaṁ	ulteriores
 abhivadanti	pregonan
 abhivadati	acoge
+abrahmacariyā	conducta no santa
 abyābajjha	alivio
 abyābajjhā	alivio
 abyābajjhaṁyeva	alivio
@@ -32,6 +34,7 @@ adhigamanīyāni	hallar
 adhigato	hallada
 adhimuccati	prefiere
 adhippayāso	divergencia
+adhiṭṭhānaṁ	fundamento
 ādīnavā	inconveniente
 ādīnavañca	inconveniente
 ādīnavato	inconveniente
@@ -71,6 +74,8 @@ animitto	sin rasgo
 ānisaṁsā	ventajas
 ānisaṁsāti	ventajas
 antaradhānaṁ	desvanecimiento
+ante	extremos
+anto	extremo
 anukampakena	compasión
 anukampaṁ	compasión
 anukampantā	compasión
@@ -115,6 +120,7 @@ asubhā	lo asqueroso
 ātāpī	ferviente
 atho	y además
 attā	uno mismo
+attabyābādhāyapi	abrumarse
 attamanā	felices
 attamanatā	felicidad
 attamano	felicidad
@@ -127,6 +133,7 @@ atthaṅgamo	repliegue
 atthasaṁhitā	pertinentes
 atthavasaṁ	provecho
 atthi	existe
+atthitā	existencia
 avihiṁsā	no maltrato
 avijjā	desconocimiento
 avisayasmiṁ	alcance
@@ -164,6 +171,8 @@ bhedo	desintegración
 bhikkhave	bhikkhus
 bhogā	riqueza
 bhūmi	terreno
+brahmacārayo	conducta santa
+brahmacariyaṁ	conducta santa
 brāhmaṇā	brahmanes
 buddhe	despierto, despertado
 byā pāda	malquerencia
@@ -200,6 +209,7 @@ dāyādehi	herederos
 dāyādo	heredero
 desenti	enseñan
 dhammā	cuestiones, principios
+dhammaṁ	principios
 dhammānaṁ	cuestiones, principios
 dhamme	cuestiones, principios
 dhammehi	cuestiones, principios
@@ -232,10 +242,12 @@ dukkhāpi	de dificultad
 dukkhatā	condición dificultosa
 duppaññe	de saber equivocado
 dussīle	inmorales
+dutiyo	segundo
 duṭṭho	hostil
 ehipassikaṁ	constatable
 ehipassiko	constatable
 etadavoca	dijo esto
+ettāvatā	en esta medida
 ettha	en este caso
 evaṁ	así
 Evameva	Así también
@@ -300,11 +312,14 @@ keḷāyanti	celar
 khamo	tolerante
 khandhānaṁ	montones
 khayo	destrucción
+khema	paz
 khīṇā	acabado
 khīyati	deshecha
 kho	pues
+khvāyaṁ	de hecho
 kilamati	agobiarse
 kīḷanti	juegan
+kilesa	corrupciones
 kittāvatā	en qué medida
 kittisaddo	reputación
 kulaputtassa	hijo de buena familia
@@ -323,6 +338,7 @@ madena	embriaguez
 maggo	camino
 mahallako	mayor
 mahapphalo	muy fructífera
+majjhena	medio
 mamāyanti	adueñar
 manāpā	gratas
 manāpāya	grato
@@ -358,6 +374,7 @@ nibbānāya	disipación
 nibbidāya	hastío
 nibbindati	se hastía
 niccaṁ	estable
+nidāna	origen
 nikaṭṭha	apartado
 nikkhepo	abatimiento
 nimittaṁ	rasgo
@@ -376,6 +393,7 @@ nissaraṇan	escape
 nissaraṇañca	escape
 nissaraṇato	escape
 nissāya	por cuenta de
+nissito	asentado
 nīvaraṇa	obstrucciones
 nivāsa	morada
 niveseti	conduce
@@ -432,6 +450,7 @@ paññāyati	se sabe de
 pāpakā	funestas
 pāpakānaṁ	funestas
 pāpako	funesta
+parabyābādhāyapi	abrumar a otro
 paraṁ	después
 paravittūpakaraṇaṁ	pertenencias de otros
 parāyaṇo	apoyado
@@ -456,6 +475,8 @@ pariññāya	comprensión plena
 pariññeyyaṁ	comprendida plenamente
 parivitakko	vacilación
 pariyādiṇṇaṁ	agotada
+pariyesanā	pesquisas
+pariyesati	pesquisa
 pasādena	optimismo
 pasīdati	se alegra
 patarati	atraviesa
@@ -512,6 +533,7 @@ rūpā	figura
 rūpaṁ	figura
 rūpānaṁ	figura
 ruppati	desfigurada
+sabbaṁ	el todo
 sabbaso	totalmente
 sabbe	todos
 sacchikātabbaṁ	atestiguar
@@ -540,6 +562,7 @@ samāpanno	ha emprendido
 samāpattiyā	consecución
 samatho	calma
 samayaṁ	ocasión
+sambhavā	generada
 sambhavanti	suceder
 sambodhāya	esclarecimiento
 sambodhi	esclarecimiento
@@ -623,6 +646,8 @@ tanu	disminuida
 tanuttā	merma
 tasmā	por ello
 tasmātiha	por lo tanto
+tassa	de él
+tassa	para él
 tathāni	auténticas
 tato	de ahí que
 tatra	en este asunto
@@ -634,6 +659,8 @@ tattha	en ese caso
 ṭhito	permanece
 tiṭṭhati	se queda
 tveva	pero
+ubhayabyābādhāyapi	abrumar a los dos
+ubho	ambos
 udapādi	surgió
 ummujjitvā	habiendo emergido
 upādāna	asidero
@@ -654,6 +681,7 @@ upāsake	seguidores laicos
 upasamāya	tranquilidad
 upasampajja	alcanzando
 upāsikā	seguidora laica
+upaya	vinculación
 upāyāsa	desazón
 upekkhā	ecuanimidad
 upeti	se acerca
@@ -664,6 +692,7 @@ vācāya	verbal
 vacī	verbal
 vaḍḍhanti	crece
 vaḍḍhati	crece
+vatthu	sustrato
 vāyāmo	esfuerzo
 vayo	deterioro
 vedanā	sensación
@@ -678,6 +707,7 @@ vibhavataṇhā	desaparición
 vicāra	planificación
 viddhaṁsenti	derrumban
 vidhamanti	destrozan
+viditvā	percibir
 viharati	reside
 vihesā	maltrato
 vihiṁsā	maltrato
@@ -689,6 +719,7 @@ vimuttiyā	liberación
 vinābhāvo	separación
 vinaye	disciplina
 vineyya	domado
+vinibandha	atado
 vinipātaṁ	hundimiento
 viññāṇaṁ	reconocimiento
 viññāte	reconocido
@@ -732,38 +763,7 @@ yo	cual sea
 yo	cualquier
 yo	lo que sea
 yo	quienquiera
+yoga	sometimiento
 yogo	consagrarse a
 yoniso	cuidadosa
 yonisomanasikāro	prestar cuidadosa atención
-nissito	asentado
-atthitā	existencia
-khvāyaṁ	de hecho
-upaya	vinculación
-abhinivesa	interiorización
-vinibandha	atado
-nidāna	origen
-sambhavā	generada
-vatthu	sustrato
-adhiṭṭhānaṁ	fundamento
-ettāvatā	en esta medida
-dutiyo	segundo
-anto	extremo
-sabbaṁ	el todo
-ubho	ambos
-ante	extremos
-majjhena	medio
-dhammaṁ	principios
-attabyābādhāyapi	abrumarse
-parabyābādhāyapi	abrumar a otro
-ubhayabyābādhāyapi	abrumar a los dos
-tassa	de él
-tassa	para él
-abrahmacariyā	conducta no santa
-brahmacārayo	conducta santa
-brahmacariyaṁ	conducta santa
-pariyesanā	pesquisas
-pariyesati	pesquisa
-viditvā	percibir
-khema	paz
-yoga	sometimiento
-kilesa	corrupciones
