@@ -85,6 +85,7 @@ anuppatto	alcanzado
 anusāsanī	instrucción
 anusayā	lo latente
 anuttara	insuperable
+anuṭṭhitā	habituado
 anuvicca	averiguado
 aññathābhāvī	ambigua, equívoca
 aññathattaṁ	una ambigüedad
@@ -275,6 +276,7 @@ imehi	aquí
 iṭṭhā	deseadas
 itthattāyā	el aquí
 iṭṭhāya	deseado
+janakāyo	multitud
 jānāti	entiende
 jarā	decaimiento
 jaraṁ	decrepitud
@@ -287,6 +289,7 @@ kālakiriyā	cumplimiento de tiempo
 kālaṁ	tiempo, momento
 kālaṁ karoti	cumple su tiempo
 kaḷevarassa	cadáver
+kalyāṇī	agraciada
 kalyāṇo	bondadoso
 kāma	sensualidad
 kāmaguṇā	hebras de la sensualidad
@@ -361,6 +364,7 @@ moho	autoengaño
 musāvādā	decir falsedades
 mute	sentido
 muṭṭhā	extraviado
+nāma	llamado
 nāmarūpaṁ	nombres figura
 nānābhāvo	división
 nānākaraṇaṁ	variación
@@ -452,6 +456,7 @@ pāpakānaṁ	funestas
 pāpako	funesta
 parabyābādhāyapi	abrumar a otro
 paraṁ	después
+parama	sumo
 paravittūpakaraṇaṁ	pertenencias de otros
 parāyaṇo	apoyado
 parāyaṇo	inclinado
@@ -478,6 +483,7 @@ pariyādiṇṇaṁ	agotada
 pariyesanā	pesquisas
 pariyesati	pesquisa
 pasādena	optimismo
+pāsāvinī	prolífica
 pasīdati	se alegra
 patarati	atraviesa
 paṭicca	sustentado
@@ -521,6 +527,7 @@ piyo	apreciable
 puggalā	individuos
 puggalo	individuo
 puññassa	méritos
+purisa	hombre
 puthujjano	hombre común
 rāga	interés
 rāgā	interés
@@ -589,6 +596,7 @@ saṅkhataṁ	atribuida
 sankhatamabhisaṅkharontīti	atribuye lo significado
 saṅkhittena	concisamente
 sannicayo	acumula
+sannipateyya	reuniría
 santo	presentes
 santo	virtuosos
 santuṭṭhitā	conformidad
@@ -638,6 +646,7 @@ sumano	radiante
 sumedhaso	inteligente
 suṇātha	escuchen
 suññato	vacío
+susamāraddhā	emprendido
 suta	escuchar
 sute	escuchado
 svākkhāto	enseñado
@@ -670,6 +679,7 @@ upādāya	asiendo, en base
 upadhi	adquisiciones
 upahaññati	afligida
 upajāyatī	aparecen
+upamā	parábola
 upapajjanti	reviven
 upapajjati	revive
 upapajjatī"ti	revive
@@ -767,13 +777,3 @@ yoga	sometimiento
 yogo	consagrarse a
 yoniso	cuidadosa
 yonisomanasikāro	prestar cuidadosa atención
-nāma	llamado
-kalyāṇī	agraciada
-janakāyo	multitud
-sannipateyya	reuniría
-parama	sumo
-pāsāvinī	prolífica
-purisa	hombre
-anuṭṭhitā	habituado
-upamā	parábola
-susamāraddhā	emprendido
