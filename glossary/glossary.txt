@@ -41,7 +41,6 @@ adhiṭṭhānaṁ	fundamento
 ādīnavo	inconveniente
 adinnādānā	tomar lo que no es dado
 adukkhamasukhampi	ni satisfacción ni dificultad
-agāraṁ	hogar
 āgati	venida
 ājāneyyaṁ	reconocer
 ajeyyo	imbatible
@@ -779,3 +778,4 @@ yoniso	cuidadosa
 yonisomanasikāro	prestar cuidadosa atención
 parimutto	liberado
 Idha	Aquí
+agāraṁ	vivienda
