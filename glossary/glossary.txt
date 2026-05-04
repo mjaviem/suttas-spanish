@@ -498,7 +498,7 @@ paṭipadā	dedicación
 paṭipadāya	dedicación
 paṭipannā	están dedicados
 paṭipanno	están dedicados
-paṭippassaddho	apaciguado
+paṭippassaddho	aplacado
 paṭisaṁvedeti	experimenta
 paṭisañcikkhati	reconsidera
 paṭisaraṇo	refugio
@@ -777,5 +777,7 @@ yogo	consagrarse a
 yoniso	cuidadosa
 yonisomanasikāro	prestar cuidadosa atención
 parimutto	liberado
-Idha	Aquí
+idha	aquí
 agāraṁ	vivienda
+passambhayaṁ	apaciguando
+sikkhati	se adiestra
