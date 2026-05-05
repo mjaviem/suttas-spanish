@@ -770,13 +770,11 @@ vuṭṭhānaṁ	se termina
 vuṭṭhāti	sale
 yācasī	pretendes
 yadidaṁ	o sea
-yaṁ	lo que fuera
 yañño	ofrenda
 yathābhūtaṁ	en verdad
 yato	en donde
 yo	cual sea
 yo	cualquier
-yo	lo que sea
 yo	quienquiera
 yoga	sometimiento
 yogo	consagrarse a
@@ -788,3 +786,5 @@ vāsaṁ	morada
 nirāmisāpi	no mundana
 desessāmi	enseñaré
 vibhajati	analiza
+yaṁ	lo que
+yo	lo que
