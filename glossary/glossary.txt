@@ -385,7 +385,6 @@ nikaṭṭha	apartado
 nikkhepo	abatimiento
 nimittaṁ	rasgo
 nimujjati	se sumerge
-nirāmisāpi	espiritual
 nirayaṁ	desgracia
 nirodha	supresión
 nirodhāya	supresión
@@ -786,3 +785,4 @@ yonisomanasikāro	prestar cuidadosa atención
 agāraṁ	casa
 nivāsa	vivienda
 vāsaṁ	morada
+nirāmisāpi	no mundana
