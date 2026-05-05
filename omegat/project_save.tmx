@@ -3261,16 +3261,16 @@ se llama lejos de la disipación.
       <tuv lang="pi">
         <seg>Taṁ suṇātha, sādhukaṁ manasi karotha, bhāsissāmī”ti.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20251113T153829Z" creationid="mjaviem" creationdate="20251113T152853Z">
-        <seg>Escúchenlo, presten completamente atención, voy a hablar."</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260505T193737Z" creationid="mjaviem" creationdate="20251113T152853Z">
+        <seg>Escuchen esto, presten completamente atención, que voy a hablar."</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pi">
         <seg>Taṁ suṇātha.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20250823T003304Z" creationid="javier" creationdate="20231213T011012Z">
-        <seg>Escúchenlo.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260505T193730Z" creationid="javier" creationdate="20231213T011012Z">
+        <seg>Escuchen esto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4023,6 +4023,14 @@ upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ 
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>“Ariyaṁ vo, bhikkhave, aṭṭhaṅgikaṁ maggaṁ desessāmi vibhajissāmi.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260505T192033Z" creationid="mjaviem" creationdate="20260505T192033Z">
+        <seg>“Bhikkhus, les enseñaré y analizaré el Camino Óctuple Noble.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>“Asaṅkhatañca vo, bhikkhave, desessāmi asaṅkhatagāmiñca maggaṁ.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20251111T162308Z" creationid="mjaviem" creationdate="20251111T162308Z">
@@ -4186,8 +4194,8 @@ upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ 
       <tuv lang="pi">
         <seg>“Evaṁ, bhante”ti kho te bhikkhū bhagavato paccassosuṁ.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20251113T161726Z" creationid="mjaviem" creationdate="20251113T154034Z">
-        <seg>"Sí, bhante", pues contestaron esos bhikkhus al Dichoso.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260505T193928Z" creationid="mjaviem" creationdate="20251113T154034Z">
+        <seg>"Así es, bhante", pues contestaron esos bhikkhus al Dichoso.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4663,6 +4671,17 @@ kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250912T192949Z" creationid="mjaviem" creationdate="20250912T192949Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">SN-45.8.txt</prop>
+      <prop type="prev">Taṁ suṇātha, sādhukaṁ manasi karotha, bhāsissāmī”ti.</prop>
+      <prop type="next">Bhagavā etadavoca:</prop>
+      <tuv lang="pi">
+        <seg>“Evaṁ, bhante”ti kho te bhikkhū bhagavato paccassosuṁ.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260505T193950Z" creationid="mjaviem" creationdate="20260505T193950Z">
+        <seg>"Así será, bhante", pues contestaron esos bhikkhus al Dichoso.</seg>
       </tuv>
     </tu>
   </body>
