@@ -16,6 +16,7 @@ abhinivesa	interiorización
 abhiññā	tomar conciencia
 abhiññāya	toma de conciencia
 abhiññāya	tomar conciencia
+abhippamodayaṁ	regocijando
 abhirati	contentamiento
 abhiratiyā	contentamiento
 abhisamparāyaṁ	ulteriores
@@ -41,6 +42,7 @@ adhiṭṭhānaṁ	fundamento
 ādīnavo	inconveniente
 adinnādānā	tomar lo que no es dado
 adukkhamasukhampi	ni satisfacción ni dificultad
+agāraṁ	vivienda
 āgati	venida
 ājāneyyaṁ	reconocer
 ajeyyo	imbatible
@@ -79,6 +81,7 @@ anukampakena	compasión
 anukampaṁ	compasión
 anukampantā	compasión
 anumoditvā	alabó
+anupassī	observando
 anupekkhita	reconsideradas
 anuppatto	alcanzado
 anusāsanī	instrucción
@@ -269,6 +272,7 @@ hirīmā	vergüenza
 hitāya	bienestar
 hitesinā	deseo de beneficiar
 idaṁ	esto
+idha	aquí
 imassa	ciertamente
 ime	estos
 imehi	aquí
@@ -472,6 +476,7 @@ parikkhayāya	extinción
 parikkhīṇaṁ	consumida
 parikkhīṇo	agotado
 pariḷāha	ardor
+parimutto	emancipado
 parinibbāyī	disipado completamente
 pariññā	comprensión plena
 pariññāñca	comprensión plena
@@ -484,6 +489,7 @@ pariyesati	pesquisa
 pasādena	optimismo
 pāsāvinī	prolífica
 pasīdati	se alegra
+passambhayaṁ	apaciguando
 patarati	atraviesa
 paṭicca	sustentado
 paṭicca	sustentado
@@ -494,6 +500,7 @@ pāṭikaṅkhā	cabe esperar
 pāṭikaṅkhaṁ	es de esperar
 paṭikūlā	ser reacio
 paṭilābho	adquisición
+paṭinissagga	renuncia
 paṭipadā	dedicación
 paṭipadāya	dedicación
 paṭipannā	están dedicados
@@ -619,6 +626,7 @@ senāsanāni	aposentos
 seyyathāpi	igual que
 seyyathidaṁ	lo siguiente
 sikkhāpadesu	preceptos
+sikkhati	se adiestra
 sikkhitabbaṁ	adiestrarse
 sīla	comportarse
 sīlabbata	comportamiento y votos
@@ -724,6 +732,7 @@ vijānato	reconoce
 vijjā	conocimiento
 vikiranti	esparcen
 viloketi	observa
+vimocayaṁ	liberando
 vimuttiyā	liberación
 vinābhāvo	separación
 vinaye	disciplina
@@ -776,12 +785,3 @@ yoga	sometimiento
 yogo	consagrarse a
 yoniso	cuidadosa
 yonisomanasikāro	prestar cuidadosa atención
-parimutto	emancipado
-idha	aquí
-agāraṁ	vivienda
-passambhayaṁ	apaciguando
-sikkhati	se adiestra
-abhippamodayaṁ	regocijando
-vimocayaṁ	liberando
-anupassī	observando
-paṭinissagga	renuncia
