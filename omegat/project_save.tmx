@@ -1801,10 +1801,26 @@ y se queda aferrado a eso.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Katamo ca, bhikkhave, sammākammanto?</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260505T210205Z" creationid="mjaviem" creationdate="20260505T210205Z">
+        <seg>"¿Y qué es, bhikkhus, la actuación cabal?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Katamo ca, bhikkhave, sammāsaṅkappo?</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260505T202753Z" creationid="mjaviem" creationdate="20260505T202753Z">
         <seg>¿Y qué es, bhikkhus, la intención cabal?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Katamo ca, bhikkhave, sammāājīvo?</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260505T211332Z" creationid="mjaviem" creationdate="20260505T211332Z">
+        <seg>¿Y cuál es, bhikkhus, el medio de vida cabal?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3285,8 +3301,8 @@ se llama lejos de la disipación.
       <tuv lang="pi">
         <seg>Taṁ suṇātha, sādhukaṁ manasi karotha, bhāsissāmī”ti.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260505T200537Z" creationid="mjaviem" creationdate="20251113T152853Z">
-        <seg>Escuchen esto, presten atención completamente, que voy a hablar."</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260505T210359Z" creationid="mjaviem" creationdate="20251113T152853Z">
+        <seg>Escuchen esto, presten atención completamente que voy a hablar."</seg>
       </tuv>
     </tu>
     <tu>
@@ -3757,6 +3773,22 @@ ayaṁ vuccati, bhikkhave, brahmacariyattho”ti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20251111T162602Z" creationid="mjaviem" creationdate="20251111T162602Z">
         <seg>Bhikkhus, lo que sea destrucción del interés, destrucción del odio, destrucción del autoengaño: Bhikkhus, esto se llama lo no atribuido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Yā kho, bhikkhave, musāvādā veramaṇī, pisuṇāya vācāya veramaṇī, pharusāya vācāya veramaṇī, samphappalāpā veramaṇī— ayaṁ vuccati, bhikkhave, sammāvācā.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260505T210136Z" creationid="mjaviem" creationdate="20260505T210136Z">
+        <seg>Pues, bhikkhus, lo que es la abstención de postulados falsos, la abstención de hablar con malicia, la abstención de hablar con dureza, la abstención de la cháchara— esto se llama, bhikkhus, el habla cabal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Yā kho, bhikkhave, pāṇātipātā veramaṇī, adinnādānā veramaṇī, abrahmacariyā veramaṇī— ayaṁ vuccati, bhikkhave, sammākammanto.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260505T210334Z" creationid="mjaviem" creationdate="20260505T210334Z">
+        <seg>Pues, bhikkhus, lo que es la abstención de quitar vidas, la abstención de tomar lo que no es dado, la abstención de la conducta no santa— esto se llama, bhikkhus, la actuación cabal.</seg>
       </tuv>
     </tu>
     <tu>
