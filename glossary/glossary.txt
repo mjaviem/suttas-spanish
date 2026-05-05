@@ -363,7 +363,7 @@ micchā	equivocada
 mohā	autoengaño
 mohe	autoengaño
 moho	autoengaño
-musāvādā	decir falsedades
+musāvādā	postulados falsos
 mute	sentido
 muṭṭhā	extraviado
 nāma	llamado
@@ -581,7 +581,7 @@ sampadā	don
 sampajāna	a sabiendas
 sampajāno	a sabiendas
 sampannaṁ	logrado
-samphappalāpā	charlatanería
+samphappalāpā	cháchara
 samudaya	fuente
 samudayañca	fuente
 samudayo	fuente
@@ -788,3 +788,4 @@ desessāmi	enseñaré
 vibhajati	analiza
 yaṁ	lo que
 yo	lo que
+vādā	postulado
