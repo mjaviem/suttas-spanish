@@ -42,7 +42,6 @@ adhiṭṭhānaṁ	fundamento
 ādīnavo	inconveniente
 adinnādānā	tomar lo que no es dado
 adukkhamasukhampi	ni satisfacción ni dificultad
-agāraṁ	vivienda
 āgati	venida
 ājāneyyaṁ	reconocer
 ajeyyo	imbatible
@@ -402,7 +401,6 @@ nissaraṇato	escape
 nissāya	por cuenta de
 nissito	asentado
 nīvaraṇa	obstrucciones
-nivāsa	morada
 niveseti	conduce
 niyāma	norma
 niyato	firme
@@ -785,3 +783,6 @@ yoga	sometimiento
 yogo	consagrarse a
 yoniso	cuidadosa
 yonisomanasikāro	prestar cuidadosa atención
+agāraṁ	casa
+nivāsa	vivienda
+vāsaṁ	morada
