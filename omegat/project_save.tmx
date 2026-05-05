@@ -34,7 +34,7 @@ suññāgāragatopi …
 abbhokāsagatopi …
 bhikkhumajjhagatopi sukhaṁ sātaṁ adhigacchati.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260504T122047Z" creationid="mjaviem" creationdate="20250903T205238Z">
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260505T151631Z" creationid="mjaviem" creationdate="20250903T205238Z">
         <seg>Amigo, al estar presente el contentamiento es de esperar esta satisfacción:
 Se halla satisfacción y agrado andando,
 ... de pie,
@@ -43,7 +43,7 @@ Se halla satisfacción y agrado andando,
 ... al haber ido al pueblo,
 ... al haber ido al bosque,
 ... al haber ido al pie de un árbol,
-... al haber ido a una vivienda vacía,
+... al haber ido a una casa vacía,
 ... al haber ido al aire libre,
 se halla satisfacción y agrado al haber ido a estar entre los bhikkhus.</seg>
       </tuv>
@@ -92,7 +92,7 @@ suññāgāragatopi …
 abbhokāsagatopi …
 bhikkhumajjhagatopi sukhaṁ sātaṁ nādhigacchati.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260504T122036Z" creationid="mjaviem" creationdate="20250903T155023Z">
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260505T151628Z" creationid="mjaviem" creationdate="20250903T155023Z">
         <seg>Amigo, al estar presente el descontento es de esperar esta dificultad:
 No se halla satisfacción ni agrado ni andando,
 ... ni de pie,
@@ -101,7 +101,7 @@ No se halla satisfacción ni agrado ni andando,
 ... ni al haber ido al pueblo,
 ... ni al haber ido al bosque,
 ... ni al haber ido al pie de un árbol,
-... ni al haber ido a una vivienda vacía,
+... ni al haber ido a una casa vacía,
 ... ni al haber ido al aire libre,
 no se halla satisfacción ni agrado ni al haber ido a estar entre los bhikkhus.</seg>
       </tuv>
@@ -233,8 +233,8 @@ sappurisaṁ, bhikkhave, nissāya ime cattāro ānisaṁsā pāṭikaṅkhā”t
       <tuv lang="pi">
         <seg>Atha kho āyasmā mālukyaputto eko vūpakaṭṭho appamatto ātāpī pahitatto viharanto nacirasseva—yassatthāya kulaputtā sammadeva agārasmā anagāriyaṁ pabbajanti, tadanuttaraṁ—brahmacariyapariyosānaṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja vihāsi.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260504T122810Z" creationid="mjaviem" creationdate="20260205T230805Z">
-        <seg>Pues entonces, el Venerable Mālukyaputta, residiendo solo, retirado, sobrio, ferviente, entregado, no mucho después, habiendo tomado conciencia y atestiguado por sí mismo las cuestiones en lo visto, alcanzó y permaneció en aquel final de la conducta santa insuperable por la cual los hijos de buena familia parten cabalmente de la vivienda a no tener vivienda.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260505T151727Z" creationid="mjaviem" creationdate="20260205T230805Z">
+        <seg>Pues entonces, el Venerable Mālukyaputta, residiendo solo, retirado, sobrio, ferviente, entregado, no mucho después, habiendo tomado conciencia y atestiguado por sí mismo las cuestiones en lo visto, alcanzó y permaneció en aquel final de la conducta santa insuperable por la cual los hijos de buena familia parten cabalmente de la casa a no tener casa.</seg>
       </tuv>
     </tu>
     <tu>
@@ -780,8 +780,8 @@ tasmā ‘ariyasaccānī’ti vuccanti.</seg>
       <tuv lang="pi">
         <seg>Etāni, bhikkhave, rukkhamūlāni, etāni suññāgārāni.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260504T122135Z" creationid="mjaviem" creationdate="20251111T182646Z">
-        <seg>Bhikkhus, están estos pies de árboles, están estas viviendas vacías.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260505T151734Z" creationid="mjaviem" creationdate="20251111T182646Z">
+        <seg>Bhikkhus, están estos pies de árboles, están estas casas vacías.</seg>
       </tuv>
     </tu>
     <tu>
@@ -798,6 +798,14 @@ tasmā ‘ariyasaccānī’ti vuccanti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20251113T155640Z" creationid="mjaviem" creationdate="20251113T155640Z">
         <seg>Tal es la fuente de todo este montón de dificultad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Evameva kho, bhikkhave, imasmiṁ kāyasmiṁ vividhā vedanā uppajjanti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260505T153314Z" creationid="mjaviem" creationdate="20260505T153314Z">
+        <seg>Pues así también, bhikkhus, en este cuerpo surgen diversas sensaciones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1179,8 +1187,8 @@ y se queda aferrado a eso.</seg>
       <tuv lang="pi">
         <seg>Idha, bhikkhave, ariyasāvako vigatamalamaccherena cetasā agāraṁ ajjhāvasati muttacāgo payatapāṇi vosaggarato yācayogo dānasaṁvibhāgarato.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260504T122717Z" creationid="mjaviem" creationdate="20250902T135307Z">
-        <seg>Aquí, bhikkhus, un discípulo noble vive en una vivienda con un ánimo libre de la mugre de la mezquindad, libremente desprendido, de mano extendida, que se deleita en donar, consagrado a las peticiones, que se deleita en regalar y compartir.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260505T151649Z" creationid="mjaviem" creationdate="20250902T135307Z">
+        <seg>Aquí, bhikkhus, un discípulo noble vive en una casa con un ánimo libre de la mugre de la mezquindad, libremente desprendido, de mano extendida, que se deleita en donar, consagrado a las peticiones, que se deleita en regalar y compartir.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1195,8 +1203,8 @@ y se queda aferrado a eso.</seg>
       <tuv lang="pi">
         <seg>Idha, bhikkhave, bhikkhu araññagato vā rukkhamūlagato vā suññāgāragato vā nisīdati pallaṅkaṁ ābhujitvā ujuṁ kāyaṁ paṇidhāya parimukhaṁ satiṁ upaṭṭhapetvā.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260504T123930Z" creationid="mjaviem" creationdate="20260504T122016Z">
-        <seg>Aquí, bhikkhus, un bhikkhu que ha ido al bosque, o al pie de un árbol, o a una vivienda vacía, se sienta habiendo doblado las piernas cruzadas, habiendo puesto el cuerpo derecho y habiendo establecido el tener presente al frente.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260505T151753Z" creationid="mjaviem" creationdate="20260504T122016Z">
+        <seg>Aquí, bhikkhus, un bhikkhu que ha ido al bosque, o al pie de un árbol, o a una casa vacía, se sienta habiendo doblado las piernas cruzadas, habiendo puesto el cuerpo derecho y habiendo establecido el tener presente al frente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1981,6 +1989,14 @@ y se queda aferrado a eso.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260502T162702Z" creationid="mjaviem" creationdate="20260502T162619Z">
         <seg>¿Y cómo, bhikkhus, el tener presente durante la inspiración y la espiración es suscitado y cómo es entrenado para que sea muy fructífero y tenga grandes ventajas?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Khattiyāpi āgantvā vāsaṁ kappenti, brāhmaṇāpi āgantvā vāsaṁ kappenti, vessāpi āgantvā vāsaṁ kappenti, suddāpi āgantvā vāsaṁ kappenti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260505T152426Z" creationid="mjaviem" creationdate="20260505T152426Z">
+        <seg>Los khattiyas, habiendo venido, hacen su morada; los brahmanes, habiendo venido, hacen su morada; los vessas, habiendo venido, hacen su morada; los suddas, habiendo venido, hacen su morada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2816,6 +2832,14 @@ imāni vuccanti, bhikkhave, brahmacariyaphalānī”ti.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Sukhāpi vedanā uppajjati, dukkhāpi vedanā uppajjati, adukkhamasukhāpi vedanā uppajjati.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260505T153555Z" creationid="mjaviem" creationdate="20260505T153555Z">
+        <seg>Surgen sensaciones de satisfacción, surgen sensaciones de dificultad, surgen sensaciones que no son ni satisfacción ni dificultad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Sādhu kho tvaṁ, mālukyaputta, mayā saṅkhittena bhāsitassa vitthārena atthaṁ ājānāsi:</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260207T131718Z" creationid="mjaviem" creationdate="20260205T223928Z">
@@ -2828,6 +2852,14 @@ imāni vuccanti, bhikkhave, brahmacariyaphalānī”ti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250917T161817Z" creationid="mjaviem" creationdate="20250917T161817Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Sāmisāpi sukhā vedanā uppajjati, sāmisāpi dukkhā vedanā uppajjati, sāmisāpi adukkhamasukhā vedanā uppajjati.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260505T161249Z" creationid="mjaviem" creationdate="20260505T161249Z">
+        <seg>Surgen sensaciones de satisfacción mundana, surge una sensación de dificultad mundana y también surge una sensación mundana que no es ni satisfacción ni dificultad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3146,8 +3178,8 @@ se llama lejos de la disipación.
       <tuv lang="pi">
         <seg>Tattha puratthimāyapi disāya āgantvā vāsaṁ kappenti, pacchimāyapi disāya āgantvā vāsaṁ kappenti, uttarāyapi disāya āgantvā vāsaṁ kappenti, dakkhiṇāyapi disāya āgantvā vāsaṁ kappenti.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260505T151212Z" creationid="mjaviem" creationdate="20260505T151212Z">
-        <seg>En ese caso, habiendo venido de la dirección este, hacen su estancia; habiendo venido de la dirección oeste, hacen su estancia; habiendo venido de la dirección norte, hacen su estancia; y habiendo venido de la dirección sur, hacen su estancia.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260505T152158Z" creationid="mjaviem" creationdate="20260505T151212Z">
+        <seg>En ese caso, habiendo venido de la dirección este, hacen su morada; habiendo venido de la dirección oeste, hacen su morada; habiendo venido de la dirección norte, hacen su morada; habiendo venido de la dirección sur, hacen su morada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4411,8 +4443,8 @@ kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ.</seg>
       <tuv lang="pi">
         <seg>“Seyyathāpi, bhikkhave, āgantukāgāraṁ.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260505T150539Z" creationid="mjaviem" creationdate="20260505T150539Z">
-        <seg>“Bhikkhus, igual que una vivienda para huéspedes.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260505T151746Z" creationid="mjaviem" creationdate="20260505T150539Z">
+        <seg>“Bhikkhus, igual que una casa para huéspedes.</seg>
       </tuv>
     </tu>
     <tu>
