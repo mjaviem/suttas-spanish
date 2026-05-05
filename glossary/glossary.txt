@@ -786,3 +786,5 @@ agāraṁ	casa
 nivāsa	vivienda
 vāsaṁ	morada
 nirāmisāpi	no mundana
+desessāmi	enseñaré
+vibhajati	analiza
