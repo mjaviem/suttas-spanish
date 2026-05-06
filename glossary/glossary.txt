@@ -707,7 +707,7 @@ vacī	verbal
 vaḍḍhanti	crece
 vaḍḍhati	crece
 vatthu	sustrato
-vāyāmo	esfuerzo
+vāyāmo	empeño
 vayo	deterioro
 vedanā	sensación
 vedanaṁ	sensación
@@ -749,7 +749,7 @@ vipassanā	discernimiento
 vipassati	discierne
 vippasannāni	establecidas
 virāgāya	desinterés
-vīriyaṁ	esforzarse
+vīriyaṁ	esfuerzo
 visatto	enredado
 visayo	ámbito
 viseso	diferencia
@@ -791,5 +791,5 @@ yo	lo que
 vādā	postulado
 kappeti	acomoda
 janeti	engendra
-vāyamati	se esfuerza
+vāyamati	se empeña
 ārabhati	acometer
