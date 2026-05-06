@@ -2444,8 +2444,8 @@ el de cuerpo apartado y corazón apartado.</seg>
       <tuv lang="pi">
         <seg>Nirāmisāpi sukhā vedanā uppajjati, nirāmisāpi dukkhā vedanā uppajjati, nirāmisāpi adukkhamasukhā vedanā uppajjatī”ti.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260505T161654Z" creationid="mjaviem" creationdate="20260505T161654Z">
-        <seg>Surgen sensaciones de satisfacción no mundana, surgen sensaciones de dificultad no mundana, surgen sensaciones que no son ni satisfacción ni dificultad no mundanas.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260506T192818Z" creationid="mjaviem" creationdate="20260505T161654Z">
+        <seg>Surgen sensaciones de satisfacción no mundana, surgen sensaciones de dificultad no mundana, surgen sensaciones de ni satisfacción ni dificultad no mundanas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2567,6 +2567,14 @@ y se queda aferrado a eso.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260501T210050Z" creationid="mjaviem" creationdate="20260501T210050Z">
         <seg>Y un hombre a la zaga con la espada alzada te seguirá a la zaga. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Pītiyā ca virāgā upekkhako ca viharati sato ca sampajāno, sukhañca kāyena paṭisaṁvedeti, yaṁ taṁ ariyā ācikkhanti: ‘upekkhako satimā sukhavihārī’ti tatiyaṁ jhānaṁ upasampajja viharati.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260506T192133Z" creationid="mjaviem" creationdate="20260506T191100Z">
+        <seg>Y con el desinterés por el júbilo, reside con ecuanimidad, y con el tener presente y a sabiendas, y experimenta con el cuerpo la satisfacción que los nobles describen así: ‘reside con satisfacción, con ecuanimidad y el tener presente’, alcanzando la tercera meditación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2936,10 +2944,18 @@ imāni vuccanti, bhikkhave, brahmacariyaphalānī”ti.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Sukhassa ca pahānā dukkhassa ca pahānā pubbeva somanassadomanassānaṁ atthaṅgamā adukkhamasukhaṁ upekkhāsatipārisuddhiṁ catutthaṁ jhānaṁ upasampajja viharati— ayaṁ vuccati, bhikkhave, sammāsamādhī”ti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260506T192938Z" creationid="mjaviem" creationdate="20260506T192349Z">
+        <seg>Por haber abandonado la satisfacción y haber abandonado la dificultad, y por el previo repliegue del gozo y el disgusto, reside alcanzando la cuarta meditación, ni satisfacción ni dificultad, con la pureza del tener presente y la ecuanimidad: Bhikkhus, esto se llama compostura cabal”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Sukhāpi vedanā uppajjati, dukkhāpi vedanā uppajjati, adukkhamasukhāpi vedanā uppajjati.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260505T153555Z" creationid="mjaviem" creationdate="20260505T153555Z">
-        <seg>Surgen sensaciones de satisfacción, surgen sensaciones de dificultad, surgen sensaciones que no son ni satisfacción ni dificultad.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260506T192755Z" creationid="mjaviem" creationdate="20260505T153555Z">
+        <seg>Surgen sensaciones de satisfacción, surgen sensaciones de dificultad, surgen sensaciones de ni satisfacción ni dificultad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2962,8 +2978,8 @@ imāni vuccanti, bhikkhave, brahmacariyaphalānī”ti.</seg>
       <tuv lang="pi">
         <seg>Sāmisāpi sukhā vedanā uppajjati, sāmisāpi dukkhā vedanā uppajjati, sāmisāpi adukkhamasukhā vedanā uppajjati.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260505T161712Z" creationid="mjaviem" creationdate="20260505T161249Z">
-        <seg>Surgen sensaciones de satisfacción mundana, surgen sensaciones de dificultad mundana, surgen sensaciones que no son ni satisfacción ni dificultad mundanas.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260506T192805Z" creationid="mjaviem" creationdate="20260505T161249Z">
+        <seg>Surgen sensaciones de satisfacción mundana, surgen sensaciones de dificultad mundana, surgen sensaciones de ni satisfacción ni dificultad mundanas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3465,8 +3481,8 @@ no vale ni la dieciseisava parte."</seg>
       <tuv lang="pi">
         <seg>Vitakkavicārānaṁ vūpasamā ajjhattaṁ sampasādanaṁ cetaso ekodibhāvaṁ avitakkaṁ avicāraṁ samādhijaṁ pītisukhaṁ dutiyaṁ jhānaṁ upasampajja viharati.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260506T190355Z" creationid="mjaviem" creationdate="20260506T190355Z">
-        <seg>Con el aquietamiento del propósito y la planificación, con el sosegamiento interior y la unificación del ánimo, reside alcanzando la segunda meditación, sin propósito, sin planificación, nacida de la compostura, con júbilo y satisfacción.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260506T190532Z" creationid="mjaviem" creationdate="20260506T190355Z">
+        <seg>Con el aquietamiento del propósito y la planificación, con el sosegar interior y la unificación del ánimo, reside alcanzando la segunda meditación, sin propósito, sin planificación, nacida de la compostura, que tiene júbilo y satisfacción.</seg>
       </tuv>
     </tu>
     <tu>
