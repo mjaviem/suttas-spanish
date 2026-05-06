@@ -797,5 +797,6 @@ kāmesu	sensualismo
 padahati	hacer frente
 samādhijaṁ	nacida de la compostura
 vivekajaṁ	nacida de desligarse
-sampasādanaṁ	sosegamiento
+sampasādanaṁ	sosegar
 ekodibhāvaṁ	unificación
+ariyā	nobles
