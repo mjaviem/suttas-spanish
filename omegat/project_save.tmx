@@ -1211,8 +1211,8 @@ y se queda aferrado a eso.</seg>
       <tuv lang="pi">
         <seg>Idha, bhikkhave, bhikkhu anuppannānaṁ pāpakānaṁ akusalānaṁ dhammānaṁ anuppādāya chandaṁ janeti vāyamati vīriyaṁ ārabhati cittaṁ paggaṇhāti padahati, uppannānaṁ pāpakānaṁ akusalānaṁ dhammānaṁ pahānāya chandaṁ janeti …pe… anuppannānaṁ kusalānaṁ dhammānaṁ uppādāya chandaṁ janeti …pe… uppannānaṁ kusalānaṁ dhammānaṁ ṭhitiyā asammosāya bhiyyobhāvāya vepullāya bhāvanāya pāripūriyā chandaṁ janeti vāyamati vīriyaṁ ārabhati cittaṁ paggaṇhāti padahati— ayaṁ vuccati, bhikkhave, sammāvāyāmo.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260506T163620Z" creationid="mjaviem" creationdate="20260506T114550Z">
-        <seg>Aquí, bhikkhus, un bhikkhu engendra el deseo, se empeña, acomete esfuerzo, aplica el corazón y afronta para (lograr) el no surgimiento de las cuestiones funestas que no hacen bien que no han surgido; engendra el deseo... para abandonar las cuestiones funestas que no hacen bien que han surgido; engendra el deseo... para (lograr) el surgimiento de las cuestiones que hacen bien que no han surgido; engendra el deseo, se empeña, acomete esfuerzo, aplica el corazón y afronta para (lograr) la permanencia, la preservación, el acrecentamiento, la plenitud, el suscitar, el colmar, de las cuestiones que hacen bien que han surgido— esto se llama, bhikkhus, empeño cabal.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260506T163653Z" creationid="mjaviem" creationdate="20260506T114550Z">
+        <seg>Aquí, bhikkhus, un bhikkhu engendra el deseo, se empeña, acomete esfuerzo, aplica el corazón y afronta para (lograr) el no surgimiento de las cuestiones funestas que no hacen bien que no han surgido; engendra el deseo... para abandonar las cuestiones funestas que no hacen bien que han surgido; engendra el deseo... para (lograr) el surgimiento de las cuestiones que hacen bien que no han surgido; engendra el deseo, se empeña, acomete esfuerzo, aplica el corazón y afronta para (lograr) la permanencia, la preservación, el acrecentamiento, la plenitud, el suscitar, el colmar, de las cuestiones que hacen bien que han surgido: Bhikkhus, esto se llama, empeño cabal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1861,6 +1861,14 @@ y se queda aferrado a eso.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260505T200716Z" creationid="mjaviem" creationdate="20260505T200716Z">
         <seg>¿Y qué es, bhikkhus, el punto de vista cabal? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Katamā ca, bhikkhave, sammāsati?</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260506T163919Z" creationid="mjaviem" creationdate="20260506T163919Z">
+        <seg>¿Y qué es, bhikkhus, el tener presente cabal?</seg>
       </tuv>
     </tu>
     <tu>
