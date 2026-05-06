@@ -1152,6 +1152,14 @@ y se queda aferrado a eso.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Idha, bhikkhave, ariyasāvako micchāājīvaṁ pahāya sammāājīvena jīvitaṁ kappeti— ayaṁ vuccati, bhikkhave, sammāājīvo.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260505T212300Z" creationid="mjaviem" creationdate="20260505T211642Z">
+        <seg>Aquí, bhikkhus, un discípulo noble, habiendo abandonado un medio de vida equivocado, acomoda su vida a un medio de vida cabal— esto se llama, bhikkhus, medio de vida cabal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Idha, bhikkhave, ariyasāvako ottappī hoti, ottappati kāyaduccaritena vacīduccaritena manoduccaritena, ottappati pāpakānaṁ akusalānaṁ dhammānaṁ samāpattiyā.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250926T222608Z" creationid="mjaviem" creationdate="20250901T231506Z">
@@ -1197,6 +1205,14 @@ y se queda aferrado a eso.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250917T201223Z" creationid="mjaviem" creationdate="20250917T201223Z">
         <seg>Aquí, bhikkhus, un bhikkhu es intolerante con las figuras, intolerante con los sonidos, intolerante con los olores, intolerante con los sabores, intolerante con los tangibles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Idha, bhikkhave, bhikkhu anuppannānaṁ pāpakānaṁ akusalānaṁ dhammānaṁ anuppādāya chandaṁ janeti vāyamati vīriyaṁ ārabhati cittaṁ paggaṇhāti padahati, uppannānaṁ pāpakānaṁ akusalānaṁ dhammānaṁ pahānāya chandaṁ janeti …pe… anuppannānaṁ kusalānaṁ dhammānaṁ uppādāya chandaṁ janeti …pe… uppannānaṁ kusalānaṁ dhammānaṁ ṭhitiyā asammosāya bhiyyobhāvāya vepullāya bhāvanāya pāripūriyā chandaṁ janeti vāyamati vīriyaṁ ārabhati cittaṁ paggaṇhāti padahati— ayaṁ vuccati, bhikkhave, sammāvāyāmo.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260506T114550Z" creationid="mjaviem" creationdate="20260506T114550Z">
+        <seg>Aquí, bhikkhus, un bhikkhu genera el deseo, se esfuerza, emprende el esforzarse, aplica el corazón y afronta para el no surgimiento de las cuestiones funestas que no hacen bien que no han surgido; genera el deseo... para abandonar los principios funestos que no hacen bien que han surgido; genera el deseo …pe… para el surgimiento de los principios que hacen bien que no han surgido; genera el deseo, se esfuerza, emprende el esforzarse, aplica el corazón y afronta para la permanencia, el no extravío, el crecimiento, la abundancia, el suscitar y el cumplimiento de los principios que hacen bien que han surgido— esto se llama, bhikkhus, esfuerzo cabal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1817,10 +1833,18 @@ y se queda aferrado a eso.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Katamo ca, bhikkhave, sammāvāyāmo?</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260505T212334Z" creationid="mjaviem" creationdate="20260505T212334Z">
+        <seg>¿Y qué es, bhikkhus, el esfuerzo cabal?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Katamo ca, bhikkhave, sammāājīvo?</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260505T211332Z" creationid="mjaviem" creationdate="20260505T211332Z">
-        <seg>¿Y cuál es, bhikkhus, el medio de vida cabal?</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260505T211402Z" creationid="mjaviem" creationdate="20260505T211332Z">
+        <seg>¿Y qué es, bhikkhus, el medio de vida cabal?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2035,8 +2059,8 @@ y se queda aferrado a eso.</seg>
       <tuv lang="pi">
         <seg>Khattiyāpi āgantvā vāsaṁ kappenti, brāhmaṇāpi āgantvā vāsaṁ kappenti, vessāpi āgantvā vāsaṁ kappenti, suddāpi āgantvā vāsaṁ kappenti.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260505T152426Z" creationid="mjaviem" creationdate="20260505T152426Z">
-        <seg>Los khattiyas, habiendo venido, hacen su morada; los brahmanes, habiendo venido, hacen su morada; los vessas, habiendo venido, hacen su morada; los suddas, habiendo venido, hacen su morada.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260505T212226Z" creationid="mjaviem" creationdate="20260505T152426Z">
+        <seg>Los khattiyas, habiendo venido, se acomodan en la morada; los brahmanes, habiendo venido, se acomodan en la morada; los vessas, habiendo venido, se acomodan en la morada; los suddas, habiendo venido, se acomodan en la morada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3226,8 +3250,8 @@ se llama lejos de la disipación.
       <tuv lang="pi">
         <seg>Tattha puratthimāyapi disāya āgantvā vāsaṁ kappenti, pacchimāyapi disāya āgantvā vāsaṁ kappenti, uttarāyapi disāya āgantvā vāsaṁ kappenti, dakkhiṇāyapi disāya āgantvā vāsaṁ kappenti.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260505T152158Z" creationid="mjaviem" creationdate="20260505T151212Z">
-        <seg>En ese caso, habiendo venido de la dirección este, hacen su morada; habiendo venido de la dirección oeste, hacen su morada; habiendo venido de la dirección norte, hacen su morada; habiendo venido de la dirección sur, hacen su morada.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260505T212128Z" creationid="mjaviem" creationdate="20260505T151212Z">
+        <seg>En ese caso, habiendo venido de la dirección este, se acomoda en la morada; habiendo venido de la dirección oeste, se acomoda en la morada; habiendo venido de la dirección norte, se acomoda en la morada; habiendo venido de la dirección sur, se acomoda en la morada.</seg>
       </tuv>
     </tu>
     <tu>
