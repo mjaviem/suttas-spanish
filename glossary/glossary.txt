@@ -293,12 +293,6 @@ kālaṁ karoti	cumple su tiempo
 kaḷevarassa	cadáver
 kalyāṇī	agraciada
 kalyāṇo	bondadoso
-kāma	sensualidad
-kāmaguṇā	hebras de la sensualidad
-kāmaguṇe	hebras de la sensualidad
-kāmānaṁ	sensualidad
-kāmehi	sensualidad
-kāmesu	sensualidad
 kamma	actos
 kammaṁ	actos
 kammānaṁ	actos
@@ -426,7 +420,6 @@ paccavekkhitabbaṁ	debe ser reflexionado
 paccavekkhitabbāni	deben ser reflexionadas
 paccayo	requisito
 pacīyati	acopiada
-padahati	afrontar
 paduṭṭha	contaminadas
 paggaṇhāti	aplica
 pahānāya	abandonar
@@ -563,7 +556,6 @@ saḷāyatanaṁ	campos
 sama	nivelado
 samādapeti	incita
 samādhi	compostura
-samādhijaṁ	compostura
 samaṇā	hombres santos
 samannāgato	está dotado
 samaṇo	santo, hombre santo
@@ -757,7 +749,6 @@ vitakka	propósito
 vitakkavicārānaṁ	propósito y planificación
 vītivatto	ha trascendido
 vitthārena	extensa
-vivekajaṁ	desligarse
 vivicca	desligado
 vivicceva	desligado
 vosagga	donar
@@ -797,3 +788,14 @@ asammosāya	preservación
 bhiyyobhāvāya	acrecentamiento
 vepullāya	plenitud
 pāripūriyā	colmar
+kāma	sensualismo
+kāmaguṇā	hebras de la sensualismo
+kāmaguṇe	hebras de la sensualismo
+kāmānaṁ	sensualismo
+kāmehi	sensualismo
+kāmesu	sensualismo
+padahati	hacer frente
+samādhijaṁ	nacida de la compostura
+vivekajaṁ	nacida de desligarse
+sampasādanaṁ	sosegamiento
+ekodibhāvaṁ	unificación
