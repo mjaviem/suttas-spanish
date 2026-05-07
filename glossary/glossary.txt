@@ -42,6 +42,7 @@ adhiṭṭhānaṁ	fundamento
 ādīnavo	inconveniente
 adinnādānā	tomar lo que no es dado
 adukkhamasukhampi	ni satisfacción ni dificultad
+agāraṁ	casa
 āgati	venida
 ājāneyyaṁ	reconocer
 ajeyyo	imbatible
@@ -99,7 +100,9 @@ appeva	ojalá
 appicchatā	austeridad
 appiyā	despreciables
 appiyehi	despreciables
+ārabhati	acometer
 ariya	noble
+ariyā	nobles
 ariyasāvako	discípulo noble
 ariyo aṭṭhaṅgiko maggo	Camino Óctuple Noble
 ārogye	salud
@@ -107,6 +110,7 @@ ariyo aṭṭhaṅgiko maggo	Camino Óctuple Noble
 āropito	alzado
 asaddhammā	malos principios
 asaddhamme	malos principios
+asammosāya	preservación
 asaṁvarañca	desenfreno
 asaṁvaro	desenfreno
 āsava	secreciones
@@ -171,6 +175,7 @@ bhayā	temor
 bhedā	desintegración
 bhedo	desintegración
 bhikkhave	bhikkhus
+bhiyyobhāvāya	acrecentamiento
 bhogā	riqueza
 bhūmi	terreno
 brahmacārayo	conducta santa
@@ -210,6 +215,7 @@ datvā	habiendo dado
 dāyādehi	herederos
 dāyādo	heredero
 desenti	enseñan
+desessāmi	enseñaré
 dhammā	cuestiones, principios
 dhammaṁ	principios
 dhammānaṁ	cuestiones, principios
@@ -248,6 +254,7 @@ dutiyo	segundo
 duṭṭho	hostil
 ehipassikaṁ	constatable
 ehipassiko	constatable
+ekodibhāvaṁ	unificación
 etadavoca	dijo esto
 ettāvatā	en esta medida
 ettha	en este caso
@@ -280,6 +287,7 @@ itthattāyā	el aquí
 iṭṭhāya	deseado
 janakāyo	multitud
 jānāti	entiende
+janeti	engendra
 jarā	decaimiento
 jaraṁ	decrepitud
 jarāmaraṇaṁ	decaimiento-perecimiento
@@ -293,12 +301,19 @@ kālaṁ karoti	cumple su tiempo
 kaḷevarassa	cadáver
 kalyāṇī	agraciada
 kalyāṇo	bondadoso
+kāma	sensualismo
+kāmaguṇā	hebras de la sensualismo
+kāmaguṇe	hebras de la sensualismo
+kāmānaṁ	sensualismo
+kāmehi	sensualismo
+kāmesu	sensualismo
 kamma	actos
 kammaṁ	actos
 kammānaṁ	actos
 kammena	actuación
 kantā	amenos
 kantāya	ameno
+kappeti	acomoda
 karaṇīyaṁ	debe hacer
 karaṇīyo	hay que
 kāya	cuerpo
@@ -379,6 +394,7 @@ nikaṭṭha	apartado
 nikkhepo	abatimiento
 nimittaṁ	rasgo
 nimujjati	se sumerge
+nirāmisāpi	no mundana
 nirayaṁ	desgracia
 nirodha	supresión
 nirodhāya	supresión
@@ -394,6 +410,7 @@ nissaraṇato	escape
 nissāya	por cuenta de
 nissito	asentado
 nīvaraṇa	obstrucciones
+nivāsa	vivienda
 niveseti	conduce
 niyāma	norma
 niyato	firme
@@ -420,6 +437,7 @@ paccavekkhitabbaṁ	debe ser reflexionado
 paccavekkhitabbāni	deben ser reflexionadas
 paccayo	requisito
 pacīyati	acopiada
+padahati	hacer frente
 paduṭṭha	contaminadas
 paggaṇhāti	aplica
 pahānāya	abandonar
@@ -472,6 +490,7 @@ pariññā	comprensión plena
 pariññāñca	comprensión plena
 pariññāya	comprensión plena
 pariññeyyaṁ	comprendida plenamente
+pāripūriyā	colmar
 parivitakko	vacilación
 pariyādiṇṇaṁ	agotada
 pariyesanā	pesquisas
@@ -556,6 +575,7 @@ saḷāyatanaṁ	campos
 sama	nivelado
 samādapeti	incita
 samādhi	compostura
+samādhijaṁ	nacida de la compostura
 samaṇā	hombres santos
 samannāgato	está dotado
 samaṇo	santo, hombre santo
@@ -573,6 +593,7 @@ sampadā	don
 sampajāna	a sabiendas
 sampajāno	a sabiendas
 sampannaṁ	logrado
+sampasādanaṁ	sosegar
 samphappalāpā	cháchara
 samudaya	fuente
 samudayañca	fuente
@@ -696,9 +717,12 @@ uppajjati	surge
 vacasā	recitadas
 vācāya	verbal
 vacī	verbal
+vādā	postulado
 vaḍḍhanti	crece
 vaḍḍhati	crece
+vāsaṁ	morada
 vatthu	sustrato
+vāyamati	se empeña
 vāyāmo	empeño
 vayo	deterioro
 vedanā	sensación
@@ -708,7 +732,9 @@ vedanānaṁ	sensación
 vedanānaṁ	sensación
 vedeti	siente
 veditabbo	conocer
+vepullāya	plenitud
 veramaṇī	abstención
+vibhajati	analiza
 vibhavataṇhā	desaparición
 vicāra	planificación
 viddhaṁsenti	derrumban
@@ -749,6 +775,7 @@ vitakka	propósito
 vitakkavicārānaṁ	propósito y planificación
 vītivatto	ha trascendido
 vitthārena	extensa
+vivekajaṁ	nacida de desligarse
 vivicca	desligado
 vivicceva	desligado
 vosagga	donar
@@ -761,42 +788,15 @@ vuṭṭhānaṁ	se termina
 vuṭṭhāti	sale
 yācasī	pretendes
 yadidaṁ	o sea
+yaṁ	lo que
 yañño	ofrenda
 yathābhūtaṁ	en verdad
 yato	en donde
 yo	cual sea
 yo	cualquier
+yo	lo que
 yo	quienquiera
 yoga	sometimiento
 yogo	consagrarse a
 yoniso	cuidadosa
 yonisomanasikāro	prestar cuidadosa atención
-agāraṁ	casa
-nivāsa	vivienda
-vāsaṁ	morada
-nirāmisāpi	no mundana
-desessāmi	enseñaré
-vibhajati	analiza
-yaṁ	lo que
-yo	lo que
-vādā	postulado
-kappeti	acomoda
-janeti	engendra
-vāyamati	se empeña
-ārabhati	acometer
-asammosāya	preservación
-bhiyyobhāvāya	acrecentamiento
-vepullāya	plenitud
-pāripūriyā	colmar
-kāma	sensualismo
-kāmaguṇā	hebras de la sensualismo
-kāmaguṇe	hebras de la sensualismo
-kāmānaṁ	sensualismo
-kāmehi	sensualismo
-kāmesu	sensualismo
-padahati	hacer frente
-samādhijaṁ	nacida de la compostura
-vivekajaṁ	nacida de desligarse
-sampasādanaṁ	sosegar
-ekodibhāvaṁ	unificación
-ariyā	nobles
