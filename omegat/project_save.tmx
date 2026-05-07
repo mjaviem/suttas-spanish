@@ -3413,8 +3413,8 @@ se llama lejos de la disipación.
       <tuv lang="pi">
         <seg>Taṁ kiṁ maññatha, bhikkhave, rūpaṁ niccaṁ vā aniccaṁ vā”ti?</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260507T154149Z" creationid="mjaviem" creationdate="20260507T154149Z">
-        <seg>"¿Qué creen, bhikkhus? ¿Es la figura estable o inconstante?".</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260507T185554Z" creationid="mjaviem" creationdate="20260507T154149Z">
+        <seg>"¿Qué creen, bhikkhus? ¿Es la figura constante o inconstante?".</seg>
       </tuv>
     </tu>
     <tu>
@@ -4054,6 +4054,14 @@ santi, bhikkhave, manoviññeyyā dhammā iṭṭhā kantā manāpā piyarūpā 
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250825T234212Z" creationid="mjaviem" creationdate="20250825T233825Z">
         <seg>Los reconocimientos son inconstantes, deben abandonar el deseo en este asunto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>viññāṇaṁ niccaṁ vā aniccaṁ vā”ti?</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260507T185416Z" creationid="mjaviem" creationdate="20260507T185240Z">
+        <seg>¿Son los reconocimientos constantes o inconstantes?".</seg>
       </tuv>
     </tu>
     <tu>
@@ -4785,6 +4793,14 @@ kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>“Tasmātiha, bhikkhave, yaṁ kiñci rūpaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbaṁ rūpaṁ: ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260507T191143Z" creationid="mjaviem" creationdate="20260507T185532Z">
+        <seg>"Por lo tanto, bhikkhus, cualquier figura, pasada, futura o presente; interna o externa; tosca o sutil; insignificante o excelsa; lejana o cercana, toda figura debe verse en verdad con el saber cabal como: 'esto no es mío, este no soy yo, esto no es mi persona'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>“Tayome, bhikkhave, dhammā attabyābādhāyapi saṁvattanti, parabyābādhāyapi saṁvattanti, ubhayabyābādhāyapi saṁvattanti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260207T123600Z" creationid="mjaviem" creationdate="20250827T133824Z">
@@ -4833,10 +4849,18 @@ kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>“Vedanā …</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260507T185136Z" creationid="mjaviem" creationdate="20260507T185136Z">
+        <seg>Las sensaciones...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>“Yaṁ panāniccaṁ dukkhaṁ vipariṇāmadhammaṁ, kallaṁ nu taṁ samanupassituṁ: ‘etaṁ mama, esohamasmi, eso me attā’”ti?</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260507T184259Z" creationid="mjaviem" creationdate="20260507T184259Z">
-        <seg>"Y lo que es inconstante, dificultad y cambiante, es acaso apropiado contemplarlo como: 'esto es mío, este soy yo, este es mi uno mismo'?".</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260507T185121Z" creationid="mjaviem" creationdate="20260507T184259Z">
+        <seg>"Y lo que es inconstante, dificultad y cambiante, ¿es acaso hábil contemplarlo como: 'esto es mío, este soy yo, esto es mi persona'?".</seg>
       </tuv>
     </tu>
     <tu>
