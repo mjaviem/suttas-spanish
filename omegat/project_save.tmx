@@ -2788,6 +2788,14 @@ ime kho, bhikkhave, cattāro dhammā bhāvitā bahulīkatā sotāpattiphalasacch
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Saññā anattā …pe…</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260507T153418Z" creationid="mjaviem" creationdate="20260507T153418Z">
+        <seg>Las distinciones no son uno mismo...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Saṅkhatalakkhaṇasutta
 “Tīṇimāni, bhikkhave, saṅkhatassa saṅkhatalakkhaṇāni.</seg>
       </tuv>
@@ -2805,6 +2813,14 @@ Samaṇo ca sappurisānisaṁsoti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250823T000451Z" creationid="mjaviem" creationdate="20250823T000451Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Saṅkhārā ca hidaṁ, bhikkhave, attā abhavissaṁsu, nayidaṁ saṅkhārā ābādhāya saṁvatteyyuṁ, labbhetha ca saṅkhāresu: ‘evaṁ me saṅkhārā hontu, evaṁ me saṅkhārā mā ahesun’ti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260507T153618Z" creationid="mjaviem" creationdate="20260507T153618Z">
+        <seg>Bhikkhus, si de hecho estas atribuciones fueran uno mismo, las atribuciones no llevarían al padecimiento y se podría conseguir respecto a las atribuciones: 'que mis atribuciones sean así, que mis atribuciones sean asá'.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3465,10 +3481,26 @@ extingue sin las secreciones.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Vedanā anattā.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260507T153025Z" creationid="mjaviem" creationdate="20260507T153025Z">
+        <seg>Las sensaciones no son uno mismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Vedanā aniccā …pe…</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250825T233706Z" creationid="mjaviem" creationdate="20250825T233601Z">
         <seg>Las sensaciones son inconstantes...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Vedanā ca hidaṁ, bhikkhave, attā abhavissa, nayidaṁ vedanā ābādhāya saṁvatteyya, labbhetha ca vedanāya: ‘evaṁ me vedanā hotu, evaṁ me vedanā mā ahosī’ti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260507T153242Z" creationid="mjaviem" creationdate="20260507T153242Z">
+        <seg>Bhikkhus, si de hecho estas sensaciones fueran uno mismo, las sensaciones no llevarían al padecimiento y se podría conseguir respecto a las sensaciones: 'que mis sensaciones seas así, que mis sensaciones sean asá'.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3519,6 +3551,22 @@ no vale ni la dieciseisava parte."</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Viññāṇañca hidaṁ, bhikkhave, attā abhavissa, nayidaṁ viññāṇaṁ ābādhāya saṁvatteyya, labbhetha ca viññāṇe: ‘evaṁ me viññāṇaṁ hotu, evaṁ me viññāṇaṁ mā ahosī’ti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260507T153932Z" creationid="mjaviem" creationdate="20260507T153932Z">
+        <seg>Bhikkhus, si de hecho estos reconocimientos fueran uno mismo, los reconocimientos no llevarían al padecimiento y se podría conseguir respecto a los reconocimientos: 'que mis reconocimientos sean así, que mis reconocimientos sean asá'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Viññāṇaṁ anattā.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260507T153803Z" creationid="mjaviem" creationdate="20260507T153803Z">
+        <seg>Los reconocimientos no son uno mismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Viññāṇaṁ vikiratha vidhamatha viddhaṁsetha vikīḷaniyaṁ karotha taṇhākkhayāya paṭipajjatha.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20251225T191345Z" creationid="mjaviem" creationdate="20251225T191258Z">
@@ -3531,6 +3579,30 @@ no vale ni la dieciseisava parte."</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260507T153001Z" creationid="mjaviem" creationdate="20260507T153001Z">
         <seg>Y pues, bhikkhus, puesto que la figura no es uno mismo, la figura lleva al padecimiento y no se consigue respecto a la figura: 'que mi figura sea así, que mi figura no sea asá'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Yasmā ca kho, bhikkhave, saṅkhārā anattā, tasmā saṅkhārā ābādhāya saṁvattanti, na ca labbhati saṅkhāresu: ‘evaṁ me saṅkhārā hontu, evaṁ me saṅkhārā mā ahesun’ti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260507T153750Z" creationid="mjaviem" creationdate="20260507T153750Z">
+        <seg>Y pues, bhikkhus, puesto que las atribuciones no son uno mismo, las atribuciones llevan al padecimiento y no se consigue respecto a las atribuciones: 'que mis atribuciones sean así, que mis atribuciones no sean asá'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Yasmā ca kho, bhikkhave, vedanā anattā, tasmā vedanā ābādhāya saṁvattati, na ca labbhati vedanāya: ‘evaṁ me vedanā hotu, evaṁ me vedanā mā ahosī’ti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260507T153351Z" creationid="mjaviem" creationdate="20260507T153351Z">
+        <seg>Y pues, bhikkhus, puesto que las sensaciones no son uno mismo, las sensaciones llevan al padecimiento y no se consigue respecto a las sensaciones: 'que mis sensaciones sean así, que mis sensaciones no sean asá'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Yasmā ca kho, bhikkhave, viññāṇaṁ anattā, tasmā viññāṇaṁ ābādhāya saṁvattati, na ca labbhati viññāṇe: ‘evaṁ me viññāṇaṁ hotu, evaṁ me viññāṇaṁ mā ahosī’ti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260507T154019Z" creationid="mjaviem" creationdate="20260507T154019Z">
+        <seg>Y pues, bhikkhus, puesto que los reconocimientos no son uno mismo, los reconocimientos llevan al padecimiento y no se consigue respecto a los reconocimientos: 'que mis reconocimientos sean así, que mis reconocimientos no sean asá'.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3950,6 +4022,14 @@ santi, bhikkhave, manoviññeyyā dhammā iṭṭhā kantā manāpā piyarūpā 
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250825T233711Z" creationid="mjaviem" creationdate="20250825T233617Z">
         <seg>Las distinciones...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>saṅkhārā anattā.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260507T153438Z" creationid="mjaviem" creationdate="20260507T153438Z">
+        <seg>Las atribuciones no son uno mismo.</seg>
       </tuv>
     </tu>
     <tu>
