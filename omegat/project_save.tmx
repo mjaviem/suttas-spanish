@@ -3411,6 +3411,14 @@ se llama lejos de la disipación.
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Taṁ kiṁ maññatha, bhikkhave, rūpaṁ niccaṁ vā aniccaṁ vā”ti?</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260507T154149Z" creationid="mjaviem" creationdate="20260507T154149Z">
+        <seg>"¿Qué creen, bhikkhus? ¿Es la figura estable o inconstante?".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Taṁ suṇātha, sādhukaṁ manasi karotha, bhāsissāmī”ti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260505T210359Z" creationid="mjaviem" creationdate="20251113T152853Z">
@@ -4287,6 +4295,14 @@ upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ 
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>“Aniccaṁ, bhante”.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260507T154156Z" creationid="mjaviem" creationdate="20260507T154156Z">
+        <seg>"Inconstante, bhante".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>“Ariyaṁ vo, bhikkhave, aṭṭhaṅgikaṁ maggaṁ desessāmi vibhajissāmi.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260505T192033Z" creationid="mjaviem" creationdate="20260505T192033Z">
@@ -4388,6 +4404,14 @@ upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ 
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20251112T194735Z" creationid="mjaviem" creationdate="20251112T194735Z">
         <seg>"Bhikkhus, estos cuatro individuos se encuentran presentes en el mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Dukkhaṁ, bhante”.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260507T154317Z" creationid="mjaviem" creationdate="20260507T154317Z">
+        <seg>"Dificultad, bhante".</seg>
       </tuv>
     </tu>
     <tu>
@@ -4805,6 +4829,22 @@ kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20251104T193146Z" creationid="mjaviem" creationdate="20251104T193046Z">
         <seg>“Bhikkhus, les enseñaré las cuestiones que se pueden asir y el asidero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Yaṁ panāniccaṁ dukkhaṁ vipariṇāmadhammaṁ, kallaṁ nu taṁ samanupassituṁ: ‘etaṁ mama, esohamasmi, eso me attā’”ti?</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260507T184259Z" creationid="mjaviem" creationdate="20260507T184259Z">
+        <seg>"Y lo que es inconstante, dificultad y cambiante, es acaso apropiado contemplarlo como: 'esto es mío, este soy yo, este es mi uno mismo'?".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Yaṁ panāniccaṁ dukkhaṁ vā taṁ sukhaṁ vā”ti?</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260507T154312Z" creationid="mjaviem" creationdate="20260507T154312Z">
+        <seg>"Y lo que es inconstante ¿es dificultad o satisfacción?". </seg>
       </tuv>
     </tu>
     <tu>
