@@ -388,7 +388,6 @@ nibbānaṁ	disipación
 nibbānāya	disipación
 nibbidāya	hastío
 nibbindati	se hastía
-niccaṁ	estable
 nidāna	origen
 nikaṭṭha	apartado
 nikkhepo	abatimiento
@@ -802,3 +801,12 @@ yoniso	cuidadosa
 yonisomanasikāro	prestar cuidadosa atención
 hidaṁ	de hecho
 yasmā	puesto que
+niccaṁ	constante
+attā	persona
+kallaṁ	hábil
+oḷārikaṁ	tosca
+sukhumaṁ	sutil
+hīnaṁ	insignificante
+paṇītaṁ	excelsa
+dūre	lejana
+santike	cercana
