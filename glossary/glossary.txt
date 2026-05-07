@@ -753,7 +753,7 @@ vinaye	disciplina
 vineyya	domado
 vinibandha	atado
 vinipātaṁ	hundimiento
-viññāṇaṁ	reconocimiento
+viññāṇaṁ	reconocimientos
 viññāte	reconocido
 viññū	entendidos
 vipāka	consecuencia
@@ -810,3 +810,6 @@ hīnaṁ	insignificante
 paṇītaṁ	excelsa
 dūre	lejana
 santike	cercana
+sutavā	instruido	sutavā
+veyyākaraṇasmiṁ	explicación
+bhaññamāne	relataba
