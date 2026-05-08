@@ -1023,8 +1023,8 @@ tasmā ‘ariyasaccānī’ti vuccanti.</seg>
       <tuv lang="pi">
         <seg>Evaṁ passaṁ, bhikkhave, sutavā ariyasāvako rūpasmimpi nibbindati, vedanāyapi nibbindati, saññāyapi nibbindati, saṅkhāresupi nibbindati, viññāṇasmimpi nibbindati.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260507T192441Z" creationid="mjaviem" creationdate="20260507T191927Z">
-        <seg>Bhikkhus, viendo así, un discípulo noble instruido se hastía de la figura, se hastía de la sensación, se hastía de la distinción, se hastía de las atribuciones, se hastía de los reconocimientos.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260508T150604Z" creationid="mjaviem" creationdate="20260507T191927Z">
+        <seg>Bhikkhus, viendo así, un discípulo noble instruido se hastía de la figura, se hastía de las sensaciones, se hastía de las distinciones, se hastía de las atribuciones, se hastía de los reconocimientos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5212,6 +5212,17 @@ kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260508T145439Z" creationid="mjaviem" creationdate="20260508T144009Z">
         <seg>A la supresión de ellos se le llama ‘supresión’.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">SN-22.59.txt</prop>
+      <prop type="prev">Taṁ kiṁ maññatha, bhikkhave, rūpaṁ niccaṁ vā aniccaṁ vā”ti?</prop>
+      <prop type="next">“Yaṁ panāniccaṁ dukkhaṁ vā taṁ sukhaṁ vā”ti?</prop>
+      <tuv lang="pi">
+        <seg>“Aniccaṁ, bhante”.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260508T150344Z" creationid="mjaviem" creationdate="20260508T150344Z">
+        <seg>"Inconstante, bhante".</seg>
       </tuv>
     </tu>
     <tu>
