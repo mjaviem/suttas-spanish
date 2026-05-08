@@ -74,7 +74,6 @@ aniccaṁ	inconstante
 animitto	sin rasgo
 ānisaṁsā	ventajas
 ānisaṁsāti	ventajas
-antaradhānaṁ	desvanecimiento
 ante	extremos
 anto	extremo
 anukampakena	compasión
@@ -735,7 +734,7 @@ vāsaṁ	morada
 vatthu	sustrato
 vāyamati	se empeña
 vāyāmo	empeño
-vayo	deterioro
+vayo	desvanecimiento
 vedanā	sensación
 vedanaṁ	sensación
 vedanāṁ	sensación
@@ -814,4 +813,3 @@ yogo	consagrarse a
 yoniso	cuidadosa
 yonisomanasikāro	prestar cuidadosa atención
 ārāme	parque
-vuccati	se dice
