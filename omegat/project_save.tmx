@@ -1553,6 +1553,14 @@ y se queda aferrado a eso.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Imesaṁ kho, ānanda, dhammānaṁ nirodho ‘nirodho’ti vuccatī”ti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260508T144418Z" creationid="mjaviem" creationdate="20260508T144418Z">
+        <seg>Pues, Ānanda, para estas cuestiones su supresión se le llama ‘supresión’”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Imissā ca, bhikkhave, mahāpathaviyā pahūtarattaratanāya mātāpitaro issarādhipacce rajje patiṭṭhāpeyya, na tveva, bhikkhave, mātāpitūnaṁ kataṁ vā hoti paṭikataṁ vā.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20251107T155320Z" creationid="mjaviem" creationdate="20251106T144737Z">
@@ -1867,8 +1875,8 @@ y se queda aferrado a eso.</seg>
       <tuv lang="pi">
         <seg>Katamesānaṁ kho, bhante, dhammānaṁ nirodho ‘nirodho’ti vuccatī”ti?</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260508T133945Z" creationid="mjaviem" creationdate="20260508T133945Z">
-        <seg>Pues, ¿de qué cuestiones, bhante, se dice que la supresión es ‘supresión’?”</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260508T144446Z" creationid="mjaviem" creationdate="20260508T133945Z">
+        <seg>Pues, ¿para qué cuestiones, bhante, su supresión se le llama ‘supresión’?”</seg>
       </tuv>
     </tu>
     <tu>
@@ -2432,8 +2440,8 @@ se queda no aferrado a eso.
       <tuv lang="pi">
         <seg>Na uppādo paññāyati, na vayo paññāyati, na ṭhitassa aññathattaṁ paññāyati.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20250918T202841Z" creationid="mjaviem" creationdate="20250831T145316Z">
-        <seg>No se sabe de un irrumpir, no se sabe de un deterioro, no se sabe de una ambigüedad de lo permanente.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260508T142312Z" creationid="mjaviem" creationdate="20250831T145316Z">
+        <seg>No se sabe de un irrumpir, no se sabe de un desvanecimiento, no se sabe de una ambigüedad de lo permanente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2852,6 +2860,14 @@ ime kho, bhikkhave, cattāro dhammā bhāvitā bahulīkatā sotāpattiphalasacch
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Saññā …</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260508T143350Z" creationid="mjaviem" creationdate="20260508T143350Z">
+        <seg>Las distinciones...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Saṅkhatalakkhaṇasutta
 “Tīṇimāni, bhikkhave, saṅkhatassa saṅkhatalakkhaṇāni.</seg>
       </tuv>
@@ -3142,6 +3158,14 @@ recordando la instrucción de los despiertos.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Tassa nirodho ‘nirodho’ti vuccati.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260508T144043Z" creationid="mjaviem" creationdate="20260508T142827Z">
+        <seg>A la supresión de ella se le llama ‘supresión’.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Tassa sā hirī …pe… tassa taṁ ottappaṁ … tassa taṁ vīriyaṁ … tassa sā paññā neva hāyati no vaḍḍhati ṭhitā hoti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260402T202517Z" creationid="mjaviem" creationdate="20251021T001434Z">
@@ -3360,6 +3384,14 @@ se llama lejos de la disipación.
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Tassā nirodho ‘nirodho’ti vuccati.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260508T144054Z" creationid="mjaviem" creationdate="20260508T143334Z">
+        <seg>A la supresión de ellas se le llama ‘supresión’.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Tathārūpāssa dhammā bahussutā honti dhātā vacasā paricitā manasānupekkhitā diṭṭhiyā suppaṭividdhā.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250915T153710Z" creationid="mjaviem" creationdate="20250902T002113Z">
@@ -3529,6 +3561,14 @@ extingue sin las secreciones.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Tesaṁ nirodho ‘nirodho’ti vuccati.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260508T144107Z" creationid="mjaviem" creationdate="20260508T143443Z">
+        <seg>A la supresión de ellas se le llama ‘supresión’.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Upayupādānābhinivesavinibandho khvāyaṁ, kaccāna, loko yebhuyyena.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260206T200323Z" creationid="mjaviem" creationdate="20260206T144413Z">
@@ -3539,8 +3579,8 @@ extingue sin las secreciones.</seg>
       <tuv lang="pi">
         <seg>Uppādo paññāyati, vayo paññāyati, ṭhitassa aññathattaṁ paññāyati.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20250918T202817Z" creationid="mjaviem" creationdate="20250831T144400Z">
-        <seg>Se sabe de un irrumpir, se sabe de un deterioro, se sabe de una ambigüedad de lo permanente.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260508T142302Z" creationid="mjaviem" creationdate="20250831T144400Z">
+        <seg>Se sabe de un irrumpir, se sabe de un desvanecimiento, se sabe de una ambigüedad de lo permanente.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3557,6 +3597,14 @@ extingue sin las secreciones.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260507T153025Z" creationid="mjaviem" creationdate="20260507T153025Z">
         <seg>Las sensaciones no son uno mismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Vedanā aniccā saṅkhatā paṭiccasamuppannā khayadhammā vayadhammā virāgadhammā nirodhadhammā.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260508T143318Z" creationid="mjaviem" creationdate="20260508T143246Z">
+        <seg>Las sensaciones son inconstantes, atribuidas, de surgimiento sustentado, destructibles, susceptibles al desvanecimiento, susceptibles al desinterés, susceptibles a la supresión.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3643,6 +3691,14 @@ no vale ni la dieciseisava parte."</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260507T153803Z" creationid="mjaviem" creationdate="20260507T153803Z">
         <seg>Los reconocimientos no son uno mismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Viññāṇaṁ aniccaṁ saṅkhataṁ paṭiccasamuppannaṁ khayadhammaṁ vayadhammaṁ virāgadhammaṁ nirodhadhammaṁ.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260508T143952Z" creationid="mjaviem" creationdate="20260508T143952Z">
+        <seg>Los reconocimientos son inconstantes, atribuidos, de surgimiento sustentado, destructibles, susceptibles al desvanecimiento, susceptibles al desinterés, susceptibles a la supresión.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3890,8 +3946,8 @@ se llama cerca de la disipación"</seg>
       <tuv lang="pi">
         <seg>Yatra hi nāma tvaṁ, bhikkhu, jiṇṇo vuddho mahallako addhagato vayoanuppatto saṅkhittena ovādaṁ yācasī”ti.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20251231T185355Z" creationid="mjaviem" creationdate="20251230T134531Z">
-        <seg>¡Cuando por cierto tú, bhikkhu, estando desgastado, maduro, siendo mayor, veterano, habiendo alcanzado el deterioro, pretendes la admonición concisamente! </seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260508T142447Z" creationid="mjaviem" creationdate="20251230T134531Z">
+        <seg>¡Cuando por cierto tú, bhikkhu, estando desgastado, maduro, siendo mayor, veterano, habiendo alcanzado el desvanecimiento, pretendes la admonición concisamente! </seg>
       </tuv>
     </tu>
     <tu>
@@ -4134,6 +4190,14 @@ santi, bhikkhave, manoviññeyyā dhammā iṭṭhā kantā manāpā piyarūpā 
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260507T153438Z" creationid="mjaviem" creationdate="20260507T153438Z">
         <seg>Las atribuciones no son uno mismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>saṅkhārā aniccā saṅkhatā paṭiccasamuppannā khayadhammā vayadhammā virāgadhammā nirodhadhammā.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260508T143404Z" creationid="mjaviem" creationdate="20260508T143404Z">
+        <seg>Las atribuciones son inconstantes, atribuidas, de surgimiento sustentado, destructibles, susceptibles al desvanecimiento, susceptibles al desinterés, susceptibles a la supresión.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4642,8 +4706,8 @@ upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ 
       <tuv lang="pi">
         <seg>“Kiñcāpāhaṁ, bhante, jiṇṇo vuddho mahallako addhagato vayoanuppatto.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260105T192111Z" creationid="mjaviem" creationdate="20251230T140338Z">
-        <seg>Bhante, aunque yo esté desgastado, maduro, sea mayor, veterano, haya alcanzado el deterioro.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260508T142620Z" creationid="mjaviem" creationdate="20251230T140338Z">
+        <seg>Bhante, aunque yo esté desgastado, maduro, sea mayor, veterano, haya alcanzado el desvanecimiento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4811,8 +4875,8 @@ kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ.</seg>
       <tuv lang="pi">
         <seg>“Rūpaṁ kho, ānanda, aniccaṁ saṅkhataṁ paṭiccasamuppannaṁ khayadhammaṁ vayadhammaṁ virāgadhammaṁ nirodhadhammaṁ.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260508T141256Z" creationid="mjaviem" creationdate="20260508T141256Z">
-        <seg>“Pues la figura, Ānanda, es inconstante, atribuida, de surgimiento sustentado, destructible, susceptible al deterioro, susceptible al desinterés y de naturaleza de supresión.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260508T143258Z" creationid="mjaviem" creationdate="20260508T141256Z">
+        <seg>“Pues la figura, Ānanda, es inconstante, atribuida, de surgimiento sustentado, destructible, susceptible al desvanecimiento, susceptible al desinterés, susceptible a la supresión.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5083,8 +5147,8 @@ kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ.</seg>
       <tuv lang="pi">
         <seg>“‘nirodho nirodho’ti, bhante, vuccati.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260508T133748Z" creationid="mjaviem" creationdate="20260508T133748Z">
-        <seg>"Bhante, se dice 'supresión, supresión'.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260508T142836Z" creationid="mjaviem" creationdate="20260508T133748Z">
+        <seg>"Bhante, se le llama 'supresión, supresión'.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5120,6 +5184,17 @@ kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
+    <tu>
+      <prop type="file">SN-22.21.txt</prop>
+      <prop type="prev">Viññāṇaṁ aniccaṁ saṅkhataṁ paṭiccasamuppannaṁ khayadhammaṁ vayadhammaṁ virāgadhammaṁ nirodhadhammaṁ.</prop>
+      <prop type="next">Imesaṁ kho, ānanda, dhammānaṁ nirodho ‘nirodho’ti vuccatī”ti.</prop>
+      <tuv lang="pi">
+        <seg>Tassa nirodho ‘nirodho’ti vuccati.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260508T144120Z" creationid="mjaviem" creationdate="20260508T144009Z">
+        <seg>A la supresión de ellos se le llama ‘supresión’.</seg>
+      </tuv>
+    </tu>
     <tu>
       <prop type="file">SN-25.10.txt</prop>
       <prop type="prev">Tassuddānaṁ</prop>
