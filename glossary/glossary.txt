@@ -125,6 +125,7 @@ assāsapassāsā	respiración
 asubhā	lo asqueroso
 ātāpī	ferviente
 atho	y además
+attā	persona
 attā	uno mismo
 attabyābādhāyapi	abrumarse
 attamanā	felices
@@ -162,6 +163,7 @@ bhagavā	Dichoso
 Bhagavant	Dichoso
 Bhagavato	Dichoso
 bhante	reverendo
+bhaññamāne	relataba
 bhāsitaṁ	lo dicho
 bhāsitassa	lo dicho
 bhava	devenir
@@ -249,6 +251,7 @@ dukkhanirodhagāminī	que conduce a la supresión de la dificultad
 dukkhāpi	de dificultad
 dukkhatā	condición dificultosa
 duppaññe	de saber equivocado
+dūre	lejana
 dussīle	inmorales
 dutiyo	segundo
 duṭṭho	hostil
@@ -273,6 +276,8 @@ hāpetun	menoscabar
 hāyati	disminuye
 hāyatiyeva	disminuye
 hi	por cierto
+hidaṁ	de hecho
+hīnaṁ	insignificante
 hirī	avergonzarse
 hirīmā	vergüenza
 hitāya	bienestar
@@ -299,6 +304,7 @@ kālakiriyā	cumplimiento de tiempo
 kālaṁ	tiempo, momento
 kālaṁ karoti	cumple su tiempo
 kaḷevarassa	cadáver
+kallaṁ	hábil
 kalyāṇī	agraciada
 kalyāṇo	bondadoso
 kāma	sensualismo
@@ -388,6 +394,7 @@ nibbānaṁ	disipación
 nibbānāya	disipación
 nibbidāya	hastío
 nibbindati	se hastía
+niccaṁ	constante
 nidāna	origen
 nikaṭṭha	apartado
 nikkhepo	abatimiento
@@ -418,6 +425,7 @@ niyato	firme
 Ñāṇañca	percepción
 okkanti	descenso
 okkanto	entrado
+oḷārikaṁ	tosca
 opaneyyikaṁ	accesible
 opaneyyiko	accesible
 opapātika	no gestados
@@ -454,6 +462,7 @@ pana	siquiera
 pāṇātipātā	quitar vidas
 panāvuso	amigos
 paṇḍito	sabio
+paṇītaṁ	excelsa
 pantāni	distantes
 paññā	el saber
 paññapeti	describe
@@ -612,6 +621,7 @@ sankhatamabhisaṅkharontīti	atribuye lo significado
 saṅkhittena	concisamente
 sannicayo	acumula
 sannipateyya	reuniría
+santike	cercana
 santo	presentes
 santo	virtuosos
 santuṭṭhitā	conformidad
@@ -658,12 +668,14 @@ sukhaṁ	satisfacción
 sukhampi	satisfacción
 sukhāpi	de satisfacción
 sukhāya	satisfacción
+sukhumaṁ	sutil
 sumano	radiante
 sumedhaso	inteligente
 suṇātha	escuchen
 suññato	vacío
 susamāraddhā	emprendido
 suta	escuchar
+sutavā	instruido	sutavā
 sute	escuchado
 svākkhāto	enseñado
 taṇhā	ganas
@@ -733,6 +745,7 @@ vedeti	siente
 veditabbo	conocer
 vepullāya	plenitud
 veramaṇī	abstención
+veyyākaraṇasmiṁ	explicación
 vibhajati	analiza
 vibhavataṇhā	desaparición
 vicāra	planificación
@@ -789,6 +802,7 @@ yācasī	pretendes
 yadidaṁ	o sea
 yaṁ	lo que
 yañño	ofrenda
+yasmā	puesto que
 yathābhūtaṁ	en verdad
 yato	en donde
 yo	cual sea
@@ -799,17 +813,3 @@ yoga	sometimiento
 yogo	consagrarse a
 yoniso	cuidadosa
 yonisomanasikāro	prestar cuidadosa atención
-hidaṁ	de hecho
-yasmā	puesto que
-niccaṁ	constante
-attā	persona
-kallaṁ	hábil
-oḷārikaṁ	tosca
-sukhumaṁ	sutil
-hīnaṁ	insignificante
-paṇītaṁ	excelsa
-dūre	lejana
-santike	cercana
-sutavā	instruido	sutavā
-veyyākaraṇasmiṁ	explicación
-bhaññamāne	relataba
