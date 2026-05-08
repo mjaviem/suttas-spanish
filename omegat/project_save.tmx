@@ -108,6 +108,25 @@ no se halla satisfacción ni agrado ni al haber ido a estar entre los bhikkhus.<
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Aniccavaggo dutiyo.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260508T144458Z" creationid="mjaviem" creationdate="20260508T144458Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Aniccaṁ dukkhaṁ anattā,
+yadaniccāpare tayo;
+Hetunāpi tayo vuttā,
+ānandena ca te dasāti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260508T144848Z" creationid="mjaviem" creationdate="20260508T144848Z">
+        <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Aparihānañhetaṁ vuttaṁ bhagavatā’ti …pe…</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250828T192754Z" creationid="mjaviem" creationdate="20250828T192754Z">
@@ -1555,8 +1574,8 @@ y se queda aferrado a eso.</seg>
       <tuv lang="pi">
         <seg>Imesaṁ kho, ānanda, dhammānaṁ nirodho ‘nirodho’ti vuccatī”ti.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260508T144418Z" creationid="mjaviem" creationdate="20260508T144418Z">
-        <seg>Pues, Ānanda, para estas cuestiones su supresión se le llama ‘supresión’”.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260508T145503Z" creationid="mjaviem" creationdate="20260508T144418Z">
+        <seg>Pues, Ānanda, a la supresión de estas cuestiones se le llama ‘supresión’”.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1875,8 +1894,8 @@ y se queda aferrado a eso.</seg>
       <tuv lang="pi">
         <seg>Katamesānaṁ kho, bhante, dhammānaṁ nirodho ‘nirodho’ti vuccatī”ti?</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260508T144446Z" creationid="mjaviem" creationdate="20260508T133945Z">
-        <seg>Pues, ¿para qué cuestiones, bhante, su supresión se le llama ‘supresión’?”</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260508T145406Z" creationid="mjaviem" creationdate="20260508T133945Z">
+        <seg>Pues, ¿a la supresión de qué cuestiones, bhante, se le llama ‘supresión’?”</seg>
       </tuv>
     </tu>
     <tu>
@@ -3160,7 +3179,7 @@ recordando la instrucción de los despiertos.</seg>
       <tuv lang="pi">
         <seg>Tassa nirodho ‘nirodho’ti vuccati.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260508T144043Z" creationid="mjaviem" creationdate="20260508T142827Z">
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260508T145358Z" creationid="mjaviem" creationdate="20260508T142827Z">
         <seg>A la supresión de ella se le llama ‘supresión’.</seg>
       </tuv>
     </tu>
@@ -3386,7 +3405,7 @@ se llama lejos de la disipación.
       <tuv lang="pi">
         <seg>Tassā nirodho ‘nirodho’ti vuccati.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260508T144054Z" creationid="mjaviem" creationdate="20260508T143334Z">
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260508T145603Z" creationid="mjaviem" creationdate="20260508T143334Z">
         <seg>A la supresión de ellas se le llama ‘supresión’.</seg>
       </tuv>
     </tu>
@@ -3563,7 +3582,7 @@ extingue sin las secreciones.</seg>
       <tuv lang="pi">
         <seg>Tesaṁ nirodho ‘nirodho’ti vuccati.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260508T144107Z" creationid="mjaviem" creationdate="20260508T143443Z">
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260508T145428Z" creationid="mjaviem" creationdate="20260508T143443Z">
         <seg>A la supresión de ellas se le llama ‘supresión’.</seg>
       </tuv>
     </tu>
@@ -5191,7 +5210,7 @@ kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ.</seg>
       <tuv lang="pi">
         <seg>Tassa nirodho ‘nirodho’ti vuccati.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260508T144120Z" creationid="mjaviem" creationdate="20260508T144009Z">
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260508T145439Z" creationid="mjaviem" creationdate="20260508T144009Z">
         <seg>A la supresión de ellos se le llama ‘supresión’.</seg>
       </tuv>
     </tu>
