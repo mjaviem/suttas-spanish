@@ -457,8 +457,6 @@ pahīyanti	abandonadas
 pahīyati	es abandonado
 pajānāti	sabe
 pamāda	negligencia
-pana	al menos
-pana	siquiera
 pāṇātipātā	quitar vidas
 panāvuso	amigos
 paṇḍito	sabio
@@ -813,8 +811,8 @@ yoga	sometimiento
 yogo	consagrarse a
 yoniso	cuidadosa
 yonisomanasikāro	prestar cuidadosa atención
-
 tadavasari	arribó
 gāma	villa
 assosuṁ	oyeron
 khalu	en efecto
+pana	mas
