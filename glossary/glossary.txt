@@ -794,7 +794,6 @@ vūpasantā	amainado
 vuṭṭhānaṁ	se termina
 vuṭṭhāti	sale
 yācasī	pretendes
-yadidaṁ	o sea
 yaṁ	lo que
 yañño	ofrenda
 yasmā	puesto que
@@ -819,3 +818,4 @@ pāpakānaṁ	malvadas
 pāpako	malvada
 pakāseti	esclarece
 dassanaṁ	visión
+yadidaṁ	es decir
