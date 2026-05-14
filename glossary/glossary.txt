@@ -584,7 +584,6 @@ samannāgato	está dotado
 samaṇo	santo, hombre santo
 samanupassāmi	contemplar
 samāpanno	ha emprendido
-samāpattiyā	consecución
 samatho	calma
 samayaṁ	ocasión
 sambhavā	generada
@@ -819,3 +818,4 @@ pāpako	malvada
 pakāseti	esclarece
 dassanaṁ	visión
 yadidaṁ	es decir
+samāpattiyā	consumación
