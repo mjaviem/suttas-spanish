@@ -468,9 +468,6 @@ paññavā	sabiduría
 paññāvimuttiṁ	liberación con la sabiduría
 paññāya	sabiduría
 paññāyati	se sabe de
-pāpakā	funestas
-pāpakānaṁ	funestas
-pāpako	funesta
 parabyābādhāyapi	abrumar a otro
 paraṁ	después
 parama	sumo
@@ -817,3 +814,8 @@ assosuṁ	oyeron
 khalu	en efecto
 pana	mas
 pajaṁ	prole
+pāpakā	malvadas
+pāpakānaṁ	malvadas
+pāpako	malvada
+pakāseti	esclarece
+dassanaṁ	visión
