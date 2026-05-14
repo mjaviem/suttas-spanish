@@ -1286,8 +1286,8 @@ y se queda aferrado a eso.</seg>
       <tuv lang="pi">
         <seg>Idha, bhikkhave, bhikkhu anuppannānaṁ pāpakānaṁ akusalānaṁ dhammānaṁ anuppādāya chandaṁ janeti vāyamati vīriyaṁ ārabhati cittaṁ paggaṇhāti padahati, uppannānaṁ pāpakānaṁ akusalānaṁ dhammānaṁ pahānāya chandaṁ janeti …pe… anuppannānaṁ kusalānaṁ dhammānaṁ uppādāya chandaṁ janeti …pe… uppannānaṁ kusalānaṁ dhammānaṁ ṭhitiyā asammosāya bhiyyobhāvāya vepullāya bhāvanāya pāripūriyā chandaṁ janeti vāyamati vīriyaṁ ārabhati cittaṁ paggaṇhāti padahati— ayaṁ vuccati, bhikkhave, sammāvāyāmo.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260506T183628Z" creationid="mjaviem" creationdate="20260506T114550Z">
-        <seg>Aquí, bhikkhus, un bhikkhu engendra el deseo, se empeña, acomete esfuerzo, aplica el corazón, hace frente, para el no surgimiento de las cuestiones funestas que no hacen bien que no han surgido; engendra el deseo... para abandonar las cuestiones funestas que no hacen bien que han surgido; engendra el deseo... para el surgimiento de las cuestiones que hacen bien que no han surgido; engendra el deseo, se empeña, acomete esfuerzo, aplica el corazón, hace frente, para la permanencia, la preservación, el acrecentamiento, la plenitud, el suscitar, el colmar, de las cuestiones que hacen bien que han surgido: Bhikkhus, esto se llama empeño cabal.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260514T183207Z" creationid="mjaviem" creationdate="20260506T114550Z">
+        <seg>Aquí, bhikkhus, un bhikkhu engendra el deseo, se empeña, acomete esfuerzo, aplica el corazón, hace frente, para el no surgimiento de las cuestiones malvadas que no hacen bien que no han surgido; engendra el deseo... para abandonar las cuestiones malvadas que no hacen bien que han surgido; engendra el deseo... para el surgimiento de las cuestiones que hacen bien que no han surgido; engendra el deseo, se empeña, acomete esfuerzo, aplica el corazón, hace frente, para la permanencia, la preservación, el acrecentamiento, la plenitud, el suscitar, el colmar, de las cuestiones que hacen bien que han surgido: Bhikkhus, esto se llama empeño cabal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2956,10 +2956,18 @@ Samaṇo ca sappurisānisaṁsoti.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>So dhammaṁ deseti ādikalyāṇaṁ majjhekalyāṇaṁ pariyosānakalyāṇaṁ sātthaṁ sabyañjanaṁ; kevalaparipuṇṇaṁ parisuddhaṁ brahmacariyaṁ pakāseti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260514T184840Z" creationid="mjaviem" creationdate="20260514T183349Z">
+        <seg>Él enseña los principios bondadosos al inicio, bondadosos al medio, bondadosos al final, con significado, bien expresados; esclarece la conducta santa, totalmente acabada, pura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>So imaṁ lokaṁ sadevakaṁ samārakaṁ sabrahmakaṁ sassamaṇabrāhmaṇiṁ pajaṁ sadevamanussaṁ sayaṁ abhiññā sacchikatvā pavedeti.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260513T203755Z" creationid="mjaviem" creationdate="20260513T203402Z">
-        <seg>Él da a conocer este mundo con sus divinidades, Maras y Brahmas, a esta prole con sus hombres santos y brahmanes, divinidades y humanos, habiendo tomado conciencia y atestiguado por sí mismo.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260514T184827Z" creationid="mjaviem" creationdate="20260513T203402Z">
+        <seg>Él da a conocer este mundo, con sus divinidades, Maras y Brahmas, a esta prole con sus hombres santos y brahmanes, divinidades y humanos, habiendo tomado conciencia y atestiguado por sí mismo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3103,6 +3111,14 @@ imāni vuccanti, bhikkhave, brahmacariyaphalānī”ti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260506T192755Z" creationid="mjaviem" creationdate="20260505T153555Z">
         <seg>Surgen sensaciones de satisfacción, surgen sensaciones de dificultad, surgen sensaciones de ni satisfacción ni dificultad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Sādhu kho pana tathārūpānaṁ arahataṁ dassanaṁ hotī”ti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260514T185058Z" creationid="mjaviem" creationdate="20260514T184857Z">
+        <seg>Pues, mas es bueno tener la visión de tal figura de Arahants».</seg>
       </tuv>
     </tu>
     <tu>
@@ -3437,8 +3453,8 @@ se llama lejos de la disipación.
       <tuv lang="pi">
         <seg>Tathārūpāssa dhammā bahussutā honti dhātā vacasā paricitā manasānupekkhitā diṭṭhiyā suppaṭividdhā.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20250915T153710Z" creationid="mjaviem" creationdate="20250902T002113Z">
-        <seg>Las cuestiones de tal tipo son bien escuchadas, recordadas, recitadas, consolidadas, reconsideradas interiormente, bien penetradas con el punto de vista.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260514T183504Z" creationid="mjaviem" creationdate="20250902T002113Z">
+        <seg>Los principios de tal tipo son bien escuchados, recordados, recitados, consolidados, reconsiderados interiormente, bien penetrados con el punto de vista.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4053,8 +4069,8 @@ se llama cerca de la disipación"</seg>
       <tuv lang="pi">
         <seg>Ye te dhammā ādikalyāṇā majjhekalyāṇā pariyosānakalyāṇā sātthaṁ sabyañjanaṁ kevalaparipuṇṇaṁ parisuddhaṁ brahmacariyaṁ abhivadanti.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260514T183111Z" creationid="mjaviem" creationdate="20250901T233901Z">
-        <seg>Aquellas cuestiones, las que fueran, bondadosas en el inicio, bondadosas en el medio, bondadosas en el final, que pregonan la conducta santa, con significado, bien expresada, totalmente acabada, pura.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260514T184326Z" creationid="mjaviem" creationdate="20250901T233901Z">
+        <seg>Aquellos principios, los que fueran, bondadosos al inicio, bondadosos al medio, bondadosos al final, con significado, bien expresados, que pregonan la conducta santa, totalmente acabada, pura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4798,8 +4814,8 @@ upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ 
         <seg>“Mā, bhikkhave, pāpake akusale vitakke vitakkeyyātha, seyyathidaṁ—
 kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260411T210955Z" creationid="mjaviem" creationdate="20250829T202226Z">
-        <seg>"Bhikkhus, no se propongan propósitos funestos que no hacen bien; los siguientes: propósitos de sensualismo, propósitos de malquerencia, propósitos de maltrato.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260514T183309Z" creationid="mjaviem" creationdate="20250829T202226Z">
+        <seg>"Bhikkhus, no se propongan propósitos malvados que no hacen bien; los siguientes: propósitos de sensualismo, propósitos de malquerencia, propósitos de maltrato.</seg>
       </tuv>
     </tu>
     <tu>
