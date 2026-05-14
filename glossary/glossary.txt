@@ -35,7 +35,7 @@ adhigamanīyāni	hallar
 adhigato	hallada
 adhimuccati	prefiere
 adhippayāso	divergencia
-adhiṭṭhānaṁ	fundamento
+adhiṭṭhānaṁ	supuesto
 ādīnavā	inconveniente
 ādīnavañca	inconveniente
 ādīnavato	inconveniente
@@ -819,3 +819,4 @@ pakāseti	esclarece
 dassanaṁ	visión
 yadidaṁ	es decir
 samāpattiyā	consumación
+nādhiṭṭhāti	no supone
