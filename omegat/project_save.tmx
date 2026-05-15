@@ -3527,8 +3527,8 @@ se llama lejos de la disipación.
         <seg>Tañce bhikkhu nābhinandati nābhivadati nājjhosāya tiṭṭhati, veditabbametaṁ bhikkhunā:
 ‘na parihāyāmi kusalehi dhammehi.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260515T000219Z" creationid="mjaviem" creationdate="20250828T192853Z">
-        <seg>Bhikkhus, si un bhikkhu no las aprueba, no las acoge y no se queda aferrado a ellas, esto debe ser conocido así por un bhikkhu: Los fundamentos que hacen bien no menguan.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260515T143631Z" creationid="mjaviem" creationdate="20250828T192853Z">
+        <seg>Bhikkhus, si un bhikkhu no los aprueba, no los acoge y no se queda aferrado a ellos, esto debe ser conocido así por un bhikkhu: Los fundamentos que hacen bien no menguan.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4239,8 +4239,8 @@ ayaṁ vuccati, bhikkhave, brahmacariyattho”ti.</seg>
         <seg>santi, bhikkhave, jivhāviññeyyā rasā …pe…
 santi, bhikkhave, manoviññeyyā dhammā iṭṭhā kantā manāpā piyarūpā kāmūpasaṁhitā rajanīyā.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260515T000438Z" creationid="mjaviem" creationdate="20250828T191514Z">
-        <seg>Bhikkhus, hay sonidos reconocibles con el oído... Bhikkhus, hay fundamentos reconocibles con lo interior que son deseables, amenas, gratas, de figura apreciable, conectadas con el sensualismo, tentadoras.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260515T143540Z" creationid="mjaviem" creationdate="20250828T191514Z">
+        <seg>Bhikkhus, hay sonidos reconocibles con el oído... Bhikkhus, hay fundamentos reconocibles con lo interior que son deseables, amenos, gratos, de figura apreciable, conectados con el sensualismo, tentadores.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5304,6 +5304,19 @@ kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250912T192949Z" creationid="mjaviem" creationdate="20250912T192949Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">SN-35.98.txt</prop>
+      <prop type="prev">santi, bhikkhave, jivhāviññeyyā rasā …pe…
+santi, bhikkhave, manoviññeyyā dhammā iṭṭhā kantā manāpā piyarūpā kāmūpasaṁhitā rajanīyā.</prop>
+      <prop type="next">Parihānañhetaṁ vuttaṁ bhagavatā’ti.</prop>
+      <tuv lang="pi">
+        <seg>Tañce bhikkhu abhinandati abhivadati ajjhosāya tiṭṭhati, veditabbametaṁ, bhikkhave, bhikkhunā:
+‘parihāyāmi kusalehi dhammehi.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260515T143603Z" creationid="mjaviem" creationdate="20260515T143603Z">
+        <seg>Bhikkhus, si un bhikkhu los aprueba, los acoge y se queda aferrado a ellos, esto debe ser conocido así por un bhikkhu: 'Los fundamentos que hacen bien menguan.</seg>
       </tuv>
     </tu>
     <tu>
