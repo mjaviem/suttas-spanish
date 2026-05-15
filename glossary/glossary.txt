@@ -206,7 +206,6 @@ chandā	deseo
 chandarāgo	deseo e interés
 chando	deseo
 cittaṁ	corazón
-cuti	partida
 dakkhiṇā	ofrenda
 dakkhiṇaṁ	ofrenda
 dāna	regalar
@@ -261,7 +260,6 @@ gahapatīhi	amos de casa
 gahapatīpi	amos de casa
 gahaṭṭhena	por quien tiene hogar
 gandhā	olor
-gati	curso
 gihi	quien tiene hogar
 gihinā	por quien tiene hogar
 hāpetun	menoscabar
@@ -820,3 +818,5 @@ saddhamme	los buenos fundamentos
 saṁyojanānaṁ	vínculos
 saṁyojanāni	vínculo
 upaya	allegamiento
+cuti	ocaso
+gati	trayecto
