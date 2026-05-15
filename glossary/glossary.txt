@@ -701,7 +701,6 @@ upāsake	seguidores laicos
 upasamāya	tranquilidad
 upasampajja	alcanzando
 upāsikā	seguidora laica
-upaya	vinculación
 upāyāsa	desazón
 upekkhā	ecuanimidad
 upeti	se acerca
@@ -820,3 +819,4 @@ saddhammā	los buenos fundamentos
 saddhamme	los buenos fundamentos
 saṁyojanānaṁ	vínculos
 saṁyojanāni	vínculo
+upaya	allegamiento
