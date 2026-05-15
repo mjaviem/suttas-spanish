@@ -594,8 +594,6 @@ samuppādo	surgimiento
 Saṁvarañca	autocontrol
 saṁvaro	autocontrol
 saṁvattanti	lleva a
-saṁyojanānaṁ	encadenamientos
-saṁyojanāni	encadenamiento
 sandiṭṭhikaṁ	patente
 sandiṭṭhiko	patente
 saṅkappo	intención
@@ -820,3 +818,5 @@ dhammehi	fundamentos
 dhammo	fundamentos
 saddhammā	los buenos fundamentos
 saddhamme	los buenos fundamentos
+saṁyojanānaṁ	vínculos
+saṁyojanāni	vínculo
