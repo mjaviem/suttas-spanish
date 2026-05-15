@@ -150,9 +150,6 @@ ayameva	precisamente
 āyatana	campos
 āyatanānaṁ	campos
 āyu	vitalidad
-bahulīkaroti	entrena
-bahulīkatā	entrenaremos
-bahulīkato	entrena
 bahussutā	bien escuchadas
 bahussuto	de mucho escuchar
 bandhu	vinculado
@@ -820,3 +817,6 @@ saṁyojanāni	vínculo
 upaya	allegamiento
 cuti	ocaso
 gati	trayecto
+bahulīkaroti	reitera
+bahulīkatā	reiteraremos
+bahulīkato	reitera
