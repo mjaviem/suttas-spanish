@@ -724,7 +724,6 @@ veramaṇī	abstención
 veyyākaraṇasmiṁ	explicación
 vibhajati	analiza
 vibhavataṇhā	desaparición
-vicāra	planificación
 viddhaṁsenti	derrumban
 vidhamanti	destrozan
 viditvā	percibir
@@ -759,8 +758,6 @@ vīriyaṁ	esfuerzo
 visatto	enredado
 visayo	ámbito
 viseso	diferencia
-vitakka	propósito
-vitakkavicārānaṁ	propósito y planificación
 vītivatto	ha trascendido
 vitthārena	extensa
 vivekajaṁ	nacida de apartarse
@@ -820,3 +817,6 @@ gati	trayecto
 bahulīkaroti	reitera
 bahulīkatā	reiteraremos
 bahulīkato	reitera
+vicāra	deliberación
+vitakka	consideración
+vitakkavicārānaṁ	consideración y deliberación
