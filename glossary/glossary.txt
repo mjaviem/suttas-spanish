@@ -388,7 +388,7 @@ nibbidāya	hastío
 nibbindati	se hastía
 niccaṁ	constante
 nidāna	origen
-nikaṭṭha	apartado
+nikaṭṭha	recogido
 nikkhepo	abatimiento
 nimittaṁ	rasgo
 nimujjati	se sumerge
@@ -398,7 +398,7 @@ nirodha	supresión
 nirodhāya	supresión
 nirodho	supresión
 nirujjhanti	se anulan
-nirupadhi	desligada de adquisiciones
+nirupadhi	sin apropiaciones
 nisīdi	se sentó
 nisinno	sentado
 nissaraṇaṁ	escape
@@ -686,7 +686,7 @@ upādāna	asidero
 upādānaṁ	asidero
 upādāniyā	se puede asir
 upādāya	asiendo, en base
-upadhi	adquisiciones
+upadhi	apropiaciones
 upahaññati	afligida
 upajāyatī	aparecen
 upamā	parábola
@@ -769,9 +769,9 @@ vitakka	propósito
 vitakkavicārānaṁ	propósito y planificación
 vītivatto	ha trascendido
 vitthārena	extensa
-vivekajaṁ	nacida de desligarse
-vivicca	desligado
-vivicceva	desligado
+vivekajaṁ	nacida de apartarse
+vivicca	apartado
+vivicceva	apartado
 vosagga	donar
 vuccati	se llama
 vuddho	maduro
