@@ -145,8 +145,6 @@ avisayasmiṁ	alcance
 ayaṁ	esta, este
 ayameva	precisamente
 āyasmā	Venerable
-āyatana	campos
-āyatanānaṁ	campos
 āyu	vitalidad
 bahussutā	bien escuchadas
 bahussuto	de mucho escuchar
@@ -543,7 +541,6 @@ sādhukaṁ	completamente
 saggaṁ	paradisíaco
 saggasaṁvattaniko	lleva al paraíso
 sakadāgāmī	el llegado una vez
-saḷāyatanaṁ	campos
 sama	nivelado
 samādapeti	incita
 samādhi	compostura
@@ -830,3 +827,6 @@ tenañjaliṁ	presentaron respetos con las palmas unidas
 sāvetvā	hicieron escuchar
 santike	cercanía
 tuṇhībhūtā	en silencio
+āyatana	ámbitos
+āyatanānaṁ	ámbitos
+saḷāyatanaṁ	seis ámbitos
