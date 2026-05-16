@@ -811,12 +811,12 @@ bahulīkato	reitera
 vicāra	deliberación
 vitakka	consideración
 vitakkavicārānaṁ	consideración y deliberación
-dukkhanirodhagāminī	que conduce al cierre de la dificultad
-nirodha	cierre
-nirodhāya	cierre
-nirodho	cierre
 atthavasaṁ	utilidad
 paṭicca	supeditado
 paṭicca	supeditado
 paṭiccasamuppādaṁ	surgimiento supeditado
 paṭiccasamuppādo	surgimiento supeditado
+dukkhanirodhagāminī	que conduce a la clausura de la dificultad
+nirodha	clausura
+nirodhāya	clausura
+nirodho	clausura
