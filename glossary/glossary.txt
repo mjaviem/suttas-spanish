@@ -67,7 +67,7 @@ anāgāmī	el no llegado
 anaññathāni	inequívocas
 anāsavā	sin secreciones
 anatīto	no exento
-anattā	no uno mismo
+anattā	no uno mismo, no la propia persona
 anavasesaṁ	sin residuo
 aniccā	inconstantes
 aniccaṁ	inconstante
@@ -123,7 +123,7 @@ assāsapassāsā	respiración
 asubhā	lo asqueroso
 ātāpī	ferviente
 atho	y además
-attā	persona
+attā	la propia persona
 attā	uno mismo
 attabyābādhāyapi	abrumarse
 attamanā	felices
@@ -142,8 +142,7 @@ avihiṁsā	no maltrato
 avijjā	desconocimiento
 avisayasmiṁ	alcance
 āvuso	amigos
-ayaṁ	esta
-ayaṁ	esta persona
+ayaṁ	esta, este
 ayameva	precisamente
 āyasmā	Venerable
 āyatana	campos
