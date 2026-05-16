@@ -386,7 +386,6 @@ nimittaṁ	rasgo
 nimujjati	se sumerge
 nirāmisāpi	no mundana
 nirayaṁ	desgracia
-nirujjhanti	se anulan
 nirupadhi	sin apropiaciones
 nisīdi	se sentó
 nisinno	sentado
@@ -819,3 +818,4 @@ dukkhanirodhagāminī	que conduce a la clausura de la dificultad
 nirodha	clausura
 nirodhāya	clausura
 nirodho	clausura
+nirujjhanti	se clausuran
