@@ -220,7 +220,6 @@ dhātā	recordadas
 dhuvaṁ	continua
 diṭṭhe	visto
 diṭṭheva	lo visto
-diṭṭhi	punto de vista
 domanassaṁ	disgusto
 dosā	odio
 doso	odio
@@ -819,3 +818,4 @@ nirodha	clausura
 nirodhāya	clausura
 nirodho	clausura
 nirujjhanti	se clausuran
+diṭṭhi	manera de ver
