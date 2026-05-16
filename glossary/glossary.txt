@@ -191,16 +191,12 @@ cariya	conducta
 cariyā	conducta
 cavanatā	tránsito
 cetanā	intención
-cetasā	ánimo
 cetasika	anímico, del ánimo
-cetaso	ánimo
 ceteti	estar dispuesto
-cetovimutti	liberación por el corazón
 chanda	deseo
 chandā	deseo
 chandarāgo	deseo e interés
 chando	deseo
-cittaṁ	corazón
 dakkhiṇā	ofrenda
 dakkhiṇaṁ	ofrenda
 dāna	regalar
@@ -819,3 +815,7 @@ nirodhāya	clausura
 nirodho	clausura
 nirujjhanti	se clausuran
 diṭṭhi	manera de ver
+cetasā	con ánimo
+cetaso	del ánimo
+cetovimutti	liberación por el ánimo
+cittaṁ	ánimo
