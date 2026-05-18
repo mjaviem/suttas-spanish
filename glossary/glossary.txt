@@ -238,7 +238,6 @@ ehipassiko	constatable
 ekodibhāvaṁ	unificación
 etadavoca	dijo esto
 ettāvatā	en esta medida
-ettha	en este caso
 evaṁ	así
 Evameva	Así también
 gahapatayo	amos de casa
@@ -646,7 +645,6 @@ tassa	para él
 tathāni	auténticas
 tato	de ahí que
 tatra	en este asunto
-tattha	en ese caso
 ṭhāna	situación
 ṭhānāni	situaciones
 ṭhitā	permanece
@@ -834,3 +832,5 @@ nāmāhaṁ	definitivamente
 khvāhaṁ	ciertamente
 hetaṁ	ciertamente
 vayo	declive
+ettha	sobre ese punto
+tattha	en ese aspecto
