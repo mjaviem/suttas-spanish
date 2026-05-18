@@ -737,7 +737,6 @@ vippasannāni	establecidas
 virāgāya	desinterés
 vīriyaṁ	esfuerzo
 visatto	enredado
-visayo	ámbito
 viseso	diferencia
 vītivatto	ha trascendido
 vitthārena	extensa
@@ -831,3 +830,4 @@ tuṇhībhūtā	en silencio
 āyatanānaṁ	ámbitos
 saḷāyatanaṁ	seis ámbitos
 apanūdana	despachar
+visayo	campo
