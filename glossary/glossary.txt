@@ -627,9 +627,6 @@ saṁvattanti	lleva a
 sandiṭṭhikaṁ	patente
 sandiṭṭhiko	patente
 saṅkappo	intención
-saṅkhārā	atribuciones
-saṅkhataṁ	atribuida
-sankhatamabhisaṅkharontīti	atribuye lo significado
 saṅkhittena	concisamente
 sannicayo	acumula
 sannipateyya	reuniría
@@ -837,3 +834,6 @@ saṁyojanāni	enlace
 bhajanti	se vinculan
 appicchatā	escasez de anhelos
 icchā	anhelo
+saṅkhārā	constituciones
+saṅkhataṁ	constituida
+sankhatamabhisaṅkharontīti	constituye lo constituido
