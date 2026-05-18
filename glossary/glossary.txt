@@ -99,7 +99,6 @@ appamattako	insignificante
 appamatto	sobrio
 appekacce	algunos
 appeva	ojalá
-appicchatā	frugalidad
 appiyā	despreciables
 appiyehi	despreciables
 ārabhati	acometer
@@ -836,3 +835,5 @@ bandhu	ligado
 saṁyojanānaṁ	enlaces
 saṁyojanāni	enlace
 bhajanti	se vinculan
+appicchatā	escasez de anhelos
+icchā	anhelo
