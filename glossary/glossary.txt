@@ -566,8 +566,6 @@ samudaya	fuente
 samudayañca	fuente
 samudayo	fuente
 samuppādo	surgimiento
-Saṁvarañca	autocontrol
-saṁvaro	autocontrol
 saṁvattanti	lleva a
 sandiṭṭhikaṁ	patente
 sandiṭṭhiko	patente
@@ -835,3 +833,5 @@ vayo	declive
 ettha	sobre ese punto
 tattha	en ese aspecto
 mahato	a mayor
+saṁvarañca	contención
+saṁvaro	contención
