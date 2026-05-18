@@ -160,7 +160,6 @@ bahulīkatā	reiteraremos
 bahulīkato	reitera
 bahussutā	bien escuchadas
 bahussuto	de mucho escuchar
-bandhu	vinculado
 bhabbo	capaz
 bhagavā	Dichoso
 Bhagavant	Dichoso
@@ -626,8 +625,6 @@ samuppādo	surgimiento
 saṁvarañca	contención
 saṁvaro	contención
 saṁvattanti	lleva a
-saṁyojanānaṁ	vínculos
-saṁyojanāni	vínculo
 sandiṭṭhikaṁ	patente
 sandiṭṭhiko	patente
 saṅkappo	intención
@@ -835,3 +832,7 @@ yoga	sometimiento
 yogo	consagrarse a
 yoniso	cuidadosa
 yonisomanasikāro	prestar cuidadosa atención
+bandhu	ligado
+saṁyojanānaṁ	enlaces
+saṁyojanāni	enlace
+bhajanti	se vinculan
