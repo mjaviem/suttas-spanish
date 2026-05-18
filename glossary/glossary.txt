@@ -96,7 +96,7 @@ apāyaṁ	penuria
 appamattako	insignificante
 appamatto	sobrio
 appeva	ojalá
-appicchatā	austeridad
+appicchatā	frugalidad
 appiyā	despreciables
 appiyehi	despreciables
 ārāme	parque
@@ -834,3 +834,4 @@ hetaṁ	ciertamente
 vayo	declive
 ettha	sobre ese punto
 tattha	en ese aspecto
+mahato	a mayor
