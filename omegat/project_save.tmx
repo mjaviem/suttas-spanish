@@ -330,8 +330,8 @@ kiñci viññāṇaṁ, yaṁ viññāṇaṁ niccaṁ dhuvaṁ sassataṁ avipa
       <tuv lang="pi">
         <seg>Atthi te tattha chando vā rāgo vā pemaṁ vā”ti?</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260210T010054Z" creationid="mjaviem" creationdate="20251230T200305Z">
-        <seg>¿Existe en ti deseo, interés o querer en ese caso?"</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260518T143440Z" creationid="mjaviem" creationdate="20251230T200305Z">
+        <seg>¿Existe en ti deseo, interés o querer en ese aspecto?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -3509,8 +3509,8 @@ se llama lejos de la disipación.
       <tuv lang="pi">
         <seg>Tattha puratthimāyapi disāya āgantvā vāsaṁ kappenti, pacchimāyapi disāya āgantvā vāsaṁ kappenti, uttarāyapi disāya āgantvā vāsaṁ kappenti, dakkhiṇāyapi disāya āgantvā vāsaṁ kappenti.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260505T212128Z" creationid="mjaviem" creationdate="20260505T151212Z">
-        <seg>En ese caso, habiendo venido de la dirección este, se acomoda en la morada; habiendo venido de la dirección oeste, se acomoda en la morada; habiendo venido de la dirección norte, se acomoda en la morada; habiendo venido de la dirección sur, se acomoda en la morada.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260518T143806Z" creationid="mjaviem" creationdate="20260505T151212Z">
+        <seg>En ese aspecto, habiendo venido de la dirección este, se acomoda en la morada; habiendo venido de la dirección oeste, se acomoda en la morada; habiendo venido de la dirección norte, se acomoda en la morada; habiendo venido de la dirección sur, se acomoda en la morada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4013,16 +4013,16 @@ se llama cerca de la disipación"</seg>
       <tuv lang="pi">
         <seg>Yato tvaṁ, mālukyaputta, na tattha; tato tvaṁ, mālukyaputta, nevidha, na huraṁ, na ubhayamantarena.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260207T131718Z" creationid="mjaviem" creationdate="20251231T165634Z">
-        <seg>En donde tú, Mālukyaputta, no seas en ese caso; de ahí que tú, Mālukyaputta, no estarás ni aquí, ni allá, ni entre ambos.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260518T143708Z" creationid="mjaviem" creationdate="20251231T165634Z">
+        <seg>En donde tú, Mālukyaputta, no seas en ese aspecto; de ahí que tú, Mālukyaputta, no estarás ni aquí, ni allá, ni entre ambos.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pi">
         <seg>Yato tvaṁ, mālukyaputta, na tena; tato tvaṁ, mālukyaputta, na tattha.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260207T131718Z" creationid="mjaviem" creationdate="20251231T165201Z">
-        <seg>En donde tú, Mālukyaputta, no seas por ello; de ahí que tú, Mālukyaputta, no serás en ese caso.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260518T143700Z" creationid="mjaviem" creationdate="20251231T165201Z">
+        <seg>En donde tú, Mālukyaputta, no seas por ello; de ahí que tú, Mālukyaputta, no serás en ese aspecto.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4725,16 +4725,16 @@ upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ 
       <tuv lang="pi">
         <seg>“Ettha ca te, mālukyaputta, diṭṭhasutamutaviññātabbesu dhammesu diṭṭhe diṭṭhamattaṁ bhavissati, sute sutamattaṁ bhavissati, mute mutamattaṁ bhavissati, viññāte viññātamattaṁ bhavissati.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260518T133928Z" creationid="mjaviem" creationdate="20251231T162344Z">
-        <seg>"Y en este caso para ti, Mālukyaputta, en los fundamentos que son vistos, escuchados, sentidos y reconocidos, en lo que es visto será el grado visto, en lo escuchado será el grado escuchado, en lo sentido será el grado sentido, en lo reconocido será el grado reconocido.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260518T143531Z" creationid="mjaviem" creationdate="20251231T162344Z">
+        <seg>"Y para ti sobre este punto, Mālukyaputta, en los fundamentos que son vistos, escuchados, sentidos y reconocidos, en lo que es visto será el grado visto, en lo escuchado será el grado escuchado, en lo sentido será el grado sentido, en lo reconocido será el grado reconocido.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pi">
         <seg>“Ettha dāni, mālukyaputta, kiṁ dahare bhikkhū vakkhāma.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260207T131718Z" creationid="mjaviem" creationdate="20251230T131532Z">
-        <seg>"Ahora en este caso, Mālukyaputta, ¿qué diremos a los bhikkhus jóvenes?</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260518T143432Z" creationid="mjaviem" creationdate="20251230T131532Z">
+        <seg>"Ahora sobre este punto, Mālukyaputta, ¿qué diremos a los bhikkhus jóvenes?</seg>
       </tuv>
     </tu>
     <tu>
