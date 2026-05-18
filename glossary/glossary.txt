@@ -692,7 +692,6 @@ vāsaṁ	morada
 vatthu	sustrato
 vāyamati	se empeña
 vāyāmo	empeño
-vayo	desvanecimiento
 vedanā	sensación
 vedanaṁ	sensación
 vedanāṁ	sensación
@@ -834,3 +833,4 @@ visayo	campo
 nāmāhaṁ	definitivamente
 khvāhaṁ	ciertamente
 hetaṁ	ciertamente
+vayo	declive
