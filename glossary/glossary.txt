@@ -261,7 +261,7 @@ hitāya	bienestar
 hitesinā	deseo de beneficiar
 idaṁ	esto
 idha	aquí
-imassa	ciertamente
+imassa	por él
 ime	estos
 imehi	aquí
 iṭṭhā	deseadas
@@ -831,3 +831,5 @@ tuṇhībhūtā	en silencio
 saḷāyatanaṁ	seis ámbitos
 apanūdana	despachar
 visayo	campo
+nāmāhaṁ	ciertamente
+khvāhaṁ	ciertamente
