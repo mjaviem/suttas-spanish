@@ -351,9 +351,6 @@ mattā	ese grado
 medhāvī	inteligentes
 mettā	benevolencia amistosa
 micchā	equivocada
-mohā	autoengaño
-mohe	autoengaño
-moho	autoengaño
 musāvādā	postulados falsos
 mute	sentido
 muṭṭhā	extraviado
@@ -835,3 +832,6 @@ tattha	en ese aspecto
 mahato	a mayor
 saṁvarañca	contención
 saṁvaro	contención
+mohā	ofuscamiento
+mohe	ofuscamiento
+moho	ofuscamiento
