@@ -99,6 +99,7 @@ appamattako	insignificante
 appamatto	sobrio
 appekacce	algunos
 appeva	ojalá
+appicchatā	escasez de anhelos
 appiyā	despreciables
 appiyehi	despreciables
 ārabhati	acometer
@@ -159,10 +160,12 @@ bahulīkatā	reiteraremos
 bahulīkato	reitera
 bahussutā	bien escuchadas
 bahussuto	de mucho escuchar
+bandhu	ligado
 bhabbo	capaz
 bhagavā	Dichoso
 Bhagavant	Dichoso
 Bhagavato	Dichoso
+bhajanti	se vinculan
 bhante	reverendo
 bhaññamāne	relataba
 bhāsitaṁ	lo dicho
@@ -286,6 +289,7 @@ hirī	avergonzarse
 hirīmā	vergüenza
 hitāya	bienestar
 hitesinā	deseo de beneficiar
+icchā	anhelo
 idaṁ	esto
 idha	aquí
 imassa	por él
@@ -321,6 +325,7 @@ kamma	actos
 kammaṁ	actos
 kammānaṁ	actos
 kammena	actuación
+kaṅkhati	está pendiente
 kantā	amenos
 kantāya	ameno
 kappeti	acomoda
@@ -525,6 +530,7 @@ paṭiccasamuppādaṁ	surgimiento supeditado
 paṭiccasamuppādo	surgimiento supeditado
 patigādhappatto	alcanza asiento
 pāṭikaṅkhā	cabe esperar
+pāṭikaṅkhaṁ	cabe esperar
 paṭikūlā	ser reacio
 paṭilābho	adquisición
 paṭinissagga	renuncia
@@ -623,9 +629,14 @@ samuppādo	surgimiento
 saṁvarañca	contención
 saṁvaro	contención
 saṁvattanti	lleva a
+saṁyojanānaṁ	enlaces
+saṁyojanāni	enlace
 sandiṭṭhikaṁ	patente
 sandiṭṭhiko	patente
 saṅkappo	intención
+saṅkhārā	constituciones
+saṅkhataṁ	constituida
+sankhatamabhisaṅkharontīti	constituye lo constituido
 saṅkhittena	concisamente
 sannicayo	acumula
 sannipateyya	reuniría
@@ -733,6 +744,7 @@ upāsake	seguidores laicos
 upasamāya	tranquilidad
 upasampajja	alcanzando
 upāsikā	seguidora laica
+upaya	arrimarse
 upāyāsa	desazón
 upekkhā	ecuanimidad
 upeti	se acerca
@@ -762,6 +774,7 @@ veyyākaraṇasmiṁ	explicación
 vibhajati	analiza
 vibhavataṇhā	desaparición
 vicāra	deliberación
+vicikicchati	tiene dudas
 viddhaṁsenti	derrumban
 vidhamanti	destrozan
 viditvā	percibir
@@ -826,16 +839,3 @@ yoga	sometimiento
 yogo	consagrarse a
 yoniso	cuidadosa
 yonisomanasikāro	prestar cuidadosa atención
-bandhu	ligado
-saṁyojanānaṁ	enlaces
-saṁyojanāni	enlace
-bhajanti	se vinculan
-appicchatā	escasez de anhelos
-icchā	anhelo
-saṅkhārā	constituciones
-saṅkhataṁ	constituida
-sankhatamabhisaṅkharontīti	constituye lo constituido
-upaya	arrimarse
-kaṅkhati	está pendiente
-vicikicchati	tiene dudas
-pāṭikaṅkhaṁ	cabe esperar
