@@ -837,3 +837,5 @@ saṅkhārā	constituciones
 saṅkhataṁ	constituida
 sankhatamabhisaṅkharontīti	constituye lo constituido
 upaya	arrimarse
+kaṅkhati	está pendiente
+vicikicchati	tiene dudas
