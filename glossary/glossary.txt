@@ -525,7 +525,6 @@ paṭiccasamuppādaṁ	surgimiento supeditado
 paṭiccasamuppādo	surgimiento supeditado
 patigādhappatto	alcanza asiento
 pāṭikaṅkhā	cabe esperar
-pāṭikaṅkhaṁ	es de esperar
 paṭikūlā	ser reacio
 paṭilābho	adquisición
 paṭinissagga	renuncia
@@ -839,3 +838,4 @@ sankhatamabhisaṅkharontīti	constituye lo constituido
 upaya	arrimarse
 kaṅkhati	está pendiente
 vicikicchati	tiene dudas
+pāṭikaṅkhaṁ	cabe esperar
