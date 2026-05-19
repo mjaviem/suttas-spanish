@@ -734,7 +734,6 @@ upāsake	seguidores laicos
 upasamāya	tranquilidad
 upasampajja	alcanzando
 upāsikā	seguidora laica
-upaya	allegamiento
 upāyāsa	desazón
 upekkhā	ecuanimidad
 upeti	se acerca
@@ -837,3 +836,4 @@ icchā	anhelo
 saṅkhārā	constituciones
 saṅkhataṁ	constituida
 sankhatamabhisaṅkharontīti	constituye lo constituido
+upaya	arrimarse
