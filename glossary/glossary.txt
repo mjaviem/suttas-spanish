@@ -839,5 +839,6 @@ yoga	sometimiento
 yogo	consagrarse a
 yoniso	cuidadosa
 yonisomanasikāro	prestar cuidadosa atención
-bho	maestro
 hetu	razón
+bho	señor
+bhavaṁ	señor
