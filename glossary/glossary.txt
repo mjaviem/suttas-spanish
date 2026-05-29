@@ -603,7 +603,7 @@ samādhi	compostura
 samādhijaṁ	nacida de la compostura
 samaṇā	hombres santos
 samannāgato	está dotado
-samaṇo	santo, hombre santo
+samaṇo	hombre santo
 samanupassāmi	contemplar
 samāpanno	ha emprendido
 samāpattiyā	consumación
@@ -842,3 +842,4 @@ yonisomanasikāro	prestar cuidadosa atención
 hetu	razón
 bho	señor
 bhavaṁ	señor
+satthā	maestro
