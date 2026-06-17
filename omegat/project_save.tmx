@@ -1572,6 +1572,14 @@ y se queda aferrado a eso.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Ime vuccanti, bhikkhave, pañcupādānakkhandhā”ti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260617T140059Z" creationid="mjaviem" creationdate="20260617T140059Z">
+        <seg>Estos se llaman, bhikkhus, los cinco montones de asidero".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Ime vuccanti, bhikkhave, upādāniyā dhammā, idaṁ upādānan”ti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260519T183251Z" creationid="mjaviem" creationdate="20251104T193916Z">
@@ -1870,8 +1878,8 @@ y se queda aferrado a eso.</seg>
       <tuv lang="pi">
         <seg>Katame ca, bhikkhave, pañcakkhandhā?</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260617T131727Z" creationid="mjaviem" creationdate="20260617T131727Z">
-        <seg>¿Y qué, bhikkhus, son los cinco montones?</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260617T140124Z" creationid="mjaviem" creationdate="20260617T131727Z">
+        <seg>¿Y qué son, bhikkhus, los cinco montones?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4115,6 +4123,14 @@ se llama cerca de la disipación"</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Yaṁ kiñci viññāṇaṁ atītānāgatapaccuppannaṁ …pe… yaṁ dūre santike vā sāsavaṁ upādāniyaṁ, ayaṁ vuccati viññāṇupādānakkhandho.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260617T140039Z" creationid="mjaviem" creationdate="20260617T140039Z">
+        <seg>Cualesquiera reconocimientos, pasados, futuros o presentes... lejanos o cercanos, con secreciones y que se pueden asir: estos se llaman el montón de asidero de los reconocimientos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Yaṁ kiñci, bhikkhave, rūpaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, ayaṁ vuccati rūpakkhandho.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260617T133614Z" creationid="mjaviem" creationdate="20260617T133614Z">
@@ -4143,6 +4159,14 @@ se llama cerca de la disipación"</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260402T121154Z" creationid="mjaviem" creationdate="20251111T163628Z">
         <seg>Bhikkhus, lo que fuera que un maestro debe hacer por sus discípulos, por deseo de beneficiar, por compasión, en base a la compasión, eso lo he hecho por ustedes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Ye keci saṅkhārā …pe… sāsavā upādāniyā, ayaṁ vuccati saṅkhārupādānakkhandho.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260617T135933Z" creationid="mjaviem" creationdate="20260617T135933Z">
+        <seg>Cualesquiera constituciones... con secreciones y que se pueden asir: estas se llaman el montón de asidero de las constituciones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4276,6 +4300,14 @@ ayaṁ vuccati, bhikkhave, brahmacariyattho”ti.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Yā kāci saññā …pe… yā dūre santike vā sāsavā upādāniyā, ayaṁ vuccati saññupādānakkhandho.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260617T135836Z" creationid="mjaviem" creationdate="20260617T135836Z">
+        <seg>Cualesquiera distinciones... lejanas o cercanas, con secreciones y que se pueden asir: estas se llaman el montón de asidero de las distinciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Yā kāci vedanā atītānāgatapaccuppannā ajjhattā vā bahiddhā vā …pe… yā dūre santike vā, sabbā vedanā: ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260516T134229Z" creationid="mjaviem" creationdate="20260507T191412Z">
@@ -4294,8 +4326,8 @@ ayaṁ vuccati, bhikkhave, brahmacariyattho”ti.</seg>
       <tuv lang="pi">
         <seg>Yā kāci vedanā …pe… yā dūre santike vā sāsavā upādāniyā, ayaṁ vuccati vedanupādānakkhandho.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260617T134326Z" creationid="mjaviem" creationdate="20260617T134326Z">
-        <seg>Cualesquiera sensaciones... lejana o cercana, con secreciones y que se pueden asir: estas se llaman el montón de asidero de las sensaciones.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260617T135844Z" creationid="mjaviem" creationdate="20260617T134326Z">
+        <seg>Cualesquiera sensaciones... lejanas o cercanas, con secreciones y que se pueden asir: estas se llaman el montón de asidero de las sensaciones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4399,8 +4431,8 @@ santi, bhikkhave, manoviññeyyā dhammā iṭṭhā kantā manāpā piyarūpā 
       <tuv lang="pi">
         <seg>ye keci saṅkhārā atītānāgatapaccuppannā ajjhattaṁ vā bahiddhā vā oḷārikā vā sukhumā vā …pe… ayaṁ vuccati saṅkhārakkhandho.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260617T133803Z" creationid="mjaviem" creationdate="20260617T133803Z">
-        <seg>cualesquiera constituciones, pasadas, futuras o presentes, internas o externas, toscas o sutiles... estas se llaman el montón de las constituciones.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260617T140327Z" creationid="mjaviem" creationdate="20260617T133803Z">
+        <seg>Cualesquiera constituciones, pasadas, futuras o presentes, internas o externas, toscas o sutiles... estas se llaman el montón de las constituciones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4415,8 +4447,8 @@ santi, bhikkhave, manoviññeyyā dhammā iṭṭhā kantā manāpā piyarūpā 
       <tuv lang="pi">
         <seg>yā kāci saññā …</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260617T133713Z" creationid="mjaviem" creationdate="20260617T133713Z">
-        <seg>cualesquiera distinciones...</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260617T140212Z" creationid="mjaviem" creationdate="20260617T133713Z">
+        <seg>Cualesquiera distinciones...</seg>
       </tuv>
     </tu>
     <tu>
