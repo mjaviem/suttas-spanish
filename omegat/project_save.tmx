@@ -1564,6 +1564,14 @@ y se queda aferrado a eso.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Ime vuccanti, bhikkhave, pañcakkhandhā.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260617T134003Z" creationid="mjaviem" creationdate="20260617T134003Z">
+        <seg>Bhikkhus, esto se llama los cinco montones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Ime vuccanti, bhikkhave, upādāniyā dhammā, idaṁ upādānan”ti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260519T183251Z" creationid="mjaviem" creationdate="20251104T193916Z">
@@ -1856,6 +1864,22 @@ y se queda aferrado a eso.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260515T000156Z" creationid="mjaviem" creationdate="20250829T193822Z">
         <seg>¿Y qué son, bhikkhus, los fundamentos que hacen bien?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Katame ca, bhikkhave, pañcakkhandhā?</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260617T131727Z" creationid="mjaviem" creationdate="20260617T131727Z">
+        <seg>¿Y qué, bhikkhus, son los cinco montones?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Katame ca, bhikkhave, pañcupādānakkhandhā?</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260617T134033Z" creationid="mjaviem" creationdate="20260617T134033Z">
+        <seg>¿Y qué, bhikkhus, son los cinco montones de asidero?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4075,10 +4099,34 @@ se llama cerca de la disipación"</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Yaṁ kiñci viññāṇaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, ayaṁ vuccati viññāṇakkhandho.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260617T133911Z" creationid="mjaviem" creationdate="20260617T133911Z">
+        <seg>Cualesquiera reconocimientos, pasados, futuros o presentes, internos o externos, toscos o sutiles, insignificantes o excelsos, lejanos o cercanos: estos se llaman el montón de los reconocimientos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Yaṁ kiñci viññāṇaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbaṁ viññāṇaṁ: ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260516T134229Z" creationid="mjaviem" creationdate="20260507T191706Z">
         <seg>Cualesquiera reconocimientos, pasados, futuros o presentes; internos o externos; toscos o sutiles; insignificantes o excelsos; lejanos o cercanos, todo reconocimiento debe verse en verdad con el saber cabal como: 'esto no es mío, este no soy yo, esto no es mi propia persona'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Yaṁ kiñci, bhikkhave, rūpaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, ayaṁ vuccati rūpakkhandho.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260617T133614Z" creationid="mjaviem" creationdate="20260617T133614Z">
+        <seg>Cualquier figura, bhikkhus, pasada, futura o presente, interna o externa, tosca o sutil, insignificante o excelsa, lejana o cercana: esta se llama el montón de la figura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Yaṁ kiñci, bhikkhave, rūpaṁ atītānāgatapaccuppannaṁ …pe… yaṁ dūre santike vā sāsavaṁ upādāniyaṁ, ayaṁ vuccati rūpupādānakkhandho.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260617T134229Z" creationid="mjaviem" creationdate="20260617T134229Z">
+        <seg>Cualquier figura, bhikkhus, pasada, futura o presente... lejana o cercana, con secreciones y que se puede asir: esta se llama el montón de asidero de la figura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4236,6 +4284,22 @@ ayaṁ vuccati, bhikkhave, brahmacariyattho”ti.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Yā kāci vedanā …pe…</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260617T133644Z" creationid="mjaviem" creationdate="20260617T133644Z">
+        <seg>Cualesquiera sensaciones...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Yā kāci vedanā …pe… yā dūre santike vā sāsavā upādāniyā, ayaṁ vuccati vedanupādānakkhandho.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260617T134326Z" creationid="mjaviem" creationdate="20260617T134326Z">
+        <seg>Cualesquiera sensaciones... lejana o cercana, con secreciones y que se pueden asir: estas se llaman el montón de asidero de las sensaciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Yāva aḍḍho cāyaṁ, bhante, migāro rohaṇeyyo yāva mahaddhano yāva mahābhogo”ti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20251021T120655Z" creationid="mjaviem" creationdate="20250831T214723Z">
@@ -4333,10 +4397,26 @@ santi, bhikkhave, manoviññeyyā dhammā iṭṭhā kantā manāpā piyarūpā 
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>ye keci saṅkhārā atītānāgatapaccuppannā ajjhattaṁ vā bahiddhā vā oḷārikā vā sukhumā vā …pe… ayaṁ vuccati saṅkhārakkhandho.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260617T133803Z" creationid="mjaviem" creationdate="20260617T133803Z">
+        <seg>cualesquiera constituciones, pasadas, futuras o presentes, internas o externas, toscas o sutiles... estas se llaman el montón de las constituciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>ye keci saṅkhārā atītānāgatapaccuppannā ajjhattaṁ vā bahiddhā vā …pe… ye dūre santike vā, sabbe saṅkhārā: ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260518T232311Z" creationid="mjaviem" creationdate="20260507T191513Z">
         <seg>Cualesquiera constituciones, pasadas, futuras o presentes; internas o externas... lejanas o cercanas, toda constitución debe verse en verdad con el saber cabal como: 'esto no es mío, este no soy yo, esto no es mi propia persona'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>yā kāci saññā …</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260617T133713Z" creationid="mjaviem" creationdate="20260617T133713Z">
+        <seg>cualesquiera distinciones...</seg>
       </tuv>
     </tu>
     <tu>
@@ -4936,6 +5016,14 @@ kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260515T000557Z" creationid="mjaviem" creationdate="20250917T133651Z">
         <seg>"Pues el partir, amigo, es lo difícil de conseguir en estos fundamentos y disciplina."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Pañca, bhikkhave, khandhe desessāmi, pañcupādānakkhandhe ca.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260617T131621Z" creationid="mjaviem" creationdate="20260617T131621Z">
+        <seg>"Bhikkhus, les enseñaré los cinco montones y los cinco montones de asidero.</seg>
       </tuv>
     </tu>
     <tu>
