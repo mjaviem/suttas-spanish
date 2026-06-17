@@ -590,7 +590,6 @@ saddhammā	los buenos fundamentos
 saddhamme	los buenos fundamentos
 saddhiṁ	junto
 saddho	confianza
-sādhu	buena
 sādhukaṁ	completamente
 saggaṁ	paradisíaco
 saggasaṁvattaniko	lleva al paraíso
@@ -846,3 +845,4 @@ kalyāṇo	bueno
 vitthārena	extensamente
 bhoto	señor
 bhavantaṁ	señor
+sādhu	bien
