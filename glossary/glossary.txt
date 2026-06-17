@@ -314,7 +314,6 @@ kālaṁ karoti	cumple su tiempo
 kaḷevarassa	cadáver
 kallaṁ	hábil
 kalyāṇī	agraciada
-kalyāṇo	bondadoso
 kāma	sensualismo
 kāmaguṇā	hebras de la sensualismo
 kāmaguṇe	hebras de la sensualismo
@@ -812,7 +811,6 @@ viseso	diferencia
 vitakka	consideración
 vitakkavicārānaṁ	consideración y deliberación
 vītivatto	ha trascendido
-vitthārena	extensa
 vivekajaṁ	nacida de apartarse
 vivicca	apartado
 vivicceva	apartado
@@ -844,3 +842,7 @@ bho	señor
 bhavaṁ	señor
 satthā	maestro
 Katame	Qué
+kalyāṇo	bueno
+vitthārena	extensamente
+bhoto	señor
+bhavantaṁ	señor
