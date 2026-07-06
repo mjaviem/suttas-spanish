@@ -490,7 +490,6 @@ pāpako	malvada
 parabyābādhāyapi	abrumar a otro
 paraṁ	después
 parama	sumo
-paravittūpakaraṇaṁ	pertenencias de otros
 parāyaṇo	apoyado
 parāyaṇo	inclinado
 paribbājakā	peregrinos
@@ -850,3 +849,5 @@ ekacco	alguien
 luddo	depredador
 niviṭṭho	establecido
 pāṇabhūtesu	por los seres vivos
+upakaraṇa	sustento
+vitta	posesiones
