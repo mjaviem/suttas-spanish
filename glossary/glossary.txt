@@ -867,3 +867,5 @@ samaggānaṁ	juntos
 bhettā	divisor
 bhinnānaṁ	partidos
 anuppadātā	sostenedor
+bhāsitā	hablador
+vācaṁ	palabras
