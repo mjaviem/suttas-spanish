@@ -469,7 +469,7 @@ pahitatto	entregado
 pahīyanti	abandonadas
 pahīyati	es abandonado
 pajaṁ	prole
-pajānāti	sabe
+pajānāti	discierne
 pakāseti	esclarece
 pamāda	negligencia
 pana	mas
@@ -862,3 +862,8 @@ akkhātā	cuenta
 bhedāya	división
 vidū	entendedor
 dayā	misericordia
+ājānāsi	comprende
+samaggānaṁ	juntos
+bhettā	divisor
+bhinnānaṁ	partidos
+anuppadātā	sostenedor
