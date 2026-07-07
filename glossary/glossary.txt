@@ -858,3 +858,5 @@ antamaso	incluso
 parikkhitta	echada alrededor
 cārittaṁ	andanzas
 āpajjitā	partícipe
+akkhātā	cuenta
+bhedāya	división
