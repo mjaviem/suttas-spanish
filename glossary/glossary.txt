@@ -869,3 +869,5 @@ bhinnānaṁ	partidos
 anuppadātā	sostenedor
 bhāsitā	hablador
 vācaṁ	palabras
+rata	queda prendado
+ārāma	deleitar
