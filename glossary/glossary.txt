@@ -870,5 +870,10 @@ anuppadātā	sostenedor
 bhāsitā	hablador
 rata	queda prendado
 ārāma	deleitar
-vācaṁ	oraciones
-pharusa	aspereza
+vācaṁ	palabras
+pharusa	ásperas
+kakkasā	crudas
+aṇḍakā	iracundas
+kaṭukā	agrias
+abhisajjana	bruscas
+kodha	furia
