@@ -273,7 +273,6 @@ gahapati	amo de casa
 gahapatīhi	amos de casa
 gahapatīpi	amos de casa
 gahaṭṭhena	por quien tiene hogar
-gāma	villa
 gandhā	olor
 gati	trayecto
 gihi	quien tiene hogar
@@ -877,3 +876,4 @@ aṇḍakā	iracundas
 kaṭukā	agrias
 abhisajjana	bruscas
 kodha	furia
+gāma	aldea
