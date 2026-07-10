@@ -796,8 +796,6 @@ viparibhinnāni	destrozado
 vipariṇāma	cambio
 vipariṇāmadhammā	cambiantes
 vipariṇāmī	cambiante
-vipassanā	discernimiento
-vipassati	discierne
 vippasannāni	establecidas
 virāgāya	desinterés
 vīriyaṁ	esfuerzo
@@ -877,3 +875,5 @@ kaṭukā	agrias
 abhisajjana	bruscas
 kodha	furia
 gāma	aldea
+vipassanā	escudriño
+vipassati	escudriña
