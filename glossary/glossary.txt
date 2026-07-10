@@ -549,7 +549,6 @@ pavedeti	da a conocer
 pema	querer
 petti	antepasados
 phalaṁ	fruto
-pharusāya	dureza
 phasso	contacto
 phoṭṭhabbā	tangibles
 phusasi	tocado
@@ -864,7 +863,6 @@ samaggānaṁ	juntos
 bhettā	divisor
 bhinnānaṁ	partidos
 anuppadātā	sostenedor
-bhāsitā	hablador
 rata	queda prendado
 ārāma	deleitar
 vācaṁ	palabras
@@ -877,3 +875,5 @@ kodha	furia
 gāma	aldea
 vipassanā	escudriño
 vipassati	escudriña
+pharusāya	aspereza
+bhāsitā	es de decir
