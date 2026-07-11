@@ -141,8 +141,6 @@ atthaṅgamañca	repliegue
 atthaṅgamo	repliegue
 atthasaṁhitā	pertinentes
 atthavasaṁ	utilidad
-atthi	existe
-atthitā	existencia
 avihiṁsā	no maltrato
 avijjā	desconocimiento
 avisayasmiṁ	alcance
@@ -884,3 +882,5 @@ vādī	predica
 Anidhānavatiṁ	sin valor
 anapadesaṁ	sin razón
 apariyantavatiṁ	sin límites
+atthi	hay
+atthitā	el hay
