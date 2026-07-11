@@ -166,8 +166,8 @@ Bhagavato	Dichoso
 bhajanti	se vinculan
 bhante	reverendo
 bhaññamāne	relataba
-bhāsitaṁ	lo dicho
-bhāsitassa	lo dicho
+bhāsitaṁ	lo hablado
+bhāsitassa	lo hablado
 bhava	devenir
 bhavā	devenir
 bhāvetabbā	suscitar
@@ -865,7 +865,7 @@ gāma	aldea
 vipassanā	el escudriño
 vipassati	escudriña
 pharusāya	aspereza
-bhāsitā	es de decir
+bhāsitā	es de hablar
 upādāya	de acuerdo a
 ṭhāna	posición
 asaddhammā	malas bases
