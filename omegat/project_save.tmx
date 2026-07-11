@@ -82,8 +82,8 @@ para quien reside de esta manera.</seg>
       <tuv lang="pi">
         <seg>Akālavādī abhūtavādī anatthavādī adhammavādī avinayavādī.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260711T172122Z" creationid="mjaviem" creationdate="20260711T172122Z">
-        <seg>Habla fuera de momento, no habla de lo que es real, no habla de la finalidad, no habla de las bases, no habla de la disciplina.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260711T192811Z" creationid="mjaviem" creationdate="20260711T172122Z">
+        <seg>Predica fuera de momento, predica lo que no es cierto, predica sin finalidad, predica lo que no son las bases, predica lo que no es la disciplina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -139,6 +139,14 @@ Hetunāpi tayo vuttā,
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260508T144848Z" creationid="mjaviem" creationdate="20260508T144848Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Anidhānavatiṁ vācaṁ bhāsitā hoti akālena anapadesaṁ apariyantavatiṁ anatthasaṁhitaṁ.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260711T193412Z" creationid="mjaviem" creationdate="20260711T192640Z">
+        <seg>Es de hablar palabras sin valor, fuera de momento, sin razón, sin límites, no pertinentes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -244,8 +252,8 @@ sappurisaṁ, bhikkhave, nissāya ime cattāro ānisaṁsā pāṭikaṅkhā”t
       <tuv lang="pi">
         <seg>Atha kho sāleyyakā brāhmaṇagahapatikā yena bhagavā tenupasaṅkamiṁsu; upasaṅkamitvā appekacce bhagavantaṁ abhivādetvā ekamantaṁ nisīdiṁsu; appekacce bhagavatā saddhiṁ sammodiṁsu, sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdiṁsu; appekacce yena bhagavā tenañjaliṁ paṇāmetvā ekamantaṁ nisīdiṁsu; appekacce bhagavato santike nāmagottaṁ sāvetvā ekamantaṁ nisīdiṁsu; appekacce tuṇhībhūtā ekamantaṁ nisīdiṁsu.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260516T185205Z" creationid="mjaviem" creationdate="20260516T184026Z">
-        <seg>Pues entonces, los brahmanes y amos de casa de Sala se acercaron a donde estaba el Dichoso; habiéndose acercado, algunos hicieron reverencias al Dichoso y se sentaron a un lado; algunos intercambiaron saludos junto con el Dichoso y, habiendo concluido una charla deleitable y memorable, se sentaron a un lado; algunos presentaron respetos hacia el Dichoso con las palmas unidas y, habiendo sido correspondidos, se sentaron a un lado; algunos hicieron escuchar su nombre y clan en cercanía del Dichoso y se sentaron a un lado; algunos se sentaron a un lado en silencio.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260711T193816Z" creationid="mjaviem" creationdate="20260516T184026Z">
+        <seg>Pues entonces, los brahmanes y amos de casa de Sala se acercaron a donde estaba el Dichoso; habiéndose acercado, algunos hicieron reverencias al Dichoso y se sentaron a un lado; algunos intercambiaron saludos junto con el Dichoso y, habiendo concluido una charla deleitable y memorable, se sentaron a un lado; algunos presentaron respetos hacia el Dichoso con las palmas unidas y, correspondidos, se sentaron a un lado; algunos hicieron escuchar su nombre y clan en cercanía del Dichoso y se sentaron a un lado; algunos se sentaron a un lado en silencio.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1045,6 +1053,14 @@ tasmā ‘ariyasaccānī’ti vuccanti.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Evaṁ kho, gahapatayo, catubbidhaṁ vācāya adhammacariyāvisamacariyā hoti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260711T193538Z" creationid="mjaviem" creationdate="20260711T193538Z">
+        <seg>Pues así, amos de casa, hay cuatro tipos de conducta verbal que no es de las bases, conducta desnivelada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Evaṁ kho, gahapatayo, tividhaṁ kāyena adhammacariyāvisamacariyā hoti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260711T132049Z" creationid="mjaviem" creationdate="20260706T135024Z">
@@ -1430,8 +1446,8 @@ y se queda aferrado a eso.</seg>
       <tuv lang="pi">
         <seg>Idha, gahapatayo, ekacco musāvādī hoti.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260706T141111Z" creationid="mjaviem" creationdate="20260706T140949Z">
-        <seg>Aquí, amos de casa, alguien es de postular falsedades.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260711T191421Z" creationid="mjaviem" creationdate="20260706T140949Z">
+        <seg>Aquí, amos de casa, alguien es de predicar falsedades.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2316,6 +2332,14 @@ y se queda aferrado a eso.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Kathañca, gahapatayo, tividhaṁ manasā adhammacariyāvisamacariyā hoti?</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260711T193626Z" creationid="mjaviem" creationdate="20260711T193626Z">
+        <seg>¿Y cómo hay, amos de casa, tres tipos de conducta interior que no es de las bases, conducta desnivelada?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Kathaṁ bhāvitā ca, bhikkhave, ānāpānassati kathaṁ bahulīkatā mahapphalā hoti mahānisaṁsā?</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260711T150051Z" creationid="mjaviem" creationdate="20260502T162619Z">
@@ -2438,8 +2462,8 @@ y se queda aferrado a eso.</seg>
       <tuv lang="pi">
         <seg>Kāmupādānaṁ, diṭṭhupādānaṁ, sīlabbatupādānaṁ, attavādupādānaṁ— imāni kho, bhikkhave, cattāri upādānāni.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260516T143933Z" creationid="mjaviem" creationdate="20251113T124839Z">
-        <seg>El asidero del sensualismo, el asidero de la manera de ver, el asidero del comportamiento y los votos, y el asidero de los dichos sobre uno mismo. Pues estos, bhikkhus, son los cuatro asideros.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260711T192222Z" creationid="mjaviem" creationdate="20251113T124839Z">
+        <seg>El asidero del sensualismo, el asidero de la manera de ver, el asidero del comportamiento y los votos, y el asidero de las prédicas sobre uno mismo. Pues estos, bhikkhus, son los cuatro asideros.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4414,8 +4438,8 @@ ayaṁ vuccati, bhikkhave, brahmacariyattho”ti.</seg>
       <tuv lang="pi">
         <seg>Yā kho, bhikkhave, musāvādā veramaṇī, pisuṇāya vācāya veramaṇī, pharusāya vācāya veramaṇī, samphappalāpā veramaṇī— ayaṁ vuccati, bhikkhave, sammāvācā.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260711T190151Z" creationid="mjaviem" creationdate="20260505T210136Z">
-        <seg>Pues, bhikkhus, lo que es la abstención de postulados falsos, la abstención de malicia verbal, la abstención de aspereza verbal, la abstención de la cháchara: Bhikkhus, esto se llama las palabras cabales.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260711T192444Z" creationid="mjaviem" creationdate="20260505T210136Z">
+        <seg>Pues, bhikkhus, lo que es la abstención de prédicas falsas, la abstención de malicia verbal, la abstención de aspereza verbal, la abstención de la cháchara: Bhikkhus, esto se llama las palabras cabales.</seg>
       </tuv>
     </tu>
     <tu>
