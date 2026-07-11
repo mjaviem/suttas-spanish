@@ -722,7 +722,6 @@ ummujjitvā	habiendo emergido
 upādāna	asidero
 upādānaṁ	asidero
 upādāniyā	se puede asir
-upādāya	asiendo, en base
 upadhi	apropiaciones
 upahaññati	afligida
 upajāyatī	aparecen
@@ -877,3 +876,4 @@ vipassanā	escudriño
 vipassati	escudriña
 pharusāya	aspereza
 bhāsitā	es de decir
+upādāya	asiendo, en base a
