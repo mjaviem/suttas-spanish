@@ -111,8 +111,6 @@ ariyo aṭṭhaṅgiko maggo	Camino Óctuple Noble
 ārogye	salud
 āropetvā	habiendo alzado
 āropito	alzado
-asaddhammā	malos fundamentos
-asaddhamme	malos fundamentos
 asammosāya	preservación
 asaṁvarañca	desenfreno
 asaṁvaro	desenfreno
@@ -223,13 +221,7 @@ dāyādehi	herederos
 dāyādo	heredero
 desenti	enseñan
 desessāmi	enseñaré
-dhammā	fundamentos
-dhammaṁ	fundamentos
-dhammānaṁ	fundamentos
-dhamme	fundamentos
-dhammehi	fundamentos
 dhammikā	genuinas
-dhammo	fundamentos
 dhanā	tesoros
 dhanāni	tesoro
 dhanāyanti	atesorar
@@ -582,8 +574,6 @@ sacchikatvā	atestiguar
 saddā	sonido
 saddahati	confíe
 saddhā	tener confianza
-saddhammā	los buenos fundamentos
-saddhamme	los buenos fundamentos
 saddhiṁ	junto
 saddho	confianza
 sādhukaṁ	completamente
@@ -878,3 +868,13 @@ pharusāya	aspereza
 bhāsitā	es de decir
 upādāya	de acuerdo a
 ṭhāna	posición
+asaddhammā	malas bases
+asaddhamme	malas bases
+dhammā	bases
+dhammaṁ	bases
+dhammānaṁ	bases
+dhamme	bases
+dhammehi	bases
+dhammo	bases
+saddhammā	las buenas bases
+saddhamme	las buenas bases
