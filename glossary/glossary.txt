@@ -878,3 +878,4 @@ dhammehi	bases
 dhammo	bases
 saddhammā	las buenas bases
 saddhamme	las buenas bases
+vācā	palabras
