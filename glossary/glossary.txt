@@ -133,7 +133,7 @@ attabyābādhāyapi	abrumarse
 attamanā	felices
 attamanatā	felicidad
 attamano	felicidad
-attavāda	dichos sobre uno mismo
+attavāda	prédicas sobre uno mismo
 attha	finalidad
 atthaṁ	finalidad
 atthaṅgamā	repliegue
@@ -381,7 +381,7 @@ micchā	equivocada
 mohā	ofuscamiento
 mohe	ofuscamiento
 moho	ofuscamiento
-musāvādā	postulados falsos
+musāvādā	prédicas falsas
 mute	sentido
 muṭṭhā	extraviado
 nādhiṭṭhāti	no supone
@@ -736,7 +736,7 @@ uppajjati	surge
 vacasā	recitadas
 vācāya	verbal
 vacī	verbal
-vādā	postulado
+vādā	prédicas
 vaḍḍhanti	crece
 vaḍḍhati	crece
 vāsaṁ	morada
@@ -879,3 +879,8 @@ dhammo	bases
 saddhammā	las buenas bases
 saddhamme	las buenas bases
 vācā	palabras
+vādo	decir
+vādī	predica
+Anidhānavatiṁ	sin valor
+anapadesaṁ	sin razón
+apariyantavatiṁ	sin límites
