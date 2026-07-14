@@ -145,8 +145,8 @@ Hetunāpi tayo vuttā,
       <tuv lang="pi">
         <seg>Anidhānavatiṁ vācaṁ bhāsitā hoti akālena anapadesaṁ apariyantavatiṁ anatthasaṁhitaṁ.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260711T193412Z" creationid="mjaviem" creationdate="20260711T192640Z">
-        <seg>Es de hablar palabras sin valor, fuera de momento, sin razón, sin límites, no pertinentes.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260714T182943Z" creationid="mjaviem" creationdate="20260711T192640Z">
+        <seg>Es de hablar palabras sin valor, a destiempo, sin razón, sin límites, no pertinentes.</seg>
       </tuv>
     </tu>
     <tu>
@@ -583,6 +583,14 @@ jigucchanti puthujjanā.</seg>
 y además susceptibles de perecimiento.
 Según estas bases, así son los sujetos,
 y los hombres comunes le huyen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Byāpannacitto kho pana hoti paduṭṭhamanasaṅkappo: ‘ime sattā haññantu vā vajjhantu vā ucchijjantu vā vinassantu vā mā vā ahesun’ti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260714T194059Z" creationid="mjaviem" creationdate="20260714T194059Z">
+        <seg>Mas pues es de ánimo dañino y de intenciones en su interior contaminadas: «Que estos sujetos sean destrozados, o sean masacrados, o sean despedazados, o sean aniquilados, o que dejen de existir».</seg>
       </tuv>
     </tu>
     <tu>
@@ -1063,8 +1071,8 @@ tasmā ‘ariyasaccānī’ti vuccanti.</seg>
       <tuv lang="pi">
         <seg>Evaṁ kho, gahapatayo, tividhaṁ kāyena adhammacariyāvisamacariyā hoti.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260711T132049Z" creationid="mjaviem" creationdate="20260706T135024Z">
-        <seg>Pues así, amos de casa, hay tres tipos de conducta con el cuerpo que no es acorde a las bases, conducta desnivelada</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260714T183550Z" creationid="mjaviem" creationdate="20260706T135024Z">
+        <seg>Pues así, amos de casa, hay tres tipos de conducta con el cuerpo que no es de las bases, conducta desnivelada</seg>
       </tuv>
     </tu>
     <tu>
@@ -1440,6 +1448,14 @@ y se queda aferrado a eso.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260711T132049Z" creationid="mjaviem" creationdate="20251020T234355Z">
         <seg>Aquí, bhikkhus, cierto individuo emerge: "Está bien tener confianza respecto a las bases que hacen bien, está bien avergonzarse..., está bien preocuparse..., está bien esforzarse..., está bien saber respecto a las bases que hacen bien."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Idha, gahapatayo, ekacco abhijjhālu hoti, yaṁ taṁ parassa paravittūpakaraṇaṁ taṁ abhijjhātā hoti: ‘aho vata yaṁ parassa taṁ mamassā’ti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260714T184026Z" creationid="mjaviem" creationdate="20260714T183853Z">
+        <seg>Aquí, amos de casa, alguien es codicioso; aquello que son las posesiones y sustento de otros, él es un codiciador de eso: «¡Ojalá que lo que es de otro fuera para mí!».</seg>
       </tuv>
     </tu>
     <tu>
@@ -2318,16 +2334,16 @@ y se queda aferrado a eso.</seg>
       <tuv lang="pi">
         <seg>Kathañca, gahapatayo, catubbidhaṁ vācāya adhammacariyāvisamacariyā hoti?</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260711T132049Z" creationid="mjaviem" creationdate="20260706T135153Z">
-        <seg>¿Y cómo hay, amos de casa, cuatro tipos de conducta verbal que no es acorde a las bases, conducta desnivelada?</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260714T183612Z" creationid="mjaviem" creationdate="20260706T135153Z">
+        <seg>¿Y cómo hay, amos de casa, cuatro tipos de conducta verbal que no es de las bases, conducta desnivelada?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pi">
         <seg>Kathañca, gahapatayo, tividhaṁ kāyena adhammacariyāvisamacariyā hoti?</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260711T132049Z" creationid="mjaviem" creationdate="20260626T184430Z">
-        <seg>¿Y cómo hay, amos de casa, tres tipos de conducta con el cuerpo que no es acorde a las bases, conducta desnivelada?</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260714T183539Z" creationid="mjaviem" creationdate="20260626T184430Z">
+        <seg>¿Y cómo hay, amos de casa, tres tipos de conducta con el cuerpo que no es de las bases, conducta desnivelada?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3024,8 +3040,8 @@ el de saber, el séptimo tesoro.</seg>
       <tuv lang="pi">
         <seg>Samphappalāpī kho pana hoti.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260711T194244Z" creationid="mjaviem" creationdate="20260711T171254Z">
-        <seg>Mas pues es de la cháchara.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260714T182806Z" creationid="mjaviem" creationdate="20260711T171254Z">
+        <seg>Mas pues es de cháchara.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4502,8 +4518,8 @@ ayaṁ vuccati, bhikkhave, brahmacariyattho”ti.</seg>
       <tuv lang="pi">
         <seg>Yā tā māturakkhitā piturakkhitā mātāpiturakkhitā bhāturakkhitā bhaginirakkhitā ñātirakkhitā gottarakkhitā dhammarakkhitā sassāmikā saparidaṇḍā antamaso mālāguḷaparikkhittāpi, tathārūpāsu cārittaṁ āpajjitā hoti.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260711T132543Z" creationid="mjaviem" creationdate="20260706T130421Z">
-        <seg>Con aquellas que son protegidas por una madre, protegidas por un padre, protegidas por una madre y un padre, protegidas por un hermano, protegidas por una hermana, protegidas por parientes, protegidas por un clan, protegidas por bases, que tienen amo y señor, que están sujetas a castigo, o incluso que tienen guirnalda de flores echada alrededor; es partícipe de tales andanzas.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260714T182627Z" creationid="mjaviem" creationdate="20260706T130421Z">
+        <seg>Con aquellas que son protegidas por una madre, protegidas por un padre, protegidas por una madre y un padre, protegidas por un hermano, protegidas por una hermana, protegidas por parientes, protegidas por un clan, protegidas por bases, con amo y señor, sujetas a castigo, o incluso con guirnalda de flores echada alrededor; es partícipe de tales andanzas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5446,8 +5462,8 @@ kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ.</seg>
       <tuv lang="pi">
         <seg>“Tividhaṁ kho, gahapatayo, kāyena adhammacariyāvisamacariyā hoti, catubbidhaṁ vācāya adhammacariyāvisamacariyā hoti, tividhaṁ manasā adhammacariyāvisamacariyā hoti.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260711T132049Z" creationid="mjaviem" creationdate="20260626T183439Z">
-        <seg>"Amos de casa, pues hay tres tipos de conducta con el cuerpo que no es acorde a las bases, conducta desnivelada; hay cuatro tipos de conducta verbal que no es acorde a las bases, conducta desnivelada; hay tres tipos de conducta interior que no es acorde a las bases, conducta desnivelada.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260714T183527Z" creationid="mjaviem" creationdate="20260626T183439Z">
+        <seg>"Amos de casa, pues hay tres tipos de conducta con el cuerpo que no es de las bases, conducta desnivelada; hay cuatro tipos de conducta verbal que no es de las bases, conducta desnivelada; hay tres tipos de conducta interior que no es de las bases, conducta desnivelada.</seg>
       </tuv>
     </tu>
     <tu>
