@@ -33,7 +33,6 @@ In the Pali Canon, abbreviations such as `...pe...` are commonly used to omit pa
 
 Some words are left untranslated in Pali. If you are not familiar with them, here are their meanings:
 
-- **Arahant**: Worthy. Deserving.
 - **Bhante**, **bhadante**: Reverend.
 - **Bhikkhu**: Monk.
 - **Saṅgha**: Congregation.

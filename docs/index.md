@@ -24,7 +24,6 @@ En el Canon Pali es habitual encontrar abreviaturas, por ejemplo `...pe...` que 
 
 En las traducciones, algunas palabras se dejan en pali. Si no las conocés, podés consultar su significado acá:
 
-- **Arahant**: Digno. Merecedor.
 - **Bhante**, **bhadante**: Reverendo.
 - **Bhikkhu**: Monje.
 - **Saṅgha**: Congregación.
