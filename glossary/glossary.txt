@@ -291,7 +291,7 @@ jānāti	entiende
 janeti	engendra
 jarā	decaimiento
 jaraṁ	decrepitud
-jarāmaraṇaṁ	decaimiento-perecimiento
+jarāmaraṇaṁ	decaimiento-muerte
 jāti	procedencia
 jigucchanti	le huyen
 jiṇṇo	desgastado
@@ -368,9 +368,9 @@ manasi karoto	prestar atención
 manasikāro	el prestar atención
 mano	la mente/lo interior
 maññatha	creen
-maraṇā	perecimiento
-maraṇaṁ	perecimiento
-maraṇampi	perecimiento
+maraṇā	muerte
+maraṇaṁ	muerte
+maraṇampi	muerte
 mattā	ese grado
 medhāvī	inteligentes
 mettā	benevolencia amistosa
@@ -713,11 +713,11 @@ upadhi	apropiaciones
 upahaññati	afligida
 upajāyatī	aparecen
 upamā	parábola
-upapajjanti	reviven
-upapajjati	revive
-upapajjatī"ti	revive
-upapajjeyya	revivir
-upapajjissāmī	reviviré
+upapajjanti	van hacia
+upapajjati	va hacia
+upapajjatī"ti	va hacia
+upapajjeyya	ir hacia
+upapajjissāmī	iré hacia
 upapatti	advenimiento
 upāsakaṁ	seguidor laico
 upāsake	seguidores laicos
@@ -888,3 +888,9 @@ arahā	digno
 arahattāya	ser digno
 arahatta	ser digno
 ñāti	pariente
+haññantu	destrozados
+vajjhantu	masacrados
+ucchijjantu	despedazados
+vinassantu	perezcan
+dassano	visión
+viparīta	invertida
