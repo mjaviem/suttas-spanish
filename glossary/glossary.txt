@@ -183,7 +183,6 @@ bhūmi	terreno
 brahmacārayo	conducta santa
 brahmacariyaṁ	conducta santa
 brāhmaṇā	brahmanes
-buddhe	despierto, despertado
 byā pāda	malquerencia
 byādhi	enfermedad
 byādhiṁ	afecciones
@@ -884,3 +883,7 @@ anapadesaṁ	sin razón
 apariyantavatiṁ	sin límites
 atthi	hay
 atthitā	el hay
+buddhe	despierto
+arahā	digno
+arahattāya	ser digno
+arahatta	ser digno
