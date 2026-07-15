@@ -899,3 +899,7 @@ paccavekkhitabba	para repaso
 paccavekkhitabbaṁ	debe ser repasado
 paccavekkhitabbāni	deben ser repasadas
 paṭisañcikkhati	sopesa
+sahitānaṁ	unidos
+sandhātā	unidor
+vagga	separación
+samagga	unión
