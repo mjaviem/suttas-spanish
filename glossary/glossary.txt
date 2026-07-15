@@ -439,10 +439,6 @@ pabbajita	quien partió
 pabbajjā	el partir
 pabhanguñca	frágil
 paccassosuṁ	contestaron
-paccavekkhato	reflexiona
-paccavekkhitabba	para reflexión
-paccavekkhitabbaṁ	debe ser reflexionado
-paccavekkhitabbāni	deben ser reflexionadas
 paccayo	requisito
 pacīyati	acopiada
 padahati	hacer frente
@@ -525,7 +521,6 @@ paṭipannā	están dedicados
 paṭipanno	están dedicados
 paṭippassaddho	aplacado
 paṭisaṁvedeti	experimenta
-paṭisañcikkhati	reconsidera
 paṭisaraṇo	refugio
 paṭisevati	recurre
 paṭissato	consciente de sí
@@ -899,3 +894,8 @@ yiṭṭhaṁ	sacrificio
 hutaṁ	ofrenda
 opapātikā	no gestados
 nijjhānaṁ	profundización
+paccavekkhato	repasa
+paccavekkhitabba	para repaso
+paccavekkhitabbaṁ	debe ser repasado
+paccavekkhitabbāni	deben ser repasadas
+paṭisañcikkhati	sopesa
