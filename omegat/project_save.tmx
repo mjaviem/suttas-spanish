@@ -660,8 +660,8 @@ de conducta santa de moderación.
       <tuv lang="pi">
         <seg>Dhammacariyāsamacariyāhetu kho, gahapatayo, evam’idhekacce sattā kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjantī”ti.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260714T200502Z" creationid="mjaviem" creationdate="20260529T125831Z">
-        <seg>Pues, amos de casa, es por razón de una conducta acorde a las bases, de una conducta balanceada, que algunos aquí así, tras la división de lo corporal, después de la muerte, van hacia la buena fortuna, hacia un mundo paradisíaco".</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260714T223118Z" creationid="mjaviem" creationdate="20260529T125831Z">
+        <seg>Pues, amos de casa, es por razón de una conducta que es de las bases, de una conducta balanceada, que algunos aquí así, tras la división de lo corporal, después de la muerte, van hacia la buena fortuna, hacia un mundo paradisíaco".</seg>
       </tuv>
     </tu>
     <tu>
@@ -949,6 +949,14 @@ tasmā ‘ariyasaccānī’ti vuccanti.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Evaṁ adhammacariyāvisamacariyāhetu kho, gahapatayo, evam’idhekacce sattā kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjanti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260714T223009Z" creationid="mjaviem" creationdate="20260714T223009Z">
+        <seg>Pues así, amos de casa, es por razón de una conducta que no es de las bases, de una conducta desbalanceada, que algunos sujetos aquí así, tras la división de lo corporal, después de la muerte, van hacia la penuria, la desventura, el hundimiento, la desgracia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Evaṁ bhāvitā kho, bhikkhave, ānāpānassati evaṁ bahulīkatā mahapphalā hoti mahānisaṁsā”ti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260711T150100Z" creationid="mjaviem" creationdate="20260504T205500Z">
@@ -1063,16 +1071,24 @@ tasmā ‘ariyasaccānī’ti vuccanti.</seg>
       <tuv lang="pi">
         <seg>Evaṁ kho, gahapatayo, catubbidhaṁ vācāya adhammacariyāvisamacariyā hoti.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260711T193538Z" creationid="mjaviem" creationdate="20260711T193538Z">
-        <seg>Pues así, amos de casa, hay cuatro tipos de conducta verbal que no es de las bases, conducta desnivelada.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260714T224558Z" creationid="mjaviem" creationdate="20260711T193538Z">
+        <seg>Pues así, amos de casa, hay cuatro tipos de conducta verbal que no es de las bases, conducta desbalanceada.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pi">
         <seg>Evaṁ kho, gahapatayo, tividhaṁ kāyena adhammacariyāvisamacariyā hoti.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260714T183550Z" creationid="mjaviem" creationdate="20260706T135024Z">
-        <seg>Pues así, amos de casa, hay tres tipos de conducta con el cuerpo que no es de las bases, conducta desnivelada</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260714T224443Z" creationid="mjaviem" creationdate="20260706T135024Z">
+        <seg>Pues así, amos de casa, hay tres tipos de conducta con el cuerpo que no es de las bases, conducta desbalanceada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Evaṁ kho, gahapatayo, tividhaṁ manasā adhammacariyāvisamacariyā hoti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260714T224732Z" creationid="mjaviem" creationdate="20260714T222651Z">
+        <seg>Pues así, amos de casa, hay tres tipos de conducta interior que no es de las bases, conducta desbalanceada.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2334,24 +2350,32 @@ y se queda aferrado a eso.</seg>
       <tuv lang="pi">
         <seg>Kathañca, gahapatayo, catubbidhaṁ vācāya adhammacariyāvisamacariyā hoti?</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260714T183612Z" creationid="mjaviem" creationdate="20260706T135153Z">
-        <seg>¿Y cómo hay, amos de casa, cuatro tipos de conducta verbal que no es de las bases, conducta desnivelada?</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260714T224507Z" creationid="mjaviem" creationdate="20260706T135153Z">
+        <seg>¿Y cómo hay, amos de casa, cuatro tipos de conducta verbal que no es de las bases, conducta desbalanceada?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pi">
         <seg>Kathañca, gahapatayo, tividhaṁ kāyena adhammacariyāvisamacariyā hoti?</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260714T183539Z" creationid="mjaviem" creationdate="20260626T184430Z">
-        <seg>¿Y cómo hay, amos de casa, tres tipos de conducta con el cuerpo que no es de las bases, conducta desnivelada?</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260714T224432Z" creationid="mjaviem" creationdate="20260626T184430Z">
+        <seg>¿Y cómo hay, amos de casa, tres tipos de conducta con el cuerpo que no es de las bases, conducta desbalanceada?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Kathañca, gahapatayo, tividhaṁ kāyena dhammacariyāsamacariyā hoti?</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260714T224817Z" creationid="mjaviem" creationdate="20260714T224817Z">
+        <seg>¿Y cómo hay, amos de casa, tres tipos de conducta con el cuerpo que es de las bases, conducta balanceada?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pi">
         <seg>Kathañca, gahapatayo, tividhaṁ manasā adhammacariyāvisamacariyā hoti?</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260711T193626Z" creationid="mjaviem" creationdate="20260711T193626Z">
-        <seg>¿Y cómo hay, amos de casa, tres tipos de conducta interior que no es de las bases, conducta desnivelada?</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260714T224721Z" creationid="mjaviem" creationdate="20260711T193626Z">
+        <seg>¿Y cómo hay, amos de casa, tres tipos de conducta interior que no es de las bases, conducta desbalanceada?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3876,6 +3900,14 @@ extingue sin las secreciones.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Tividhaṁ kho, gahapatayo, kāyena dhammacariyāsamacariyā hoti, catubbidhaṁ vācāya dhammacariyāsamacariyā hoti, tividhaṁ manasā dhammacariyāsamacariyā hoti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260714T224312Z" creationid="mjaviem" creationdate="20260714T224312Z">
+        <seg>"Amos de casa, pues hay tres tipos de conducta con el cuerpo que es de las bases, conducta balanceada; hay cuatro tipos de conducta verbal que es de las bases, conducta balanceada; hay tres tipos de conducta interior que es de las bases, conducta desbalanceada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Upayupādānābhinivesavinibandho khvāyaṁ, kaccāna, loko yebhuyyena.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260519T132004Z" creationid="mjaviem" creationdate="20260206T144413Z">
@@ -4876,8 +4908,8 @@ upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ 
       <tuv lang="pi">
         <seg>“Adhammacariyāvisamacariyāhetu kho, gahapatayo, evam’idhekacce sattā kāyassa bhedā paraṁ maraṇā apāyaṁ duggatiṁ vinipātaṁ nirayaṁ upapajjanti.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260714T200454Z" creationid="mjaviem" creationdate="20260529T124105Z">
-        <seg>"Pues, amos de casa, es por razón de una conducta no acorde a las bases, de una conducta desbalanceada, que algunos aquí así, tras la división de lo corporal, después de la muerte, van hacia la penuria, la desventura, el hundimiento, la desgracia.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260714T223046Z" creationid="mjaviem" creationdate="20260529T124105Z">
+        <seg>"Pues, amos de casa, es por razón de una conducta que no es de las bases, de una conducta desbalanceada, que algunos aquí así, tras la división de lo corporal, después de la muerte, van hacia la penuria, la desventura, el hundimiento, la desgracia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5470,8 +5502,8 @@ kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ.</seg>
       <tuv lang="pi">
         <seg>“Tividhaṁ kho, gahapatayo, kāyena adhammacariyāvisamacariyā hoti, catubbidhaṁ vācāya adhammacariyāvisamacariyā hoti, tividhaṁ manasā adhammacariyāvisamacariyā hoti.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260714T183527Z" creationid="mjaviem" creationdate="20260626T183439Z">
-        <seg>"Amos de casa, pues hay tres tipos de conducta con el cuerpo que no es de las bases, conducta desnivelada; hay cuatro tipos de conducta verbal que no es de las bases, conducta desnivelada; hay tres tipos de conducta interior que no es de las bases, conducta desnivelada.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260714T224339Z" creationid="mjaviem" creationdate="20260626T183439Z">
+        <seg>"Amos de casa, pues hay tres tipos de conducta con el cuerpo que no es de las bases, conducta desbalanceada; hay cuatro tipos de conducta verbal que no es de las bases, conducta desbalanceada; hay tres tipos de conducta interior que no es de las bases, conducta desbalanceada.</seg>
       </tuv>
     </tu>
     <tu>
