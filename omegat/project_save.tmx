@@ -50,6 +50,14 @@ se halla satisfacción y agrado al haber ido a estar entre los bhikkhus.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Adinnādānaṁ pahāya adinnādānā paṭivirato hoti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260715T173734Z" creationid="mjaviem" creationdate="20260715T173734Z">
+        <seg>Habiendo abandonado el tomar lo que no es dado, se abstiene de tomar lo que no es dado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Adinnādāyī kho pana hoti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260626T193058Z" creationid="mjaviem" creationdate="20260626T193058Z">
@@ -2500,6 +2508,14 @@ y se queda aferrado a eso.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Kāmesumicchācāraṁ pahāya kāmesumicchācārā paṭivirato hoti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260715T174310Z" creationid="mjaviem" creationdate="20260715T174310Z">
+        <seg>Habiendo abandonado la conducta equivocada en el sensualismo, se abstiene de la conducta equivocada en el sensualismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Kāmesumicchācārī kho pana hoti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260706T125148Z" creationid="mjaviem" creationdate="20260706T125148Z">
@@ -4365,8 +4381,16 @@ se llama cerca de la disipación"</seg>
       <tuv lang="pi">
         <seg>Yaṁ taṁ parassa paravittūpakaraṇaṁ, gāmagataṁ vā araññagataṁ vā, taṁ adinnaṁ theyyasaṅkhātaṁ ādātā hoti.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260708T213449Z" creationid="mjaviem" creationdate="20260706T121506Z">
-        <seg>Aquello que son las posesiones y sustento de otros, ya sea en la aldea o en el bosque, considerado un ladrón, él es un tomador de lo no dado.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260715T174153Z" creationid="mjaviem" creationdate="20260706T121506Z">
+        <seg>Aquello que son las posesiones y sustento de otros, ya sea en la aldea o en el bosque, él es un tomador de lo no dado considerado robo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Yaṁ taṁ parassa paravittūpakaraṇaṁ, gāmagataṁ vā araññagataṁ vā, taṁ nādinnaṁ theyyasaṅkhātaṁ ādātā hoti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260715T174136Z" creationid="mjaviem" creationdate="20260715T173856Z">
+        <seg>Aquello que son las posesiones y sustento de otros, ya sea en la aldea o en el bosque, él no es un tomador de lo no dado considerado robo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4568,6 +4592,14 @@ ayaṁ vuccati, bhikkhave, brahmacariyattho”ti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260714T182627Z" creationid="mjaviem" creationdate="20260706T130421Z">
         <seg>Con aquellas que son protegidas por una madre, protegidas por un padre, protegidas por una madre y un padre, protegidas por un hermano, protegidas por una hermana, protegidas por parientes, protegidas por un clan, protegidas por bases, con amo y señor, sujetas a castigo, o incluso con guirnalda de flores echada alrededor; es partícipe de tales andanzas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Yā tā māturakkhitā piturakkhitā mātāpiturakkhitā bhāturakkhitā bhaginirakkhitā ñātirakkhitā gottarakkhitā dhammarakkhitā sassāmikā saparidaṇḍā antamaso mālāguḷaparikkhittāpi, tathārūpāsu na cārittaṁ āpajjitā hoti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260715T174401Z" creationid="mjaviem" creationdate="20260715T174401Z">
+        <seg>Con aquellas que son protegidas por una madre, protegidas por un padre, protegidas por una madre y un padre, protegidas por un hermano, protegidas por una hermana, protegidas por parientes, protegidas por un clan, protegidas por bases, con amo y señor, sujetas a castigo, o incluso con guirnalda de flores echada alrededor; no es partícipe de tales andanzas.</seg>
       </tuv>
     </tu>
     <tu>
