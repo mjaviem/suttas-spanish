@@ -329,7 +329,6 @@ khalu	en efecto
 khamo	tolerante
 khandhānaṁ	montones
 khayo	destrucción
-khema	paz
 khīṇā	acabado
 khīyati	deshecha
 kho	pues
@@ -711,7 +710,6 @@ upapajjissāmī	iré hacia
 upapatti	advenimiento
 upāsakaṁ	seguidor laico
 upāsake	seguidores laicos
-upasamāya	tranquilidad
 upasampajja	alcanzando
 upāsikā	seguidora laica
 upaya	arrimarse
@@ -908,3 +906,9 @@ paduṭṭha	podridas
 pāpakā	malas
 pāpakānaṁ	malas
 pāpako	malas
+khema	seguridad
+upasamāya	paz
+vera	hostilidad
+anīghā	tranquilos
+sukhī	satisfechos
+pariharati	se mantiene
