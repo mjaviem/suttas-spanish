@@ -380,7 +380,6 @@ muṭṭhā	extraviado
 nādhiṭṭhāti	no supone
 nāma	llamado
 nāmāhaṁ	definitivamente
-nāmarūpaṁ	nombres figura
 nānābhāvo	división
 nānākaraṇaṁ	variación
 nandi	beneplácito
@@ -546,9 +545,6 @@ rajanīyā	tentadoras
 rasā	sabor
 rattā	pasión
 ratto	apasionado
-rūpā	figura
-rūpaṁ	figura
-rūpānaṁ	figura
 ruppati	desfigurada
 sabbaṁ	totalmente
 sabbaso	totalmente
@@ -615,8 +611,6 @@ santo	virtuosos
 santuṭṭhitā	conformidad
 sañjāti	génesis
 sañjāyati	nace
-saññā	distinción
-saññaṁ	distinción
 sappurisā	hombres de bien
 sāraṇīyaṁ	memorable
 sāratta	cautivado
@@ -912,3 +906,10 @@ sukhī	satisfechos
 pariharati	se mantiene
 bhedā	división
 bhedo	división
+nāmarūpaṁ	nombres imagen
+rūpā	imagen
+rūpaṁ	imagen
+rūpānaṁ	imagen
+saññā	significación
+saññaṁ	significación
+saraṇaṁ	acudiendo
