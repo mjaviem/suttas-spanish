@@ -248,7 +248,6 @@ duppaññe	de saber equivocado
 dūre	lejana
 dussīle	inmorales
 dutiyo	segundo
-duṭṭho	hostil
 ehipassikaṁ	constatable
 ehipassiko	constatable
 ekodibhāvaṁ	unificación
@@ -442,7 +441,6 @@ paccassosuṁ	contestaron
 paccayo	requisito
 pacīyati	acopiada
 padahati	hacer frente
-paduṭṭha	contaminadas
 paggaṇhāti	aplica
 pahānāya	abandonar
 pahātabbaṁ	abandonar
@@ -468,9 +466,6 @@ paññavā	sabiduría
 paññāvimuttiṁ	liberación con la sabiduría
 paññāya	sabiduría
 paññāyati	se sabe de
-pāpakā	malvadas
-pāpakānaṁ	malvadas
-pāpako	malvada
 parabyābādhāyapi	abrumar a otro
 paraṁ	después
 parama	sumo
@@ -908,3 +903,8 @@ pemanīyā	adorable
 porī	educadas
 tathārūpiṁ	tal tipo
 sātthaṁ	con sentido
+duṭṭho	podrido
+paduṭṭha	podridas
+pāpakā	malas
+pāpakānaṁ	malas
+pāpako	malas
