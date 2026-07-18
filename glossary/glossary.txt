@@ -269,7 +269,6 @@ hāyatiyeva	disminuye
 hetaṁ	ciertamente
 hi	por cierto
 hidaṁ	de hecho
-hīnaṁ	insignificante
 hirī	avergonzarse
 hirīmā	vergüenza
 hitāya	bienestar
@@ -752,8 +751,6 @@ vinaye	disciplina
 vineyya	domado
 vinibandha	atado
 vinipātaṁ	hundimiento
-viññāṇaṁ	reconocimientos
-viññāte	reconocido
 viññū	entendidos
 vipāka	consecuencia
 vipāko	consecuencia
@@ -913,3 +910,6 @@ rūpānaṁ	imagen
 saññā	significación
 saññaṁ	significación
 saraṇaṁ	acudiendo
+hīnaṁ	ínfimas
+viññāṇaṁ	distinciones
+viññāte	distinguido
