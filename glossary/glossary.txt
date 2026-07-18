@@ -380,7 +380,7 @@ nādhiṭṭhāti	no supone
 nāma	llamado
 nāmāhaṁ	definitivamente
 nānābhāvo	división
-nānākaraṇaṁ	variación
+nānākaraṇaṁ	diferenciación
 nandi	beneplácito
 nandī	beneplácito
 nekkhamma	ascetismo
@@ -740,7 +740,7 @@ viditvā	percibir
 viharati	reside
 vihesā	maltrato
 vihiṁsā	maltrato
-vijānato	reconoce
+vijānato	diferencia
 vijjā	conocimiento
 vikiranti	esparcen
 viloketi	observa
@@ -914,3 +914,5 @@ hīnaṁ	ínfimas
 viññāṇaṁ	distinciones
 viññāte	distinguido
 vijānāti	diferencia
+saṁsaṭṭhā	mezcladas
+visaṁsaṭṭhā	disociadas
