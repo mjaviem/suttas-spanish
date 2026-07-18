@@ -380,7 +380,6 @@ nādhiṭṭhāti	no supone
 nāma	llamado
 nāmāhaṁ	definitivamente
 nānābhāvo	división
-nānākaraṇaṁ	diferenciación
 nandi	beneplácito
 nandī	beneplácito
 nekkhamma	ascetismo
@@ -720,11 +719,6 @@ vatthu	sustrato
 vāyamati	se empeña
 vāyāmo	empeño
 vayo	declive
-vedanā	sensación
-vedanaṁ	sensación
-vedanāṁ	sensación
-vedanānaṁ	sensación
-vedanānaṁ	sensación
 vedeti	siente
 veditabbo	conocer
 vepullāya	plenitud
@@ -907,8 +901,6 @@ nāmarūpaṁ	nombres imagen
 rūpā	imagen
 rūpaṁ	imagen
 rūpānaṁ	imagen
-saññā	significación
-saññaṁ	significación
 saraṇaṁ	acudiendo
 hīnaṁ	ínfimas
 viññāṇaṁ	distinciones
@@ -918,3 +910,11 @@ saṁsaṭṭhā	mezcladas
 visaṁsaṭṭhā	disociadas
 paññāpetuṁ	describir
 taṁ	eso mismo
+nānākaraṇaṁ	discriminación
+vedanā	sensaciones
+vedanaṁ	sensaciones
+vedanāṁ	sensaciones
+vedanānaṁ	sensaciones
+vedanānaṁ	sensaciones
+saññā	significaciones
+saññaṁ	significaciones
