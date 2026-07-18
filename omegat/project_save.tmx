@@ -2548,6 +2548,14 @@ y se queda aferrado a eso.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Kiñca vijānāti?</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260718T170350Z" creationid="mjaviem" creationdate="20260718T170350Z">
+        <seg>¿Y qué diferencia?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Kiñca yathābhūtaṁ pajānāti?</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260707T124020Z" creationid="javier" creationdate="20231216T195946Z">
@@ -2688,6 +2696,14 @@ y se queda aferrado a eso.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250829T134716Z" creationid="mjaviem" creationdate="20250828T202832Z">
         <seg>La satisfacción corporal y la satisfacción anímica.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Labbhā ca panimesaṁ dhammānaṁ vinibbhujitvā vinibbhujitvā nānākaraṇaṁ paññāpetun”ti?</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260718T173025Z" creationid="mjaviem" creationdate="20260718T171126Z">
+        <seg> ¿Y se puede, habiendo desovillado estas bases, describir su diferenciación?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3543,6 +3559,14 @@ imāni vuccanti, bhikkhave, brahmacariyaphalānī”ti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250917T161810Z" creationid="mjaviem" creationdate="20250917T161810Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Sukhantipi vijānāti, dukkhantipi vijānāti, adukkhamasukhantipi vijānāti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260718T170429Z" creationid="mjaviem" creationdate="20260718T170429Z">
+        <seg>Diferencia la satisfacción, diferencia la dificultad, diferencia la ni satisfacción ni dificultad.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4456,8 +4480,8 @@ Evaṁ so caratī sato;
 Evaṁ apacinato dukkhaṁ,
 Santike nibbāna vuccatī’ti.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260718T134555Z" creationid="mjaviem" creationdate="20260205T224228Z">
-        <seg>Igual que cuando reconoce una base,
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260718T170256Z" creationid="mjaviem" creationdate="20260205T224228Z">
+        <seg>Igual que cuando diferencia una base,
 e incluso a la sensación que se asocia;
 deshecha, no acopia,
 así se conduce teniendo presente;
@@ -5177,6 +5201,14 @@ y se queda aferrado a eso.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>‘Vijānāti vijānātī’ti kho, āvuso, tasmā viññāṇanti vuccatī”ti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260718T170454Z" creationid="mjaviem" creationdate="20260718T170454Z">
+        <seg>Pues «diferencia, diferencia», amigo, por ello se le llama distinciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>‘avijjāpaccayā saṅkhārā; saṅkhārapaccayā viññāṇaṁ …pe… evametassa kevalassa dukkhakkhandhassa samudayo hoti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260718T132622Z" creationid="mjaviem" creationdate="20260206T195657Z">
@@ -5886,8 +5918,8 @@ kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ.</seg>
       <tuv lang="pi">
         <seg>“Ye te manoviññeyyā dhammā aviññātā aviññātapubbā, na ca vijānāsi, na ca te hoti vijāneyyanti?</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260718T133704Z" creationid="mjaviem" creationdate="20251230T201312Z">
-        <seg>"Respecto a cualquier base distinguible por lo interior que no has distinguido, que no distinguiste antes, que no distingues y que no podrías distinguir?</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260718T170146Z" creationid="mjaviem" creationdate="20251230T201312Z">
+        <seg>"Respecto a cualquier base distinguible por lo interior que no has diferenciado, que no diferenciaste antes, que no diferencias y que no podrías diferenciar?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5904,6 +5936,14 @@ kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260706T163613Z" creationid="mjaviem" creationdate="20260502T143516Z">
         <seg>“Bhikkhus, quienquiera que aprueba las imágenes, aprueba la dificultad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Yā cāvuso, paññā yañca viññāṇaṁ— ime dhammā saṁsaṭṭhā udāhu visaṁsaṭṭhā?</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260718T171026Z" creationid="mjaviem" creationdate="20260718T171026Z">
+        <seg>—Amigo, el saber y las distinciones: ¿estas bases están mezcladas o disociadas?</seg>
       </tuv>
     </tu>
     <tu>
