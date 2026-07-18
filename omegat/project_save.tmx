@@ -2702,8 +2702,8 @@ y se queda aferrado a eso.</seg>
       <tuv lang="pi">
         <seg>Labbhā ca panimesaṁ dhammānaṁ vinibbhujitvā vinibbhujitvā nānākaraṇaṁ paññāpetun”ti?</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260718T173025Z" creationid="mjaviem" creationdate="20260718T171126Z">
-        <seg> ¿Y se puede, habiendo desovillado estas bases, describir su diferenciación?</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260718T175657Z" creationid="mjaviem" creationdate="20260718T171126Z">
+        <seg> ¿Y se puede, habiendo desovillado y desovillado estas bases, describir su diferenciación?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2763,6 +2763,22 @@ Sedakaṁ janapadena cāti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20251106T133807Z" creationid="mjaviem" creationdate="20251106T133807Z">
         <seg>A la madre y al padre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Na ca labbhā imesaṁ dhammānaṁ vinibbhujitvā vinibbhujitvā nānākaraṇaṁ paññāpetun”ti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260718T180044Z" creationid="mjaviem" creationdate="20260718T180044Z">
+        <seg>Y no se puede, habiendo desovillado y desovillado estas bases, describir su diferenciación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Na ca labbhā imesaṁ dhammānaṁ vinibbhujitvā vinibbhujitvā nānākaraṇaṁ paññāpetuṁ.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260718T175648Z" creationid="mjaviem" creationdate="20260718T175648Z">
+        <seg>Y no se puede, habiendo desovillado y desovillado estas bases, describir su diferenciación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3667,6 +3683,14 @@ imāni vuccanti, bhikkhave, brahmacariyaphalānī”ti.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Tasmā ime dhammā saṁsaṭṭhā, no visaṁsaṭṭhā.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260718T175947Z" creationid="mjaviem" creationdate="20260718T175947Z">
+        <seg>Por ello, estas bases están mezcladas, no disociadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Tasmā saddhañca sīlañca,
 pasādaṁ dhammadassanaṁ;
 Anuyuñjetha medhāvī,
@@ -4543,6 +4567,14 @@ se llama cerca de la disipación"</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260501T210142Z" creationid="mjaviem" creationdate="20260501T210142Z">
         <seg>Donde sea que derrames aunque sea un poco de aceite, allí mismo te hará caer la cabeza'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Yaṁ hāvuso, pajānāti taṁ vijānāti, yaṁ vijānāti taṁ pajānāti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260718T175918Z" creationid="mjaviem" creationdate="20260718T175918Z">
+        <seg>Lo que uno discierne, amigo, eso mismo diferencia; lo que uno diferencia, eso mismo discierne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5944,6 +5976,14 @@ kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260718T171026Z" creationid="mjaviem" creationdate="20260718T171026Z">
         <seg>—Amigo, el saber y las distinciones: ¿estas bases están mezcladas o disociadas?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Yā cāvuso, paññā yañca viññāṇaṁ— ime dhammā saṁsaṭṭhā, no visaṁsaṭṭhā.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260718T173153Z" creationid="mjaviem" creationdate="20260718T173153Z">
+        <seg>—Amigo, el saber y las distinciones: estas bases están mezcladas, no disociadas.</seg>
       </tuv>
     </tu>
     <tu>
