@@ -1267,6 +1267,14 @@ y se queda aferrado a eso.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Idaṁ nesaṁ nānākaraṇan”ti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260718T180742Z" creationid="mjaviem" creationdate="20260718T180742Z">
+        <seg>Esta es la discriminación para ellas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Idaṁ vuccati, bhikkhave, brahmacariyaṁ.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260403T131422Z" creationid="javier-medeot" creationdate="20250111T190516Z">
@@ -2540,10 +2548,42 @@ y se queda aferrado a eso.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Kittāvatā nu kho, āvuso, saññāti vuccatī”ti?</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260718T181619Z" creationid="mjaviem" creationdate="20260718T181619Z">
+        <seg> ¿En qué medida, amigo, se le llama significaciones?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Kittāvatā nu kho, āvuso, vedanāti vuccatī”ti?</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260718T181126Z" creationid="mjaviem" creationdate="20260718T181126Z">
+        <seg> ¿En qué medida, amigo, se le llama sensaciones?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Kittāvatā nu kho, āvuso, viññāṇanti vuccatī”ti?</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260718T165904Z" creationid="mjaviem" creationdate="20260718T165904Z">
         <seg> ¿Pues en qué medida, amigo, se le llama distinciones?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Kiñca sañjānāti?</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260718T181908Z" creationid="mjaviem" creationdate="20260718T181908Z">
+        <seg>¿Y qué significa?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Kiñca vedeti?</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260718T181409Z" creationid="mjaviem" creationdate="20260718T181409Z">
+        <seg>¿Y qué siente?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2702,8 +2742,8 @@ y se queda aferrado a eso.</seg>
       <tuv lang="pi">
         <seg>Labbhā ca panimesaṁ dhammānaṁ vinibbhujitvā vinibbhujitvā nānākaraṇaṁ paññāpetun”ti?</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260718T175657Z" creationid="mjaviem" creationdate="20260718T171126Z">
-        <seg> ¿Y se puede, habiendo desovillado y desovillado estas bases, describir su diferenciación?</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260718T180757Z" creationid="mjaviem" creationdate="20260718T171126Z">
+        <seg> ¿Y se puede, habiendo desovillado y desovillado estas bases, describir su discriminación?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2769,16 +2809,16 @@ Sedakaṁ janapadena cāti.</seg>
       <tuv lang="pi">
         <seg>Na ca labbhā imesaṁ dhammānaṁ vinibbhujitvā vinibbhujitvā nānākaraṇaṁ paññāpetun”ti.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260718T180044Z" creationid="mjaviem" creationdate="20260718T180044Z">
-        <seg>Y no se puede, habiendo desovillado y desovillado estas bases, describir su diferenciación.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260718T180814Z" creationid="mjaviem" creationdate="20260718T180044Z">
+        <seg>Y no se puede, habiendo desovillado y desovillado estas bases, describir su discriminación.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pi">
         <seg>Na ca labbhā imesaṁ dhammānaṁ vinibbhujitvā vinibbhujitvā nānākaraṇaṁ paññāpetuṁ.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260718T175648Z" creationid="mjaviem" creationdate="20260718T175648Z">
-        <seg>Y no se puede, habiendo desovillado y desovillado estas bases, describir su diferenciación.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260718T180805Z" creationid="mjaviem" creationdate="20260718T175648Z">
+        <seg>Y no se puede, habiendo desovillado y desovillado estas bases, describir su discriminación.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2975,6 +3015,14 @@ estoy inclinado hacia la conducta santa”.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260501T212726Z" creationid="mjaviem" creationdate="20260501T212726Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Nīlakampi sañjānāti, pītakampi sañjānāti, lohitakampi sañjānāti, odātampi sañjānāti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260718T182003Z" creationid="mjaviem" creationdate="20260718T182003Z">
+        <seg>Significa el azul, significa el amarillo, significa el rojo, significa el blanco.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3579,6 +3627,14 @@ imāni vuccanti, bhikkhave, brahmacariyaphalānī”ti.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Sukhampi vedeti, dukkhampi vedeti, adukkhamasukhampi vedeti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260718T181423Z" creationid="mjaviem" creationdate="20260718T181423Z">
+        <seg>Siente satisfacción, siente dificultad, siente ni satisfacción ni dificultad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Sukhantipi vijānāti, dukkhantipi vijānāti, adukkhamasukhantipi vijānāti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260718T170429Z" creationid="mjaviem" creationdate="20260718T170429Z">
@@ -3679,6 +3735,14 @@ imāni vuccanti, bhikkhave, brahmacariyaphalānī”ti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260501T205619Z" creationid="mjaviem" creationdate="20260501T205125Z">
         <seg>A él se le diría así: 'Hombre, aquí tienes este cuenco de aceite lleno hasta el borde; debe ser transportado entre medio del gran festival y la agraciada de la comarca.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Tasmā ime dhammā saṁsaṭṭhā no visaṁsaṭṭhā.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260718T182357Z" creationid="mjaviem" creationdate="20260718T182357Z">
+        <seg>Por ello, estas bases están mezcladas, no disociadas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4579,6 +4643,14 @@ se llama cerca de la disipación"</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Yaṁ hāvuso, vedeti taṁ sañjānāti, yaṁ sañjānāti taṁ vijānāti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260718T182342Z" creationid="mjaviem" creationdate="20260718T182342Z">
+        <seg>Lo que uno siente, amigo, eso mismo significa; lo que uno significa, eso mismo diferencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Yaṁ kammaṁ karissāmi—kalyāṇaṁ vā pāpakaṁ vā— tassa dāyādo bhavissāmī’ti abhiṇhaṁ paccavekkhitabbaṁ itthiyā vā purisena vā gahaṭṭhena vā pabbajitena vā.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260717T184949Z" creationid="mjaviem" creationdate="20250920T192151Z">
@@ -5225,6 +5297,14 @@ y se queda aferrado a eso.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>‘Sañjānāti sañjānātī’ti kho, āvuso, tasmā saññāti vuccatī”ti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260718T182024Z" creationid="mjaviem" creationdate="20260718T182024Z">
+        <seg>Pues, amigo, «significa, significa», por ello se le llama significaciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>‘Sā kho panassa janapadakalyāṇī paramapāsāvinī nacce, paramapāsāvinī gīte.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260501T203216Z" creationid="mjaviem" creationdate="20260501T202620Z">
@@ -5233,10 +5313,18 @@ y se queda aferrado a eso.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>‘Vedeti vedetī’ti kho, āvuso, tasmā vedanāti vuccatī”ti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260718T181451Z" creationid="mjaviem" creationdate="20260718T181451Z">
+        <seg>Pues, amigo, «siente, siente» por ello se le llama sensaciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>‘Vijānāti vijānātī’ti kho, āvuso, tasmā viññāṇanti vuccatī”ti.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260718T170454Z" creationid="mjaviem" creationdate="20260718T170454Z">
-        <seg>Pues «diferencia, diferencia», amigo, por ello se le llama distinciones.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260718T181831Z" creationid="mjaviem" creationdate="20260718T170454Z">
+        <seg>Pues, amigo, «diferencia, diferencia», por ello se le llama distinciones.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5988,6 +6076,38 @@ kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>“Yā cāvuso, paññā yañca viññāṇaṁ— imesaṁ dhammānaṁ saṁsaṭṭhānaṁ no visaṁsaṭṭhānaṁ kiṁ nānākaraṇan”ti?</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260718T180828Z" creationid="mjaviem" creationdate="20260718T180406Z">
+        <seg>—Amigo, el saber y las distinciones: de estas bases que están mezcladas y no disociadas, ¿cuál es la discriminación?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Yā cāvuso, paññā yañca viññāṇaṁ— imesaṁ dhammānaṁ saṁsaṭṭhānaṁ no visaṁsaṭṭhānaṁ paññā bhāvetabbā, viññāṇaṁ pariññeyyaṁ.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260718T180636Z" creationid="mjaviem" creationdate="20260718T180636Z">
+        <seg>—Amigo, el saber y las distinciones: de estas bases que están mezcladas y no disociadas, el saber debe ser suscitado, y las distinciones deben ser comprendidas plenamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Yā cāvuso, vedanā yā ca saññā yañca viññāṇaṁ— ime dhammā saṁsaṭṭhā udāhu visaṁsaṭṭhā?</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260718T182132Z" creationid="mjaviem" creationdate="20260718T182132Z">
+        <seg>—Amigo, las sensaciones, las significaciones y las distinciones: ¿estas bases están mezcladas o disociadas?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Yā cāvuso, vedanā yā ca saññā yañca viññāṇaṁ— ime dhammā saṁsaṭṭhā, no visaṁsaṭṭhā.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260718T182230Z" creationid="mjaviem" creationdate="20260718T182230Z">
+        <seg>—Amigo, las sensaciones, las significaciones y las distinciones: estas bases están mezcladas, no disociadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>“atthi nu kho, bhante, kiñci rūpaṁ, yaṁ rūpaṁ niccaṁ dhuvaṁ sassataṁ avipariṇāmadhammaṁ sassatisamaṁ tatheva ṭhassati?</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260706T164654Z" creationid="mjaviem" creationdate="20250826T233048Z">
@@ -6028,10 +6148,42 @@ kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>“‘Sañjānāti sañjānātī’ti kho, āvuso, tasmā saññāti vuccati.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260718T181800Z" creationid="mjaviem" creationdate="20260718T181800Z">
+        <seg>—Pues, amigo, «significa, significa», por ello se le llama significaciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“‘Saññā saññā’ti, āvuso, vuccati.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260718T181555Z" creationid="mjaviem" creationdate="20260718T181555Z">
+        <seg>—Amigo, se le llama «significaciones, significaciones».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“‘Vedanā vedanā’ti, āvuso, vuccati.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260718T181101Z" creationid="mjaviem" creationdate="20260718T181101Z">
+        <seg>—Amigo, se le llama «sensaciones, sensaciones».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“‘Vedeti vedetī’ti kho, āvuso, tasmā vedanāti vuccati.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260718T181841Z" creationid="mjaviem" creationdate="20260718T181344Z">
+        <seg>—Pues, amigo, «siente, siente», por ello se le llama sensaciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>“‘Vijānāti vijānātī’ti kho, āvuso, tasmā viññāṇanti vuccati.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260718T170056Z" creationid="mjaviem" creationdate="20260718T170056Z">
-        <seg>—Pues «diferencia, diferencia», amigo, por ello se le llama distinciones.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260718T181814Z" creationid="mjaviem" creationdate="20260718T170056Z">
+        <seg>—Pues, amigo, «diferencia, diferencia», por ello se le llama distinciones.</seg>
       </tuv>
     </tu>
     <tu>
