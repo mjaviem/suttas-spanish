@@ -613,8 +613,8 @@ y los hombres comunes le huyen</seg>
       <tuv lang="pi">
         <seg>Cakkhuñceva rūpā ca, sotañca saddā ca, ghānañca gandhā ca, jivhā ca rasā ca, kāyo ca phoṭṭhabbā ca, mano ca dhammā ca— idaṁ vuccati, bhikkhave, sabbaṁ.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260721T162026Z" creationid="mjaviem" creationdate="20260721T162026Z">
-        <seg>El ojo y las imágenes, el oído y los sonidos, la nariz y los olores, la lengua y los sabores, el cuerpo y los tangibles, lo interior y las bases: esto, bhikkhus, se llama "el todo".</seg>
+      <tuv lang="es-AR">
+        <seg>El ojo y las imágenes, el oído y los sonidos, la nariz y los olores, la lengua y los sabores, el cuerpo y los tangibles, lo interior y las bases: esto se llama, bhikkhus, el todo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2662,8 +2662,8 @@ y se queda aferrado a eso.</seg>
       <tuv lang="pi">
         <seg>Kiñca, bhikkhave, sabbaṁ?</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260721T154017Z" creationid="mjaviem" creationdate="20260721T154017Z">
-        <seg>¿Y qué es, bhikkhus, el todo?</seg>
+      <tuv lang="es-AR">
+        <seg>¿Y qué, bhikkhus, es el todo?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4840,6 +4840,14 @@ ayaṁ vuccati, bhikkhave, brahmacariyattho”ti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260718T132622Z" creationid="mjaviem" creationdate="20260502T144807Z">
         <seg>Quienquiera que no aprueba las sensaciones... Quienquiera que no aprueba las significaciones... Quienquiera que no aprueba las constituciones... Quienquiera que no aprueba las distinciones, no aprueba la dificultad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Yo, bhikkhave, evaṁ vadeyya: ‘ahametaṁ sabbaṁ paccakkhāya aññaṁ sabbaṁ paññāpessāmī’ti, tassa vācāvatthukamevassa; puṭṭho ca na sampāyeyya, uttariñca vighātaṁ āpajjeyya.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>Quienquiera, bhikkhus, que dijera así: ‘yo, habiendo excluido este todo, describiré otro todo’, su afirmación sería ciertamente basada solo en palabras; y preguntado, no proseguiría, y además incurriría en aflicción.</seg>
       </tuv>
     </tu>
     <tu>
