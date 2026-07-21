@@ -360,7 +360,6 @@ manāpo	grato
 manasā	interior
 manasi karoto	prestar atención
 manasikāro	el prestar atención
-mano	la mente/lo interior
 maññatha	creen
 maraṇā	muerte
 maraṇaṁ	muerte
@@ -920,3 +919,4 @@ sabbaṁ	del todo, toda, el todo
 dukhatā	condición dificultosa
 vededitbo	conocer
 sampāyati	prosigue
+mano	lo interior
