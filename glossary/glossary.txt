@@ -241,7 +241,6 @@ dukkhaṁ	dificultad
 dukkhampi	dificultad
 dukkhanirodhagāminī	que conduce a la clausura de la dificultad
 dukkhāpi	de dificultad
-dukkhatā	condición dificultosa
 duppaññe	de saber equivocado
 dūre	lejana
 dussīle	inmorales
@@ -718,7 +717,6 @@ vāyamati	se empeña
 vāyāmo	empeño
 vayo	declive
 vedeti	siente
-veditabbo	conocer
 vepullāya	plenitud
 veramaṇī	abstención
 veyyākaraṇasmiṁ	explicación
@@ -919,3 +917,6 @@ saññaṁ	significaciones
 sabbaso	del todo
 sabba	todo
 sabbaṁ	del todo, toda, el todo
+dukhatā	condición dificultosa
+vededitbo	conocer
+sampāyati	prosigue
