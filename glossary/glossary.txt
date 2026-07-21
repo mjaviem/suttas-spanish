@@ -544,8 +544,6 @@ rasā	sabor
 rattā	pasión
 ratto	apasionado
 ruppati	desfigurada
-sabbaṁ	totalmente
-sabbaso	totalmente
 sabbe	todos
 sacchikātabbaṁ	atestiguar
 sacchikatvā	atestiguar
@@ -918,3 +916,6 @@ vedanānaṁ	sensaciones
 vedanānaṁ	sensaciones
 saññā	significaciones
 saññaṁ	significaciones
+sabbaṁ	del todo
+sabbaso	del todo
+sabba	todo
