@@ -614,7 +614,7 @@ y los hombres comunes le huyen</seg>
         <seg>Cakkhuñceva rūpā ca, sotañca saddā ca, ghānañca gandhā ca, jivhā ca rasā ca, kāyo ca phoṭṭhabbā ca, mano ca dhammā ca— idaṁ vuccati, bhikkhave, sabbaṁ.</seg>
       </tuv>
       <tuv lang="es-AR">
-        <seg>El ojo y las imágenes, el [oído] y los sonidos, la [nariz] y los olores, la [lengua] y los sabores, el cuerpo y los tangibles, lo interior y las bases: esto, bhikkhus, se llama el todo.</seg>
+        <seg>El ojo y las imágenes, el oído y los sonidos, la nariz y los olores, la lengua y los sabores, el cuerpo y los tangibles, lo interior y las bases: esto se llama, bhikkhus, el todo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4469,6 +4469,14 @@ tiene grandes tesoros en el mundo.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Yathā taṁ, bhikkhave, avisayasmin”ti.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>Porque eso, bhikkhus, está fuera de su alcance.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Yathāssa ghāyato gandhaṁ,
 sevato cāpi vedanaṁ;
 Khīyati nopacīyati,
@@ -4846,8 +4854,8 @@ ayaṁ vuccati, bhikkhave, brahmacariyattho”ti.</seg>
       <tuv lang="pi">
         <seg>Yo, bhikkhave, evaṁ vadeyya: ‘ahametaṁ sabbaṁ paccakkhāya aññaṁ sabbaṁ paññāpessāmī’ti, tassa vācāvatthukamevassa; puṭṭho ca na sampāyeyya, uttariñca vighātaṁ āpajjeyya.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260721T211719Z" creationid="mjaviem" creationdate="20260721T211719Z">
-        <seg>Quienquiera, bhikkhus, dijera así: '[Habiendo rechazado] este todo, describiré [otro] todo', para él sería ciertamente solo palabras; y [preguntado] no prosiguiera, y [además] experimentaría [frustración].</seg>
+      <tuv lang="es-AR">
+        <seg>Quienquiera, bhikkhus, dijese así: «Habiendo [renunciado a] este todo, describiré [otro] todo», para él sería meramente cuestión de palabras; [preguntado], no podría proseguir, y además sería partícipe de [aflicción].</seg>
       </tuv>
     </tu>
     <tu>
@@ -5862,8 +5870,8 @@ kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ.</seg>
       <tuv lang="pi">
         <seg>“Sabbaṁ vo, bhikkhave, desessāmi.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260721T192836Z" creationid="mjaviem" creationdate="20260721T192836Z">
-        <seg>[fuzzy]"Bhikkhus, les enseñaré el todo.</seg>
+      <tuv lang="es-AR">
+        <seg>Bhikkhus, les enseñaré el todo.</seg>
       </tuv>
     </tu>
     <tu>
