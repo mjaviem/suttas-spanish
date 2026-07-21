@@ -916,6 +916,6 @@ vedanānaṁ	sensaciones
 vedanānaṁ	sensaciones
 saññā	significaciones
 saññaṁ	significaciones
-sabbaṁ	del todo
 sabbaso	del todo
 sabba	todo
+sabbaṁ	del todo, toda, el todo
