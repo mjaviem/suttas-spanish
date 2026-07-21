@@ -2660,6 +2660,14 @@ y se queda aferrado a eso.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Kiñca, bhikkhave, sabbaṁ?</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>Bhikkhus, ¿qué es [lo] del todo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Ko pana, bho gotama, hetu, ko paccayo, yena m’idhekacce sattā kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjantī”ti?</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260714T200444Z" creationid="mjaviem" creationdate="20260528T214939Z">
@@ -3494,8 +3502,8 @@ Samaṇo ca sappurisānisaṁsoti.</seg>
       <tuv lang="pi">
         <seg>So dhammaṁ deseti ādikalyāṇaṁ majjhekalyāṇaṁ pariyosānakalyāṇaṁ sātthaṁ sabyañjanaṁ; kevalaparipuṇṇaṁ parisuddhaṁ brahmacariyaṁ pakāseti.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260717T175026Z" creationid="mjaviem" creationdate="20260514T183349Z">
-        <seg>Él enseña las bases, buenas al inicio, buenas al medio, buenas al final, con sentido, bien expresadas; esclarece la conducta santa, totalmente acabada, pura.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260721T013854Z" creationid="mjaviem" creationdate="20260514T183349Z">
+        <seg>Él enseña las bases, buenas al inicio, buenas al medio, buenas al final, con sentido, bien expresadas; esclarece la conducta santa, del todo acabada, pura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3835,24 +3843,24 @@ recordando la instrucción de los despiertos.</seg>
       <tuv lang="pi">
         <seg>Tassa taṁ maggaṁ āsevato bhāvayato bahulīkaroto saṁyojanāni sabbaso pahīyanti anusayā byantīhonti.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260519T151520Z" creationid="mjaviem" creationdate="20250922T192927Z">
-        <seg>Para quien practica, suscita, reitera ese camino, su enlace es abandonado totalmente, lo subyacente es finalizado.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260721T013831Z" creationid="mjaviem" creationdate="20250922T192927Z">
+        <seg>Para quien practica, suscita, reitera ese camino, su enlace es abandonado del todo, lo subyacente es finalizado.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pi">
         <seg>Tassa taṁ maggaṁ āsevato bhāvayato bahulīkaroto saṁyojanāni sabbaso pahīyanti, anusayā byantīhonti.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260519T151520Z" creationid="mjaviem" creationdate="20250922T193610Z">
-        <seg>Para quien practica, suscita, reitera ese camino, su enlace es abandonado totalmente, lo subyacente es finalizado.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260721T013834Z" creationid="mjaviem" creationdate="20250922T193610Z">
+        <seg>Para quien practica, suscita, reitera ese camino, su enlace es abandonado del todo, lo subyacente es finalizado.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pi">
         <seg>Tassa taṁ maggaṁ āsevato bhāvayato bahulīkaroto saṁyojanāni sabbaso pahīyanti, anusayā byantīhontīti.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260519T151520Z" creationid="mjaviem" creationdate="20250922T194439Z">
-        <seg>Para quien practica, suscita, reitera ese camino, su enlace es abandonado totalmente, lo subyacente es finalizado."</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260721T013839Z" creationid="mjaviem" creationdate="20250922T194439Z">
+        <seg>Para quien practica, suscita, reitera ese camino, su enlace es abandonado del todo, lo subyacente es finalizado."</seg>
       </tuv>
     </tu>
     <tu>
@@ -3867,40 +3875,40 @@ recordando la instrucción de los despiertos.</seg>
       <tuv lang="pi">
         <seg>Tassa taṁ ṭhānaṁ abhiṇhaṁ paccavekkhato sabbaso vā duccaritaṁ pahīyati tanu vā pana hoti.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260715T121956Z" creationid="mjaviem" creationdate="20250921T174425Z">
-        <seg>Para quien repasa habitualmente sobre esa situación, la mala conducta mas es abandonada totalmente o es disminuida.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260721T013830Z" creationid="mjaviem" creationdate="20250921T174425Z">
+        <seg>Para quien repasa habitualmente sobre esa situación, la mala conducta mas es abandonada del todo o es disminuida.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pi">
         <seg>Tassa taṁ ṭhānaṁ abhiṇhaṁ paccavekkhato yo jīvite jīvitamado so sabbaso vā pahīyati tanu vā pana hoti.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260715T121956Z" creationid="mjaviem" creationdate="20250921T142848Z">
-        <seg>Para quien repasa habitualmente sobre esa situación, en la vida, cual sea esa embriaguez de vida, mas es abandonada totalmente o es disminuida.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260721T013825Z" creationid="mjaviem" creationdate="20250921T142848Z">
+        <seg>Para quien repasa habitualmente sobre esa situación, en la vida, cual sea esa embriaguez de vida, mas es abandonada del todo o es disminuida.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pi">
         <seg>Tassa taṁ ṭhānaṁ abhiṇhaṁ paccavekkhato yo piyesu manāpesu chandarāgo so sabbaso vā pahīyati tanu vā pana hoti.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260715T121956Z" creationid="mjaviem" creationdate="20250921T145047Z">
-        <seg>Para quien repasa habitualmente sobre esa situación, lo que sea ese deseo e interés por lo apreciado y grato, mas es abandonado totalmente o es disminuido.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260721T013826Z" creationid="mjaviem" creationdate="20250921T145047Z">
+        <seg>Para quien repasa habitualmente sobre esa situación, lo que sea ese deseo e interés por lo apreciado y grato, mas es abandonado del todo o es disminuido.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pi">
         <seg>Tassa taṁ ṭhānaṁ abhiṇhaṁ paccavekkhato yo yobbane yobbanamado so sabbaso vā pahīyati tanu vā pana hoti.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260715T121956Z" creationid="mjaviem" creationdate="20250921T140413Z">
-        <seg>Para quien repasa habitualmente sobre esa situación, en la juventud, cual sea esa embriaguez de juventud, mas es abandonada totalmente o  es disminuida.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260721T013822Z" creationid="mjaviem" creationdate="20250921T140413Z">
+        <seg>Para quien repasa habitualmente sobre esa situación, en la juventud, cual sea esa embriaguez de juventud, mas es abandonada del todo o  es disminuida.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pi">
         <seg>Tassa taṁ ṭhānaṁ abhiṇhaṁ paccavekkhato yo ārogye ārogyamado so sabbaso vā pahīyati tanu vā pana hoti.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260715T121956Z" creationid="mjaviem" creationdate="20250921T142512Z">
-        <seg>Por ello para quien repasa habitualmente sobre esa situación, en la salud, cual sea esa embriaguez de salud, mas es abandonada totalmente o es disminuida.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260721T013824Z" creationid="mjaviem" creationdate="20250921T142512Z">
+        <seg>Por ello para quien repasa habitualmente sobre esa situación, en la salud, cual sea esa embriaguez de salud, mas es abandonada del todo o es disminuida.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4765,8 +4773,8 @@ se llama cerca de la disipación"</seg>
       <tuv lang="pi">
         <seg>Ye te dhammā ādikalyāṇā majjhekalyāṇā pariyosānakalyāṇā sātthaṁ sabyañjanaṁ kevalaparipuṇṇaṁ parisuddhaṁ brahmacariyaṁ abhivadanti.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260717T174954Z" creationid="mjaviem" creationdate="20250901T233901Z">
-        <seg>Aquellas bases, las que fueran, buenas al inicio, buenas al medio, buenas al final, con sentido, bien expresadas, que pregonan la conducta santa, totalmente acabada, pura.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260721T013851Z" creationid="mjaviem" creationdate="20250901T233901Z">
+        <seg>Aquellas bases, las que fueran, buenas al inicio, buenas al medio, buenas al final, con sentido, bien expresadas, que pregonan la conducta santa, del todo acabada, pura.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5299,16 +5307,16 @@ y se queda aferrado a eso.</seg>
       <tuv lang="pi">
         <seg>‘Sabbamatthī’ti kho, kaccāna, ayameko anto.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260519T173556Z" creationid="mjaviem" creationdate="20260206T195037Z">
-        <seg>Pues, Kaccāna, "hay totalmente": este es un extremo.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260721T013658Z" creationid="mjaviem" creationdate="20260206T195037Z">
+        <seg>Pues, Kaccāna, "lo hay todo": este es un extremo.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pi">
         <seg>‘Sabbaṁ natthī’ti ayaṁ dutiyo anto.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260519T173731Z" creationid="mjaviem" creationdate="20260206T195123Z">
-        <seg>"No hay totalmente": este es el segundo extremo.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260721T013719Z" creationid="mjaviem" creationdate="20260206T195123Z">
+        <seg>"No lo hay todo": este es el segundo extremo.</seg>
       </tuv>
     </tu>
     <tu>
