@@ -765,7 +765,6 @@ sutavā	instruido	sutavā
 sute	escuchado
 svākkhāto	enseñado
 tadavasari	arribó
-taṁ	eso mismo
 taṇhā	ganas
 tanu	disminuida
 tanuttā	merma
@@ -924,3 +923,4 @@ yogo	consagrarse a
 yoniso	cuidadosa
 yonisomanasikāro	prestar cuidadosa atención
 pabhaṅgu	frágil
+taṁ	eso
