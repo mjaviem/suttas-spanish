@@ -2692,6 +2692,14 @@ y se queda aferrado a eso.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Kiñca, bhikkhave, pabhaṅgu, kiṁ appabhaṅgu?</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260723T212723Z" creationid="mjaviem" creationdate="20260723T212723Z">
+        <seg>¿Y qué, bhikkhus, es frágil y qué es no frágil?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Kiñca, bhikkhave, sabbaṁ?</seg>
       </tuv>
       <tuv lang="es-AR">
@@ -3276,6 +3284,14 @@ y se queda aferrado a eso.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Rūpaṁ, bhikkhave, pabhaṅgu.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260723T212744Z" creationid="mjaviem" creationdate="20260723T212744Z">
+        <seg>Bhikkhus, las imágenes son frágiles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Rūpaṁ, bhikkhave, pariññeyyo dhammo, vedanā pariññeyyo dhammo, saññā pariññeyyo dhammo, saṅkhārā pariññeyyo dhammo, viññāṇaṁ pariññeyyo dhammo.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260723T203033Z">
@@ -3467,6 +3483,14 @@ ime kho, bhikkhave, cattāro dhammā bhāvitā bahulīkatā sotāpattiphalasacch
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260717T175106Z" creationid="mjaviem" creationdate="20260507T153418Z">
         <seg>Las significaciones no son uno mismo...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Saññā pabhaṅgu … saṅkhārā pabhaṅgu.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260723T213342Z" creationid="mjaviem" creationdate="20260723T213342Z">
+        <seg>Las significaciones son frágiles... Las constituciones son frágiles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4356,6 +4380,14 @@ extingue sin las secreciones.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Vedanā pabhaṅgu.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260723T212759Z" creationid="mjaviem" creationdate="20260723T212759Z">
+        <seg>Las sensaciones son frágiles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Vedanā …pe…</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20251104T193648Z" creationid="mjaviem" creationdate="20251104T193648Z">
@@ -4430,6 +4462,14 @@ no vale ni la dieciseisava parte."</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260718T132709Z" creationid="mjaviem" creationdate="20260508T143952Z">
         <seg>Las distinciones son inconstantes, constituidos, de surgimiento supeditado, destructibles, susceptibles al declive, susceptibles al desinterés, susceptibles a la clausura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Viññāṇaṁ pabhaṅgu.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260723T213400Z" creationid="mjaviem" creationdate="20260723T213400Z">
+        <seg>Las distinciones son frágiles.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4872,6 +4912,38 @@ ayaṁ vuccati, bhikkhave, brahmacariyattho”ti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260518T202856Z" creationid="mjaviem" creationdate="20250826T191434Z">
         <seg>Pues, bhikkhus, lo que sea destrucción del interés, destrucción del odio, destrucción del ofuscamiento: Bhikkhus, esto se llama la finalidad de la conducta santa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Yo tassa nirodho vūpasamo atthaṅgamo, idaṁ appabhaṅgu.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260723T212752Z" creationid="mjaviem" creationdate="20260723T212752Z">
+        <seg>Cual sea su clausura, aquietamiento y repliegue, esto es lo no frágil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Yo tassa nirodho vūpasamo atthaṅgamo, idaṁ appabhaṅgū”ti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260723T213405Z" creationid="mjaviem" creationdate="20260723T213405Z">
+        <seg>Cual sea su clausura, aquietamiento y repliegue, esto es lo no frágil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Yo tassā nirodho vūpasamo atthaṅgamo, idaṁ appabhaṅgu.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260723T212808Z" creationid="mjaviem" creationdate="20260723T212808Z">
+        <seg>Cual sea su clausura, aquietamiento y repliegue, esto es lo no frágil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Yo tesaṁ nirodho vūpasamo atthaṅgamo, idaṁ appabhaṅgu.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260723T213352Z" creationid="mjaviem" creationdate="20260723T213352Z">
+        <seg>Cual sea su clausura, aquietamiento y repliegue, esto es lo no frágil.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5832,6 +5904,14 @@ kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260711T131431Z" creationid="mjaviem" creationdate="20250917T133651Z">
         <seg>"Pues el partir, amigo, es lo difícil de conseguir en estas bases y disciplina."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Pabhaṅguñca, bhikkhave, desessāmi appabhaṅguñca.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260723T212052Z" creationid="mjaviem" creationdate="20260723T212052Z">
+        <seg>Bhikkhus, les enseñaré lo frágil y lo no frágil.</seg>
       </tuv>
     </tu>
     <tu>
