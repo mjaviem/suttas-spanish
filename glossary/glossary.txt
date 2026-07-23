@@ -560,7 +560,7 @@ parinibbāyī	disipado completamente
 pariññā	comprensión plena
 pariññāñca	comprensión plena
 pariññāya	comprensión plena
-pariññeyyaṁ	comprendida plenamente
+pariññeyyaṁ	que debe ser comprendida plenamente
 pāripūriyā	colmar
 parivitakko	vacilación
 pariyādiṇṇaṁ	agotada
@@ -627,9 +627,9 @@ rasā	sabor
 rata	queda prendado
 rattā	pasión
 ratto	apasionado
-rūpā	imagen
-rūpaṁ	imagen
-rūpānaṁ	imagen
+rūpā	imágenes
+rūpaṁ	imágenes
+rūpānaṁ	imágenes
 ruppati	desfigurada
 sabba	todo
 sabbaṁ	del todo, toda, el todo
@@ -911,6 +911,7 @@ yadidaṁ	es decir
 yaṁ	lo que
 yañño	ofrenda
 yasmā	puesto que
+yathā	porque
 yathābhūtaṁ	en verdad
 yato	en donde
 yiṭṭhaṁ	sacrificio
@@ -922,4 +923,3 @@ yoga	sometimiento
 yogo	consagrarse a
 yoniso	cuidadosa
 yonisomanasikāro	prestar cuidadosa atención
-yathā	porque
