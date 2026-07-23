@@ -191,7 +191,7 @@ bhava	devenir
 bhavā	devenir
 bhavaṁ	señor
 bhavantaṁ	señor
-bhāvetabbā	suscitar
+bhāvetabbā	que debe ser suscitado
 bhāveti	suscita
 bhavissati	será
 bhāvito	suscita
@@ -497,7 +497,7 @@ pabhanguñca	frágil
 paccakkhāya	rechazando
 paccassosuṁ	contestaron
 paccavekkhato	repasa
-paccavekkhitabba	para repaso
+paccavekkhitabba	que debe ser repasado
 paccavekkhitabbaṁ	debe ser repasado
 paccavekkhitabbāni	deben ser repasadas
 paccayo	requisito
@@ -506,8 +506,8 @@ padahati	hacer frente
 paduṭṭha	podridas
 paggaṇhāti	aplica
 pahānāya	abandonar
-pahātabbaṁ	abandonar
-pahātabbo	abandonar
+pahātabbaṁ	que debe ser abandonado
+pahātabbo	que debe ser abandonado
 pahāya	abandonado
 pahīne	abandona
 pahitatto	entregado
@@ -635,7 +635,7 @@ sabba	todo
 sabbaṁ	del todo, toda, el todo
 sabbaso	del todo
 sabbe	todos
-sacchikātabbaṁ	atestiguar
+sacchikātabbaṁ	que debe ser atestiguado
 sacchikatvā	atestiguar
 saddā	sonido
 saddahati	confíe
@@ -731,7 +731,7 @@ seyyathāpi	igual que
 seyyathidaṁ	lo siguiente
 sikkhāpadesu	preceptos
 sikkhati	se adiestra
-sikkhitabbaṁ	adiestrarse
+sikkhitabbaṁ	que debe ser adiestrado
 sīla	comportarse
 sīlabbata	comportamiento y votos
 sīvathikaṁ	campo de putrefacción
