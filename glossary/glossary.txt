@@ -61,6 +61,7 @@ akusalā	que no hacen bien
 akusalānaṁ	que no hacen bien
 akusale	que no hacen bien
 akusalehi	que no hacen bien
+alaṃ	suficiente
 allīyanti	apega
 āloko	luz
 āmantesi	se dirigió
@@ -101,11 +102,13 @@ anuvicca	averiguado
 aññathābhāvī	ambigua, equívoca
 aññathattaṁ	una ambigüedad
 apacinato	no acumula
+āpajjeyya	daría lugar a
 āpajjitā	partícipe
 apanūdana	despachar
 aparisesā	sin remanente
 apariyantavatiṁ	sin límites
 apāyaṁ	penuria
+appamāda	atención
 appamattako	insignificante
 appamatto	sobrio
 appekacce	algunos
@@ -178,6 +181,7 @@ bahussutā	bien escuchadas
 bahussuto	de mucho escuchar
 bandhu	ligado
 bhabbo	capaz
+bhaddako	valioso
 bhagavā	Dichoso
 Bhagavant	Dichoso
 Bhagavato	Dichoso
@@ -493,6 +497,7 @@ ottappaṁ	preocuparse
 ovādaṁ	admonición
 pabbajita	quien partió
 pabbajjā	el partir
+pabhaṅgu	frágil
 pabhanguñca	frágil
 paccakkhāya	rechazando
 paccassosuṁ	contestaron
@@ -525,6 +530,7 @@ panāvuso	amigos
 paṇḍito	sabio
 paṇītaṁ	excelsa
 pantāni	distantes
+pañhā	pregunta
 paññā	el saber
 paññapeti	describe
 paññāpetuṁ	describir
@@ -766,6 +772,7 @@ sutavā	instruido	sutavā
 sute	escuchado
 svākkhāto	enseñado
 tadavasari	arribó
+taṁ	eso
 taṇhā	ganas
 tanu	disminuida
 tanuttā	merma
@@ -855,6 +862,7 @@ viddhaṁsenti	derrumban
 vidhamanti	destrozan
 viditvā	percibir
 vidū	entendedor
+vighātaṁ	caos
 viharati	reside
 vihesā	maltrato
 vihiṁsā	maltrato
@@ -923,11 +931,3 @@ yoga	sometimiento
 yogo	consagrarse a
 yoniso	cuidadosa
 yonisomanasikāro	prestar cuidadosa atención
-pabhaṅgu	frágil
-taṁ	eso
-alaṃ	suficiente
-appamāda	atención
-bhaddako	valioso
-pañhā	pregunta
-vighātaṁ	caos
-āpajjeyya	daría lugar a
