@@ -925,3 +925,6 @@ yoniso	cuidadosa
 yonisomanasikāro	prestar cuidadosa atención
 pabhaṅgu	frágil
 taṁ	eso
+alaṃ	suficiente
+appamāda	atención
+bhaddako	valioso
