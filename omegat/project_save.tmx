@@ -1700,6 +1700,14 @@ y se queda aferrado a eso.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Ime kho, bhikkhave, dasa dhammā pabbajitena abhiṇhaṁ paccavekkhitabbā”ti.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>Estas, pues, bhikkhus, son las diez bases que deben ser repasadas habitualmente por quien partió.»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Ime kho, bhikkhave, dve bhogā.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260711T224732Z" creationid="javier" creationdate="20231130T002444Z">
@@ -2200,6 +2208,14 @@ y se queda aferrado a eso.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="javier-medeot" changedate="20250111T172718Z" creationid="javier-medeot" creationdate="20250111T172718Z">
         <seg>¿Cuáles cuatro?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Katame dasa?</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260725T135701Z">
+        <seg>¿Cuáles diez?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5285,6 +5301,14 @@ santi, bhikkhave, manoviññeyyā dhammā iṭṭhā kantā manāpā piyarūpā 
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>yaṁ kammaṁ karissāmi kalyāṇaṁ vā pāpakaṁ vā tassa dāyādo bhavissāmī’ti pabbajitena abhiṇhaṁ paccavekkhitabbaṁ.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>cualquier acto que haga, bueno o malo, de él seré heredero" debe ser repasado habitualmente por quien partió.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>ye keci saṅkhārā atītānāgatapaccuppannā ajjhattaṁ vā bahiddhā vā oḷārikā vā sukhumā vā …pe… ayaṁ vuccati saṅkhārakkhandho.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260617T140327Z" creationid="mjaviem" creationdate="20260617T133803Z">
@@ -5403,6 +5427,22 @@ a partir de eso, escudriña con el saber.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>‘Atthi nu kho me uttari manussadhammo alamariyañāṇadassanaviseso adhigato, yenāhaṁ pacchime kāle sabrahmacārīhi puṭṭho na maṅku bhavissāmī’ti pabbajitena abhiṇhaṁ paccavekkhitabbaṁ.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>"Hay para mí acaso una base [humana] [superior], una suficiente diferencia de visión de percatarse noble hallada, por la cual, en el [último] tiempo, preguntado por los [compañeros en la conducta santa], no seré [confundido]" debe ser repasado habitualmente por quien partió.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>‘Añño me ākappo karaṇīyo’ti pabbajitena abhiṇhaṁ paccavekkhitabbaṁ.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>"Debo tener otra conducta" debe ser repasado habitualmente por quien partió.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>‘Byādhidhammomhi, byādhiṁ anatīto’ti abhiṇhaṁ paccavekkhitabbaṁ itthiyā vā purisena vā gahaṭṭhena vā pabbajitena vā.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260715T121956Z" creationid="mjaviem" creationdate="20250920T180317Z">
@@ -5443,10 +5483,50 @@ a partir de eso, escudriña con el saber.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>‘Kacci nu kho ahaṁ suññāgāre abhiramāmī’ti pabbajitena abhiṇhaṁ paccavekkhitabbaṁ.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>"Acaso yo me deleito en la [casa vacía]" debe ser repasado habitualmente por quien partió.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>‘Kacci nu kho maṁ anuvicca viññū sabrahmacārī sīlato na upavadantī’ti pabbajitena abhiṇhaṁ paccavekkhitabbaṁ.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>"Acaso los entendidos compañeros en la conducta santa, habiéndome averiguado, no me reprochan en cuanto al comportamiento" debe ser repasado habitualmente por quien partió.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>‘Kacci nu kho me attā sīlato na upavadatī’ti pabbajitena abhiṇhaṁ paccavekkhitabbaṁ.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>"Acaso mi propia persona no me reprocha en cuanto al comportamiento" debe ser repasado habitualmente por quien partió.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>‘Kammassakomhi kammadāyādo kammayoni kammabandhu kammapaṭisaraṇo,</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>"Soy dueño de los actos, heredero de los actos, [matriz de los actos], ligado a los actos, refugio en los actos;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>‘Kammassakomhi, kammadāyādo kammayoni kammabandhu kammapaṭisaraṇo.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260518T204813Z" creationid="mjaviem" creationdate="20250920T190251Z">
         <seg>'Soy dueño de los actos, heredero de los actos, estoy gestado por los actos, ligado a los actos, tengo refugio en los actos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>‘Kathaṁbhūtassa me rattindivā vītivattantī’ti pabbajitena abhiṇhaṁ paccavekkhitabbaṁ.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>"Estando yo de qué modo, transcurren los días y las noches" debe ser repasado habitualmente por quien partió.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5499,6 +5579,14 @@ a partir de eso, escudriña con el saber.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>‘Parapaṭibaddhā me jīvikā’ti pabbajitena abhiṇhaṁ paccavekkhitabbaṁ.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>"Mi vida depende de otros" debe ser repasado habitualmente por quien partió.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>‘Pītippaṭisaṁvedī assasissāmī’ti sikkhati, ‘pītippaṭisaṁvedī passasissāmī’ti sikkhati; ‘sukhappaṭisaṁvedī assasissāmī’ti sikkhati, ‘sukhappaṭisaṁvedī passasissāmī’ti sikkhati; ‘cittasaṅkhārappaṭisaṁvedī assasissāmī’ti sikkhati, ‘cittasaṅkhārappaṭisaṁvedī passasissāmī’ti sikkhati; ‘passambhayaṁ cittasaṅkhāraṁ assasissāmī’ti sikkhati, ‘passambhayaṁ cittasaṅkhāraṁ passasissāmī’ti sikkhati.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260518T232311Z" creationid="mjaviem" creationdate="20260504T195638Z">
@@ -5545,6 +5633,14 @@ y se queda aferrado a eso.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>‘Sabbehi me piyehi manāpehi nānābhāvo vinābhāvo’ti pabbajitena abhiṇhaṁ paccavekkhitabbaṁ.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>"De todos mis apreciables y gratos, división y separación" debe ser repasado habitualmente por quien partió.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>‘Sañjānāti sañjānātī’ti kho, āvuso, tasmā saññāti vuccatī”ti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260720T223447Z" creationid="mjaviem" creationdate="20260718T182024Z">
@@ -5565,6 +5661,14 @@ y se queda aferrado a eso.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260720T223354Z" creationid="mjaviem" creationdate="20260718T181451Z">
         <seg>Pues, amigo, «sienten, sienten» por ello se le llama sensaciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>‘Vevaṇṇiyamhi ajjhupagato’ti pabbajitena abhiṇhaṁ paccavekkhitabbaṁ.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>"En una condición sin estatus he ingresado" debe ser repasado habitualmente por quien partió.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5775,6 +5879,14 @@ upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ 
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20251112T194735Z" creationid="mjaviem" creationdate="20251112T194735Z">
         <seg>"Bhikkhus, estos cuatro individuos se encuentran presentes en el mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Dasayime, bhikkhave, dhammā pabbajitena abhiṇhaṁ paccavekkhitabbā.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>«Estas diez, bhikkhus, son bases que deben ser repasadas habitualmente por quien partió.</seg>
       </tuv>
     </tu>
     <tu>
