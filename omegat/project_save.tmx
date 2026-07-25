@@ -2166,8 +2166,8 @@ y se queda aferrado a eso.</seg>
       <tuv lang="pi">
         <seg>Katame ca, bhikkhave, pariññeyyā dhammā?</seg>
       </tuv>
-      <tuv lang="es-AR">
-        <seg>¿Y qué, bhikkhus, son las bases que deben ser comprendidas plenamente? </seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260725T033757Z">
+        <seg>¿Y qué son, bhikkhus, las bases que deben ser comprendidas plenamente? </seg>
       </tuv>
     </tu>
     <tu>
@@ -2342,8 +2342,8 @@ y se queda aferrado a eso.</seg>
       <tuv lang="pi">
         <seg>Katamā ca, bhikkhave, pariññā?</seg>
       </tuv>
-      <tuv lang="es-AR">
-        <seg>¿Y qué, bhikkhus, es la comprensión plena? </seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260725T033806Z">
+        <seg>¿Y qué es, bhikkhus, la comprensión plena? </seg>
       </tuv>
     </tu>
     <tu>
@@ -5054,8 +5054,8 @@ ayaṁ vuccati, bhikkhave, brahmacariyattho”ti.</seg>
       <tuv lang="pi">
         <seg>Yo, bhikkhave, evaṁ vadeyya: ‘ahametaṁ sabbaṁ paccakkhāya aññaṁ sabbaṁ paññāpessāmī’ti, tassa vācāvatthukamevassa; puṭṭho ca na sampāyeyya, uttariñca vighātaṁ āpajjeyya.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260724T233652Z">
-        <seg>Quienquiera, bhikkhus, dijese así: 'Habiendo rechazado este todo, describiré otro todo', para él serían ciertamente palabras infundadas; y preguntado, no proseguiría, y  además daría lugar a un caos.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260725T033331Z">
+        <seg>Quienquiera, bhikkhus, dijese así: 'Habiendo rechazado este todo, describiré otro todo', para él serían ciertamente palabras infundadas; y preguntado, no podría proseguir, y  además participaría de un caos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5078,8 +5078,8 @@ ayaṁ vuccati, bhikkhave, brahmacariyattho”ti.</seg>
       <tuv lang="pi">
         <seg>Yo, bhikkhave, rāgakkhayo dosakkhayo mohakkhayo.</seg>
       </tuv>
-      <tuv lang="es-AR">
-        <seg>Lo que, bhikkhus, es la destrucción del interés, la destrucción del odio, la destrucción del ofuscamiento. </seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260725T033823Z">
+        <seg>Lo que es, bhikkhus, la destrucción del interés, la destrucción del odio, la destrucción del ofuscamiento. </seg>
       </tuv>
     </tu>
     <tu>
