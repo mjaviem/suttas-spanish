@@ -186,7 +186,6 @@ bhagavā	Dichoso
 Bhagavant	Dichoso
 Bhagavato	Dichoso
 bhajanti	se vinculan
-bhante	reverendo
 bhaññamāne	relataba
 bhāsitā	es de hablar
 bhāsitaṁ	lo hablado
@@ -405,6 +404,7 @@ lajjī	escrupuloso
 loko	mundo
 loko	mundo
 luddo	depredador
+lujjati	se deshace
 maccharī	mezquinos
 maccu	muerte
 mada	embriaguez
