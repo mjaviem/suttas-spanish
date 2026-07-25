@@ -52,6 +52,7 @@ ajeyyo	imbatible
 ājīvaṁ	medio de vida
 ajjhosa	aferrado
 ajjhosāya	aferrado
+ajjhupagato	accedido
 akāliko	inmediato
 akāliko	sin demora
 ākāsaṁ	cielo
@@ -102,6 +103,7 @@ anuvicca	averiguado
 aññathābhāvī	ambigua, equívoca
 aññathattaṁ	una ambigüedad
 apacinato	no acumula
+āpajjeyya	participaría de
 āpajjitā	partícipe
 apanūdana	despachar
 aparisesā	sin remanente
@@ -214,10 +216,10 @@ brahmacārayo	conducta santa
 brahmacariyaṁ	conducta santa
 brāhmaṇā	brahmanes
 buddhe	despierto
-byā pāda	malquerencia
 byādhi	enfermedad
 byādhiṁ	afecciones
 byantīhonti	es finalizado
+byāpāda	malquerencia
 byāpādo	malquerencia
 byāpajjati	repudia
 byāpanna	dañino
@@ -263,6 +265,7 @@ dhanā	tesoros
 dhanāni	tesoro
 dhanāyanti	atesorar
 dhāreti	debe
+dhāretu	tenga por
 dharo	retiene
 dhātā	recordadas
 dhuvaṁ	continua
@@ -342,6 +345,7 @@ jarāmaraṇaṁ	decaimiento-muerte
 jāti	procedencia
 jigucchanti	le huyen
 jiṇṇo	desgastado
+jīvikā	modo de vida
 jīvikaṁ	vida
 kakkasā	crudas
 kālakiriyā	cumplimiento de tiempo
@@ -401,7 +405,6 @@ labhati	conseguir
 laddha	obtenida
 lajjī	escrupuloso
 loko	mundo
-loko	mundo
 luddo	depredador
 lujjati	se deshace
 maccharī	mezquinos
@@ -443,7 +446,6 @@ nānābhāvo	división
 nānākaraṇaṁ	discriminación
 nandi	beneplácito
 nandī	beneplácito
-nekkhamma	ascetismo
 nekkhamma	ascetismo
 nelā	correcta
 nibbāna	disipación
@@ -577,7 +579,6 @@ pasīdati	se alegra
 passambhayaṁ	apaciguando
 patarati	atraviesa
 paṭicca	supeditado
-paṭicca	supeditado
 paṭiccasamuppādaṁ	surgimiento supeditado
 paṭiccasamuppādo	surgimiento supeditado
 patigādhappatto	alcanza asiento
@@ -685,6 +686,7 @@ sampajāno	a sabiendas
 sampannaṁ	logrado
 sampasādanaṁ	sosegar
 sampāyati	prosigue
+sampāyeyya	podría proseguir
 samphappalāpā	cháchara
 saṁsaṭṭhā	mezcladas
 samudaya	fuente
@@ -767,7 +769,7 @@ suṇātha	escuchen
 suññato	vacío
 susamāraddhā	emprendido
 suta	escuchar
-sutavā	instruido	sutavā
+sutavā	instruido
 sute	escuchado
 svākkhāto	enseñado
 tadavasari	arribó
@@ -845,7 +847,6 @@ vayo	declive
 vedanā	sensaciones
 vedanaṁ	sensaciones
 vedanāṁ	sensaciones
-vedanānaṁ	sensaciones
 vedanānaṁ	sensaciones
 vededitbo	conocer
 vedeti	siente
@@ -931,6 +932,3 @@ yoga	sometimiento
 yogo	consagrarse a
 yoniso	cuidadosa
 yonisomanasikāro	prestar cuidadosa atención
-dhāretu	tenga por
-āpajjeyya	participaría de
-sampāyeyya	podría proseguir
