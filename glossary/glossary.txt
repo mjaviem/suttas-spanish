@@ -102,7 +102,6 @@ anuvicca	averiguado
 aññathābhāvī	ambigua, equívoca
 aññathattaṁ	una ambigüedad
 apacinato	no acumula
-āpajjeyya	daría lugar a
 āpajjitā	partícipe
 apanūdana	despachar
 aparisesā	sin remanente
@@ -932,3 +931,5 @@ yogo	consagrarse a
 yoniso	cuidadosa
 yonisomanasikāro	prestar cuidadosa atención
 dhāretu	tenga por
+āpajjeyya	participaría de
+sampāyeyya	podría proseguir
