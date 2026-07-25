@@ -53,6 +53,8 @@ ajjhosa	aferrado
 ajjhosāya	aferrado
 ajjhupagato	accedido
 akāliko	inmediato
+ākappa	decoro
+ākappo	reprocha
 ākāsaṁ	cielo
 akkhamo	intolerante
 akkhātā	cuenta
@@ -344,6 +346,7 @@ jāti	procedencia
 jigucchanti	le huyen
 jiṇṇo	desgastado
 jīvikā	modo de vida
+kacci nu	¿Verdad que...
 kakkasā	crudas
 kālakiriyā	cumplimiento de tiempo
 kālaṁ	tiempo, momento
@@ -638,6 +641,7 @@ sabba	todo
 sabbaṁ	del todo, toda, el todo
 sabbaso	del todo
 sabbe	todos
+sabrahmacārī	compañeros en la conducta santa
 sacchikātabbaṁ	que debe ser atestiguado
 sacchikatvā	atestiguar
 saddā	sonido
