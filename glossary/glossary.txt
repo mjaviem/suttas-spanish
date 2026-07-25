@@ -11,7 +11,6 @@ abhinandiṁsu	aprobaron
 abhinandunti	aprobaron
 abhiṇha	habitual
 abhiṇhaṁ	habitualmente
-abhinibbatti	génesis
 abhinivesa	interiorización
 abhiññā	tomar conciencia
 abhiññāya	toma de conciencia
@@ -715,7 +714,6 @@ santike	cercanía
 santo	presentes
 santo	virtuosos
 santuṭṭhitā	conformidad
-sañjāti	génesis
 sañjāyati	nace
 saññā	significaciones
 saññaṁ	significaciones
@@ -919,7 +917,6 @@ vuṭṭhāti	sale
 yācasī	pretendes
 yadidaṁ	es decir
 yaṁ	lo que
-yañño	ofrenda
 yasmā	puesto que
 yathā	porque
 yathābhūtaṁ	en verdad
