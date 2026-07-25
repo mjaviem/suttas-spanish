@@ -555,8 +555,8 @@ sammādiṭṭhi …pe… sammāsamādhi.</seg>
       <tuv lang="pi">
         <seg>Ayaṁ vuccati, bhikkhave, pariññā”ti.</seg>
       </tuv>
-      <tuv lang="es-AR">
-        <seg>Esto se llama, bhikkhus, comprensión plena.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260725T122716Z">
+        <seg>Esto se llama, bhikkhus, comprensión plena.»</seg>
       </tuv>
     </tu>
     <tu>
@@ -4639,8 +4639,8 @@ tiene grandes tesoros en el mundo.</seg>
       <tuv lang="pi">
         <seg>Yathā taṁ, bhikkhave, avisayasmin”ti.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260723T182835Z">
-        <seg>Porque eso, bhikkhus, está fuera del alcance.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260725T122512Z">
+        <seg>Porque eso, bhikkhus, está fuera del alcance.»</seg>
       </tuv>
     </tu>
     <tu>
@@ -5014,8 +5014,8 @@ ayaṁ vuccati, bhikkhave, brahmacariyattho”ti.</seg>
       <tuv lang="pi">
         <seg>Yo tassa nirodho vūpasamo atthaṅgamo, idaṁ appabhaṅgū”ti.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260723T213405Z" creationid="mjaviem" creationdate="20260723T213405Z">
-        <seg>Cual sea su clausura, aquietamiento y repliegue, esto es lo no frágil.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260725T122805Z" creationid="mjaviem" creationdate="20260723T213405Z">
+        <seg>Cual sea su clausura, aquietamiento y repliegue, esto es lo no frágil.»</seg>
       </tuv>
     </tu>
     <tu>
@@ -5054,8 +5054,8 @@ ayaṁ vuccati, bhikkhave, brahmacariyattho”ti.</seg>
       <tuv lang="pi">
         <seg>Yo, bhikkhave, evaṁ vadeyya: ‘ahametaṁ sabbaṁ paccakkhāya aññaṁ sabbaṁ paññāpessāmī’ti, tassa vācāvatthukamevassa; puṭṭho ca na sampāyeyya, uttariñca vighātaṁ āpajjeyya.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260725T033331Z">
-        <seg>Quienquiera, bhikkhus, dijese así: 'Habiendo rechazado este todo, describiré otro todo', para él serían ciertamente palabras infundadas; y preguntado, no podría proseguir, y  además participaría de un caos.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260725T122502Z">
+        <seg>Quienquiera, bhikkhus, dijese así: "Habiendo rechazado este todo, describiré otro todo", para él serían ciertamente palabras infundadas; y preguntado, no podría proseguir, y  además participaría de un caos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6046,16 +6046,16 @@ kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ.</seg>
       <tuv lang="pi">
         <seg>“Pabhaṅguñca, bhikkhave, desessāmi appabhaṅguñca.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260723T212052Z" creationid="mjaviem" creationdate="20260723T212052Z">
-        <seg>Bhikkhus, les enseñaré lo frágil y lo no frágil.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260725T122755Z" creationid="mjaviem" creationdate="20260723T212052Z">
+        <seg>«Bhikkhus, les enseñaré lo frágil y lo no frágil.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pi">
         <seg>“Pariññeyye ca, bhikkhave, dhamme desessāmi pariññañca.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260723T202947Z">
-        <seg>Bhikkhus, les enseñaré las bases que deben ser comprendidas plenamente y la comprensión plena. </seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260725T122711Z">
+        <seg>«Bhikkhus, les enseñaré las bases que deben ser comprendidas plenamente y la comprensión plena. </seg>
       </tuv>
     </tu>
     <tu>
@@ -6150,8 +6150,8 @@ kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ.</seg>
       <tuv lang="pi">
         <seg>“Sabbaṁ vo, bhikkhave, desessāmi.</seg>
       </tuv>
-      <tuv lang="es-AR">
-        <seg>Bhikkhus, les enseñaré el todo.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260725T122438Z">
+        <seg>«Bhikkhus, les enseñaré el todo.</seg>
       </tuv>
     </tu>
     <tu>
