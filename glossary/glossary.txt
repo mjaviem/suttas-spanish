@@ -367,7 +367,7 @@ kantāya	ameno
 kappeti	acomoda
 karaṇīyaṁ	debe hacer
 karaṇīyo	hay que
-Katame	Qué
+Katame	Qué, Cuáles
 kathaṁ	charla
 kaṭukā	agrias
 kāya	cuerpo
