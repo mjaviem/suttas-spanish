@@ -15,7 +15,6 @@ abhinibbatti	génesis
 abhinivesa	interiorización
 abhiññā	tomar conciencia
 abhiññāya	toma de conciencia
-abhiññāya	tomar conciencia
 abhippamodayaṁ	regocijando
 abhirati	contentamiento
 abhiratiyā	contentamiento
@@ -54,7 +53,6 @@ ajjhosa	aferrado
 ajjhosāya	aferrado
 ajjhupagato	accedido
 akāliko	inmediato
-akāliko	sin demora
 ākāsaṁ	cielo
 akkhamo	intolerante
 akkhātā	cuenta
@@ -545,7 +543,6 @@ pāpako	malas
 parabyābādhāyapi	abrumar a otro
 paraṁ	después
 parama	sumo
-parāyaṇo	apoyado
 parāyaṇo	inclinado
 paribbājakā	peregrinos
 paribbājakānaṁ	peregrinos
@@ -578,6 +575,7 @@ pāsāvinī	prolífica
 pasīdati	se alegra
 passambhayaṁ	apaciguando
 patarati	atraviesa
+paṭibaddha	depende
 paṭicca	supeditado
 paṭiccasamuppādaṁ	surgimiento supeditado
 paṭiccasamuppādo	surgimiento supeditado
@@ -787,7 +785,6 @@ tato	de ahí que
 tatra	en este asunto
 tattha	en ese aspecto
 tenañjaliṁ	presentaron respetos con las palmas unidas
-ṭhāna	posición
 ṭhāna	situación
 ṭhānāni	situaciones
 ṭhitā	permanece
