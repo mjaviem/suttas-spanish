@@ -231,7 +231,7 @@ cārittaṁ	andanzas
 cariya	conducta
 cariyā	conducta
 cavanatā	tránsito
-cetanā	intención
+cetanā	disposición
 cetasā	con ánimo
 cetasika	anímico, del ánimo
 cetaso	del ánimo
@@ -243,8 +243,8 @@ chandarāgo	deseo e interés
 chando	deseo
 cittaṁ	ánimo
 cuti	ocaso
-dakkhiṇā	ofrenda
-dakkhiṇaṁ	ofrenda
+dakkhiṇā	donación
+dakkhiṇaṁ	donación
 dāna	regalar
 dāne	regalar
 dassanaṁ	visión
