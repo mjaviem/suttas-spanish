@@ -513,6 +513,7 @@ paccavekkhitabba	que debe ser repasado
 paccavekkhitabbaṁ	debe ser repasado
 paccavekkhitabbāni	deben ser repasadas
 paccayo	requisito
+paccesi	tomas por
 pacīyati	acopiada
 padahati	hacer frente
 paduṭṭha	podridas
@@ -603,7 +604,7 @@ paṭippassaddho	aplacado
 paṭisaṁvedeti	experimenta
 paṭisañcikkhati	sopesa
 paṭisaraṇo	refugio
-paṭisevati	recurre
+paṭisevati	frecuenta
 paṭissato	consciente de sí
 patiṭṭhāpeti	establece
 patiṭṭhāpeyya	estableciese
