@@ -476,7 +476,6 @@ nissaraṇato	escape
 nissāya	por cuenta de
 nissito	asentado
 nīvaraṇa	obstrucciones
-nivāsa	vivienda
 niveseti	conduce
 niviṭṭho	establecido
 niyāma	norma
@@ -844,7 +843,6 @@ vādī	predica
 vādo	decir
 vagga	separación
 vajjhantu	masacrados
-vāsaṁ	morada
 vatthu	sustrato
 vāyamati	se empeña
 vāyāmo	empeño
@@ -940,3 +938,7 @@ maṅku	mortificado
 uttari	superior
 manasā	mental
 mano	mente
+ajjhogāhetvā	habiendo penetrado
+nivāsa	estancia
+rukkhamūle	pie de un árbol
+vāsaṁ	estancia
