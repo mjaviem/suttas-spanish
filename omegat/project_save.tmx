@@ -292,8 +292,16 @@ sappurisaṁ, bhikkhave, nissāya ime cattāro ānisaṁsā pāṭikaṅkhā”t
       <tuv lang="pi">
         <seg>Atha kho māro pāpimā vajirāya bhikkhuniyā bhayaṁ chambhitattaṁ lomahaṁsaṁ uppādetukāmo samādhimhā cāvetukāmo yena vajirā bhikkhunī tenupasaṅkami; upasaṅkamitvā vajiraṁ bhikkhuniṁ gāthāya ajjhabhāsi:</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260727T184947Z">
-        <seg>Pues entonces, Māra el maligno, deseando producir temor, estupor y horripilación en la bhikkhunī Vajirā, deseando derribarla de la compostura, se acercó a donde estaba la bhikkhunī Vajirā; habiéndose acercado, se dirigió a la bhikkhunī Vajirā con un verso:</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260727T195059Z">
+        <seg>Pues entonces, Māra el maligno, deseando levantar temor, estupor y horripilación en la bhikkhunī Vajirā, deseando derribarla de la compostura, se acercó a donde estaba la bhikkhunī Vajirā; habiéndose acercado, se dirigió a la bhikkhunī Vajirā con un verso:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Atha kho māro pāpimā “jānāti maṁ vajirā bhikkhunī”ti dukkhī dummano tatthevantaradhāyīti.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>Pues entonces, Māra Pāpimā —«¡La bhikkhunī Vajirā me entiende!», así— afligido y abatido, allí mismo desapareció.</seg>
       </tuv>
     </tu>
     <tu>
@@ -324,8 +332,32 @@ sappurisaṁ, bhikkhave, nissāya ime cattāro ānisaṁsā pāṭikaṅkhā”t
       <tuv lang="pi">
         <seg>Atha kho vajirā bhikkhunī pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya sāvatthiṁ piṇḍāya pāvisi.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260727T155554Z" creationid="mjaviem" creationdate="20260727T151749Z">
-        <seg>Pues entonces, la bhikkhunī Vajirā, habiéndose vestido a la mañana y tomando cuenco y túnica, entró a Sāvatthi para la comida de caridad.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260727T194355Z" creationid="mjaviem" creationdate="20260727T151749Z">
+        <seg>Pues entonces, la bhikkhunī Vajirā, habiéndose vestido a la mañana, tomando cuenco y túnica, entró a Sāvatthi para la comida de caridad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Atha kho vajirā bhikkhunī “māro ayaṁ pāpimā” iti viditvā, māraṁ pāpimantaṁ gāthāhi paccabhāsi:</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>Pues entonces, la bhikkhunī Vajirā, percibiendo: «Este es Māra Pāpimā», respondió a Māra Pāpimā con versos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Atha kho vajirāya bhikkhuniyā etadahosi: “ko nu khvāyaṁ manusso vā amanusso vā gāthaṁ bhāsatī”ti?</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260727T201157Z">
+        <seg>Pues entonces, esto se le ocurrió a la bhikkhunī Vajirā: «¿Quién, de hecho, es este —humano o no humano— que habla un verso?», así.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Atha kho vajirāya bhikkhuniyā etadahosi: “māro kho ayaṁ pāpimā mama bhayaṁ chambhitattaṁ lomahaṁsaṁ uppādetukāmo samādhimhā cāvetukāmo gāthaṁ bhāsatī”ti.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>Pues entonces, esto le ocurrió a la bhikkhunī Vajirā: «Este es Māra Pāpimā, deseando producir temor, terror y horror en mí, deseando removerme de la compostura, habla un verso», así.</seg>
       </tuv>
     </tu>
     <tu>
@@ -781,6 +813,17 @@ imā kho, bhikkhave, tisso dukkhatā.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260711T224732Z" creationid="mjaviem" creationdate="20250825T235151Z">
         <seg>La condición dificultosa de la dificultad, la condición dificultosa de las constituciones, la condición dificultosa del cambio. Bhikkhus, pues hay estas tres condiciones dificultosas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Dukkhameva hi sambhoti,
+dukkhaṁ tiṭṭhati veti ca;
+Nāññatra dukkhā sambhoti,
+nāññaṁ dukkhā nirujjhatī”ti.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>Ciertamente, la dificultad por cierto sucede, la dificultad se queda y cesa; no surge nada excepto de la dificultad, no se clausura otra cosa que la dificultad», así.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3933,8 +3976,8 @@ imāni vuccanti, bhikkhave, brahmacariyaphalānī”ti.</seg>
       <tuv lang="pi">
         <seg>Sāvatthiyaṁ piṇḍāya caritvā pacchābhattaṁ piṇḍapātapaṭikkantā yena andhavanaṁ tenupasaṅkami divāvihārāya.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260727T175441Z" creationid="mjaviem" creationdate="20260727T154151Z">
-        <seg>Habiendo deambulado en Sāvatthi para la comida de caridad, después de la comida, habiendo regresado de la comida de caridad, se acercó a donde estaba Andhavana para la morada del día.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260727T194544Z" creationid="mjaviem" creationdate="20260727T154151Z">
+        <seg>Habiendo deambulado en Sāvatthi para la comida de caridad, después de la comida, habiendo regresado de la comida de caridad, se acercó a Andhavana para la morada del día.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6062,6 +6105,17 @@ upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ 
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>“Kenāyaṁ pakato satto,
+kuvaṁ sattassa kārako;
+Kuvaṁ satto samuppanno,
+kuvaṁ satto nirujjhatī”ti.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260727T200752Z">
+        <seg>«¿Por quién fue trabajado este sujeto? ¿Dónde está el hacedor del sujeto? ¿Dónde ha surgido el sujeto? ¿Dónde se clausura el sujeto?».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>“Khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā”ti abbhaññāsi.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260507T193228Z" creationid="mjaviem" creationdate="20260205T233442Z">
@@ -6090,6 +6144,17 @@ upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ 
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260711T131431Z" creationid="mjaviem" creationdate="20250903T152553Z">
         <seg>¿Pues qué es, amigo Sariputta, en estas bases y disciplina, la satisfacción y qué es la dificultad?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Kiṁ nu sattoti paccesi,
+māra diṭṭhigataṁ nu te;
+Suddhasaṅkhārapuñjoyaṁ,
+nayidha sattupalabbhati.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>«¿Qué percibes acaso como "sujeto", Māra? ¿Es una asunción de manera de ver acaso la tuya? Este montón de constituciones puras —no se halla aquí un sujeto.</seg>
       </tuv>
     </tu>
     <tu>
