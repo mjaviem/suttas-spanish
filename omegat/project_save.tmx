@@ -340,8 +340,8 @@ sappurisaṁ, bhikkhave, nissāya ime cattāro ānisaṁsā pāṭikaṅkhā”t
       <tuv lang="pi">
         <seg>Atha kho vajirā bhikkhunī “māro ayaṁ pāpimā” iti viditvā, māraṁ pāpimantaṁ gāthāhi paccabhāsi:</seg>
       </tuv>
-      <tuv lang="es-AR">
-        <seg>Pues entonces, la bhikkhunī Vajirā, percibiendo: «Este es Māra Pāpimā», respondió a Māra Pāpimā con versos:</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260727T203932Z">
+        <seg>Pues entonces, la bhikkhunī Vajirā, percibiendo así: «Este es Māra el maligno», respondió a Māra el maligno con versos:</seg>
       </tuv>
     </tu>
     <tu>
@@ -356,8 +356,8 @@ sappurisaṁ, bhikkhave, nissāya ime cattāro ānisaṁsā pāṭikaṅkhā”t
       <tuv lang="pi">
         <seg>Atha kho vajirāya bhikkhuniyā etadahosi: “māro kho ayaṁ pāpimā mama bhayaṁ chambhitattaṁ lomahaṁsaṁ uppādetukāmo samādhimhā cāvetukāmo gāthaṁ bhāsatī”ti.</seg>
       </tuv>
-      <tuv lang="es-AR">
-        <seg>Pues entonces, esto le ocurrió a la bhikkhunī Vajirā: «Este es Māra Pāpimā, deseando producir temor, terror y horror en mí, deseando removerme de la compostura, habla un verso», así.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260727T201800Z">
+        <seg>Pues entonces, esto se le ocurrió a la bhikkhunī Vajirā: «pues este es Māra el maligno, deseando levantar temor, estupor y horripilación en mí, deseando derribarme de la compostura, que habla un verso».</seg>
       </tuv>
     </tu>
     <tu>
@@ -671,8 +671,8 @@ kāyassa bhedā paraṁ maraṇā sugatiṁ saggaṁ lokaṁ upapajjati.</seg>
       <tuv lang="pi">
         <seg>Bhikkhunīvaggo paṭhamo.</seg>
       </tuv>
-      <tuv lang="es-AR">
-        <seg>Primera sección de bhikkhunīs.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260727T204227Z">
+        <seg></seg>
       </tuv>
     </tu>
     <tu>
@@ -3976,8 +3976,8 @@ imāni vuccanti, bhikkhave, brahmacariyaphalānī”ti.</seg>
       <tuv lang="pi">
         <seg>Sāvatthiyaṁ piṇḍāya caritvā pacchābhattaṁ piṇḍapātapaṭikkantā yena andhavanaṁ tenupasaṅkami divāvihārāya.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260727T194544Z" creationid="mjaviem" creationdate="20260727T154151Z">
-        <seg>Habiendo deambulado en Sāvatthi para la comida de caridad, después de la comida, habiendo regresado de la comida de caridad, se acercó a Andhavana para la morada del día.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260727T201443Z" creationid="mjaviem" creationdate="20260727T154151Z">
+        <seg>Habiendo deambulado en Sāvatthi para la comida de caridad, después de la comida, habiendo regresado de la comida de caridad, se acercó hasta Andhavana para la morada del día.</seg>
       </tuv>
     </tu>
     <tu>
