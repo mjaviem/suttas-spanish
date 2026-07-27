@@ -228,6 +228,7 @@ cāga	desprenderse
 cakkhu	ojo
 caranti	se conducen
 cārittaṁ	andanzas
+caritvā	habiendo deambulado
 cariya	conducta
 cariyā	conducta
 cavanatā	tránsito
@@ -585,6 +586,7 @@ patigādhappatto	alcanza asiento
 pāṭikaṅkhā	cabe esperar
 pāṭikaṅkhaṁ	cabe esperar
 paṭikūlā	ser reacio
+paṭikkanta	habiendo regresado
 paṭilābho	adquisición
 paṭinissagga	renuncia
 paṭipadā	dedicación
@@ -614,7 +616,7 @@ pharusāya	aspereza
 phasso	contacto
 phoṭṭhabbā	tangibles
 phusasi	tocado
-piṇḍāya	para la limosna
+piṇḍāya	para la comida de caridad
 pīṇeti	complace
 pipāsa	sed
 pisuṇāya	malicia
@@ -790,6 +792,7 @@ tato	de ahí que
 tatra	en este asunto
 tattha	en ese aspecto
 tenañjaliṁ	presentaron respetos con las palmas unidas
+tenupasaṅkami	se acercó
 ṭhāna	situación
 ṭhānāni	situaciones
 ṭhitā	permanece
