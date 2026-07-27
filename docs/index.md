@@ -25,7 +25,8 @@ En el Canon Pali es habitual encontrar abreviaturas, por ejemplo `...pe...` que 
 En las traducciones, algunas palabras se dejan en pali. Si no las conocés, podés consultar su significado acá:
 
 - **Bhante**, **bhadante**: Reverendo.
-- **Bhikkhu**: Monje.
+- **Bhikkhu/bhikkhunī**: Monje/monja.
+- **Māra**: La muerte personificada.
 - **Saṅgha**: Congregación.
 - **Tathāgata**: Apelativo del Buda.
 
