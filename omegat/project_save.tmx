@@ -1625,16 +1625,16 @@ y se queda aferrado a eso.</seg>
       <tuv lang="pi">
         <seg>Idha, bhikkhave, ekacco puggalo araññavanapatthāni pantāni senāsanāni paṭisevati.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20251112T213951Z" creationid="mjaviem" creationdate="20251112T212741Z">
-        <seg>Aquí, bhikkhus, cierto individuo recurre a aposentos distantes en montes y yermos.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260727T210505Z" creationid="mjaviem" creationdate="20251112T212741Z">
+        <seg>Aquí, bhikkhus, cierto individuo frecuenta aposentos distantes en montes y yermos.</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pi">
         <seg>Idha, bhikkhave, ekacco puggalo naheva kho araññavanapatthāni pantāni senāsanāni paṭisevati.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20251112T215847Z" creationid="mjaviem" creationdate="20251112T215847Z">
-        <seg>Aquí, bhikkhus, cierto individuo pues no recurre a aposentos distantes en montes y yermos.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260727T210500Z" creationid="mjaviem" creationdate="20251112T215847Z">
+        <seg>Aquí, bhikkhus, cierto individuo pues no frecuenta aposentos distantes en montes y yermos.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3221,9 +3221,9 @@ Kāmāni paṭisevituṁ;
 Anivatti bhavissāmi,
 Brahmacariyaparāyaṇo”ti.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260403T131250Z" creationid="mjaviem" creationdate="20250922T204758Z">
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260727T210431Z" creationid="mjaviem" creationdate="20250922T204758Z">
         <seg>Ahora no soy capaz,
-de recurrir al sensualismo;
+de frecuentar el sensualismo;
 No retrocederé,
 estoy inclinado hacia la conducta santa”.</seg>
       </tuv>
@@ -6153,8 +6153,11 @@ māra diṭṭhigataṁ nu te;
 Suddhasaṅkhārapuñjoyaṁ,
 nayidha sattupalabbhati.</seg>
       </tuv>
-      <tuv lang="es-AR">
-        <seg>«¿Qué percibes acaso como "sujeto", Māra? ¿Es una asunción de manera de ver acaso la tuya? Este montón de constituciones puras —no se halla aquí un sujeto.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260727T212151Z">
+        <seg>«¿Qué tomas por "sujeto"?
+¿Tienes tus maneras de ver, Māra?
+Este montón de constituciones puras
+—no se halla aquí un sujeto.</seg>
       </tuv>
     </tu>
     <tu>
