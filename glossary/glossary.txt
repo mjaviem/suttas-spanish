@@ -301,6 +301,7 @@ ehipassikaṁ	constatable
 ehipassiko	constatable
 ekacco	alguien
 ekodibhāvaṁ	unificación
+etadahosi	se le ocurrió esto
 etadavoca	dijo esto
 ettāvatā	en esta medida
 ettha	sobre ese punto
@@ -374,6 +375,7 @@ kaṅkhati	está pendiente
 kantā	amenos
 kantāya	ameno
 kappeti	acomoda
+kārako	hacedor
 karaṇīyaṁ	debe hacer
 karaṇīyo	hay que
 Katame	Qué, Cuáles
@@ -467,6 +469,7 @@ nirayaṁ	desgracia
 nirodha	clausura
 nirodhāya	clausura
 nirodho	clausura
+nirujjhatī	se clausura
 nirujjhanti	se clausuran
 nirupadhi	sin apropiaciones
 nisīdi	se sentó
@@ -524,6 +527,7 @@ pahīyati	es abandonado
 pajaṁ	prole
 pajānāti	discierne
 pakāseti	esclarece
+pakato	trabajado
 pamāda	negligencia
 pana	mas
 pāṇabhūtesu	por los seres vivos
@@ -700,6 +704,7 @@ samudaya	fuente
 samudayañca	fuente
 samudayo	fuente
 samuppādo	surgimiento
+samuppanno	ha surgido
 saṁvarañca	contención
 saṁvaro	contención
 saṁvattanti	lleva a
@@ -831,7 +836,7 @@ upaya	arrimarse
 upāyāsa	desazón
 upekkhā	ecuanimidad
 upeti	se acerca
-uppādetukāmo	deseando producir
+uppādetukāmo	deseando levantar
 uppādo	un irrumpir
 uppajjati	surge
 vācā	palabras
