@@ -232,6 +232,7 @@ caritvā	habiendo deambulado
 cariya	conducta
 cariyā	conducta
 cavanatā	tránsito
+cāvetukāmo	deseando derribar
 cetanā	disposición
 cetasā	con ánimo
 cetasika	anímico, del ánimo
@@ -829,6 +830,7 @@ upaya	arrimarse
 upāyāsa	desazón
 upekkhā	ecuanimidad
 upeti	se acerca
+uppādetukāmo	deseando producir
 uppādo	un irrumpir
 uppajjati	surge
 vācā	palabras
