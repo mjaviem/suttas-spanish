@@ -37,6 +37,7 @@ adhigato	hallada
 adhimuccati	prefiere
 adhippayāso	divergencia
 adhiṭṭhānaṁ	supuesto
+ādāya	tomando
 ādīnavā	inconveniente
 ādīnavañca	inconveniente
 ādīnavato	inconveniente
@@ -241,6 +242,7 @@ chandā	deseo
 chandarāgo	deseo e interés
 chando	deseo
 cittaṁ	ánimo
+cīvara	túnica
 cuti	ocaso
 dakkhiṇā	donación
 dakkhiṇaṁ	donación
@@ -599,8 +601,10 @@ patiṭṭhāpeti	establece
 patiṭṭhāpeyya	estableciese
 patiṭṭhāti	reafirma
 paṭivirato	abstiene
+patta	cuenco
 pātubhāvo	manifestación
 pavedeti	da a conocer
+pāvisi	entró en
 pema	querer
 pemanīyā	adorable
 petti	antepasados
@@ -610,6 +614,7 @@ pharusāya	aspereza
 phasso	contacto
 phoṭṭhabbā	tangibles
 phusasi	tocado
+piṇḍāya	para la limosna
 pīṇeti	complace
 pipāsa	sed
 pisuṇāya	malicia
