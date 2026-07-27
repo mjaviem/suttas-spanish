@@ -409,7 +409,6 @@ kulaputto	hijo de buena familia
 kusale	que hacen bien
 kusalehi	que hacen bien
 labhati	conseguir
-laddha	obtenida
 lajjī	escrupuloso
 loko	mundo
 luddo	depredador
@@ -953,3 +952,7 @@ nivāsa	estancia
 rukkhamūle	pie de un árbol
 vāsaṁ	estancia
 manusso	humano
+laddha	habida
+puñja	pila
+suddha	pura
+upalabbhati	se obtiene
