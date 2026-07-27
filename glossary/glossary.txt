@@ -420,10 +420,8 @@ mamāyanti	adueñar
 manāpā	gratas
 manāpāya	grato
 manāpo	grato
-manasā	interior
 manasi karoto	prestar atención
 manasikāro	el prestar atención
-mano	lo interior
 maññatha	creen
 maraṇā	muerte
 maraṇaṁ	muerte
@@ -932,3 +930,5 @@ yoniso	cuidadosa
 yonisomanasikāro	prestar cuidadosa atención
 maṅku	mortificado
 uttari	superior
+manasā	mental
+mano	mente
