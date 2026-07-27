@@ -86,6 +86,7 @@ animitto	sin rasgo
 ānisaṁsā	ventajas
 ānisaṁsāti	ventajas
 antamaso	incluso
+antaradhāyi	fue interpuesto
 ante	extremos
 anto	extremo
 anukampakena	compasión
@@ -292,6 +293,8 @@ dukkhaṁ	dificultad
 dukkhampi	dificultad
 dukkhanirodhagāminī	que conduce a la clausura de la dificultad
 dukkhāpi	de dificultad
+dukkhī	en dificultades
+dummano	triste
 duppaññe	de saber equivocado
 dūre	lejana
 dussīle	inmorales
@@ -684,10 +687,11 @@ samāpanno	ha emprendido
 samāpattiyā	consumación
 samatho	calma
 samayaṁ	ocasión
-sambhavā	generada
-sambhavanti	suceder
+sambhavā	sucedida
+sambhavanti	suceden
 sambodhāya	esclarecimiento
 sambodhi	esclarecimiento
+sambhoti	sucede
 sāmī	amo y señor
 sammā	cabal
 sammodanīyaṁ	deleitable
@@ -865,6 +869,7 @@ vedeti	siente
 vepullāya	plenitud
 vera	hostilidad
 veramaṇī	abstención
+veti	cesa
 vevaṇṇiyamhi	desfiguración
 veyyākaraṇasmiṁ	explicación
 vibhajati	analiza
@@ -957,5 +962,4 @@ puñja	pila
 suddha	pura
 upalabbhati	se obtiene
 ratho	carro
-sambhoti	sucede
 sammuti	consenso
