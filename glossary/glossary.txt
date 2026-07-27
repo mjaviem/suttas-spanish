@@ -956,3 +956,6 @@ laddha	habida
 puñja	pila
 suddha	pura
 upalabbhati	se obtiene
+ratho	carro
+sambhoti	sucede
+sammuti	consenso
