@@ -396,6 +396,7 @@ khamo	tolerante
 khandhānaṁ	montones
 khayo	destrucción
 khema	seguridad
+khetta	campo
 khīṇā	acabado
 khīyati	deshecha
 kho	pues
@@ -959,6 +960,7 @@ vāsaṁ	estancia
 manusso	humano
 laddha	habida
 puñja	pila
+puñña	mérito
 suddha	pura
 upalabbhati	se obtiene
 ratho	carro
