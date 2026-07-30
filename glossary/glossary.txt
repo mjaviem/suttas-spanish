@@ -104,6 +104,7 @@ anuttara	insuperable
 anuṭṭhitā	habituado
 anuvicca	averiguado
 anuyutto	consagrado
+anvāssavissantī	inundarán
 aññathābhāvī	ambigua, equívoca
 aññathattaṁ	una ambigüedad
 apacinato	no acumula
@@ -231,6 +232,7 @@ byāpanna	dañino
 cāga	desprenderse
 cakkhu	ojo
 caranti	se conducen
+carituṁ	conducir
 cārittaṁ	andanzas
 caritvā	habiendo deambulado
 cariya	conducta
@@ -251,6 +253,7 @@ cittaṁ	ánimo
 cīvara	túnica
 cuti	ocaso
 dakkhiṇā	donación
+dakkhiṇā	austral
 dakkhiṇaṁ	donación
 dāna	regalar
 dāne	regalar
@@ -278,6 +281,7 @@ dharo	retiene
 dhātā	recordadas
 dhuvaṁ	continua
 dinnaṁ	lo dado
+disā	dirección
 diṭṭhe	visto
 diṭṭheva	lo visto
 diṭṭhi	manera de ver
@@ -592,6 +596,8 @@ parikkhitta	echada alrededor
 pariḷāha	ardor
 parimutto	emancipado
 parinibbāyī	disipado completamente
+paripuṇṇaṁ	acabada
+parisuddhaṁ	pura
 pariññā	comprensión plena
 pariññāñca	comprensión plena
 pariññāya	comprensión plena
@@ -696,6 +702,7 @@ saggasaṁvattaniko	lleva al paraíso
 sahitānaṁ	unidos
 sakadāgāmī	el llegado una vez
 sakkāyo	cuerpo del ser
+sakkoti	es capaz
 saḷāyatanaṁ	seis ámbitos
 sama	balanceado
 samādapeti	incita
