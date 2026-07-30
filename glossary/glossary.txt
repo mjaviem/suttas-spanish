@@ -30,6 +30,7 @@ abyābajjhaṁyeva	alivio
 abyāpāda	no malquerencia
 abyāpajjaṁ	alivio
 ācinato	acumulada
+ādāya	tomando
 addhagato	veterano
 adhigacchati	halla
 adhigamanīyāni	hallar
@@ -37,7 +38,6 @@ adhigato	hallada
 adhimuccati	prefiere
 adhippayāso	divergencia
 adhiṭṭhānaṁ	supuesto
-ādāya	tomando
 ādīnavā	inconveniente
 ādīnavañca	inconveniente
 ādīnavato	inconveniente
@@ -50,6 +50,7 @@ agāraṁ	casa
 ājāneyyaṁ	reconocer
 ajeyyo	imbatible
 ājīvaṁ	medio de vida
+ajjhogāhetvā	habiendo penetrado
 ajjhosa	aferrado
 ajjhosāya	aferrado
 ajjhupagato	accedido
@@ -182,6 +183,7 @@ bahulīkatā	reiteraremos
 bahulīkato	reitera
 bahussutā	bien escuchadas
 bahussuto	de mucho escuchar
+balavā	fuerte
 bandhu	ligado
 bhabbo	capaz
 bhaddako	valioso
@@ -413,6 +415,7 @@ kulaputto	hijo de buena familia
 kusale	que hacen bien
 kusalehi	que hacen bien
 labhati	conseguir
+laddha	habida
 lajjī	escrupuloso
 loko	mundo
 luddo	depredador
@@ -430,8 +433,12 @@ mamāyanti	adueñar
 manāpā	gratas
 manāpāya	grato
 manāpo	grato
+manasā	mental
 manasi karoto	prestar atención
 manasikāro	el prestar atención
+maṅku	mortificado
+mano	mente
+manusso	humano
 maññatha	creen
 maraṇā	muerte
 maraṇaṁ	muerte
@@ -472,8 +479,8 @@ nirayaṁ	desgracia
 nirodha	clausura
 nirodhāya	clausura
 nirodho	clausura
-nirujjhatī	se clausura
 nirujjhanti	se clausuran
+nirujjhatī	se clausura
 nirupadhi	sin apropiaciones
 nisīdi	se sentó
 nisinno	sentado
@@ -484,6 +491,7 @@ nissaraṇato	escape
 nissāya	por cuenta de
 nissito	asentado
 nīvaraṇa	obstrucciones
+nivāsa	estancia
 niveseti	conduce
 niviṭṭho	establecido
 niyāma	norma
@@ -583,7 +591,8 @@ parivitakko	vacilación
 pariyādiṇṇaṁ	agotada
 pariyesanā	pesquisas
 pariyesati	pesquisa
-pasādena	optimismo
+pasādena	inspiración
+pāsādiko	inspirador
 pāsāvinī	prolífica
 pasīdati	se alegra
 passambhayaṁ	apaciguando
@@ -595,8 +604,8 @@ paṭiccasamuppādo	surgimiento supeditado
 patigādhappatto	alcanza asiento
 pāṭikaṅkhā	cabe esperar
 pāṭikaṅkhaṁ	cabe esperar
-paṭikūlā	ser reacio
 paṭikkanta	habiendo regresado
+paṭikūlā	ser reacio
 paṭilābho	adquisición
 paṭinissagga	renuncia
 paṭipadā	dedicación
@@ -636,6 +645,8 @@ piyo	apreciable
 porī	educadas
 puggalā	individuos
 puggalo	individuo
+puñja	pila
+puñña	mérito
 puññassa	méritos
 purisa	hombre
 puthujjano	hombre común
@@ -646,8 +657,10 @@ rajanīyā	tentadoras
 rakkhita	protegidas
 rasā	sabor
 rata	queda prendado
+ratho	carro
 rattā	pasión
 ratto	apasionado
+rukkhamūle	pie de un árbol
 rūpā	imágenes
 rūpaṁ	imágenes
 rūpānaṁ	imágenes
@@ -690,13 +703,14 @@ samatho	calma
 samayaṁ	ocasión
 sambhavā	sucedida
 sambhavanti	suceden
+sambhoti	sucede
 sambodhāya	esclarecimiento
 sambodhi	esclarecimiento
-sambhoti	sucede
 sāmī	amo y señor
 sammā	cabal
 sammodanīyaṁ	deleitable
 sammodiṁsu	intercambiaron saludos
+sammuti	consenso
 sampadā	don
 sampajāna	a sabiendas
 sampajāno	a sabiendas
@@ -769,6 +783,7 @@ sovaggikaṁ	propicia
 sovaggiko	propicio
 sucarita	buena conducta
 sucarite	buena conducta
+suddha	pura
 sugatiṁ	buena fortuna
 sugato	afortunado
 sukata	buenos
@@ -811,12 +826,14 @@ tenupasaṅkami	se acercó
 ṭhitassa	lo permanente
 ṭhito	permanece
 tiṭṭhati	se queda
+tibba	punzante
 tuṇhībhūtā	en silencio
 tveva	pero
 ubhayabyābādhāyapi	abrumar a los dos
 ubho	ambos
 ucchijjantu	despedazados
 udapādi	surgió
+ujubhūto	recta
 ummujjitvā	habiendo emergido
 upādāna	asidero
 upādānaṁ	asidero
@@ -826,6 +843,7 @@ upadhi	apropiaciones
 upahaññati	afligida
 upajāyatī	aparecen
 upakaraṇa	sustento
+upalabbhati	se obtiene
 upamā	parábola
 upapajjanti	van hacia
 upapajjati	va hacia
@@ -845,6 +863,7 @@ upeti	se acerca
 uppādetukāmo	deseando levantar
 uppādo	un irrumpir
 uppajjati	surge
+uttari	superior
 vācā	palabras
 vācaṁ	palabras
 vacasā	recitadas
@@ -857,6 +876,7 @@ vādī	predica
 vādo	decir
 vagga	separación
 vajjhantu	masacrados
+vāsaṁ	estancia
 vatthu	sustrato
 vāyamati	se empeña
 vāyāmo	empeño
@@ -935,6 +955,7 @@ vuṭṭhānaṁ	se termina
 vuṭṭhāti	sale
 yācasī	pretendes
 yadidaṁ	es decir
+yajamānānaṁ	ofrendantes
 yaṁ	lo que
 yasmā	puesto que
 yathā	porque
@@ -949,23 +970,3 @@ yoga	sometimiento
 yogo	consagrarse a
 yoniso	cuidadosa
 yonisomanasikāro	prestar cuidadosa atención
-maṅku	mortificado
-uttari	superior
-manasā	mental
-mano	mente
-ajjhogāhetvā	habiendo penetrado
-nivāsa	estancia
-rukkhamūle	pie de un árbol
-vāsaṁ	estancia
-manusso	humano
-laddha	habida
-puñja	pila
-puñña	mérito
-suddha	pura
-upalabbhati	se obtiene
-ratho	carro
-sammuti	consenso
-ujubhūto	recta
-yajamānānaṁ	ofrendantes
-balavā	fuerte
-pāsādiko	inspirador
