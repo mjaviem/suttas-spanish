@@ -103,6 +103,7 @@ anusayā	lo subyacente
 anuttara	insuperable
 anuṭṭhitā	habituado
 anuvicca	averiguado
+anuyutto	consagrado
 aññathābhāvī	ambigua, equívoca
 aññathattaṁ	una ambigüedad
 apacinato	no acumula
@@ -351,6 +352,7 @@ iṭṭhā	deseadas
 itthattāyā	el aquí
 iṭṭhāya	deseado
 janakāyo	multitud
+jāgariyaṁ	estar despabilado
 jānāti	entiende
 janeti	engendra
 jarā	decaimiento
