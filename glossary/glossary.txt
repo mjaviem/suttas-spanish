@@ -302,6 +302,7 @@ dūre	lejana
 dussīle	inmorales
 dutiyo	segundo
 duṭṭho	podrido
+dvāra	puerta
 ehipassikaṁ	constatable
 ehipassiko	constatable
 ekacco	alguien
@@ -323,6 +324,7 @@ gāthāya	verso
 gati	trayecto
 gihi	quien tiene hogar
 gihinā	por quien tiene hogar
+gutta	custodiada
 gotta	clan
 haññantu	destrozados
 hāpetun	menoscabar
@@ -341,6 +343,7 @@ hutaṁ	ofrenda
 icchā	anhelo
 idaṁ	esto
 idha	aquí
+indriya	facultades
 imassa	por él
 ime	estos
 imehi	aquí
@@ -407,6 +410,7 @@ khvāyaṁ	de hecho
 kilamati	agobiarse
 kīḷanti	juegan
 kilesa	corrupciones
+kimaññatra	qué más sino que
 kittāvatā	en qué medida
 kittisaddo	reputación
 kodha	furia
