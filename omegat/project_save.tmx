@@ -1407,6 +1407,38 @@ y se queda aferrado a eso.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Idaṁ kho, bhikkhave, nandassa bhojane mattaññutāya hoti.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>Esto, bhikkhus, consiste el conocer la medida en la comida de Nanda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Idaṁ kho, bhikkhave, nandassa indriyesu guttadvāratāya hoti.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>Esto, bhikkhus, consiste el tener guardada la puerta en las facultades de Nanda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Idaṁ kho, bhikkhave, nandassa jāgariyānuyogasmiṁ hoti.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>Esto, bhikkhus, consiste la consagración a la vigilia de Nanda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Idaṁ kho, bhikkhave, nandassa satisampajaññasmiṁ hoti.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>Esto, bhikkhus, consiste el tener presente y el discernimiento de Nanda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Idaṁ nesaṁ nānākaraṇan”ti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260718T180742Z" creationid="mjaviem" creationdate="20260718T180742Z">
@@ -1676,6 +1708,30 @@ y se queda aferrado a eso.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260711T132049Z" creationid="mjaviem" creationdate="20251020T234355Z">
         <seg>Aquí, bhikkhus, cierto individuo emerge: "Está bien tener confianza respecto a las bases que hacen bien, está bien avergonzarse..., está bien preocuparse..., está bien esforzarse..., está bien saber respecto a las bases que hacen bien."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Idha, bhikkhave, nandassa viditā vedanā uppajjanti, viditā upaṭṭhahanti, viditā abbhatthaṁ gacchanti; viditā saññā …pe… viditā vitakkā …pe… abbhatthaṁ gacchanti.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>Aquí, bhikkhus, conocidas surgen las sensaciones de Nanda, conocidas se presentan, conocidas van a la desaparición; conocidas las significaciones ... conocidas las consideraciones ... van a la desaparición.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Idha, bhikkhave, nando divasaṁ caṅkamena nisajjāya āvaraṇīyehi dhammehi cittaṁ parisodheti; rattiyā paṭhamaṁ yāmaṁ caṅkamena nisajjāya āvaraṇīyehi dhammehi cittaṁ parisodheti; rattiyā majjhimaṁ yāmaṁ dakkhiṇena passena sīhaseyyaṁ kappeti pāde pādaṁ accādhāya sato sampajāno uṭṭhānasaññaṁ manasi karitvā; rattiyā pacchimaṁ yāmaṁ paccuṭṭhāya caṅkamena nisajjāya āvaraṇīyehi dhammehi cittaṁ parisodheti.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>Aquí, bhikkhus, Nanda purifica el ánimo de las bases obstructoras paseando y estando sentado durante el día; durante el primer cuarto de la noche purifica el ánimo de las bases obstructoras paseando y estando sentado; durante el cuarto medio de la noche acomoda la pose del león sobre el lado derecho, poniendo un pie sobre el otro, consciente, a sabiendas, prestando atención a la significación de levantarse; durante el último cuarto de la noche, levantándose, purifica el ánimo de las bases obstructoras paseando y estando sentado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Idha, bhikkhave, nando paṭisaṅkhā yoniso āhāraṁ āhāreti: ‘neva davāya na madāya na maṇḍanāya na vibhūsanāya, yāvadeva imassa kāyassa ṭhitiyā yāpanāya vihiṁsūparatiyā brahmacariyānuggahāya iti purāṇañca vedanaṁ paṭihaṅkhāmi, navañca vedanaṁ na uppādessāmi, yātrā ca me bhavissati anavajjatā ca phāsuvihāro cā’ti.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>Aquí, bhikkhus, Nanda, reflexionando cuidadosamente, consume el alimento: «No para diversión ni para embriaguez ni para adorno ni para ornamento, sino solamente para la permanencia y subsistencia de este cuerpo, para el cese del maltrato, para la asistencia de la conducta santa: así neutralizaré las viejas sensaciones y no produciré nuevas sensaciones, y habrá para mí sustento, irreprochabilidad y cómoda estadía».</seg>
       </tuv>
     </tu>
     <tu>
@@ -2116,6 +2172,14 @@ y se queda aferrado a eso.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260715T183159Z" creationid="mjaviem" creationdate="20260707T133459Z">
         <seg>Así, es un divisor de los que están juntos, o un sostenedor de los que están partidos; se deleita en la separación, queda prendado en la separación, encuentra beneplácito en la separación, es de hablar palabras que hacen la separación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Itiha tattha sampajāno hoti.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>Así pues, en ese aspecto, está a sabiendas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2732,6 +2796,22 @@ y se queda aferrado a eso.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260727T173848Z" creationid="mjaviem" creationdate="20260505T152426Z">
         <seg>Los khattiyas, habiendo venido, se acomodan en la estancia; los brahmanes, habiendo venido, se acomodan en la estancia; los vessas, habiendo venido, se acomodan en la estancia; los suddas, habiendo venido, se acomodan en la estancia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Kimaññatra, bhikkhave, nando indriyesu guttadvāro, bhojane mattaññū, jāgariyaṁ anuyutto, satisampajaññena samannāgato, yehi nando sakkoti paripuṇṇaṁ parisuddhaṁ brahmacariyaṁ caritun”ti.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>¿Qué más sino, bhikkhus, que Nanda es de guardada puerta en las facultades, conocedor de la medida en la comida, aplicado a la vigilia, dotado de tener presente y discernimiento, por lo cual Nanda puede conducir una conducta santa completa y pura?»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Kimaññatra, bhikkhave, nando indriyesu guttadvāro, bhojane mattaññū, jāgariyaṁ anuyutto, satisampajaññena samannāgato, yehi nando sakkoti paripuṇṇaṁ parisuddhaṁ brahmacariyaṁ carituṁ.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>¿Qué más sino, bhikkhus, que Nanda es de guardada puerta en las facultades, conocedor de la medida en la comida, aplicado a la vigilia, dotado de tener presente y discernimiento, por lo cual Nanda puede conducir una conducta santa completa y pura?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3554,6 +3634,22 @@ por buscar la disipación.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260715T180346Z" creationid="mjaviem" creationdate="20260715T180346Z">
         <seg>Al ser llevado e interrogado como testigo en una corte, o en una asamblea, o entre los parientes, o en un gremio, o en la corte real: «¡Venga, hombre! Di lo que entiendes», él, sin entender, dice: «No entiendo», o entendiendo, dice: «Entiendo»; sin ver, dice: «No veo», o viendo, dice: «Veo».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Sace, bhikkhave, nandassa pacchimā disā āloketabbā hoti …pe… uttarā disā āloketabbā hoti … dakkhiṇā disā āloketabbā hoti … uddhaṁ ulloketabbā hoti … adho oloketabbā hoti … anudisā anuviloketabbā hoti, sabbaṁ cetasā samannāharitvā nando anudisaṁ anuviloketi: ‘evaṁ me anudisaṁ anuvilokayato nābhijjhādomanassā pāpakā akusalā dhammā anvāssavissantī’ti.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>Si, bhikkhus, la dirección occidental debe ser mirada por Nanda ... la dirección septentrional debe ser mirada ... la dirección meridional debe ser mirada ... arriba debe ser mirada ... abajo debe ser mirada ... la dirección intermedia debe ser mirada en sucesión, reuniéndolo todo con el ánimo, Nanda mira en sucesión la dirección intermedia: «Así, mientras miro en sucesión la dirección intermedia, codicia y disgusto, bases malas que no hacen bien, no afluirán a mí».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Sace, bhikkhave, nandassa puratthimā disā āloketabbā hoti, sabbaṁ cetasā samannāharitvā nando puratthimaṁ disaṁ āloketi: ‘evaṁ me puratthimaṁ disaṁ ālokayato nābhijjhādomanassā pāpakā akusalā dhammā anvāssavissantī’ti.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>Si, bhikkhus, la dirección oriental debe ser mirada por Nanda, reuniéndolo todo con el ánimo, Nanda mira la dirección oriental: «Así, mientras miro la dirección oriental, codicia y disgusto, bases malas que no hacen bien, no afluirán a mí».</seg>
       </tuv>
     </tu>
     <tu>
@@ -4387,6 +4483,38 @@ se llama lejos de la disipación.
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260502T162150Z" creationid="mjaviem" creationdate="20260502T162150Z">
         <seg>Pues en este asunto... dijo esto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Tatridaṁ, bhikkhave, nandassa bhojane mattaññutāya hoti.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>En esto, bhikkhus, consiste el conocer la medida en la comida de Nanda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Tatridaṁ, bhikkhave, nandassa indriyesu guttadvāratāya hoti.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>En esto, bhikkhus, consiste el tener guardada la puerta en las facultades de Nanda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Tatridaṁ, bhikkhave, nandassa jāgariyānuyogasmiṁ hoti.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>En esto, bhikkhus, consiste la consagración a la vigilia de Nanda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Tatridaṁ, bhikkhave, nandassa satisampajaññasmiṁ hoti.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>En esto, bhikkhus, consiste el tener presente y el discernimiento de Nanda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5595,6 +5723,14 @@ a partir de eso, escudriña con el saber.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>‘Balavā’ti, bhikkhave, nandaṁ sammā vadamāno vadeyya.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>«Fuerte», bhikkhus, cabal diciendo diría a Nanda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>‘Byādhidhammomhi, byādhiṁ anatīto’ti abhiṇhaṁ paccavekkhitabbaṁ itthiyā vā purisena vā gahaṭṭhena vā pabbajitena vā.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260715T121956Z" creationid="mjaviem" creationdate="20250920T180317Z">
@@ -5739,6 +5875,14 @@ a partir de eso, escudriña con el saber.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>‘Pāsādiko’ti, bhikkhave, nandaṁ sammā vadamāno vadeyya.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>«Agraciado», bhikkhus, cabal diciendo diría a Nanda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>‘Pītippaṭisaṁvedī assasissāmī’ti sikkhati, ‘pītippaṭisaṁvedī passasissāmī’ti sikkhati; ‘sukhappaṭisaṁvedī assasissāmī’ti sikkhati, ‘sukhappaṭisaṁvedī passasissāmī’ti sikkhati; ‘cittasaṅkhārappaṭisaṁvedī assasissāmī’ti sikkhati, ‘cittasaṅkhārappaṭisaṁvedī passasissāmī’ti sikkhati; ‘passambhayaṁ cittasaṅkhāraṁ assasissāmī’ti sikkhati, ‘passambhayaṁ cittasaṅkhāraṁ passasissāmī’ti sikkhati.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260518T232311Z" creationid="mjaviem" creationdate="20260504T195638Z">
@@ -5805,6 +5949,14 @@ y se queda aferrado a eso.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260501T203216Z" creationid="mjaviem" creationdate="20260501T202620Z">
         <seg>'Pues esa agraciada de la comarca es prolífica en lo sumo de la danza y prolífica en lo sumo del canto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>‘Tibbarāgo’ti, bhikkhave, nandaṁ sammā vadamāno vadeyya.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>«De intenso interés», bhikkhus, cabal diciendo diría a Nanda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6833,6 +6985,14 @@ kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260720T223046Z" creationid="mjaviem" creationdate="20260718T165819Z">
         <seg>—Amigo, se les llama «distinciones, distinciones».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“‘kulaputto’ti, bhikkhave, nandaṁ sammā vadamāno vadeyya.</seg>
+      </tuv>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260730T141331Z">
+        <seg>«Es hijo de buena familia», bhikkhus, diciendo cabalmente se diría de Nanda.</seg>
       </tuv>
     </tu>
     <tu>
