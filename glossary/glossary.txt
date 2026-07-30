@@ -447,6 +447,9 @@ maññatha	creen
 maraṇā	muerte
 maraṇaṁ	muerte
 maraṇampi	muerte
+matta	medida
+matta	mesura
+mattaso	mesurada
 mattā	ese grado
 medhāvī	inteligentes
 mettā	benevolencia amistosa
@@ -504,6 +507,7 @@ niyato	firme
 ñāṇaṁ	percatarse
 Ñāṇañca	percepción
 ñāti	pariente
+ñū	conocedor
 okkanti	descenso
 okkanto	entrado
 oḷārikaṁ	tosca
