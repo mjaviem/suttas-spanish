@@ -2178,8 +2178,8 @@ y se queda aferrado a eso.</seg>
       <tuv lang="pi">
         <seg>Itiha tattha sampajāno hoti.</seg>
       </tuv>
-      <tuv lang="es-AR">
-        <seg>Así pues, en ese aspecto, está a sabiendas.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260730T193340Z">
+        <seg>Así es que, en ese aspecto, está a sabiendas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2810,8 +2810,8 @@ y se queda aferrado a eso.</seg>
       <tuv lang="pi">
         <seg>Kimaññatra, bhikkhave, nando indriyesu guttadvāro, bhojane mattaññū, jāgariyaṁ anuyutto, satisampajaññena samannāgato, yehi nando sakkoti paripuṇṇaṁ parisuddhaṁ brahmacariyaṁ carituṁ.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260730T191139Z">
-        <seg>Bhikkhus, ¿qué más sino que Nanda sea de puerta custodiada en las facultades, conocedor de la mesura en el comer, consagrado a estar despabilado, dotado de tener presente y a sabiendas, por lo cual Nanda es capaz de llevar una conducta santa completa y pura?</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260730T191815Z">
+        <seg>Bhikkhus, ¿qué más sería sino que Nanda sea de puerta custodiada en las facultades, conocedor de la mesura en el comer, consagrado a estar despabilado, dotado de tener presente y a sabiendas, por lo cual Nanda es capaz de conducir una conducta santa acabada y pura?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3640,16 +3640,16 @@ por buscar la disipación.</seg>
       <tuv lang="pi">
         <seg>Sace, bhikkhave, nandassa pacchimā disā āloketabbā hoti …pe… uttarā disā āloketabbā hoti … dakkhiṇā disā āloketabbā hoti … uddhaṁ ulloketabbā hoti … adho oloketabbā hoti … anudisā anuviloketabbā hoti, sabbaṁ cetasā samannāharitvā nando anudisaṁ anuviloketi: ‘evaṁ me anudisaṁ anuvilokayato nābhijjhādomanassā pāpakā akusalā dhammā anvāssavissantī’ti.</seg>
       </tuv>
-      <tuv lang="es-AR">
-        <seg>Si, bhikkhus, la dirección occidental debe ser mirada por Nanda ... la dirección septentrional debe ser mirada ... la dirección meridional debe ser mirada ... arriba debe ser mirada ... abajo debe ser mirada ... la dirección intermedia debe ser mirada en sucesión, reuniéndolo todo con el ánimo, Nanda mira en sucesión la dirección intermedia: «Así, mientras miro en sucesión la dirección intermedia, codicia y disgusto, bases malas que no hacen bien, no afluirán a mí».</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260730T194019Z">
+        <seg>Si, bhikkhus, la dirección occidental debe ser mirada por Nanda... la dirección septentrional debe ser mirada... la dirección austral debe ser mirada... arriba debe ser mirado... abajo debe ser mirado... las direcciones intermedias deben ser miradas, reuniéndolo todo con el ánimo, Nanda mira las direcciónes intermedias: «Así, mientras miro en las direcciones intermedias, la codicia y el disgusto, bases malas que no hacen bien, no me inundarán».</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="pi">
         <seg>Sace, bhikkhave, nandassa puratthimā disā āloketabbā hoti, sabbaṁ cetasā samannāharitvā nando puratthimaṁ disaṁ āloketi: ‘evaṁ me puratthimaṁ disaṁ ālokayato nābhijjhādomanassā pāpakā akusalā dhammā anvāssavissantī’ti.</seg>
       </tuv>
-      <tuv lang="es-AR">
-        <seg>Si, bhikkhus, la dirección oriental debe ser mirada por Nanda, reuniéndolo todo con el ánimo, Nanda mira la dirección oriental: «Así, mientras miro la dirección oriental, codicia y disgusto, bases malas que no hacen bien, no afluirán a mí».</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260730T193135Z">
+        <seg>Si, bhikkhus, la dirección oriental debe ser mirada por Nanda, reuniéndolo todo con el ánimo, Nanda mira la dirección oriental: «Así, mientras miro la dirección oriental, la codicia y el disgusto, bases malas que no hacen bien, no me inundarán».</seg>
       </tuv>
     </tu>
     <tu>
@@ -4497,8 +4497,8 @@ se llama lejos de la disipación.
       <tuv lang="pi">
         <seg>Tatridaṁ, bhikkhave, nandassa indriyesu guttadvāratāya hoti.</seg>
       </tuv>
-      <tuv lang="es-AR">
-        <seg>En esto, bhikkhus, consiste el tener guardada la puerta en las facultades de Nanda.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260730T192042Z">
+        <seg>En esto, bhikkhus, consiste el ser de puerta custodiada en las facultades de Nanda.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5725,8 +5725,8 @@ a partir de eso, escudriña con el saber.</seg>
       <tuv lang="pi">
         <seg>‘Balavā’ti, bhikkhave, nandaṁ sammā vadamāno vadeyya.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260730T141952Z">
-        <seg>«Es fuerte», bhikkhus, diciendo cabalmente se diría de Nanda.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260730T191701Z">
+        <seg>Bhikkhus, diciendo cabalmente se diría de Nanda «Es fuerte».</seg>
       </tuv>
     </tu>
     <tu>
@@ -5877,8 +5877,8 @@ a partir de eso, escudriña con el saber.</seg>
       <tuv lang="pi">
         <seg>‘Pāsādiko’ti, bhikkhave, nandaṁ sammā vadamāno vadeyya.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260730T150429Z">
-        <seg>«Es inspirador», bhikkhus, diciendo cabalmente se diría de Nanda.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260730T191713Z">
+        <seg>Bhikkhus, diciendo cabalmente se diría de Nanda «Es inspirador».</seg>
       </tuv>
     </tu>
     <tu>
@@ -5955,8 +5955,8 @@ y se queda aferrado a eso.</seg>
       <tuv lang="pi">
         <seg>‘Tibbarāgo’ti, bhikkhave, nandaṁ sammā vadamāno vadeyya.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260730T154127Z">
-        <seg>«Es de interés punzante», bhikkhus, diciendo cabalmente se diría de Nanda.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260730T191728Z">
+        <seg>Bhikkhus, diciendo cabalmente se diría de Nanda «Es de interés punzante».</seg>
       </tuv>
     </tu>
     <tu>
@@ -6991,8 +6991,8 @@ kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ.</seg>
       <tuv lang="pi">
         <seg>“‘kulaputto’ti, bhikkhave, nandaṁ sammā vadamāno vadeyya.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260730T141331Z">
-        <seg>«Es hijo de buena familia», bhikkhus, diciendo cabalmente se diría de Nanda.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260730T191643Z">
+        <seg>Bhikkhus, diciendo cabalmente se diría de Nanda «Es hijo de buena familia».</seg>
       </tuv>
     </tu>
     <tu>
