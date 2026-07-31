@@ -263,6 +263,7 @@ dāne	regalar
 dassanaṁ	visión
 dassano	visión
 datvā	habiendo dado
+davāya	para juego
 dayā	misericordia
 dāyādehi	herederos
 dāyādo	heredero
@@ -453,6 +454,7 @@ maṅku	mortificado
 mano	mente
 manusso	humano
 maññatha	creen
+maṇḍanāya	para embellecerse
 maraṇā	muerte
 maraṇaṁ	muerte
 maraṇampi	muerte
