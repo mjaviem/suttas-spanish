@@ -357,7 +357,6 @@ idha	aquí
 imassa	por él
 ime	estos
 imehi	aquí
-indriya	facultades
 iṭṭhā	deseadas
 itthattāyā	el aquí
 iṭṭhāya	deseado
@@ -1010,3 +1009,4 @@ yoga	sometimiento
 yogo	consagrarse a
 yoniso	cuidadosa
 yonisomanasikāro	prestar cuidadosa atención
+indriya	facultades sensoriales
