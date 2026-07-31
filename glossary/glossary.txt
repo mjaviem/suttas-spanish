@@ -92,6 +92,7 @@ antamaso	incluso
 antaradhāyi	fue interpuesto
 ante	extremos
 anto	extremo
+anuggaha	respaldar
 anukampakena	compasión
 anukampaṁ	compasión
 anukampantā	compasión
@@ -450,7 +451,7 @@ manāpo	grato
 manasā	mental
 manasi karoto	prestar atención
 manasikāro	el prestar atención
-maṇḍanāya	para embellecerse
+maṇḍanāya	para embellecimiento
 maṅku	mortificado
 mano	mente
 manusso	humano
@@ -622,6 +623,7 @@ paṭibaddha	depende
 paṭicca	supeditado
 paṭiccasamuppādaṁ	surgimiento supeditado
 paṭiccasamuppādo	surgimiento supeditado
+paṭihaṅkhāmi	responderé
 patigādhappatto	alcanza asiento
 pāṭikaṅkhā	cabe esperar
 pāṭikaṅkhaṁ	cabe esperar
@@ -877,6 +879,7 @@ upapajjatī"ti	va hacia
 upapajjeyya	ir hacia
 upapajjissāmī	iré hacia
 upapatti	advenimiento
+uparati	terminar
 upāsakaṁ	seguidor laico
 upāsake	seguidores laicos
 upasamāya	paz
@@ -979,7 +982,6 @@ vuddho	maduro
 vūpakaṭṭho	retirado
 vūpasamo	aquietamiento
 vūpasantā	amainado
-vuṭṭhānaṁ	se termina
 vuṭṭhāti	sale
 yācasī	pretendes
 yāpanāya	manutención
