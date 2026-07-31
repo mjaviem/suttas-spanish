@@ -46,6 +46,8 @@ adinnādānā	tomar lo que no es dado
 adukkhamasukhampi	ni satisfacción ni dificultad
 agāraṁ	casa
 āgati	venida
+āhāraṁ	ingesta
+āhāreti	ingiere
 ājānāsi	comprende
 ājāneyyaṁ	reconocer
 ajeyyo	imbatible
