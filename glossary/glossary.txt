@@ -1,6 +1,7 @@
 # Glossary in tab-separated format -*- coding: utf-8 -*-
 ābādhāya	padecimiento
 ābādhikaṁ	padeciendo
+abbhatthaṁ	de vuelta a casa
 abbhuggacchati	trasciende
 abhabbo	incapaz
 abhijjhā	codicia
@@ -171,11 +172,11 @@ atthasaṁhitā	pertinentes
 atthavasaṁ	utilidad
 atthi	hay
 atthitā	el hay
+āvaraṇīyehi	obstructoras
 avatthuka	infundada
 avihiṁsā	no maltrato
 avijjā	desconocimiento
 avisayasmiṁ	alcance
-āvaraṇīyehi	obstructoras
 āvuso	amigos
 ayaṁ	esta, este
 ayameva	precisamente
@@ -357,6 +358,7 @@ idha	aquí
 imassa	por él
 ime	estos
 imehi	aquí
+indriya	facultades sensoriales
 iṭṭhā	deseadas
 itthattāyā	el aquí
 iṭṭhāya	deseado
@@ -608,8 +610,8 @@ pariññāñca	comprensión plena
 pariññāya	comprensión plena
 pariññeyyaṁ	que debe ser comprendida plenamente
 paripuṇṇaṁ	acabada
-parisodheti	purificar (algo de)
 pāripūriyā	colmar
+parisodheti	purificar (algo de)
 parisuddhaṁ	pura
 parivitakko	vacilación
 pariyādiṇṇaṁ	agotada
@@ -625,8 +627,8 @@ paṭibaddha	depende
 paṭicca	supeditado
 paṭiccasamuppādaṁ	surgimiento supeditado
 paṭiccasamuppādo	surgimiento supeditado
-paṭihaṅkhāmi	responderé
 patigādhappatto	alcanza asiento
+paṭihaṅkhāmi	responderé
 pāṭikaṅkhā	cabe esperar
 pāṭikaṅkhaṁ	cabe esperar
 paṭikkanta	habiendo regresado
@@ -889,6 +891,7 @@ upāsake	seguidores laicos
 upasamāya	paz
 upasampajja	alcanzando
 upāsikā	seguidora laica
+upaṭṭhahanti	asisten
 upavadati	reprocha
 upaya	arrimarse
 upāyāsa	desazón
@@ -934,6 +937,7 @@ vicāra	deliberación
 vicikicchati	tiene dudas
 viddhaṁsenti	derrumban
 vidhamanti	destrozan
+viditā	conocidas
 viditvā	percibir
 vidū	entendedor
 vighātaṁ	caos
@@ -990,16 +994,16 @@ vūpasamo	aquietamiento
 vūpasantā	amainado
 vuṭṭhāti	sale
 yācasī	pretendes
-yāmaṁ	vigilia
-yāpanāya	manutención
-yātrā	vía
 yadidaṁ	es decir
 yajamānānaṁ	ofrendantes
 yaṁ	lo que
+yāmaṁ	vigilia
+yāpanāya	manutención
 yasmā	puesto que
 yathā	porque
 yathābhūtaṁ	en verdad
 yato	en donde
+yātrā	vía
 yiṭṭhaṁ	sacrificio
 yo	cual sea
 yo	cualquier
@@ -1009,7 +1013,3 @@ yoga	sometimiento
 yogo	consagrarse a
 yoniso	cuidadosa
 yonisomanasikāro	prestar cuidadosa atención
-indriya	facultades sensoriales
-abbhatthaṁ	de vuelta a casa
-upaṭṭhahanti	asisten
-viditā	conocidas
