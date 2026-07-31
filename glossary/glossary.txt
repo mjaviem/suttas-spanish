@@ -175,6 +175,7 @@ avatthuka	infundada
 avihiṁsā	no maltrato
 avijjā	desconocimiento
 avisayasmiṁ	alcance
+āvaraṇīyehi	obstructoras
 āvuso	amigos
 ayaṁ	esta, este
 ayameva	precisamente
@@ -234,6 +235,7 @@ byāpajjati	repudia
 byāpanna	dañino
 cāga	desprenderse
 cakkhu	ojo
+caṅkamena	yendo y viniendo
 caranti	se conducen
 cārittaṁ	andanzas
 carituṁ	conducir
@@ -606,6 +608,7 @@ pariññāñca	comprensión plena
 pariññāya	comprensión plena
 pariññeyyaṁ	que debe ser comprendida plenamente
 paripuṇṇaṁ	acabada
+parisodheti	purificar (algo de)
 pāripūriyā	colmar
 parisuddhaṁ	pura
 parivitakko	vacilación
@@ -784,6 +787,7 @@ sātaṁ	agrado
 sati	estar presente
 sati	tener presente
 satiyā	tener presente
+sato	teniendo presente
 sattā	sujetos
 sattānaṁ	sujetos
 satthā	maestro
@@ -986,6 +990,7 @@ vūpasamo	aquietamiento
 vūpasantā	amainado
 vuṭṭhāti	sale
 yācasī	pretendes
+yāmaṁ	vigilia
 yāpanāya	manutención
 yātrā	vía
 yadidaṁ	es decir
