@@ -218,6 +218,7 @@ bhinnānaṁ	partidos
 bhiyyobhāvāya	acrecentamiento
 bho	señor
 bhogā	riqueza
+bhojane	el comer
 bhoto	señor
 bhūmi	terreno
 brahmacārayo	conducta santa
@@ -836,6 +837,7 @@ tathāni	auténticas
 tathārūpiṁ	tal tipo
 tato	de ahí que
 tatra	en este asunto
+tatridaṁ	esto aquí
 tattha	en ese aspecto
 tenañjaliṁ	presentaron respetos con las palmas unidas
 tenupasaṅkami	se acercó
@@ -928,6 +930,7 @@ vijānāti	diferencia
 vijānato	diferencia
 vijjā	conocimiento
 vikiranti	esparcen
+vikīḷaniyaṁ	no poder jugar
 viloketi	observa
 vimocayaṁ	liberando
 vimuttiyā	liberación
