@@ -58,7 +58,6 @@ ajjhosāya	aferrado
 ajjhupagato	accedido
 akāliko	inmediato
 ākappa	decoro
-ākappo	reprocha
 ākāsaṁ	cielo
 akkhamo	intolerante
 akkhātā	cuenta
@@ -657,6 +656,7 @@ phalaṁ	fruto
 pharusa	ásperas
 pharusāya	aspereza
 phasso	contacto
+phāsu	suave
 phoṭṭhabbā	tangibles
 phusasi	tocado
 piṇḍāya	para la comida de caridad
@@ -885,6 +885,7 @@ upāsake	seguidores laicos
 upasamāya	paz
 upasampajja	alcanzando
 upāsikā	seguidora laica
+upavadati	reprocha
 upaya	arrimarse
 upāyāsa	desazón
 upekkhā	ecuanimidad
@@ -933,6 +934,7 @@ viditvā	percibir
 vidū	entendedor
 vighātaṁ	caos
 viharati	mora
+vihāro	morada
 vihesā	maltrato
 vihiṁsā	maltrato
 vijānāti	diferencia
