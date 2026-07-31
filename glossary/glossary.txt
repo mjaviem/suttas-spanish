@@ -546,6 +546,7 @@ paccavekkhitabbaṁ	debe ser repasado
 paccavekkhitabbāni	deben ser repasadas
 paccayo	requisito
 paccesi	tomas por
+paccuṭṭhāya	levantándose
 pacīyati	acopiada
 padahati	hacer frente
 paduṭṭha	podridas
