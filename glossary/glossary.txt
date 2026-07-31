@@ -849,6 +849,7 @@ tenupasaṅkami	se acercó
 ṭhānāni	situaciones
 ṭhitā	permanece
 ṭhitassa	lo permanente
+ṭhitiyā	permanencia
 ṭhito	permanece
 tibba	punzante
 tiṭṭhati	se queda
@@ -916,10 +917,11 @@ vepullāya	plenitud
 vera	hostilidad
 veramaṇī	abstención
 veti	cesa
-vevaṇṇiyamhi	desfiguración
+vevaṇṇiyamhi	desdibujamiento
 veyyākaraṇasmiṁ	explicación
 vibhajati	analiza
 vibhavataṇhā	desaparición
+vibhūsanāya	engalanarse
 vicāra	deliberación
 vicikicchati	tiene dudas
 viddhaṁsenti	derrumban
@@ -980,6 +982,7 @@ vūpasantā	amainado
 vuṭṭhānaṁ	se termina
 vuṭṭhāti	sale
 yācasī	pretendes
+yāpanāya	manutención
 yadidaṁ	es decir
 yajamānānaṁ	ofrendantes
 yaṁ	lo que
