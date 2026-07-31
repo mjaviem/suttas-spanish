@@ -235,8 +235,8 @@ byāpanna	dañino
 cāga	desprenderse
 cakkhu	ojo
 caranti	se conducen
-carituṁ	conducir
 cārittaṁ	andanzas
+carituṁ	conducir
 caritvā	habiendo deambulado
 cariya	conducta
 cariyā	conducta
@@ -255,8 +255,8 @@ chando	deseo
 cittaṁ	ánimo
 cīvara	túnica
 cuti	ocaso
-dakkhiṇā	donación
 dakkhiṇā	austral
+dakkhiṇā	donación
 dakkhiṇaṁ	donación
 dāna	regalar
 dāne	regalar
@@ -333,8 +333,8 @@ gāthāya	verso
 gati	trayecto
 gihi	quien tiene hogar
 gihinā	por quien tiene hogar
-gutta	custodiada
 gotta	clan
+gutta	custodiada
 haññantu	destrozados
 hāpetun	menoscabar
 hāyati	disminuye
@@ -352,15 +352,15 @@ hutaṁ	ofrenda
 icchā	anhelo
 idaṁ	esto
 idha	aquí
-indriya	facultades
 imassa	por él
 ime	estos
 imehi	aquí
+indriya	facultades
 iṭṭhā	deseadas
 itthattāyā	el aquí
 iṭṭhāya	deseado
-janakāyo	multitud
 jāgariyaṁ	estar despabilado
+janakāyo	multitud
 jānāti	entiende
 janeti	engendra
 jarā	decaimiento
@@ -450,18 +450,18 @@ manāpo	grato
 manasā	mental
 manasi karoto	prestar atención
 manasikāro	el prestar atención
+maṇḍanāya	para embellecerse
 maṅku	mortificado
 mano	mente
 manusso	humano
 maññatha	creen
-maṇḍanāya	para embellecerse
 maraṇā	muerte
 maraṇaṁ	muerte
 maraṇampi	muerte
+mattā	ese grado
 matta	medida
 matta	mesura
 mattaso	mesurada
-mattā	ese grado
 medhāvī	inteligentes
 mettā	benevolencia amistosa
 micchā	equivocada
@@ -601,13 +601,13 @@ parikkhitta	echada alrededor
 pariḷāha	ardor
 parimutto	emancipado
 parinibbāyī	disipado completamente
-paripuṇṇaṁ	acabada
-parisuddhaṁ	pura
 pariññā	comprensión plena
 pariññāñca	comprensión plena
 pariññāya	comprensión plena
 pariññeyyaṁ	que debe ser comprendida plenamente
+paripuṇṇaṁ	acabada
 pāripūriyā	colmar
+parisuddhaṁ	pura
 parivitakko	vacilación
 pariyādiṇṇaṁ	agotada
 pariyesanā	pesquisas
@@ -635,6 +635,7 @@ paṭipannā	están dedicados
 paṭipanno	están dedicados
 paṭippassaddho	aplacado
 paṭisaṁvedeti	experimenta
+paṭisaṅkhā	reflexionando
 paṭisañcikkhati	sopesa
 paṭisaraṇo	refugio
 paṭisevati	frecuenta
@@ -717,6 +718,7 @@ samagga	unión
 samaggānaṁ	juntos
 samaṇā	hombres santos
 samannāgato	está dotado
+samannāharitvā	habiendo reunido
 samaṇo	hombre santo
 samanupassāmi	contemplar
 samāpanno	ha emprendido
@@ -848,8 +850,8 @@ tenupasaṅkami	se acercó
 ṭhitā	permanece
 ṭhitassa	lo permanente
 ṭhito	permanece
-tiṭṭhati	se queda
 tibba	punzante
+tiṭṭhati	se queda
 tuṇhībhūtā	en silencio
 tveva	pero
 ubhayabyābādhāyapi	abrumar a los dos
@@ -931,8 +933,8 @@ vihiṁsā	maltrato
 vijānāti	diferencia
 vijānato	diferencia
 vijjā	conocimiento
-vikiranti	esparcen
 vikīḷaniyaṁ	no poder jugar
+vikiranti	esparcen
 viloketi	observa
 vimocayaṁ	liberando
 vimuttiyā	liberación
@@ -994,5 +996,3 @@ yoga	sometimiento
 yogo	consagrarse a
 yoniso	cuidadosa
 yonisomanasikāro	prestar cuidadosa atención
-paṭisaṅkhā	reflexionando
-samannāharitvā	habiendo reunido
