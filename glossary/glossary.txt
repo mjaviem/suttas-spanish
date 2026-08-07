@@ -699,6 +699,7 @@ sabbaṁ	del todo, toda, el todo
 sabbaso	del todo
 sabbe	todos
 sabrahmacārī	compañeros en la conducta santa
+sacca	verdad
 sacchikātabbaṁ	que debe ser atestiguado
 sacchikatvā	atestiguar
 saddā	sonido
@@ -1013,4 +1014,3 @@ yoga	sometimiento
 yogo	consagrarse a
 yoniso	cuidadosa
 yonisomanasikāro	prestar cuidadosa atención
-sacca	verdad
