@@ -66,8 +66,8 @@ akusalā	que no hacen bien
 akusalānaṁ	que no hacen bien
 akusale	que no hacen bien
 akusalehi	que no hacen bien
-alaṃ	suficiente
-allīyanti	apega
+alaṁ	suficiente
+allīyanti	apegan
 āloko	luz
 āmantesi	se dirigió
 āmisa	mundano
@@ -83,7 +83,7 @@ anavasesaṁ	sin residuo
 aṇḍakā	iracundas
 aniccā	inconstantes
 aniccaṁ	inconstante
-Anidhānavatiṁ	sin valor
+anidhānavatiṁ	sin valor
 anīghā	tranquilos
 animitto	sin rasgo
 ānisaṁsā	ventajas
@@ -103,6 +103,7 @@ anuppadātā	sostenedor
 anuppatto	alcanzado
 anusāsanī	instrucción
 anusayā	lo subyacente
+anuttara	no sobrepasable
 anuṭṭhitā	habituado
 anuvicca	averiguado
 anuyutto	consagrado
@@ -184,7 +185,7 @@ ayameva	precisamente
 āyatanānaṁ	ámbitos
 āyu	vitalidad
 bahulīkaroti	reitera
-bahulīkatā	reiteraremos
+bahulīkatā	reiterado
 bahulīkato	reitera
 bahussutā	bien escuchadas
 bahussuto	de mucho escuchar
@@ -228,7 +229,7 @@ brāhmaṇā	brahmanes
 buddhe	despierto
 byādhi	enfermedad
 byādhiṁ	afecciones
-byantīhonti	es finalizado
+byantīhonti	son finalizados
 byāpāda	malquerencia
 byāpādo	malquerencia
 byāpajjati	repudia
@@ -257,8 +258,8 @@ chando	deseo
 cittaṁ	ánimo
 cīvara	túnica
 cuti	ocaso
-dakkhiṇā	sur
 dakkhiṇā	donación
+dakkhiṇā	sur
 dakkhiṇaṁ	donación
 dāna	regalar
 dāne	regalar
@@ -279,7 +280,7 @@ dhammehi	bases
 dhammikā	genuinas
 dhammo	bases
 dhanā	tesoros
-dhanāni	tesoro
+dhanāni	tesoros
 dhanāyanti	atesorar
 dhāreti	debe
 dhāretu	tenga por
@@ -323,7 +324,7 @@ etadavoca	dijo esto
 ettāvatā	en esta medida
 ettha	sobre ese punto
 evaṁ	así
-Evameva	Así también
+evameva	así también
 gahapatayo	amos de casa
 gahapati	amo de casa
 gahapatīhi	amos de casa
@@ -356,7 +357,7 @@ idaṁ	esto
 idha	aquí
 imassa	por él
 ime	estos
-imehi	aquí
+imehi	estas
 indriya	facultades sensoriales
 iṭṭhā	deseadas
 itthattāyā	el aquí
@@ -382,8 +383,8 @@ kallaṁ	hábil
 kalyāṇī	agraciada
 kalyāṇo	bueno
 kāma	sensualismo
-kāmaguṇā	hebras de la sensualismo
-kāmaguṇe	hebras de la sensualismo
+kāmaguṇā	hebras del sensualismo
+kāmaguṇe	hebras del sensualismo
 kāmānaṁ	sensualismo
 kāmehi	sensualismo
 kāmesu	sensualismo
@@ -393,7 +394,6 @@ kammānaṁ	actos
 kammena	actuación
 kaṅkhati	está pendiente
 kantā	amenos
-kantāya	ameno
 kappeti	acomoda
 kārako	hacedor
 karaṇīyaṁ	debe hacer
@@ -526,7 +526,6 @@ okkanto	entrado
 oḷārikaṁ	tosca
 opaneyyikaṁ	accesible
 opaneyyiko	accesible
-opapātika	no gestados
 opapātikā	no gestados
 opapātiko	no gestado
 orambhāgiyānaṁ	pertenecientes a lo inferior
@@ -582,7 +581,7 @@ paññāya	sabiduría
 paññāyati	se sabe de
 pāpakā	malas
 pāpakānaṁ	malas
-pāpako	malas
+pāpako	malo
 parabyābādhāyapi	abrumar a otro
 paraṁ	después
 parama	sumo
@@ -760,14 +759,14 @@ saṁvarañca	contención
 saṁvaro	contención
 saṁvattanti	lleva a
 saṁyojanānaṁ	enlaces
-saṁyojanāni	enlace
+saṁyojanāni	enlaces
 sandhātā	unidor
 sandiṭṭhikaṁ	patente
 sandiṭṭhiko	patente
 saṅkappo	intención
 saṅkhārā	constituciones
 saṅkhataṁ	constituida
-sankhatamabhisaṅkharontīti	constituye lo constituido
+saṅkhatamabhisaṅkharontīti	constituye lo constituido
 saṅkhittena	concisamente
 sannicayo	acumula
 sannipateyya	reuniría
@@ -881,7 +880,6 @@ upalabbhati	se obtiene
 upamā	parábola
 upapajjanti	van hacia
 upapajjati	va hacia
-upapajjatī"ti	va hacia
 upapajjeyya	ir hacia
 upapajjissāmī	iré hacia
 upapatti	advenimiento
@@ -900,6 +898,7 @@ upeti	se acerca
 uppādetukāmo	deseando levantar
 uppādo	un irrumpir
 uppajjati	surge
+uttari	más allá
 vācā	palabras
 vācaṁ	palabras
 vacasā	recitadas
@@ -1012,5 +1011,3 @@ yoga	sometimiento
 yogo	consagrarse a
 yoniso	cuidadosa
 yonisomanasikāro	prestar cuidadosa atención
-anuttara	no sobrepasable
-uttari	más allá
