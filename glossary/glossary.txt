@@ -186,7 +186,7 @@ ayameva	precisamente
 āyu	vitalidad
 bahulīkaroti	reitera
 bahulīkatā	reiterado
-bahulīkato	reitera
+bahulīkato	reiterada
 bahussutā	bien escuchadas
 bahussuto	de mucho escuchar
 balavā	fuerte
@@ -518,7 +518,6 @@ niyāma	norma
 niyato	firme
 ñāṇākārāṇī	percatarse
 ñāṇaṁ	percatarse
-Ñāṇañca	percepción
 ñāti	pariente
 ñū	conocedor
 okkanti	descenso
@@ -929,7 +928,6 @@ veti	cesa
 vevaṇṇiyamhi	desdibujamiento
 veyyākaraṇasmiṁ	explicación
 vibhajati	analiza
-vibhavataṇhā	desaparición
 vibhūsanāya	engalanarse
 vicāra	deliberación
 vicikicchati	tiene dudas
