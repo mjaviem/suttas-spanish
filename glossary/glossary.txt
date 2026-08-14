@@ -491,7 +491,7 @@ nibbindati	se hastía
 niccaṁ	constante
 nidāna	origen
 nijjhānaṁ	profundización
-nikaṭṭha	recogido
+nikaṭṭha	retirado
 nimittaṁ	rasgo
 nimujjati	se sumerge
 nirāmisāpi	no mundana
@@ -723,7 +723,7 @@ samagga	unión
 samaggānaṁ	juntos
 samaṇā	hombres santos
 samannāgato	está dotado
-samannāharitvā	habiendo reunido
+samannāharitvā	habiendo recogido
 samaṇo	hombre santo
 samanupassāmi	contemplar
 samāpanno	ha emprendido
