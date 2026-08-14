@@ -589,7 +589,7 @@ paribbājakā	peregrinos
 paribbājakānaṁ	peregrinos
 paribbājakehi	peregrinos
 paribbājako	peregrino
-paricitā	consolidadas
+paricitā	reunidas
 parideva	lamentos
 parihānañhetaṁ	menguar
 pariharati	se mantiene
@@ -767,8 +767,8 @@ saṅkhārā	constituciones
 saṅkhataṁ	constituida
 saṅkhatamabhisaṅkharontīti	constituye lo constituido
 saṅkhittena	concisamente
-sannicayo	acumula
-sannipateyya	reuniría
+sannicayo	colecciona
+sannipateyya	concurriría
 santike	cercana
 santike	cercanía
 santo	presentes
