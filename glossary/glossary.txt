@@ -23,7 +23,6 @@ abhisajjana	bruscas
 abhisamparāyaṁ	ulteriores
 abhivadanti	pregonan
 abhivadati	acoge
-abhivādetvā	hicieron reverencias
 abrahmacariyā	conducta no santa
 abyābajjha	alivio
 abyābajjhā	alivio
@@ -1011,3 +1010,4 @@ yoniso	cuidadosa
 yonisomanasikāro	prestar cuidadosa atención
 tatheva	tal cual
 ṭhassati	permanezca
+abhivādetvā	habiendo hecho reverencias
