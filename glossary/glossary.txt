@@ -283,7 +283,7 @@ dhanāni	tesoros
 dhanāyanti	atesorar
 dhāreti	debe
 dhāretu	tenga por
-dharo	retiene
+dharo	quien retiene
 dhātā	recordadas
 dhuvaṁ	continua
 dinnaṁ	lo dado
@@ -395,7 +395,7 @@ kaṅkhati	está pendiente
 kantā	amenos
 kappeti	acomoda
 kārako	hacedor
-karaṇīyaṁ	debe hacer
+karaṇīyaṁ	se debe hacer
 karaṇīyo	hay que
 Katame	Qué, Cuáles
 kathaṁ	charla
@@ -537,7 +537,7 @@ pabhanguñca	frágil
 paccabhāsi	respondió
 paccakkhāya	rechazando
 paccassosuṁ	contestaron
-paccavekkhato	repasa
+paccavekkhato	quien repasa
 paccavekkhitabba	que debe ser repasado
 paccavekkhitabbaṁ	debe ser repasado
 paccavekkhitabbāni	deben ser repasadas
@@ -551,7 +551,7 @@ paggaṇhāti	aplica
 pahānāya	abandonar
 pahātabbaṁ	que debe ser abandonado
 pahātabbo	que debe ser abandonado
-pahāya	abandonado
+pahāya	habiendo abandonado
 pahīne	abandona
 pahitatto	entregado
 pahīyanti	abandonadas
@@ -766,7 +766,7 @@ saṅkhārā	constituciones
 saṅkhataṁ	constituida
 saṅkhatamabhisaṅkharontīti	constituye lo constituido
 saṅkhittena	concisamente
-sannicayo	colecciona
+sannicayo	quien colecciona
 sannipateyya	concurriría
 santike	cercana
 santike	cercanía
