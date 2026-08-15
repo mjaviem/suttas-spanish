@@ -552,7 +552,7 @@ pahānāya	abandonar
 pahātabbaṁ	que debe ser abandonado
 pahātabbo	que debe ser abandonado
 pahāya	habiendo abandonado
-pahīne	abandona
+pahīne	abandonado
 pahitatto	entregado
 pahīyanti	abandonadas
 pahīyati	es abandonado
@@ -619,7 +619,7 @@ pāsāvinī	prolífica
 pasīdati	se alegra
 passambhayaṁ	apaciguando
 patarati	atraviesa
-paṭibaddha	depende
+paṭibaddha	es dependiente
 paṭicca	supeditado
 paṭiccasamuppādaṁ	surgimiento supeditado
 paṭiccasamuppādo	surgimiento supeditado
