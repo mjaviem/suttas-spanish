@@ -95,7 +95,7 @@ anuggaha	respaldar
 anukampakena	compasión
 anukampaṁ	compasión
 anukampantā	compasión
-anumoditvā	alabó
+anumoditvā	habiendo alabado
 anupassī	observando
 anupekkhita	reconsideradas
 anuppadātā	sostenedor
@@ -196,7 +196,7 @@ bhagavā	Dichoso
 Bhagavant	Dichoso
 Bhagavato	Dichoso
 bhajanti	se vinculan
-bhaññamāne	relataba
+bhaññamāne	se relataba
 bhāsitā	es de hablar
 bhāsitaṁ	lo hablado
 bhāsitassa	lo hablado
@@ -207,7 +207,7 @@ bhavantaṁ	señor
 bhāvetabbā	que debe ser suscitado
 bhāveti	suscita
 bhavissati	será
-bhāvito	suscita
+bhāvito	es suscitada
 bhavo	devenir
 bhayā	temor
 bhedā	división
