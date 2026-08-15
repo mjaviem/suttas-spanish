@@ -592,7 +592,6 @@ paricitā	reunidas
 parideva	lamentos
 parihānañhetaṁ	menguar
 pariharati	se mantiene
-parihāyāmi	menguan
 parikkhayā	extinción
 parikkhayāya	extinción
 parikkhīṇaṁ	consumida
@@ -623,7 +622,6 @@ paṭibaddha	es dependiente
 paṭicca	supeditándose
 paṭiccasamuppādaṁ	surgimiento supeditado
 paṭiccasamuppādo	surgimiento supeditado
-patigādhappatto	alcanza asiento
 paṭihaṅkhāmi	responderé
 pāṭikaṅkhā	cabe esperar
 pāṭikaṅkhaṁ	cabe esperar
@@ -634,7 +632,6 @@ paṭinissagga	renuncia
 paṭipadā	dedicación
 paṭipadāya	dedicación
 paṭipannā	están dedicados
-paṭipanno	están dedicados
 paṭippassaddho	aplacado
 paṭisaṁvedeti	experimenta
 paṭisaṅkhā	reflexionando
@@ -694,7 +691,6 @@ sabba	todo
 sabbaṁ	del todo, toda, el todo
 sabbaso	del todo
 sabbe	todos
-sabrahmacārī	compañeros en la conducta santa
 sacca	verdad
 sacchikātabbaṁ	que debe ser atestiguado
 sacchikatvā	atestiguar
@@ -755,7 +751,6 @@ samuppādo	surgimiento
 samuppanno	ha surgido
 saṁvarañca	contención
 saṁvaro	contención
-saṁvattanti	lleva a
 saṁyojanānaṁ	enlaces
 saṁyojanāni	enlaces
 sandhātā	unidor
@@ -764,7 +759,6 @@ sandiṭṭhiko	patente
 saṅkappo	intención
 saṅkhārā	constituciones
 saṅkhataṁ	constituida
-saṅkhatamabhisaṅkharontīti	constituye lo constituido
 saṅkhittena	concisamente
 sannicayo	quien colecciona
 sannipateyya	concurriría
@@ -793,7 +787,6 @@ satthā	maestro
 sātthaṁ	con sentido
 satto	sujeto
 sāvakānaṁ	discípulos
-sāvetvā	hicieron escuchar
 senāsanāni	aposentos
 seyyathāpi	igual que
 seyyathidaṁ	lo siguiente
@@ -862,7 +855,6 @@ tuṇhībhūtā	en silencio
 tveva	pero
 ubhayabyābādhāyapi	abrumar a los dos
 ubho	ambos
-ucchijjantu	despedazados
 udapādi	surgió
 ujubhūto	recta
 ummujjitvā	habiendo emergido
@@ -908,7 +900,6 @@ vaḍḍhati	crece
 vādī	predica
 vādo	decir
 vagga	separación
-vajjhantu	masacrados
 vāsaṁ	estancia
 vatthu	sustrato
 vāyamati	se empeña
@@ -975,7 +966,6 @@ visayo	campo
 viseso	diferencia
 vitakka	consideración
 vitakkavicārānaṁ	consideración y deliberación
-vītivatto	ha trascendido
 vitta	posesiones
 vitthārena	extensamente
 vivekajaṁ	nacida de apartarse
@@ -1011,3 +1001,13 @@ yonisomanasikāro	prestar cuidadosa atención
 tatheva	tal cual
 ṭhassati	permanezca
 abhivādetvā	habiendo hecho reverencias
+parihāyāmi	estoy menguando
+patigādhappatto	quien alcanza asiento
+paṭipanno	está dedicado
+sabrahmacārī	compañero en la conducta santa
+saṁvattanti	llevan a
+saṅkhatamabhisaṅkharontīti	constituyen lo constituido
+sāvetvā	habiendo hecho escuchar
+ucchijjantu	sean despedazados
+vajjhantu	sean masacrados
+vītivatto	trascendido
