@@ -23,6 +23,7 @@ abhisajjana	bruscas
 abhisamparāyaṁ	ulteriores
 abhivadanti	pregonan
 abhivadati	acoge
+abhivādetvā	habiendo hecho reverencias
 abrahmacariyā	conducta no santa
 abyābajjha	alivio
 abyābajjhā	alivio
@@ -592,6 +593,7 @@ paricitā	reunidas
 parideva	lamentos
 parihānañhetaṁ	menguar
 pariharati	se mantiene
+parihāyāmi	estoy menguando
 parikkhayā	extinción
 parikkhayāya	extinción
 parikkhīṇaṁ	consumida
@@ -622,6 +624,7 @@ paṭibaddha	es dependiente
 paṭicca	supeditándose
 paṭiccasamuppādaṁ	surgimiento supeditado
 paṭiccasamuppādo	surgimiento supeditado
+patigādhappatto	quien alcanza asiento
 paṭihaṅkhāmi	responderé
 pāṭikaṅkhā	cabe esperar
 pāṭikaṅkhaṁ	cabe esperar
@@ -632,6 +635,7 @@ paṭinissagga	renuncia
 paṭipadā	dedicación
 paṭipadāya	dedicación
 paṭipannā	están dedicados
+paṭipanno	está dedicado
 paṭippassaddho	aplacado
 paṭisaṁvedeti	experimenta
 paṭisaṅkhā	reflexionando
@@ -691,6 +695,7 @@ sabba	todo
 sabbaṁ	del todo, toda, el todo
 sabbaso	del todo
 sabbe	todos
+sabrahmacārī	compañero en la conducta santa
 sacca	verdad
 sacchikātabbaṁ	que debe ser atestiguado
 sacchikatvā	atestiguar
@@ -751,6 +756,7 @@ samuppādo	surgimiento
 samuppanno	ha surgido
 saṁvarañca	contención
 saṁvaro	contención
+saṁvattanti	llevan a
 saṁyojanānaṁ	enlaces
 saṁyojanāni	enlaces
 sandhātā	unidor
@@ -759,6 +765,7 @@ sandiṭṭhiko	patente
 saṅkappo	intención
 saṅkhārā	constituciones
 saṅkhataṁ	constituida
+saṅkhatamabhisaṅkharontīti	constituyen lo constituido
 saṅkhittena	concisamente
 sannicayo	quien colecciona
 sannipateyya	concurriría
@@ -787,6 +794,7 @@ satthā	maestro
 sātthaṁ	con sentido
 satto	sujeto
 sāvakānaṁ	discípulos
+sāvetvā	habiendo hecho escuchar
 senāsanāni	aposentos
 seyyathāpi	igual que
 seyyathidaṁ	lo siguiente
@@ -837,6 +845,7 @@ tassa	de él
 tassa	para él
 tathāni	auténticas
 tathārūpiṁ	tal tipo
+tatheva	tal cual
 tato	de ahí que
 tatra	en este asunto
 tatridaṁ	esto aquí
@@ -845,6 +854,7 @@ tenañjaliṁ	presentaron respetos con las palmas unidas
 tenupasaṅkami	se acercó
 ṭhāna	situación
 ṭhānāni	situaciones
+ṭhassati	permanezca
 ṭhitā	permanece
 ṭhitassa	lo permanente
 ṭhitiyā	permanencia
@@ -855,6 +865,7 @@ tuṇhībhūtā	en silencio
 tveva	pero
 ubhayabyābādhāyapi	abrumar a los dos
 ubho	ambos
+ucchijjantu	sean despedazados
 udapādi	surgió
 ujubhūto	recta
 ummujjitvā	habiendo emergido
@@ -900,6 +911,7 @@ vaḍḍhati	crece
 vādī	predica
 vādo	decir
 vagga	separación
+vajjhantu	sean masacrados
 vāsaṁ	estancia
 vatthu	sustrato
 vāyamati	se empeña
@@ -966,6 +978,7 @@ visayo	campo
 viseso	diferencia
 vitakka	consideración
 vitakkavicārānaṁ	consideración y deliberación
+vītivatto	trascendido
 vitta	posesiones
 vitthārena	extensamente
 vivekajaṁ	nacida de apartarse
@@ -998,16 +1011,3 @@ yoga	sometimiento
 yogo	consagrarse a
 yoniso	cuidadosa
 yonisomanasikāro	prestar cuidadosa atención
-tatheva	tal cual
-ṭhassati	permanezca
-abhivādetvā	habiendo hecho reverencias
-parihāyāmi	estoy menguando
-patigādhappatto	quien alcanza asiento
-paṭipanno	está dedicado
-sabrahmacārī	compañero en la conducta santa
-saṁvattanti	llevan a
-saṅkhatamabhisaṅkharontīti	constituyen lo constituido
-sāvetvā	habiendo hecho escuchar
-ucchijjantu	sean despedazados
-vajjhantu	sean masacrados
-vītivatto	trascendido
