@@ -345,7 +345,7 @@ hāyatiyeva	disminuye
 hetaṁ	ciertamente
 hetu	razón
 hi	por cierto
-hidaṁ	de hecho
+hidaṁ	realmente
 hīnaṁ	ínfimas
 hirī	avergonzarse
 hirīmā	vergüenza
@@ -973,7 +973,7 @@ virāgāya	desinterés
 vīriyaṁ	esfuerzo
 visaṁsaṭṭhā	disociadas
 visatto	enredado
-visayo	campo
+visayo	entorno
 viseso	diferencia
 vitakka	consideración
 vitakkavicārānaṁ	consideración y deliberación
