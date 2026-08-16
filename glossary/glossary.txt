@@ -106,6 +106,7 @@ anusayā	lo subyacente
 anuttara	no sobrepasable
 anuṭṭhitā	habituado
 anuvicca	averiguado
+anuviloketi	inspecciona
 anuyutto	consagrado
 anvāssavissantī	inundarán
 aññathābhāvī	ambigua, equívoca
@@ -947,7 +948,7 @@ vijānato	diferencia
 vijjā	conocimiento
 vikīḷaniyaṁ	no poder jugar
 vikiranti	esparcen
-viloketi	observa
+viloketi	inspecciona
 vimocayaṁ	liberando
 vimuttiyā	liberación
 vinābhāvo	separación
