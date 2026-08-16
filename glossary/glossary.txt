@@ -212,10 +212,10 @@ bhavissati	será
 bhāvito	es suscitada
 bhavo	devenir
 bhayā	temor
-bhedā	división
-bhedāya	división
-bhedo	división
-bhettā	divisor
+bhedā	separación
+bhedāya	separación
+bhedo	separación
+bhettā	separador
 bhikkhave	bhikkhus
 bhinnānaṁ	partidos
 bhiyyobhāvāya	acrecentamiento
@@ -951,7 +951,7 @@ vikiranti	esparcen
 viloketi	inspecciona
 vimocayaṁ	liberando
 vimuttiyā	liberación
-vinābhāvo	separación
+vinābhāvo	privación
 vinassantu	perezcan
 vinaye	disciplina
 vineyya	domado
