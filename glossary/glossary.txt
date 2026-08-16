@@ -223,7 +223,7 @@ bhogā	riqueza
 bhojane	el comer
 bhoto	señor
 bhūmi	terreno
-brahmacārayo	conducta santa
+brahmacārayo	de conducta santa
 brahmacariyaṁ	conducta santa
 brāhmaṇā	brahmanes
 buddhe	despierto
@@ -417,7 +417,7 @@ khetta	campo
 khīṇā	acabado
 khīyati	deshecha
 kho	pues
-khvāhaṁ	ciertamente
+khvāhaṁ	desde luego
 khvāyaṁ	de hecho
 kilamati	agobiarse
 kīḷanti	juegan
@@ -660,7 +660,7 @@ pharusāya	aspereza
 phasso	contacto
 phāsu	suave
 phoṭṭhabbā	tangibles
-phusasi	tocado
+phusasi	tocas
 piṇḍāya	para la comida de caridad
 pīṇeti	complace
 pipāsa	sed
@@ -921,7 +921,6 @@ vedanā	sensaciones
 vedanaṁ	sensaciones
 vedanāṁ	sensaciones
 vedanānaṁ	sensaciones
-vededitbo	conocer
 vedeti	siente
 vepullāya	plenitud
 vera	hostilidad
