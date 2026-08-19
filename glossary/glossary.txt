@@ -252,10 +252,10 @@ cetasika	anímico, del ánimo
 cetaso	del ánimo
 ceteti	estar dispuesto
 cetovimutti	liberación por el ánimo
-chanda	deseo
-chandā	deseo
-chandarāgo	deseo e interés
-chando	deseo
+chanda	interés
+chandā	interés
+chandarāgo	interés y afición
+chando	interés
 cittaṁ	ánimo
 cīvara	túnica
 cuti	ocaso
@@ -677,9 +677,9 @@ puñña	mérito
 puññassa	méritos
 purisa	hombre
 puthujjano	hombre común
-rāga	interés
-rāgā	interés
-rāgo	interés
+rāga	afición
+rāgā	afición
+rāgo	afición
 rajanīyā	tentadoras
 rakkhita	protegidas
 rasā	sabor
@@ -970,7 +970,7 @@ viparīta	invertida
 vipassanā	el escudriño
 vipassati	escudriña
 vippasannāni	establecidas
-virāgāya	desinterés
+virāgāya	desafición
 vīriyaṁ	esfuerzo
 visaṁsaṭṭhā	disociadas
 visatto	enredado
