@@ -575,7 +575,6 @@ pañhā	pregunta
 paññā	el saber
 paññapeti	describe
 paññāpetuṁ	describir
-paññavā	sabiduría
 paññāvimuttiṁ	liberación con la sabiduría
 paññāya	sabiduría
 paññāyati	se sabe de
@@ -1011,3 +1010,4 @@ yoga	sometimiento
 yogo	consagrarse a
 yoniso	cuidadosa
 yonisomanasikāro	prestar cuidadosa atención
+paññavā	sabio
