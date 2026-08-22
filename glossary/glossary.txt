@@ -300,7 +300,6 @@ duccaritaṁ	mala conducta
 duccarite	mala conducta
 duggatiṁ	desventura
 dukhatā	condición dificultosa
-dukkaṭā	malos
 dukkhā	dificultad
 dukkhakkhandho	montón de dificultad
 dukkhaṁ	dificultad
@@ -815,7 +814,6 @@ sucarite	buena conducta
 suddha	pura
 sugatiṁ	buena fortuna
 sugato	afortunado
-sukata	buenos
 sukha	satisfacción
 sukhā	satisfacción
 sukhaṁ	satisfacción
@@ -832,7 +830,6 @@ susamāraddhā	emprendido
 suta	escuchar
 sutavā	instruido
 sute	escuchado
-svākkhāto	enseñado
 tadavasari	arribó
 taṁ	eso
 taṇhā	ganas
@@ -1011,3 +1008,5 @@ yoniso	cuidadosa
 yonisomanasikāro	prestar cuidadosa atención
 paññavā	sabio
 bhinnānaṁ	separados
+dukkaṭā	mal hechos
+sukata	bien hechos
