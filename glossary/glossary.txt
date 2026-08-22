@@ -217,7 +217,6 @@ bhedāya	separación
 bhedo	separación
 bhettā	separador
 bhikkhave	bhikkhus
-bhinnānaṁ	partidos
 bhiyyobhāvāya	acrecentamiento
 bho	señor
 bhogā	riqueza
@@ -1011,3 +1010,4 @@ yogo	consagrarse a
 yoniso	cuidadosa
 yonisomanasikāro	prestar cuidadosa atención
 paññavā	sabio
+bhinnānaṁ	separados
