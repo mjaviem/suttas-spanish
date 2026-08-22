@@ -328,7 +328,6 @@ gahapatayo	amos de casa
 gahapati	amo de casa
 gahapatīhi	amos de casa
 gahapatīpi	amos de casa
-gahaṭṭhena	por quien tiene hogar
 gāma	aldea
 gandhā	olor
 gāthāya	verso
@@ -1010,3 +1009,4 @@ paññavā	sabio
 bhinnānaṁ	separados
 dukkaṭā	mal hechos
 sukata	bien hechos
+gahaṭṭhena	por quien vive en hogar
