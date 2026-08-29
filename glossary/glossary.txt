@@ -643,7 +643,6 @@ paṭissato	consciente de sí
 patiṭṭhāpeti	establece
 patiṭṭhāpeyya	estableciese
 patiṭṭhāti	reafirma
-paṭivirato	abstiene
 patta	cuenco
 pātubhāvo	manifestación
 pavedeti	da a conocer
@@ -697,7 +696,6 @@ sacca	verdad
 sacchikātabbaṁ	que debe ser atestiguado
 sacchikatvā	atestiguar
 saddā	sonido
-saddahati	confíe
 saddhā	tener confianza
 saddhammā	las buenas bases
 saddhamme	las buenas bases
@@ -1010,3 +1008,5 @@ bhinnānaṁ	separados
 dukkaṭā	mal hechos
 sukata	bien hechos
 gahaṭṭhena	por quien vive en hogar
+paṭivirato	se abstiene
+saddahati	confía
