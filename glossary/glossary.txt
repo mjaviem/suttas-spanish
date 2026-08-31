@@ -339,7 +339,7 @@ gihi	quien tiene hogar
 gihinā	por quien tiene hogar
 gotta	clan
 gutta	custodiada
-haññantu	destrozados
+haññantu	que sean destrozados
 hāpetun	menoscabar
 hāyati	disminuye
 hāyatiyeva	disminuye
@@ -415,7 +415,7 @@ khandhānaṁ	montones
 khayo	destrucción
 khema	seguridad
 khetta	campo
-khīṇā	acabado
+khīṇā	acabada
 khīyati	deshecha
 kho	pues
 khvāhaṁ	desde luego
