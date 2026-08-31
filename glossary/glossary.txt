@@ -217,6 +217,7 @@ bhedāya	separación
 bhedo	separación
 bhettā	separador
 bhikkhave	bhikkhus
+bhinnānaṁ	separados
 bhiyyobhāvāya	acrecentamiento
 bho	señor
 bhogā	riqueza
@@ -300,6 +301,7 @@ duccaritaṁ	mala conducta
 duccarite	mala conducta
 duggatiṁ	desventura
 dukhatā	condición dificultosa
+dukkaṭā	mal hechos
 dukkhā	dificultad
 dukkhakkhandho	montón de dificultad
 dukkhaṁ	dificultad
@@ -328,6 +330,7 @@ gahapatayo	amos de casa
 gahapati	amo de casa
 gahapatīhi	amos de casa
 gahapatīpi	amos de casa
+gahaṭṭhena	por quien vive en hogar
 gāma	aldea
 gandhā	olor
 gāthāya	verso
@@ -572,6 +575,7 @@ pañhā	pregunta
 paññā	el saber
 paññapeti	describe
 paññāpetuṁ	describir
+paññavā	sabio
 paññāvimuttiṁ	liberación con la sabiduría
 paññāya	sabiduría
 paññāyati	se sabe de
@@ -643,6 +647,7 @@ paṭissato	consciente de sí
 patiṭṭhāpeti	establece
 patiṭṭhāpeyya	estableciese
 patiṭṭhāti	reafirma
+paṭivirato	se abstiene
 patta	cuenco
 pātubhāvo	manifestación
 pavedeti	da a conocer
@@ -696,6 +701,7 @@ sacca	verdad
 sacchikātabbaṁ	que debe ser atestiguado
 sacchikatvā	atestiguar
 saddā	sonido
+saddahati	confía
 saddhā	tener confianza
 saddhammā	las buenas bases
 saddhamme	las buenas bases
@@ -751,7 +757,8 @@ samuppādo	surgimiento
 samuppanno	ha surgido
 saṁvarañca	contención
 saṁvaro	contención
-saṁvattanti	llevan a
+saṃvattanika	llevando a
+saṁvattanti	producen
 saṁyojanānaṁ	enlaces
 saṁyojanāni	enlaces
 sandhātā	unidor
@@ -811,6 +818,7 @@ sucarite	buena conducta
 suddha	pura
 sugatiṁ	buena fortuna
 sugato	afortunado
+sukata	bien hechos
 sukha	satisfacción
 sukhā	satisfacción
 sukhaṁ	satisfacción
@@ -1003,11 +1011,3 @@ yoga	sometimiento
 yogo	consagrarse a
 yoniso	cuidadosa
 yonisomanasikāro	prestar cuidadosa atención
-paññavā	sabio
-bhinnānaṁ	separados
-dukkaṭā	mal hechos
-sukata	bien hechos
-gahaṭṭhena	por quien vive en hogar
-paṭivirato	se abstiene
-saddahati	confía
-saṃvattanika	llevando a
