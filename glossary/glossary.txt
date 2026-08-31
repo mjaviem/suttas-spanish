@@ -30,7 +30,7 @@ abyābajjhā	alivio
 abyābajjhaṁyeva	alivio
 abyāpāda	no malquerencia
 abyāpajjaṁ	alivio
-ācinato	acumulada
+ācinato	al acumular
 ādāya	tomando
 addhagato	veterano
 adhigacchati	halla
@@ -67,7 +67,7 @@ akusalānaṁ	que no hacen bien
 akusale	que no hacen bien
 akusalehi	que no hacen bien
 alaṁ	suficiente
-allīyanti	apegan
+allīyanti	se apegan
 āloko	luz
 āmantesi	se dirigió
 āmisa	mundano
@@ -162,7 +162,7 @@ attā	uno mismo
 attabyābādhāyapi	abrumarse
 attamanā	felices
 attamanatā	felicidad
-attamano	felicidad
+attamano	feliz
 attavāda	prédicas sobre uno mismo
 attha	finalidad
 atthaṁ	finalidad
