@@ -514,7 +514,6 @@ nissito	asentado
 nīvaraṇa	obstrucciones
 nivāsa	estancia
 niveseti	conduce
-niviṭṭho	establecido
 niyāma	norma
 niyato	firme
 ñāṇākārāṇī	percatarse
@@ -646,7 +645,6 @@ paṭisevati	frecuenta
 paṭissato	consciente de sí
 patiṭṭhāpeti	establece
 patiṭṭhāpeyya	estableciese
-patiṭṭhāti	reafirma
 paṭivirato	se abstiene
 patta	cuenco
 pātubhāvo	manifestación
@@ -969,7 +967,6 @@ vipariṇāmī	cambiante
 viparīta	invertida
 vipassanā	el escudriño
 vipassati	escudriña
-vippasannāni	establecidas
 virāgāya	desafición
 vīriyaṁ	esfuerzo
 visaṁsaṭṭhā	disociadas
@@ -1011,3 +1008,6 @@ yoga	sometimiento
 yogo	consagrarse a
 yoniso	cuidadosa
 yonisomanasikāro	prestar cuidadosa atención
+niviṭṭho	metido
+patiṭṭhāti	se establece
+vippasannāni	reposadas
