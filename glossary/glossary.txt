@@ -415,7 +415,7 @@ khandhānaṁ	montones
 khayo	destrucción
 khema	seguridad
 khetta	campo
-khīṇā	acabada
+khīṇā	consumida
 khīyati	deshecha
 kho	pues
 khvāhaṁ	desde luego
@@ -597,8 +597,8 @@ pariharati	se mantiene
 parihāyāmi	estoy menguando
 parikkhayā	extinción
 parikkhayāya	extinción
-parikkhīṇaṁ	consumida
-parikkhīṇo	agotado
+parikkhīṇaṁ	consumida totalmente
+parikkhīṇo	consumido totalmente
 parikkhitta	echada alrededor
 pariḷāha	ardor
 parimutto	emancipado
@@ -639,7 +639,7 @@ paṭipannā	están dedicados
 paṭipanno	está dedicado
 paṭippassaddho	aplacado
 paṭisaṁvedeti	experimenta
-paṭisaṅkhā	reflexionando
+paṭisaṅkhā	reflexión
 paṭisañcikkhati	sopesa
 paṭisaraṇo	refugio
 paṭisevati	frecuenta
