@@ -574,7 +574,7 @@ pañhā	pregunta
 paññā	el saber
 paññapeti	describe
 paññāpetuṁ	describir
-paññavā	sabio
+paññavā	tiene sabiduría
 paññāvimuttiṁ	liberación con la sabiduría
 paññāya	sabiduría
 paññāyati	se sabe de
