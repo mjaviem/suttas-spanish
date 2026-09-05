@@ -231,6 +231,14 @@ Hetunāpi tayo vuttā,
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Ariyasukhañca anariyasukhañca.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>La satisfacción noble y la satisfacción no noble.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Ariyena sīlena vaḍḍhati, ariyena samādhinā vaḍḍhati, ariyāya paññāya vaḍḍhati, ariyāya vimuttiyā vaḍḍhati—
 sappurisaṁ, bhikkhave, nissāya ime cattāro ānisaṁsā pāṭikaṅkhā”ti.</seg>
       </tuv>
@@ -1017,6 +1025,14 @@ tasmā ‘ariyasaccānī’ti vuccanti.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Etadaggaṁ, bhikkhave, imesaṁ dvinnaṁ sukhānaṁ yadidaṁ ariyasukhan”ti.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>Esto es lo [supremo], bhikkhus, de estas [dos] satisfacciones, es decir, la satisfacción noble.»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Etadaggaṁ, bhikkhave, imesaṁ dvinnaṁ sukhānaṁ yadidaṁ cetasikaṁ sukhan”ti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260514T202004Z" creationid="mjaviem" creationdate="20250828T203529Z">
@@ -1593,8 +1609,8 @@ y se queda aferrado a eso.</seg>
       <tuv lang="pi">
         <seg>Idha, bhikkhave, ariyasāvako paññavā hoti …pe… sammā dukkhakkhayagāminiyā.</seg>
       </tuv>
-      <tuv lang="es-AR" changeid="mjaviem" changedate="20260819T210123Z" creationid="mjaviem" creationdate="20250902T141812Z">
-        <seg>Aquí, bhikkhus, un discípulo noble es sabio; [posee el saber de la emanación y el repliegue, noble, penetrante, que] conduce a la destrucción cabal de la dificultad.</seg>
+      <tuv lang="es-AR" changeid="mjaviem" changedate="20260905T220933Z" creationid="mjaviem" creationdate="20250902T141812Z">
+        <seg>Aquí, bhikkhus, un discípulo noble tiene sabiduría; [posee el saber de la emanación y el repliegue, noble, penetrante, que] conduce a la destrucción cabal de la dificultad.</seg>
       </tuv>
     </tu>
     <tu>
