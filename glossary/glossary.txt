@@ -29,7 +29,6 @@ abyābajjha	alivio
 abyābajjhā	alivio
 abyābajjhaṁyeva	alivio
 abyāpāda	no malquerencia
-abyāpajjaṁ	alivio
 ācinato	al acumular
 ādāya	tomando
 addhagato	veterano
@@ -233,7 +232,6 @@ byādhiṁ	afecciones
 byantīhonti	son finalizados
 byāpāda	malquerencia
 byāpādo	malquerencia
-byāpajjati	repudia
 byāpanna	dañino
 cāga	desprenderse
 cakkhu	ojo
@@ -241,7 +239,7 @@ caṅkamena	yendo y viniendo
 caranti	se conducen
 cārittaṁ	andanzas
 carituṁ	conducir
-caritvā	habiendo deambulado
+caritvā	habiéndose conducido
 cariya	conducta
 cariyā	conducta
 cavanatā	tránsito
