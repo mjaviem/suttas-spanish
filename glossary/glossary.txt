@@ -512,6 +512,7 @@ nissito	asentado
 nīvaraṇa	obstrucciones
 nivāsa	estancia
 niveseti	conduce
+niviṭṭho	metido
 niyāma	norma
 niyato	firme
 ñāṇākārāṇī	percatarse
@@ -643,6 +644,7 @@ paṭisevati	frecuenta
 paṭissato	consciente de sí
 patiṭṭhāpeti	establece
 patiṭṭhāpeyya	estableciese
+patiṭṭhāti	se establece
 paṭivirato	se abstiene
 patta	cuenco
 pātubhāvo	manifestación
@@ -706,7 +708,7 @@ saddho	confianza
 sādhu	bien
 sādhukaṁ	completamente
 saggaṁ	paradisíaco
-saggasaṁvattaniko	lleva al paraíso
+saggasaṁvattaniko	produce el paraíso
 sahitānaṁ	unidos
 sakadāgāmī	el llegado una vez
 sakkāyo	cuerpo del ser
@@ -753,7 +755,7 @@ samuppādo	surgimiento
 samuppanno	ha surgido
 saṁvarañca	contención
 saṁvaro	contención
-saṃvattanika	llevando a
+saṁvattanika	produciendo
 saṁvattanti	producen
 saṁyojanānaṁ	enlaces
 saṁyojanāni	enlaces
@@ -965,6 +967,7 @@ vipariṇāmī	cambiante
 viparīta	invertida
 vipassanā	el escudriño
 vipassati	escudriña
+vippasannāni	reposadas
 virāgāya	desafición
 vīriyaṁ	esfuerzo
 visaṁsaṭṭhā	disociadas
@@ -1006,6 +1009,3 @@ yoga	sometimiento
 yogo	consagrarse a
 yoniso	cuidadosa
 yonisomanasikāro	prestar cuidadosa atención
-niviṭṭho	metido
-patiṭṭhāti	se establece
-vippasannāni	reposadas
