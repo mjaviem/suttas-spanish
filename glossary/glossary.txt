@@ -1014,3 +1014,4 @@ saññaṁ	concepciones
 ogadha	inmerso
 amata	sin muerte
 pariyosāna	culminación
+asubha	feo
