@@ -1011,3 +1011,6 @@ yoniso	cuidadosa
 yonisomanasikāro	prestar cuidadosa atención
 saññā	concepciones
 saññaṁ	concepciones
+ogadha	inmerso
+amata	sin muerte
+pariyosāna	culminación
