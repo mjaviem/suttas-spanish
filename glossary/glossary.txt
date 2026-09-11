@@ -777,8 +777,6 @@ santo	presentes
 santo	virtuosos
 santuṭṭhitā	conformidad
 sañjāyati	nace
-saññā	significaciones
-saññaṁ	significaciones
 sappurisā	hombres de bien
 saraṇaṁ	acudiendo
 sāraṇīyaṁ	memorable
@@ -1011,3 +1009,5 @@ yoga	sometimiento
 yogo	consagrarse a
 yoniso	cuidadosa
 yonisomanasikāro	prestar cuidadosa atención
+saññā	concepciones
+saññaṁ	concepciones
