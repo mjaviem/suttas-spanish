@@ -369,7 +369,6 @@ jaraṁ	decrepitud
 jarāmaraṇaṁ	decaimiento-muerte
 jāti	procedencia
 jigucchanti	le huyen
-jiṇṇo	desgastado
 jīvikā	modo de vida
 kacci nu	¿Verdad que...
 kakkasā	crudas
@@ -409,7 +408,6 @@ keḷāyanti	guardan
 khalu	en efecto
 khamo	tolerante
 khandhānaṁ	montones
-khayo	destrucción
 khema	seguridad
 khetta	campo
 khīṇā	consumida
@@ -931,7 +929,6 @@ vibhūsanāya	engalanarse
 vicāra	deliberación
 vicikicchati	tiene dudas
 viddhaṁsenti	derrumban
-vidhamanti	destrozan
 viditā	conocidas
 viditvā	percibir
 vidū	entendedor
@@ -1011,3 +1008,6 @@ yonisomanasikāro	prestar cuidadosa atención
 haññantu	que sean abatidos
 hata	apalear
 pahata	dar paliza
+jiṇṇo	deteriorado
+khayo	desgaste
+vidhamanti	despedazan
