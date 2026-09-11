@@ -337,7 +337,6 @@ gihi	quien tiene hogar
 gihinā	por quien tiene hogar
 gotta	clan
 gutta	custodiada
-haññantu	que sean destrozados
 hāpetun	menoscabar
 hāyati	disminuye
 hāyatiyeva	disminuye
@@ -1009,3 +1008,6 @@ yoga	sometimiento
 yogo	consagrarse a
 yoniso	cuidadosa
 yonisomanasikāro	prestar cuidadosa atención
+haññantu	que sean abatidos
+hata	apalear
+pahata	dar paliza
