@@ -337,7 +337,9 @@ gihi	quien tiene hogar
 gihinā	por quien tiene hogar
 gotta	clan
 gutta	custodiada
+haññantu	que sean abatidos
 hāpetun	menoscabar
+hata	apalear
 hāyati	disminuye
 hāyatiyeva	disminuye
 hetaṁ	ciertamente
@@ -369,6 +371,7 @@ jaraṁ	decrepitud
 jarāmaraṇaṁ	decaimiento-muerte
 jāti	procedencia
 jigucchanti	le huyen
+jiṇṇo	deteriorado
 jīvikā	modo de vida
 kacci nu	¿Verdad que...
 kakkasā	crudas
@@ -408,6 +411,7 @@ keḷāyanti	guardan
 khalu	en efecto
 khamo	tolerante
 khandhānaṁ	montones
+khayo	desgaste
 khema	seguridad
 khetta	campo
 khīṇā	consumida
@@ -546,6 +550,7 @@ padahati	hacer frente
 paduṭṭha	podridas
 paggaṇhāti	aplica
 pahānāya	abandonar
+pahata	dar paliza
 pahātabbaṁ	que debe ser abandonado
 pahātabbo	que debe ser abandonado
 pahāya	habiendo abandonado
@@ -929,6 +934,7 @@ vibhūsanāya	engalanarse
 vicāra	deliberación
 vicikicchati	tiene dudas
 viddhaṁsenti	derrumban
+vidhamanti	despedazan
 viditā	conocidas
 viditvā	percibir
 vidū	entendedor
@@ -1005,9 +1011,3 @@ yoga	sometimiento
 yogo	consagrarse a
 yoniso	cuidadosa
 yonisomanasikāro	prestar cuidadosa atención
-haññantu	que sean abatidos
-hata	apalear
-pahata	dar paliza
-jiṇṇo	deteriorado
-khayo	desgaste
-vidhamanti	despedazan
