@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="sentence" srclang="pi"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.1.1_0_9a3f59119" segtype="sentence" srclang="pi"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -394,6 +394,14 @@ sappurisaṁ, bhikkhave, nissāya ime cattāro ānisaṁsā pāṭikaṅkhā”t
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Atha kho āyasmā mahākoṭṭhiko sāyanhasamayaṁ paṭisallānā vuṭṭhito yenāyasmā sāriputto tenupasaṅkami; upasaṅkamitvā āyasmatā sāriputtena saddhiṁ sammodi.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>Entonces el Venerable Mahākoṭṭhika, [al atardecer], salido de [la reclusión], se acercó a donde el Venerable Sāriputta; tras acercarse, intercambió saludos junto con el Venerable Sāriputta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Atha kho āyasmā mālukyaputto bhagavato bhāsitaṁ abhinanditvā anumoditvā uṭṭhāyāsanā bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā pakkāmi.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260814T212036Z" creationid="mjaviem" creationdate="20260205T225100Z">
@@ -430,6 +438,14 @@ sappurisaṁ, bhikkhave, nissāya ime cattāro ānisaṁsā pāṭikaṅkhā”t
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260711T134451Z" creationid="mjaviem" creationdate="20260501T204845Z">
         <seg>Entonces vendría un hombre al que le guste vivir, al que no le guste morir, al que le guste la satisfacción y que sea reacio a la dificultad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Attamano āyasmā mahākoṭṭhiko āyasmato sāriputtassa bhāsitaṁ abhinandīti.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>Feliz, el Venerable Mahākoṭṭhika aprobó lo hablado del Venerable Sāriputta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -645,6 +661,38 @@ sammādiṭṭhi …pe… sammāsamādhi.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260515T194312Z" creationid="mjaviem" creationdate="20251113T155658Z">
         <seg>Bhikkhus, esto se llama el surgimiento supeditado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Ayaṁ vuccatāvuso, animittā cetovimutti.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>Esta se llama, amigos, la liberación por el ánimo sin rasgo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Ayaṁ vuccatāvuso, appamāṇā cetovimutti.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>Esta se llama, amigos, la liberación por el ánimo sin [medida].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Ayaṁ vuccatāvuso, suññatā cetovimutti.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>Esta se llama, amigos, la liberación por el ánimo de [vacuidad].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Ayaṁ vuccatāvuso, ākiñcaññā cetovimutti.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>Esta se llama, amigos, la liberación por el ánimo de [nada].</seg>
       </tuv>
     </tu>
     <tu>
@@ -965,6 +1013,14 @@ tasmā ‘ariyasaccānī’ti vuccanti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260206T140916Z" creationid="mjaviem" creationdate="20260206T140916Z">
         <seg>Pues sentado a un lado, el venerable Kaccānagotta dijo esto al Dichoso:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Ekamantaṁ nisinno kho āyasmā mahākoṭṭhiko āyasmantaṁ sāriputtaṁ etadavoca:</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>Sentado a un costado, el Venerable Mahākoṭṭhika dijo esto al Venerable Sāriputta:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1411,6 +1467,14 @@ y se queda aferrado a eso.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20251113T161359Z" creationid="mjaviem" creationdate="20251113T161359Z">
         <seg>Esto dijo el Dichoso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Idamavocāyasmā sāriputto.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>Esto dijo el Venerable Sāriputta.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1864,6 +1928,70 @@ y se queda aferrado a eso.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Idhāvuso, bhikkhu araññagato vā rukkhamūlagato vā suññāgāragato vā iti paṭisañcikkhati: ‘suññamidaṁ attena vā attaniyena vā’ti.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>Aquí, amigos, el Bhikkhu, [ido] al [bosque], o [ido] al pie de un árbol, o [ido] a una casa vacía, así sopesa: "esto es vacío de la propia persona o de [lo propio]".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Idhāvuso, bhikkhu sabbanimittānaṁ amanasikārā animittaṁ cetosamādhiṁ upasampajja viharati.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>Aquí, amigos, el Bhikkhu, por el no prestar atención a todos los rasgos, alcanzando mora en la compostura del ánimo sin rasgo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Idhāvuso, bhikkhu sabbaso viññāṇañcāyatanaṁ samatikkamma natthi kiñcīti ākiñcaññāyatanaṁ upasampajja viharati.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>Aquí, amigos, el Bhikkhu, tras [trascender] del todo el ámbito de las distinciones, "no hay nada", alcanzando mora en el ámbito de la [nada].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Idhāvuso, bhikkhu sukhassa ca pahānā dukkhassa ca pahānā pubbeva somanassadomanassānaṁ atthaṅgamā adukkhamasukhaṁ upekkhāsatipārisuddhiṁ catutthaṁ jhānaṁ upasampajja viharati.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>Aquí, amigos, el Bhikkhu, por el abandonar de la satisfacción y por el abandonar de la dificultad, con el repliegue ya [antes] del gozo y del disgusto, alcanzando mora en el [cuarto] [jhāna] ni satisfacción ni dificultad, de [pureza] de ecuanimidad-tener presente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Idhāvuso, paṭhamaṁ jhānaṁ samāpannassa bhikkhuno kāmacchando pahīno hoti, byāpādo pahīno hoti, thinamiddhaṁ pahīnaṁ hoti, uddhaccakukkuccaṁ pahīnaṁ hoti, vicikicchā pahīnā hoti; vitakko ca vattati, vicāro ca pīti ca sukhañca cittekaggatā ca.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>Aquí, amigos, en el Bhikkhu que ha emprendido el [primer] [jhāna] el interés del sensualismo está abandonado, la malquerencia está abandonada, el [letargo y la somnolencia] está abandonado, la [inquietud y el remordimiento] está abandonada, la [duda] está abandonada; y [operan] la consideración, y la deliberación, y el júbilo, y la satisfacción, y la [unificación] del ánimo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Idhāvuso, paṭhamaṁ jhānaṁ samāpannassa bhikkhuno vitakko ca vattati, vicāro ca pīti ca sukhañca cittekaggatā ca.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>Aquí, amigos, del Bhikkhu que ha emprendido el [primer] [jhāna] [operan] la consideración, y la deliberación, y el júbilo, y la satisfacción, y la [unificación] del ánimo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Idhāvuso, sammādiṭṭhi sīlānuggahitā ca hoti, sutānuggahitā ca hoti, sākacchānuggahitā ca hoti, samathānuggahitā ca hoti, vipassanānuggahitā ca hoti.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>Aquí, amigos, la manera de ver cabal es respaldada por el comportarse, es respaldada por lo escuchado, es respaldada por [la conversación], es respaldada por la calma, es respaldada por el escudriño.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Idāneva pana mayaṁ, āvuso, āyasmato sāriputtassa bhāsitaṁ evaṁ ājānāma: ‘usmā āyuṁ paṭicca tiṭṭhatī’ti.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>Y [justo ahora], también, así comprendemos del Venerable Sāriputta lo hablado: el [calor] se queda supeditándose a la vitalidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Imasmiñca pana veyyākaraṇasmiṁ bhaññamāne pañcavaggiyānaṁ bhikkhūnaṁ anupādāya āsavehi cittāni vimucciṁsūti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260711T131045Z" creationid="mjaviem" creationdate="20260507T193758Z">
@@ -1992,10 +2120,50 @@ y se queda aferrado a eso.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Ime kho, āvuso, cattāro paccayā adukkhamasukhāya cetovimuttiyā samāpattiyā”ti.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>Estos, pues, amigos, son los cuatro requisitos para la consumación de la liberación por el ánimo ni satisfacción ni dificultad».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Ime kho, āvuso, dve paccayā animittāya cetovimuttiyā samāpattiyā”ti.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>Estos, pues, amigos, son los dos requisitos para la consumación de la liberación por el ánimo sin rasgo».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Ime kho, āvuso, dve paccayā animittāya cetovimuttiyā vuṭṭhānāyā”ti.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>Estos, pues, amigos, son los dos requisitos para [la salida] de la liberación por el ánimo sin rasgo».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Ime kho, āvuso, dve paccayā sammādiṭṭhiyā uppādāyā”ti.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>Estos, pues, amigos, son los dos requisitos para un irrumpir de la manera de ver cabal».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Ime kho, āvuso, pañcupādānakkhandhā sakkāyo vutto bhagavatā”ti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260724T191619Z">
         <seg>Amigo, pues estos cinco montones de asidero son llamados cuerpo del ser por el Dichoso.»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Ime kho, āvuso, tayo paccayā animittāya cetovimuttiyā ṭhitiyā”ti.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>Estos, pues, amigos, son los tres requisitos para la permanencia de la liberación por el ánimo sin rasgo».</seg>
       </tuv>
     </tu>
     <tu>
@@ -2064,6 +2232,14 @@ y se queda aferrado a eso.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Imehi kho, āvuso, pañcahaṅgehi anuggahitā sammādiṭṭhi cetovimuttiphalā ca hoti cetovimuttiphalānisaṁsā ca, paññāvimuttiphalā ca hoti paññāvimuttiphalānisaṁsā cā”ti.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>Por estos cinco [factores], pues, amigos, respaldada, la manera de ver cabal es fruto de la liberación por el ánimo, y es ventajas del fruto de la liberación por el ánimo; es fruto de la liberación con la sabiduría, y es ventajas del fruto de la liberación con la sabiduría».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Imesaṁ kho, bhikkhave, catunnaṁ ariyasaccānaṁ atthi ariyasaccaṁ pariññeyyaṁ, atthi ariyasaccaṁ pahātabbaṁ, atthi ariyasaccaṁ sacchikātabbaṁ, atthi ariyasaccaṁ bhāvetabbaṁ.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260807T025708Z">
@@ -2100,6 +2276,22 @@ y se queda aferrado a eso.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260711T131431Z" creationid="mjaviem" creationdate="20260508T144418Z">
         <seg>Pues, Ānanda, a la clausura de estas bases se le llama ‘clausura’”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Imesaṁ kho, āvuso, pañcannaṁ indriyānaṁ nānāvisayānaṁ nānāgocarānaṁ, na aññamaññassa gocaravisayaṁ paccanubhontānaṁ, kiṁ paṭisaraṇaṁ, ko ca nesaṁ gocaravisayaṁ paccanubhotī”ti?</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>De estas cinco facultades sensoriales, pues, amigos, de entornos [diversos], de [pasto] [diverso], que no [experimentan] el [pasto]-entorno [mutuamente], ¿cuál es el refugio, y quién [experimenta] de ellas el [pasto]-entorno?»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Imesaṁ kho, āvuso, pañcannaṁ indriyānaṁ nānāvisayānaṁ nānāgocarānaṁ, na aññamaññassa gocaravisayaṁ paccanubhontānaṁ, mano paṭisaraṇaṁ, mano ca nesaṁ gocaravisayaṁ paccanubhotī”ti.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>La mente es el refugio, pues, amigos, de estas cinco facultades sensoriales de entornos [diversos], de [pasto] [diverso], que no [experimentan] el [pasto]-entorno [mutuamente]; y la mente es quien [experimenta] de ellas el [pasto]-entorno».</seg>
       </tuv>
     </tu>
     <tu>
@@ -2184,6 +2376,22 @@ y se queda aferrado a eso.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Imāni kho, āvuso, pañcindriyāni kiṁ paṭicca tiṭṭhantī”ti?</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>Supeditándose a qué, pues, amigos, se quedan estas cinco facultades?»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Imāni kho, āvuso, pañcindriyāni āyuṁ paṭicca tiṭṭhantī”ti.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>Supeditándose a la vitalidad, pues, amigos, se quedan estas cinco facultades».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Imāsaṁ kho, bhikkhave, tissannaṁ dukkhatānaṁ abhiññāya pariññāya parikkhayāya pahānāya …pe… ayaṁ ariyo aṭṭhaṅgiko maggo bhāvetabbo”ti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260205T194221Z" creationid="mjaviem" creationdate="20250826T001933Z">
@@ -2232,6 +2440,22 @@ y se queda aferrado a eso.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ mettāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyābajjhena pharitvā viharati.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>Así, [por encima y por abajo], [transversalmente], [en todas partes], [como el todo], [habiendo irradiado] a todo el mundo [todo-abarcante] con el ánimo [en compañía de] la benevolencia amistosa, [vasto], [extenso], sin [medida], sin hostilidad, con alivio, mora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Iti uddhamadho tiriyaṁ sabbadhi sabbattatāya sabbāvantaṁ lokaṁ upekkhāsahagatena cetasā vipulena mahaggatena appamāṇena averena abyābajjhena pharitvā viharati.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>Así, [por encima y por abajo], [transversalmente], [en todas partes], [como el todo], [habiendo irradiado] a todo el mundo [todo-abarcante] con el ánimo [en compañía de] la ecuanimidad, [vasto], [extenso], sin [medida], sin hostilidad, con alivio, mora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Itiha tattha sampajāno hoti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260730T193340Z">
@@ -2268,6 +2492,14 @@ y se queda aferrado a eso.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250823T000442Z" creationid="mjaviem" creationdate="20250823T000442Z">
         <seg></seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Karuṇāsahagatena cetasā …pe… muditāsahagatena cetasā … upekkhāsahagatena cetasā ekaṁ disaṁ pharitvā viharati, tathā dutiyaṁ, tathā tatiyaṁ, tathā catutthaṁ.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>Con el ánimo [en compañía de] la [compasión] …pe… con el ánimo [en compañía de] la [complacencia] … con el ánimo [en compañía de] la ecuanimidad, [habiendo irradiado] una dirección, mora; así la segunda, así [la tercera], así [la cuarta].</seg>
       </tuv>
     </tu>
     <tu>
@@ -2920,6 +3152,22 @@ y se queda aferrado a eso.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Kittāvatā nu kho, āvuso, duppaññoti vuccatī”ti?</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>¿En qué medida, amigos, se llama de saber equivocado?»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Kittāvatā nu kho, āvuso, paññavāti vuccatī”ti?</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>¿En qué medida, amigos, se llama tiene sabiduría?»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Kittāvatā nu kho, āvuso, saññāti vuccatī”ti?</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260911T193415Z" creationid="mjaviem" creationdate="20260718T181619Z">
@@ -2948,6 +3196,22 @@ y se queda aferrado a eso.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260725T024055Z">
         <seg>¿Y qué se deshace?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Kiñca nappajānāti?</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>¿Y qué no discierne?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Kiñca pajānāti?</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>¿Y qué discierne?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3487,6 +3751,22 @@ estoy inclinado hacia la conducta santa”.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Paṭhamaṁ kho, āvuso, jhānaṁ evaṁ pañcaṅgavippahīnaṁ pañcaṅgasamannāgatan”ti.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>El [primer] [jhāna], pues, amigos, está así privado de cinco [factores] y está dotado de cinco [factores]».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Paṭhamaṁ kho, āvuso, jhānaṁ evaṁ pañcaṅgikan”ti.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>El [primer] [jhāna], pues, amigos, es así de cinco [factores]».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Paṭhamaṁ.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250823T143441Z" creationid="mjaviem" creationdate="20250823T143441Z">
@@ -3944,6 +4224,14 @@ Samaṇo ca sappurisānisaṁsoti.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Seyyathāpi, āvuso, telappadīpassa jhāyato acciṁ paṭicca ābhā paññāyati, ābhaṁ paṭicca acci paññāyati; evameva kho, āvuso, āyu usmaṁ paṭicca tiṭṭhati, usmā āyuṁ paṭicca tiṭṭhatī”ti.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>Igual que, amigos, de una [lámpara de aceite] que [arde], supeditándose a la [llama] se sabe del [resplandor], supeditándose al [resplandor] se sabe de la [llama]; así también, pues, amigos, la vitalidad se queda supeditándose al [calor], y el [calor] se queda supeditándose a la vitalidad».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>So dhammaṁ deseti ādikalyāṇaṁ majjhekalyāṇaṁ pariyosānakalyāṇaṁ sātthaṁ sabyañjanaṁ; kevalaparipuṇṇaṁ parisuddhaṁ brahmacariyaṁ pakāseti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260721T013854Z" creationid="mjaviem" creationdate="20260514T183349Z">
@@ -4123,6 +4411,14 @@ imāni vuccanti, bhikkhave, brahmacariyaphalānī”ti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260506T192755Z" creationid="mjaviem" creationdate="20260505T153555Z">
         <seg>Surgen sensaciones de satisfacción, surgen sensaciones de dificultad, surgen sensaciones de ni satisfacción ni dificultad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Sā kho panākuppā cetovimutti suññā rāgena, suññā dosena, suññā mohena.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>Y esa liberación por el ánimo [inconmovible] es vacía de afición, vacía de odio, vacía de ofuscamiento.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4706,10 +5002,26 @@ se llama lejos de la disipación.
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Te ca hāvuso, āyusaṅkhārā abhaviṁsu te vedaniyā dhammā, na yidaṁ saññāvedayitanirodhaṁ samāpannassa bhikkhuno vuṭṭhānaṁ paññāyetha.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>Esas constituciones de vitalidad, amigos, fueron esas bases [sentibles]: no se sabría de [la salida] de este Bhikkhu que ha emprendido la clausura de concepciones y sensaciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Te ca tattheva muttakarīsaṁ cajeyyuṁ, na tveva, bhikkhave, mātāpitūnaṁ kataṁ vā hoti paṭikataṁ vā.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20251106T141338Z" creationid="mjaviem" creationdate="20251106T141338Z">
         <seg>y ellos incluso allí mismo evacuasen excremento y orina, aun así, bhikkhus, no se estaría hecho, no se habría retribuido a la madre y al padre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Te khīṇāsavassa bhikkhuno pahīnā ucchinnamūlā tālāvatthukatā anabhāvaṅkatā āyatiṁ anuppādadhammā.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>Ellas, para el Bhikkhu de secreciones consumidas, están abandonadas, [cortadas de raíz], [hechas un tocón de palmera], [hechas para no devenir], bases que en el porvenir no irrumpen.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4956,6 +5268,14 @@ lo dado en el Saṅgha es muy fructífero.»</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Yasmā ca kho, āvuso, aññe āyusaṅkhārā aññe vedaniyā dhammā, tasmā saññāvedayitanirodhaṁ samāpannassa bhikkhuno vuṭṭhānaṁ paññāyatī”ti.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>Y puesto que [otras] son las constituciones de vitalidad, [otras] las bases [sentibles], por ello se sabe de [la salida] del Bhikkhu que ha emprendido la clausura de concepciones y sensaciones».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Yassa ete dhanā atthi,
 itthiyā purisassa vā;
 Adaliddoti taṁ āhu,
@@ -5001,6 +5321,14 @@ hoti sattoti sammuti.</seg>
 hay el sonido «carro»;
 así cuando están presentes los montones,
 hay el consenso «sujeto».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Yathā kathaṁ panāvuso, imassa bhāsitassa attho daṭṭhabbo”ti?</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>¿Y de qué manera, amigos, debe ser [vista] la finalidad de lo hablado?»</seg>
       </tuv>
     </tu>
     <tu>
@@ -5331,6 +5659,14 @@ se llama cerca de la disipación"</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Yo cāyaṁ bhikkhu saññāvedayitanirodhaṁ samāpanno tassapi kāyasaṅkhārā niruddhā paṭippassaddhā, vacīsaṅkhārā niruddhā paṭippassaddhā, cittasaṅkhārā niruddhā paṭippassaddhā, āyu na parikkhīṇo, usmā avūpasantā, indriyāni vippasannāni.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>Y este Bhikkhu que ha emprendido la clausura de concepciones y sensaciones: también sus constituciones del cuerpo están clausuradas y aplacadas, sus constituciones verbales están clausuradas y aplacadas, sus constituciones del ánimo están clausuradas y aplacadas, pero su vitalidad no está consumida totalmente, su [calor] no está amainado, sus facultades sensoriales están reposadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Yo dukkhaṁ abhinandati, ‘aparimutto so dukkhasmā’ti vadāmi.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260504T200708Z" creationid="mjaviem" creationdate="20260502T143549Z">
@@ -5460,6 +5796,14 @@ ayaṁ vuccati, bhikkhave, brahmacariyattho”ti.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>Yvāyaṁ, āvuso, mato kālaṅkato, yo cāyaṁ bhikkhu saññāvedayitanirodhaṁ samāpanno—idaṁ nesaṁ nānākaraṇan”ti.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>Entre este que murió y [cumplió el tiempo], amigos, y este Bhikkhu que ha emprendido la clausura de concepciones y sensaciones, esa es la discriminación».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>Yā kho, bhikkhave, musāvādā veramaṇī, pisuṇāya vācāya veramaṇī, pharusāya vācāya veramaṇī, samphappalāpā veramaṇī— ayaṁ vuccati, bhikkhave, sammāvācā.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260711T192444Z" creationid="mjaviem" creationdate="20260505T210136Z">
@@ -5560,6 +5904,30 @@ ayaṁ vuccati, bhikkhave, brahmacariyattho”ti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260831T234552Z" creationid="mjaviem" creationdate="20251225T170252Z">
         <seg>Mientras aún no pierdan la afición, no pierdan el interés, no pierdan el querer, no pierdan la sed, no pierdan el ardor, no pierdan las ganas hacia ellas, hasta entonces, se apegan a esas casitas de arena, las guardan, las atesoran, se las adueñan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Yāvatā kho, āvuso, animittā cetovimuttiyo, akuppā tāsaṁ cetovimutti aggamakkhāyati.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>Por muchas que sean, pues, amigos, las liberaciones por el ánimo sin rasgo, de todas ellas la liberación por el ánimo [inconmovible] es la que se [anuncia] como [suprema].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Yāvatā kho, āvuso, appamāṇā cetovimuttiyo, akuppā tāsaṁ cetovimutti aggamakkhāyati.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>Por mucha que sea, pues, amigos, la liberación por el ánimo sin [medida], de todas ellas la liberación por el ánimo [inconmovible] es la que se [anuncia] como [suprema].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>Yāvatā kho, āvuso, ākiñcaññā cetovimuttiyo, akuppā tāsaṁ cetovimutti aggamakkhāyati.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>Por muchas que sean, pues, amigos, las liberaciones por el ánimo de [nada], de todas ellas la liberación por el ánimo [inconmovible] es la que se [anuncia] como [suprema].</seg>
       </tuv>
     </tu>
     <tu>
@@ -5827,6 +6195,22 @@ de ahí que escudriña con el saber.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>‘Idaṁ dukkhan’ti nappajānāti, ‘ayaṁ dukkhasamudayo’ti nappajānāti, ‘ayaṁ dukkhanirodho’ti nappajānāti, ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti nappajānāti.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>"Esto es dificultad" no discierne, "esta es la fuente de la dificultad" no discierne, "esta es la clausura de la dificultad" no discierne, "esta es la dedicación que conduce a la clausura de la dificultad" no discierne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>‘Idaṁ dukkhan’ti pajānāti, ‘ayaṁ dukkhasamudayo’ti pajānāti, ‘ayaṁ dukkhanirodho’ti pajānāti, ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti pajānāti.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>"Esto es dificultad" discierne, "esta es la fuente de la dificultad" discierne, "esta es la clausura de la dificultad" discierne, "esta es la dedicación que conduce a la clausura de la dificultad" discierne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>‘Idaṁ dukkhan’ti yathābhūtaṁ pajānāti, ‘ayaṁ dukkhasamudayo’ti yathābhūtaṁ pajānāti, ‘ayaṁ dukkhanirodho’ti yathābhūtaṁ pajānāti, ‘ayaṁ dukkhanirodhagāminī paṭipadā’ti yathābhūtaṁ pajānāti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260707T124050Z" creationid="mjaviem" creationdate="20250823T193043Z">
@@ -5935,6 +6319,22 @@ de ahí que escudriña con el saber.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260816T201719Z" creationid="mjaviem" creationdate="20250922T194052Z">
         <seg>‘Pues no sólo para mí es (posible) la división y privación de todo lo que es apreciado y grato, pues, sino que para todos los sujetos, cualquiera sea su venida, trayecto, ocaso, advenimiento, es (posible) la división y privación de todo lo que es apreciado y grato’.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>‘Nappajānāti nappajānātī’ti kho, āvuso, tasmā duppaññoti vuccatī”ti.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>"No discierne, no discierne", amigos, por ello se llama de saber equivocado».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>‘Pajānāti pajānātī’ti kho, āvuso, tasmā paññavāti vuccatī”ti.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>"Discierne, discierne", amigos, por ello se llama tiene sabiduría».</seg>
       </tuv>
     </tu>
     <tu>
@@ -6162,6 +6562,22 @@ upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ 
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>“Avijjānīvaraṇānaṁ kho, āvuso, sattānaṁ taṇhāsaṁyojanānaṁ tatratatrābhinandanā— evaṁ āyatiṁ punabbhavābhinibbatti hotī”ti.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>«De los sujetos con obstrucciones de desconocimiento, pues, amigos, con enlaces de ganas, aprobando [allí y allá]: así es en el porvenir la [irrupción] del [re-devenir]».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Avijjāvirāgā kho, āvuso, vijjuppādā taṇhānirodhā— evaṁ āyatiṁ punabbhavābhinibbatti na hotī”ti.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>«Con la desafición del desconocimiento, pues, amigos, con el irrumpir del conocimiento, con la clausura de las ganas: así no es en el porvenir la [irrupción] del [re-devenir]».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>“Ayameva kho, āvuso, ariyo aṭṭhaṅgiko maggo, etassa sakkāyassa pariññāya, seyyathidaṁ— sammādiṭṭhi …pe… sammāsamādhi.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260724T192233Z">
@@ -6251,6 +6667,14 @@ upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ 
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>“Cattāro kho, āvuso, paccayā adukkhamasukhāya cetovimuttiyā samāpattiyā.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>«Cuatro son, pues, amigos, los requisitos para la consumación de la liberación por el ánimo ni satisfacción ni dificultad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>“Cattārome, bhikkhave, dhammā bhāvitā bahulīkatā sotāpattiphalasacchikiriyāya saṁvattanti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260831T182441Z" creationid="mjaviem" creationdate="20250823T132222Z">
@@ -6287,6 +6711,30 @@ upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ 
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260711T223542Z" creationid="mjaviem" creationdate="20260206T141212Z">
         <seg>Kaccāna, de hecho este mundo, mayormente, está asentado en dos: el 'hay' y el 'no lo hay'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Dve kho, āvuso, paccayā animittāya cetovimuttiyā samāpattiyā— sabbanimittānañca amanasikāro, animittāya ca dhātuyā manasikāro.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>«Dos son, pues, amigos, los requisitos para la consumación de la liberación por el ánimo sin rasgo: el no prestar atención a todos los rasgos y el prestar atención al [elemento] sin rasgo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Dve kho, āvuso, paccayā animittāya cetovimuttiyā vuṭṭhānāya— sabbanimittānañca manasikāro, animittāya ca dhātuyā amanasikāro.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>«Dos son, pues, amigos, los requisitos para [la salida] de la liberación por el ánimo sin rasgo: el prestar atención a todos los rasgos y el no prestar atención al [elemento] sin rasgo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Dve kho, āvuso, paccayā sammādiṭṭhiyā uppādāya— parato ca ghoso, yoniso ca manasikāro.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>«Dos, pues, amigos, son los requisitos para un irrumpir de la manera de ver cabal: y [la voz de otro], y el prestar cuidadosa atención.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6363,10 +6811,34 @@ upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ 
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>“Idhāvuso, bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati— idaṁ vuccati, āvuso, paṭhamaṁ jhānan”ti.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>«Aquí, amigos, el Bhikkhu, apartado del sensualismo, apartado de las bases que no hacen bien, con consideración, con deliberación, mora alcanzando el [primer] [jhāna], el júbilo y la satisfacción nacidos de apartarse: esto se llama, amigos, el [primer] [jhāna]».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Idāneva kho mayaṁ, āvuso, āyasmato sāriputtassa bhāsitaṁ evaṁ ājānāma: ‘āyu usmaṁ paṭicca tiṭṭhatī’ti.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>«[Justo ahora], pues, así comprendemos del Venerable Sāriputta lo hablado: la vitalidad se queda supeditándose al [calor].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>“Imassa khvāhaṁ, bhante, bhagavatā saṅkhittena bhāsitassa vitthārena atthaṁ ājānāmi:</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260815T235753Z" creationid="mjaviem" creationdate="20260203T154331Z">
         <seg>"Desde luego, bhante, comprendo extensamente la finalidad de lo hablado concisamente así por el Dichoso:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Katamaṁ panāvuso, paṭhamaṁ jhānan”ti?</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>«¿Cuál, amigos, es el [primer] [jhāna]?»</seg>
       </tuv>
     </tu>
     <tu>
@@ -6391,6 +6863,78 @@ upāsakaṁ maṁ bhavaṁ gotamo dhāretu ajjatagge pāṇupetaṁ saraṇaṁ 
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260724T191644Z">
         <seg>«Mas, amigo, ¿qué camino, qué dedicación, para la comprensión plena de este cuerpo del ser?»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Kathaṁ panāvuso, āyatiṁ punabbhavābhinibbatti hotī”ti?</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>«¿Cómo es, amigos, en el porvenir la [irrupción] del [re-devenir]?»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Kathaṁ panāvuso, āyatiṁ punabbhavābhinibbatti na hotī”ti?</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>«¿Cómo no es, amigos, en el porvenir la [irrupción] del [re-devenir]?»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Kati panāvuso, bhavā”ti?</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>«¿Cuántos devenires hay, amigos?»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Kati panāvuso, paccayā adukkhamasukhāya cetovimuttiyā samāpattiyā”ti?</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>«¿Cuántos, amigos, requisitos hay para la consumación de la liberación por el ánimo ni satisfacción ni dificultad?»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Kati panāvuso, paccayā animittāya cetovimuttiyā samāpattiyā”ti?</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>«¿Cuántos, amigos, requisitos hay para la consumación de la liberación por el ánimo sin rasgo?»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Kati panāvuso, paccayā animittāya cetovimuttiyā vuṭṭhānāyā”ti?</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>«¿Cuántos, amigos, requisitos hay para [la salida] de la liberación por el ánimo sin rasgo?»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Kati panāvuso, paccayā animittāya cetovimuttiyā ṭhitiyā”ti?</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>«¿Cuántos, amigos, requisitos hay para la permanencia de la liberación por el ánimo sin rasgo?»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Kati panāvuso, paccayā sammādiṭṭhiyā uppādāyā”ti?</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>«¿Cuántos, amigos, requisitos hay para un irrumpir de la manera de ver cabal?»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Katihi panāvuso, aṅgehi anuggahitā sammādiṭṭhi cetovimuttiphalā ca hoti cetovimuttiphalānisaṁsā ca, paññāvimuttiphalā ca hoti paññāvimuttiphalānisaṁsā cā”ti?</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>«¿Por cuántos [factores] respaldada, amigos, la manera de ver cabal es fruto de la liberación por el ánimo, y es ventajas del fruto de la liberación por el ánimo; es fruto de la liberación con la sabiduría, y es ventajas del fruto de la liberación con la sabiduría?»</seg>
       </tuv>
     </tu>
     <tu>
@@ -6485,6 +7029,14 @@ kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>“Na kho, āvuso, teva āyusaṅkhārā te vedaniyā dhammā.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>«No, amigos, esas mismas constituciones de vitalidad no son esas bases [sentibles].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>“Naciraṁ, āvuso”ti.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250917T161754Z" creationid="mjaviem" creationdate="20250917T161754Z">
@@ -6505,6 +7057,38 @@ kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20250919T200118Z" creationid="mjaviem" creationdate="20250919T195626Z">
         <seg>"Bhikkhus, estos nueve individuos se encuentran presentes en el mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Neyyaṁ kho, āvuso, dhammaṁ paññācakkhunā pajānātī”ti.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>«Las bases [el objeto], pues, amigos, se disciernen con el ojo del saber».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Neyyaṁ panāvuso, dhammaṁ kena pajānātī”ti?</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>«Las bases [el objeto], amigos, ¿con qué se disciernen?»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Nissaṭṭhena hāvuso, pañcahi indriyehi parisuddhena manoviññāṇena kiṁ neyyan”ti?</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>«Con la distinción de la mente pura, [libre] de las cinco facultades sensoriales, amigos, ¿qué es [el objeto]?»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Nissaṭṭhena, āvuso, pañcahi indriyehi parisuddhena manoviññāṇena ‘ananto ākāso’ti ākāsānañcāyatanaṁ neyyaṁ, ‘anantaṁ viññāṇan’ti viññāṇañcāyatanaṁ neyyaṁ, ‘natthi kiñcī’ti ākiñcaññāyatanaṁ neyyan”ti.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>«Con la distinción de la mente pura, [libre] de las cinco facultades sensoriales, amigos, "[el cielo es infinito]", el ámbito de la [infinitud] del cielo es [el objeto], "[las distinciones son infinitas]", el ámbito de la [infinitud] de las distinciones es [el objeto], "[no hay nada]", el ámbito de la [nada] es [el objeto]».</seg>
       </tuv>
     </tu>
     <tu>
@@ -6589,6 +7173,14 @@ kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>“Pañcahi kho, āvuso, aṅgehi anuggahitā sammādiṭṭhi cetovimuttiphalā ca hoti cetovimuttiphalānisaṁsā ca, paññāvimuttiphalā ca hoti paññāvimuttiphalānisaṁsā ca.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>«Por cinco [factores], pues, amigos, respaldada, la manera de ver cabal es fruto de la liberación por el ánimo, y es ventajas del fruto de la liberación por el ánimo; es fruto de la liberación con la sabiduría, y es ventajas del fruto de la liberación con la sabiduría.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>“Pañcahi, bhikkhave, dhammehi samannāgato bhikkhu abhabbo sammāsamādhiṁ upasampajja viharituṁ.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260727T163611Z" creationid="mjaviem" creationdate="20250917T200304Z">
@@ -6641,6 +7233,70 @@ kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260822T162855Z" creationid="mjaviem" creationdate="20250920T162252Z">
         <seg>"Bhikkhus, hay estas cinco situaciones que deben ser repasadas habitualmente por una mujer, por un hombre, por quien vive en hogar o por quien partió.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Pañcimāni, āvuso, indriyāni nānāvisayāni nānāgocarāni, na aññamaññassa gocaravisayaṁ paccanubhonti, seyyathidaṁ— cakkhundriyaṁ, sotindriyaṁ, ghānindriyaṁ, jivhindriyaṁ, kāyindriyaṁ.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>«Cinco son estas facultades sensoriales, amigos: de entornos [diversos], de [pasto] [diverso], que no [experimentan] el [pasto]-entorno [mutuamente], lo siguiente: la facultad del ojo, la facultad del oído, la facultad de la nariz, la facultad de la lengua, la facultad del cuerpo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Pañcimāni, āvuso, indriyāni, seyyathidaṁ— cakkhundriyaṁ, sotindriyaṁ, ghānindriyaṁ, jivhindriyaṁ, kāyindriyaṁ.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>«Cinco son estas facultades sensoriales, amigos, lo siguiente: la facultad del ojo, la facultad del oído, la facultad de la nariz, la facultad de la lengua, la facultad del cuerpo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Paññā kho, āvuso, abhiññatthā pariññatthā pahānatthā”ti.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>«El saber, pues, amigos, es para la finalidad de la toma de conciencia, para la finalidad de la comprensión plena, para la finalidad del abandonar».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Paññā panāvuso, kimatthiyā”ti?</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>«¿De qué finalidad es el saber, amigos?»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Paṭhamaṁ kho, āvuso, jhānaṁ pañcaṅgavippahīnaṁ, pañcaṅgasamannāgataṁ.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>«El [primer] [jhāna], pues, amigos, está privado de cinco [factores] y está dotado de cinco [factores].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Paṭhamaṁ kho, āvuso, jhānaṁ pañcaṅgikaṁ.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>«El [primer] [jhāna], pues, amigos, es de cinco [factores].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Paṭhamaṁ panāvuso, jhānaṁ kataṅgavippahīnaṁ kataṅgasamannāgatan”ti?</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>«¿Y el [primer] [jhāna], amigos, de cuántos [factores] está privado, de cuántos [factores] está dotado?»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Paṭhamaṁ panāvuso, jhānaṁ katiaṅgikan”ti?</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>«¿Y el [primer] [jhāna], amigos, es de cuántos [factores]?»</seg>
       </tuv>
     </tu>
     <tu>
@@ -6757,10 +7413,26 @@ kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>“Sādhāvuso”ti kho āyasmā mahākoṭṭhiko āyasmato sāriputtassa bhāsitaṁ abhinanditvā anumoditvā āyasmantaṁ sāriputtaṁ uttariṁ pañhaṁ apucchi:</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>«¡Bien, amigos!», el Venerable Mahākoṭṭhika, habiendo aprobado y habiendo alabado lo hablado del Venerable Sāriputta, [preguntó] al Venerable Sāriputta una pregunta de más allá:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>“Tasmātiha, bhikkhave, yaṁ kiñci rūpaṁ atītānāgatapaccuppannaṁ ajjhattaṁ vā bahiddhā vā oḷārikaṁ vā sukhumaṁ vā hīnaṁ vā paṇītaṁ vā yaṁ dūre santike vā, sabbaṁ rūpaṁ: ‘netaṁ mama, nesohamasmi, na meso attā’ti evametaṁ yathābhūtaṁ sammappaññāya daṭṭhabbaṁ.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260718T134815Z" creationid="mjaviem" creationdate="20260507T185532Z">
         <seg>"Por lo tanto, bhikkhus, cualesquiera imágenes, pasadas, futuras o presentes; internas o externas; toscas o sutiles; ínfimas o excelsas; lejanas o cercanas, toda imagen debe verse en verdad con el saber cabal como: 'esto no es mío, este no soy yo, esto no es mi propia persona'.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Tayo kho, āvuso, paccayā animittāya cetovimuttiyā ṭhitiyā— sabbanimittānañca amanasikāro, animittāya ca dhātuyā manasikāro, pubbe ca abhisaṅkhāro.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>«Tres son, pues, amigos, los requisitos para la permanencia de la liberación por el ánimo sin rasgo: el no prestar atención a todos los rasgos, el prestar atención al [elemento] sin rasgo y la [preparación] [antes].</seg>
       </tuv>
     </tu>
     <tu>
@@ -6781,6 +7453,14 @@ kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>“Tayome, āvuso, bhavā— kāmabhavo, rūpabhavo, arūpabhavo”ti.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>«Estos tres devenires, amigos: el devenir del sensualismo, el devenir de las imágenes, el devenir de no-imágenes».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>“Taṁ kiṁ maññasi, mālukyaputta, ye te cakkhuviññeyyā rūpā adiṭṭhā adiṭṭhapubbā, na ca passasi, na ca te hoti passeyyanti?</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260718T133538Z" creationid="mjaviem" creationdate="20251230T195359Z">
@@ -6793,6 +7473,22 @@ kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260706T135834Z" creationid="mjaviem" creationdate="20260625T153709Z">
         <seg>"Por cierto, amos de casa, por eso, escuchen, presten atención completamente que voy a hablar."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Tena hāvuso, upamaṁ te karissāmi; upamāyapidhekacce viññū purisā bhāsitassa atthaṁ ājānanti.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>«Por ello, amigos, os [haré] una parábola; por una parábola también aquí algunos hombres entendidos comprenden la finalidad de lo hablado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Teva nu kho, āvuso, āyusaṅkhārā, te vedaniyā dhammā udāhu aññe āyusaṅkhārā aññe vedaniyā dhammā”ti?</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>«¿Y esas constituciones de vitalidad, amigos, son esas bases [sentibles], [o] [otras] son las constituciones de vitalidad y [otras] las bases [sentibles]?»</seg>
       </tuv>
     </tu>
     <tu>
@@ -6829,10 +7525,42 @@ kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>“Usmā panāvuso, kiṁ paṭicca tiṭṭhatī”ti?</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>«¿Y supeditándose a qué, amigos, se queda el [calor]?»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Usmā āyuṁ paṭicca tiṭṭhatī”ti.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>«El [calor] se queda supeditándose a la vitalidad».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>“Vedanā …</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260507T185136Z" creationid="mjaviem" creationdate="20260507T185136Z">
         <seg>Las sensaciones...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Yadā kho, āvuso, imaṁ kāyaṁ tayo dhammā jahanti—āyu usmā ca viññāṇaṁ; athāyaṁ kāyo ujjhito avakkhitto seti, yathā kaṭṭhaṁ acetanan”ti.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>«[Cuando], pues, amigos, tres bases abandonan este cuerpo — la vitalidad, el [calor] y las distinciones —, entonces el cuerpo [arrojado] y [apartado] yace, como un [leño] [insensible]».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Yadā nu kho, āvuso, imaṁ kāyaṁ kati dhammā jahanti; athāyaṁ kāyo ujjhito avakkhitto seti, yathā kaṭṭhaṁ acetanan”ti?</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>«¿[Cuando], pues, amigos, cuántas bases abandonan este cuerpo? Entonces el cuerpo [arrojado] y [apartado] yace, como un [leño] [insensible]».</seg>
       </tuv>
     </tu>
     <tu>
@@ -6909,6 +7637,22 @@ kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>“Yvāyaṁ, āvuso, mato kālaṅkato tassa kāyasaṅkhārā niruddhā paṭippassaddhā, vacīsaṅkhārā niruddhā paṭippassaddhā, cittasaṅkhārā niruddhā paṭippassaddhā, āyu parikkhīṇo, usmā vūpasantā, indriyāni paribhinnāni.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>«Este que murió y [cumplió el tiempo], amigos: sus constituciones del cuerpo están clausuradas y aplacadas, sus constituciones verbales están clausuradas y aplacadas, sus constituciones del ánimo están clausuradas y aplacadas, su vitalidad está consumida totalmente, su [calor] está amainado, sus facultades sensoriales están separadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Yvāyaṁ, āvuso, mato kālaṅkato, yo cāyaṁ bhikkhu saññāvedayitanirodhaṁ samāpanno—imesaṁ kiṁ nānākaraṇan”ti?</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>«Este que murió y [cumplió el tiempo], amigos, y este Bhikkhu que ha emprendido la clausura de concepciones y sensaciones: ¿cuál es la discriminación de estos?»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>“Yā cāvuso, paññā yañca viññāṇaṁ— ime dhammā saṁsaṭṭhā udāhu visaṁsaṭṭhā?</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260718T171026Z" creationid="mjaviem" creationdate="20260718T171026Z">
@@ -6957,6 +7701,22 @@ kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>“Yā cāyaṁ, āvuso, appamāṇā cetovimutti, yā ca ākiñcaññā cetovimutti, yā ca suññatā cetovimutti, yā ca animittā cetovimutti—atthi kho, āvuso, pariyāyo yaṁ pariyāyaṁ āgamma ime dhammā nānātthā ceva nānābyañjanā ca; atthi ca kho, āvuso, pariyāyo yaṁ pariyāyaṁ āgamma ime dhammā ekatthā, byañjanameva nānaṁ.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>«Y esta liberación por el ánimo sin [medida], amigos, y la liberación por el ánimo de [nada], y la liberación por el ánimo de [vacuidad], y la liberación por el ánimo sin rasgo: hay, pues, amigos, un [modo] del cual, [accediendo] a ese [modo], estas bases son de finalidad [diversa] y de [denominación] [diversa]; y también hay, amigos, un [modo] del cual, [accediendo] a ese [modo], estas bases son de una sola finalidad, solo la [denominación] es [diversa].</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Yā cāyaṁ, āvuso, appamāṇā cetovimutti, yā ca ākiñcaññā cetovimutti, yā ca suññatā cetovimutti, yā ca animittā cetovimutti—ime dhammā nānātthā ceva nānābyañjanā ca udāhu ekatthā byañjanameva nānan”ti?</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>«¿Y esta liberación por el ánimo sin [medida], amigos, y la liberación por el ánimo de [nada], y la liberación por el ánimo de [vacuidad], y la liberación por el ánimo sin rasgo: ¿estas bases son de finalidad [diversa] y de [denominación] [diversa], [o] de una sola finalidad, solo la [denominación] es [diversa]?»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>“atthi nu kho, bhante, kiñci rūpaṁ, yaṁ rūpaṁ niccaṁ dhuvaṁ sassataṁ avipariṇāmadhammaṁ sassatisamaṁ tatheva ṭhassati?</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260812T014116Z" creationid="mjaviem" creationdate="20250826T233048Z">
@@ -6997,6 +7757,30 @@ kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ.</seg>
     </tu>
     <tu>
       <tuv lang="pi">
+        <seg>“Āyu panāvuso, kiṁ paṭicca tiṭṭhatī”ti?</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>«¿Y supeditándose a qué, amigos, se queda la vitalidad?»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“Āyu usmaṁ paṭicca tiṭṭhatī”ti.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>«La vitalidad se queda supeditándose al [calor]».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“‘Duppañño duppañño’ti, āvuso, vuccati.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>«"De saber equivocado, de saber equivocado", amigos, se llama.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
         <seg>“‘Loko, loko’ti, bhante, vuccati.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260725T023254Z">
@@ -7009,6 +7793,30 @@ kāmavitakkaṁ, byāpādavitakkaṁ, vihiṁsāvitakkaṁ.</seg>
       </tuv>
       <tuv lang="es-AR" changeid="mjaviem" changedate="20260725T023930Z">
         <seg>«Pues "se deshace", bhikkhu, por ello se llama mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“‘Nappajānāti nappajānātī’ti kho, āvuso, tasmā duppaññoti vuccati.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>«"No discierne, no discierne", amigos, por ello se llama de saber equivocado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“‘Pajānāti pajānātī’ti kho, āvuso, tasmā paññavāti vuccati.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>«"Discierne, discierne", amigos, por ello se llama tiene sabiduría.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="pi">
+        <seg>“‘Paññavā paññavā’ti, āvuso, vuccati.</seg>
+      </tuv>
+      <tuv lang="es-AR">
+        <seg>«"Tiene sabiduría, tiene sabiduría", amigos, se llama.</seg>
       </tuv>
     </tu>
     <tu>
