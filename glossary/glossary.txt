@@ -340,7 +340,6 @@ hata	apalear
 hāyati	disminuye
 hāyatiyeva	disminuye
 hetaṁ	ciertamente
-hetu	razón
 hi	por cierto
 hidaṁ	realmente
 hīnaṁ	ínfimas
@@ -1016,3 +1015,4 @@ sāyanhasamayaṁ	al atardecer
 adinnādānā	tomar lo que no se ha dado
 dinnaṁ	lo que se ha dado
 anapadesaṁ	sin referencias
+hetu	causa
