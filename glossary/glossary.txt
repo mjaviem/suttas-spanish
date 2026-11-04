@@ -73,7 +73,6 @@ anabhinanditvā	sin aprobar
 anabhirati	descontento
 anāgāmī	el no llegado
 anaññathāni	inequívocas
-anapadesaṁ	sin razón
 anāsavā	sin secreciones
 anatīto	no exento
 anattā	no uno mismo, no la propia persona
@@ -1016,3 +1015,4 @@ asubha	feo
 sāyanhasamayaṁ	al atardecer
 adinnādānā	tomar lo que no se ha dado
 dinnaṁ	lo que se ha dado
+anapadesaṁ	sin referencias
