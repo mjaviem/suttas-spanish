@@ -42,7 +42,6 @@ adhiṭṭhānaṁ	supuesto
 ādīnavañca	inconveniente
 ādīnavato	inconveniente
 ādīnavo	inconveniente
-adinnādānā	tomar lo que no es dado
 adukkhamasukhampi	ni satisfacción ni dificultad
 agāraṁ	casa
 āgati	venida
@@ -286,7 +285,6 @@ dhāretu	tenga por
 dharo	quien retiene
 dhātā	recordadas
 dhuvaṁ	continua
-dinnaṁ	lo dado
 disā	dirección
 diṭṭhe	visto
 diṭṭheva	lo visto
@@ -1016,3 +1014,5 @@ amata	sin muerte
 pariyosāna	culminación
 asubha	feo
 sāyanhasamayaṁ	al atardecer
+adinnādānā	tomar lo que no se ha dado
+dinnaṁ	lo que se ha dado
